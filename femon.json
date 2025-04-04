@@ -2,39 +2,39 @@
    
 
     {
-    "name": "⚽TIGO SPORTS SOLO EVENTOS",
+    "name": "🔵​🟡​TIGO SPORTS SOLO EVENTOS🟡🔵​",
     "samples": [
 
        {
-        "name": "EVENTOS INTERMEDIAS",
+        "name": "EVENTOS INTERMEDIA",
         "url": "https://live.enhdtv.com:8081/8026/index.m3u8",
-        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
+        "icono": "https://i.postimg.cc/hPNyMG8m/APF-INTERMEDIA.jpg"
     },
        {
-        "name": "EVENTOS1 TIGO FULL HD",
+        "name": "TIGO 1 EVENTOS",
         "url": "https://sam-py-edge04.tigo.com.py/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
-        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
+        "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg"
     },
     {
-        "name": "EVENTOS 2 TIGO FULL HD",
+        "name": "TIGO 2 EVENTOS",
         "url": "https://sam-py-edge04.tigo.com.py/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/wbw3yya7vk1f3ivn650ug/tigo4.txt?rlkey=ozbktawdgz3ir2ydtm4qez3om&st=8nrn8w9m&dl=0",
-        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
+        "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg"
     },
     {
-        "name": "EVENTOS 3 PLAY TV PY HD",
+        "name": "TIGO 3 EVENTOS",
         "url": "https://d2slu3qf332d0d.cloudfront.net/out/v1/4ca8d5dff4d44fff8e9201692dbc3d5d/index.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/kg654aptb3wmdvhw1e06i/tigo3.json?rlkey=lz1ve7n2e77c4xylazzpn4qgz&st=vef4p50k&dl=0",
-        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
+        "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg"
     }
        ]
   },
  {
-    "name": "CANALES DE PARAGUAY",
+    "name": "🇵🇾​ CANALES DE PARAGUAY",
     "samples": [
 
     {
@@ -353,7 +353,7 @@
 },
 
        	 {
-    "name": "DEPORTES ESPN",
+    "name": "⚽ DEPORTES ESPN",
     "samples": [
    {
         "name": "ESPN",
@@ -505,7 +505,7 @@
 },
 
        	 {
-    "name": "DEPORTES FOX SPORTS",
+    "name": "⚽ DEPORTES FOX SPORTS",
     "samples": [
 {
         "name": "FOX SPORTS",
@@ -658,7 +658,7 @@
        ]
   },
       	 {
-    "name": "⚽ DISNEY +",
+    "name": "⚽ DISNEY+ EVENTOS",
     "samples": [
     {
         "name": "DISNEY+ 1",
@@ -822,7 +822,7 @@
        ]
   },
       	 {
-    "name": "⚽ DEPORTES BRASIL",
+    "name": "⚽ DEPORTES BRASIL 🇧🇷​",
     "samples": [
     {
         "name": "CAZÉTV EVENTOS",
@@ -1374,7 +1374,7 @@
     "name": "🎥PACK-HBO",
     "samples": [
       {
-            "name": "HBO FLOW",
+            "name": "HBO",
             "url": "https://cdn.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc_C/HBOHD.mpd",
             "type": "CLEARKEY",
             "drm_license_uri": "https://dl.dropbox.com/scl/fi/5pp0316dn5w6kgdzk25jl/hbo1.json?rlkey=zm0ucfozhh5ywnvkukhhuzf77&st=27jzsgmu&dl=0",
@@ -1386,7 +1386,7 @@
             }
         },
         {
-            "name": "HBO 2 FLOW",
+            "name": "HBO 2",
             "url": "https://cdn.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_enc_C/HBO_2.mpd",
             "type": "CLEARKEY",
             "drm_license_uri": "https://dl.dropbox.com/scl/fi/8qz7g0yfn1qim2vr2358b/hbo2.json?rlkey=wmxlc9q1ion3s3uleyo913ns1&st=4f36f0ou&dl=0",
