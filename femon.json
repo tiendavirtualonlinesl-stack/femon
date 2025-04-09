@@ -2522,23 +2522,6 @@
     }
    ]
             },
-	    {
-		    "name": "GRAN HERMANO ARGENTINA",
-    "samples": [
-	{
-        "name": "GRAN HERMANO",
-        "url": "http://144.22.35.157/dtv1/video.m3u8",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5c86e237317c2231ac1bc130e995fad6&key=dcacf7b239ee03df3c69ca11dbcde4eb",
-        "icono": "https://i.ibb.co/tq4M9Pk/granhermano.png"
-   ,
-          "headers": {
-        "Origin": "https://portal.app.flow.com.ar",
-        "Referer": "https://portal.app.flow.com.ar/",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-  }
-]
-},
 	{
     "name": "🇵🇪CANALES DE PERÙ",
     "samples": [
