@@ -340,14 +340,6 @@
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
         "icono": "https://i.ibb.co/KhR0pjB/Farra-Play-TV-en-vivo.jpg"
-	    
-    },
-    {
-        "name": "ALBERDI CANAL 5",
-        "url": "http://181.78.27.128:8000/play/a05p/index.m3u8",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
-        "icono": "https://i.postimg.cc/MTwCLz0S/Whats-App-Image-2025-04-09-at-17-45-28.jpg"
     },
     {
         "name": "SOMOS DEL ESTE TV",
@@ -2391,7 +2383,7 @@
     },
 	    {
         "name": "TV PUBLICA",
-        "url": "https://edge-mix02-mun.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd",
+        "url": "https://edge-live16-hr.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_C/Canal7.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cc8c82ac2ec7e9799527c29db7354e81&key=cc4aae173dd2ef17ae26be3f7ae87662",
         "icono": "https://i.ibb.co/6cvkTygb/Televisi-n-P-blica-Argentina-2021.png",
@@ -2504,7 +2496,6 @@
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-	       
       }
     },
     {
@@ -2522,7 +2513,7 @@
     }
    ]
             },
-	{
+	    {
     "name": "🇵🇪CANALES DE PERÙ",
     "samples": [
          {
