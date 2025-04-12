@@ -1520,7 +1520,7 @@
       	 {
     "name": "🎬CANALES DE NOVELAS",
     "samples": [
-    {
+         {
         "name": "RCN +",
         "url": "https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8",
         "type": "CLEARKEY",
@@ -1533,7 +1533,7 @@
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
         "icono": "https://i.ibb.co/TVFBq72/turcas-logo-3203466-C6-C-seeklogo-com.png"
-},
+    },
 {
         "name": "TLN",
         "url": "http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
@@ -1557,7 +1557,7 @@
     }
     },
 	     {
-       "name": "TELEMUNDO",
+        "name": "TELEMUNDO",
         "url": "http://magmaplayer.com/stream/m3u8/BQx0Kmt4BS8kAQthZwD2YwR4ZP40A18kAmDmZGp/hls/888.m3u8",
         "icono": "https://i.ibb.co/WvNvtgwz/Telemundo-logo-2018-svg.png"
         ,
