@@ -1557,7 +1557,7 @@
     }
     },
 	     {
-        "name": "TELEMUNDO",
+       "name": "TELEMUNDO",
         "url": "http://magmaplayer.com/stream/m3u8/BQx0Kmt4BS8kAQthZwD2YwR4ZP40A18kAmDmZGp/hls/888.m3u8",
         "icono": "https://i.ibb.co/WvNvtgwz/Telemundo-logo-2018-svg.png"
         ,
@@ -1567,22 +1567,13 @@
         "X-Version": "8/1.0.7",
         "User-Agent": "Magma Player/8",
         "Accept-Encoding": "gzip",
-      }
-    },
-        "name": "CANAL DE LAS ESTRELLAS",
-        "url": "https://chromecast.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_enc_2A/Canal_de_las_estrellas.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b37d85be9d2b4b619f945beff713fda3:917309c98f072b0bd484dd6560c6d166",
-        "icono":"https://web.app.flow.com.ar/theme/flow/logo.svg"
-   ,
-          "headers": {
-        "Origin": "https://portal.app.flow.com.ar",
-        "Referer": "https://portal.app.flow.com.ar/",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-      }
+        
+        "Connection": "Keep-Alive"
     }
-   ]
-            },
+    }
+        ]
+},
+{
 	    {  "name": "🐢CULTURA",
   "samples": [
     {
