@@ -1535,13 +1535,6 @@
         "icono": "https://i.ibb.co/TVFBq72/turcas-logo-3203466-C6-C-seeklogo-com.png"
 },
 {
-        "name": "CANAL DE LAS ESTRELLAS",
-        "url": "https://chromecast.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_enc_2A/Canal_de_las_estrellas.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b37d85be9d2b4b619f945beff713fda3:917309c98f072b0bd484dd6560c6d166",
-        "icono":"https://web.app.flow.com.ar/theme/flow/logo.svg"
-},
-{
         "name": "TLN",
         "url": "http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
         "type": "CLEARKEY",
@@ -1574,14 +1567,23 @@
         "X-Version": "8/1.0.7",
         "User-Agent": "Magma Player/8",
         "Accept-Encoding": "gzip",
-        
-        "Connection": "Keep-Alive"
+      }
+    },
+        "name": "CANAL DE LAS ESTRELLAS",
+        "url": "https://chromecast.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_enc_2A/Canal_de_las_estrellas.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b37d85be9d2b4b619f945beff713fda3:917309c98f072b0bd484dd6560c6d166",
+        "icono":"https://web.app.flow.com.ar/theme/flow/logo.svg"
+   ,
+          "headers": {
+        "Origin": "https://portal.app.flow.com.ar",
+        "Referer": "https://portal.app.flow.com.ar/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+      }
     }
-    }
-        ]
-},
-{
-  "name": "🐢CULTURA",
+   ]
+            },
+	    {  "name": "🐢CULTURA",
   "samples": [
     {
       "name": "ANIMAL PLANET",
