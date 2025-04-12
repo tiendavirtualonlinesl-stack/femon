@@ -1520,7 +1520,7 @@
       	 {
     "name": "🎬CANALES DE NOVELAS",
     "samples": [
-         {
+    {
         "name": "RCN +",
         "url": "https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8",
         "type": "CLEARKEY",
@@ -1574,7 +1574,7 @@
         ]
 },
 {
-	    {  "name": "🐢CULTURA",
+  "name": "🐢CULTURA",
   "samples": [
     {
       "name": "ANIMAL PLANET",
