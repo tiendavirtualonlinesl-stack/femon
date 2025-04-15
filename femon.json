@@ -697,7 +697,7 @@
     },
     {
         "name": "DAZN 3",
-        "url": http://home-playtv.com:8080/RayGL63501/jqDzGNAQ2Z/199537",
+        "url": "http://home-playtv.com:8080/RayGL63501/jqDzGNAQ2Z/199537",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bad8efff688c0dbb3711e4a7114c22a3&key=6ba800673b20776c0c850130d45e1920",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9TSJe2eq5BVR4iTiqiPimKvFk0vztXF9PcbaLhYfG&s"
