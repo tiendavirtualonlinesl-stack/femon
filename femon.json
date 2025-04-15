@@ -1441,6 +1441,15 @@
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
         "icono": "https://i.ibb.co/TVFBq72/turcas-logo-3203466-C6-C-seeklogo-com.png"
     },
+    {
+        "name": "CANAL DE LAS ESTRELLAS",
+        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
+        "icono": "https://i.postimg.cc/j2G29txj/Las-Estrellas-logo-2016.jpg"
+    },
+{
+    },
 {
         "name": "TLN",
         "url": "http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
