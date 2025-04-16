@@ -1443,7 +1443,7 @@
     },
     {
         "name": "CANAL DE LAS ESTRELLAS",
-        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8",
+        "url": "http://170.39.192.130:2095/56962725726playtv2/090824play/100156",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
         "icono": "https://i.postimg.cc/j2G29txj/Las-Estrellas-logo-2016.jpg"
