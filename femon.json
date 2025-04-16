@@ -2853,5 +2853,30 @@
     "url": "http://103.211.103.30:8880/DAALM2905/uRLWfdBcxr/49723"
 	    }
 ]
-	}
-]
+},
+{
+  "name": "PELICULAS TAQUILLERAS",
+  "icono": "https://i.postimg.cc/TPXX0ZzX/images.jpg",
+  "peliculas": [
+    {
+      "titulo": "El robo del siglo (2020)",
+      "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fTgErr8Kqht7q4QpnAoQPSYJ7ms.jpg"
+      "url": "http://103.211.103.30:8880/movie/DAALM2905/uRLWfdBcxr/75746.mp4"
+    },
+    {
+      "titulo": "La guerra del planeta de los simios - 2017",
+      "icono" : "http://mu03.wanicelife.com:8880/images/44afc2e36a7291fea274ab5375ff0494.jpg"    
+      "url" : "http://103.211.103.30:8880/movie/DAALM2905/uRLWfdBcxr/61663.mp4"
+    },
+    {
+      "titulo": "Pelé, el nacimiento de una leyenda - 2016",
+      "icono": "http://mu03.wanicelife.com:8880/images/9c989581c168bc214e2b8b7672630b49.jpg"
+      "url": "http://103.211.103.30:8880/movie/DAALM2905/uRLWfdBcxr/61707.mp4"
+    },
+    {
+      "titulo": "La hija de un ladrón - 2019",
+      "icono": "http://mu03.wanicelife.com:8880/images/fba478f929692a53a69e6ab6006d294a.jpg"
+      "url": "http://103.211.103.30:8880/movie/DAALM2905/uRLWfdBcxr/61664.mp4"
+    }
+  ]
+}
