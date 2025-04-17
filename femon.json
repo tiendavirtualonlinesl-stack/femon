@@ -2691,7 +2691,7 @@
     ]
 	},
 	{
-    "name": "🇪🇨CANALES DE ECUADOR",
+    "name": "🇪🇨CANALES DE ECUADOR","name": "🇪🇨canals of Ecuador",
     "samples": [
        
 	    {
@@ -2764,7 +2764,18 @@
     ]
 	},
 	{
-    "name": "🇧🇴CANALES DE BOLIVIA",
+    "name": "🇪🇨CANALES DE MEXICO 🌮",
+    "samples": [
+       
+	    {
+    "name": "Distrito Comedia",
+    "icono": "https://i.postimg.cc/MGdMb9Y7/Distrito-Comedia-LOGO2018.png",
+    "url": "http://103.211.103.30:8880/DAALM2905/uRLWfdBcxr/5139"
+	    }
+    ]
+  },
+	{
+    "name": "🇧🇴CANALES DE BOLIVIA ",
     "samples": [
 	{
       "name": "BOLIVIA TV",
