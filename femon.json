@@ -20,7 +20,7 @@
 
                     "Origin": "https://www.tigosports.com.py",
                     "Referer": "https://www.tigosports.com.py/",
-                    "User-Agent": "FireFox"
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             }, {
                 "name": "TIGO 3 EVENTOS",
@@ -1205,7 +1205,7 @@
                 "url": "https://chromecast.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_enc_2A_wl/Canal_de_las_estrellas.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b37d85be9d2b4b619f945beff713fda3&key=917309c98f072b0bd484dd6560c6d166",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Las_estrellas_2017.jpg/800px-Las_estrellas_2017.jpg",
 
                 "headers": {
                     "Origin": "https://portal.app.flow.com.ar",
@@ -1270,7 +1270,7 @@
                 "name": "EL GOURMET",
                 "url": "https://chromecast.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc_wl/Gourmet.mpd",
                 "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=93d85ac4c8e24cf0295f6f97ee53bd3d&key=fa5817fab4fb054ccea1abb9f3d767ed",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=93d853ac4c8e24cf0295f6f97ee53bd3&key=fa5817fab4fb054ccea1abb9f3d767ed",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.ar",
@@ -1281,8 +1281,8 @@
                 "name": "FOOD NETWORK",
                 "url": "https://chromecast.cvattv.com.ar/live/c6eds/Food_Network/SA_Live_dash_enc_wl/Food_Network.mpd",
                 "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6ca0fbad21a0e908c0280dcc27e6ee0e&key=62670eebdafd9360b4ecead7382e6cd",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/e/f9/Food_Network_New_Logo.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6ca0fbad21a0e908c0280dcc27e6ee0e&key=62670eedbafdf9360b4ecaed738e26cd",
+                "icono": "https://logowik.com/content/uploads/images/868_foodnetwork.jpg",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.ar",
                     "Referer": "https://portal.app.flow.com.ar/",
@@ -1293,7 +1293,7 @@
                 "url": "https://amg00047-tastemade-amg00047c6-plex-us-2274.playouts.now.amagi.tv/tm-es16us-xumo/playlist.m3u8",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dfde9d35d7438bfd61da5dfac0557c1c&key=acb13370c03a7254e2bb9cc9d2125017",
-      "icono": "https://image.roku.com/developer_channels/prod/91088d4b3c1a303cc502163c88e08ad7734832f3fc9c07a3fc9b532237a378e935.png"
+      "icono": "https://images.squarespace-cdn.com/content/v1/5bca2c44e66669782ad17f48/105a2b78-17e3-41e1-813a-b7fe30b86d11/image-asset.png"
     }
   ]
 },
