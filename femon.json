@@ -2647,7 +2647,7 @@
 
     {
         "name": "CANAL 4 UY",
-        "url": "https://chromecast.cdn.cvattv.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_enc_wl/Canal4_URU.mpd",
+        "url": "https://chromecast.cvattv.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_enc_wl/Canal4_URU.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dabefaac89742589778fcfab78f08354&key=896dd914683b01c8044ffd34d7b6416b",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png",
@@ -2662,7 +2662,7 @@
   
     {
         "name": "CANAL 10",
-        "url": "https://chromecast.cdn.cvattv.com.ar/live/c4eds/Canal10_URU/SA_Live_dash_enc_wl/Canal10_URU.mpd",
+        "url": "https://chromecast.cvattv.com.ar/live/c4eds/Canal10_URU/SA_Live_dash_enc_wl/Canal10_URU.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8dd34782d754f8fcb1e8b38da9ffad0b&key=6fb97467c0f0ea13f86d41a70e029c51",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Canal_10_Uruguay_Logo_1960.webp/640px-Canal_10_Uruguay_Logo_1960.webp.png",
@@ -2678,7 +2678,7 @@
 
     {
         "name": "VTV",
-        "url": "https://chromecast.cdn.cvattv.com.ar/live/c3eds/VTV_HD/SA_Live_dash_enc_wl/VTV_HD.mpd",
+        "url": "https://chromecast.cvattv.com.ar/live/c3eds/VTV_HD/SA_Live_dash_enc_wl/VTV_HD.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b96960aa715a4e51b7e952e81c99ac8e&key=5bbffc680764dbd63d90b774b3aa0c0a",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png",
@@ -2693,7 +2693,7 @@
    
     {
         "name": "VTV PLUS",
-        "url": "https://chromecast.cdn.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc_wl/VTV_Plus_HD.mpd",
+        "url": "https://chromecast.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc_wl/VTV_Plus_HD.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=da8a49a594160cc0059f07b9f71cd39a&key=37ca91dd799b351a02445151c7f61070",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo_VTV_Plus_nuevo.png/1100px-Logo_VTV_Plus_nuevo.png",
