@@ -18,11 +18,17 @@
         "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg"
     },
     {
-        "name": "TIGO 2 EVENTOS",
-        "url": "https://sam-py-edge05.tigo.com.py/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
+                    "name": "TIGO 2 EVENTOS",
+        "url": "https://sam-py-edge05.tigo.com.py/ccur-session/01_3508407031/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/wbw3yya7vk1f3ivn650ug/tigo4.txt?rlkey=ozbktawdgz3ir2ydtm4qez3om&st=8nrn8w9m&dl=0",
         "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg",
+    "headers": {
+
+			    "Origin": "https://www.tigosports.com.py",
+			    "Referer": "https://www.tigosports.com.py/",
+	    "User-Agent": "FireFox"
+		    }
     },
     {
         "name": "TIGO 3 EVENTOS",
@@ -1437,7 +1443,7 @@
     },
     {
         "name": "CANAL DE LAS ESTRELLAS",
-        "url": "http://170.39.192.130:2095/56962725726playtv2/090824play/100156",
+        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
         "icono": "https://i.postimg.cc/j2G29txj/Las-Estrellas-logo-2016.jpg"
@@ -2758,18 +2764,7 @@
     ]
 	},
 	{
-    "name": "🇲🇽CANALES DE MEXICO 🌮",
-    "samples": [
-       
-	    {
-    "name": "Distrito Comedia",
-    "icono": "https://i.postimg.cc/MGdMb9Y7/Distrito-Comedia-LOGO2018.png",
-    "url": "http://103.211.103.30:8880/DAALM2905/uRLWfdBcxr/51399"
-	    }
-    ]
-  },
-	{
-    "name": "🇧🇴CANALES DE BOLIVIA ",
+    "name": "🇧🇴CANALES DE BOLIVIA",
     "samples": [
 	{
       "name": "BOLIVIA TV",
@@ -2829,7 +2824,7 @@
   {
     "name": "RCN CANAL",
     "icono": "https://i.ibb.co/BVqjFvVp/Logo-RCN-Televisi-n.png",
-    "url": "http://103.211.103.30:8880/DAALM2905/uRLWfdBcxr/51308"
+    "url": "http://190.2.212.209:8050/play/a0lt"
   },
   {
     "name": "RED+",
@@ -2839,8 +2834,7 @@
   {
     "name": "TELECAFE",
     "icono": "https://i.ibb.co/kNQndsm/z18LRqM.png",
-    "url": "http://103.211.103.30:8880/DAALM2905/uRLWfdBcxr/51305"
-
+    "url": "http://190.2.212.209:8050/play/a0ne"
   },
   {
     "name": "CANAL CAPITAL",
@@ -2855,8 +2849,8 @@
   {
     "name": "EL TRECE",
     "icono": "https://i.ibb.co/v6xyk8yY/1662578.png",
-    "url": "http://103.211.103.30:8880/DAALM2905/uRLWfdBcxr/49723"
-	     }
+    "url": "http://190.2.212.209:8050/play/a0nf"
+	    }
 ]
 	}
 ]
