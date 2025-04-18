@@ -2645,21 +2645,18 @@
     "name": "🇺🇾CANALES DE URUGUAY",
     "samples": [
 	    {
-        "name": "CANAL 10",
-        "url": "http://magmaplayer.com/stream/m3u8/AQNmKmt2Ay8kAQthZwD2YwR4ZP40A18kAmDmZGp/hls/866.m3u8",
-        "icono": "https://i.ibb.co/zhDLbxd9/LowlfG2.png"
-        ,
-    "headers": {
-        "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-        "X-Did": "704b97090ad1fb5e",
-        "X-Version": "8/1.0.7",
-        "User-Agent": "Magma Player/8",
-        "Accept-Encoding": "gzip",
-        
-        "Connection": "Keep-Alive"
-    }
+        "name": "CANAL 4",
+        "url": "cdn.cvattv.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_enc_wl/Canal4_URU.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dabefaac89742589778fcfab78f08354&key=896dd914683b01c8044ffd34d7b6416b",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png",
+        "headers": {
+        "Origin": "https://portal.app.flow.com.ar",
+        "Referer": "https://portal.app.flow.com.ar/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+      }
     },
-  {
+    {
     "name": "TV FLORIDA",
     "icono": "https://i.ibb.co/5hT93gX5/ORjoLdw.png",
     "url": "https://stmv1.srvif.com/tv6842/tv6842/playlist.m3u8"
