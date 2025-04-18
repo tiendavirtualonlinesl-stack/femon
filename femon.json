@@ -2646,7 +2646,7 @@
     "samples": [
 
     {
-        "name": "CANAL 4",
+        "name": "CANAL 4 UY",
         "url": "https://chromecast.cdn.cvattv.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_enc_wl/Canal4_URU.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dabefaac89742589778fcfab78f08354&key=896dd914683b01c8044ffd34d7b6416b",
