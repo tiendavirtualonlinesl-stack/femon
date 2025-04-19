@@ -549,11 +549,11 @@
         "name": "⚽ DEPORTES DIRECTV SPORTS",
         "samples": [{
                 "name": "DIRECTV SPORTS 1",
-                "url": "https://doc.crackstreamslivehd.com/global/dsports/index.m3u8?token=1719bf6013d337642d660077ca09a8966111fa0c-47-1745006063-1744973663&amp;ip=131.100.185.225",
+                "url": "http://170.39.192.130:2095/56933873069play/270124play/315180",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png"
             }, {
                 "name": "DIRECTV SPORTS 2",
-                "url": "https://london.crackstreamslivehd.com/dsports/tracks-v1a1/mono.m3u8?ip=131.100.185.225&token=1719bf6013d337642d660077ca09a8966111fa0c-47-1745006063-1744973663",
+                "url": "http://170.39.192.130:2095/56933873069play/270124play/315178",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png"
             }
         ]
