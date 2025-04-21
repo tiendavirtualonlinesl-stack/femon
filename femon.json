@@ -1525,15 +1525,14 @@
                 "headers": {
                     "Origin": "https://portal.app.flow.com.ar",
                     "Referer": "https://portal.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"                }
             },
             {
-                "name": "HGTV",
-                "url": "https://chromecast.cvattv.com.ar/live/c4eds/Eventos3_UY/SA_Live_dash_enc_2A_wl/Eventos3_UY.mpd",
+                "name": "GARAGE TV",
+                "url": "https://chromecast.cvattv.com.ar/live/c6eds/El_Garage/SA_Live_dash_enc_wl/El_Garage.mpd",
                 "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f774b06a300783596f27b552226de9c0&key=4d6256b28b487bcf906bcf0328635747",
-                "icono": "https://i.ibb.co/rQVYsy9/R-1.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=03d1dfb8df034d8b81e57753df00a36d&key=08d83660db4a73bb1d61d60b09df5f4d",
+                "icono": "https://elgarage.com/wp-content/uploads/2021/04/elgaragetv_WEB.png",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.ar",
                     "Referer": "https://portal.app.flow.com.ar/",
@@ -2315,6 +2314,146 @@
         ]
     },
     {
+        "name": "​🇦🇷​CANALES DE ARGENTINA",
+        "samples": [{
+               "name": "ARGENTINISIMA",
+                "url": "https://chromecast.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc_wl/Argentinisima.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a6243f46366445ebbf3117ec27365481&key=81667cdc3bcf19a6a66c0919fa00a20b",
+                "icono": "https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_2/large.gallery_5617_2_64591.png.37ce989505360788bdf2e959983a6366.png",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            }, {
+                "name": "NET TV",
+                "url": "https://chromecast.cvattv.com.ar/live/c6eds/Net_TV/SA_Live_dash_enc_wl/Net_TV.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=89d433166edd31d56df2a59df8ec6704&key=81667cdc3bcf19a6a66c0919fa00a20b",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/1200px-Net_TV_logo.png",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            }, {
+                "name": "ENCUENTRO ",
+                "url": "https://chromecast.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc_wl/Encuentro.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ac3ae78beb64478ab390b4ad70e3e0c9&key=c7d669761c3516d852a0edf9e07c9198",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Logo_del_canal_Encuentro.svg",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            }, {
+                "name": "CANAL A",
+                "url": "https://chromecast.cvattv.com.ar/live/c6eds/Canal_a/SA_Live_dash_enc_2A_wl/Canal_a.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=MzI0ZWM3Mzc4Nzc0NDU1NGFlMWFlZjIzMWE0ZjhmOTc=&key=Njc3YTA0MDY3NGQxZDBlY2NlZjMyNzI2OWIyMjJiYWU=",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/3/31/Canal_a.png",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            }, {
+                "name": "TELEMAX",
+                "url": "https://chromecast.cvattv.com.ar/live/c6eds/Telemax/SA_Live_dash_enc_wl/Telemax.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e7ec364ad6854fedad797538cb58780d&key=57dfb3fca2ca35b37ff81c35595e9be8",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            }, {
+                "name": "BRAVO TV",
+                "url": "https://chromecast.cvattv.com.ar/live/c7eds/BravoTV/SA_Live_dash_enc_2A_wl/BravoTV.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ad7fbbec39cea4a5a63ac13d94da48d4&key=f71087b4dc211db079237c0fb783eb93",
+                "icono": "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_09/large.643551553_BravoTV.png.57a91952c5e4e5fd1a66c5b047909fb4.png",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            }, {
+                "name": "CIUDAD MAGAZINE",
+                "url": "https://chromecast.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc_wl/Magazine.mpdd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4f1235069d34c22cb73d9b78bae15587&key=55e068ff6b152e34c66dc639b38e8692",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            }, {
+                "name": "CANAL CIUDAD",
+                "url": "https://chromecast.cvattv.com.ar/live/c6eds/Canal_de_la_ciudad/SA_Live_dash_enc_wl/Canal_de_la_ciudad.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5ee7842b3cf24d1dba088365fa5d0543&key=69cec006409823c06fbf2866a231b4f7",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/9/91/Logo_Canal_de_la_Ciudad.png",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            }, {
+                "name": "DIPUTADOS TV",
+                "url": "https://chromecast.cvattv.com.ar/live/c6eds/Diputados_TV/SA_Live_dash_enc_wl/Diputados_TV.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9666b195171442afd4551a8de01291a6&key=1c0061df9b4b098e40355167e97cfbf0",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/3/34/Logo_Diputados_TV.png",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            }
+        ]
+    }, {
+        "name": "🇧🇷CANALES DE BRASIL",
+        "samples": [{
+                "name": "SBT",
+                "icono": "https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png",
+                "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sbtintl-xiaomi/playlist.m3u8"
+            }, {
+                "name": "RECORD",
+                "icono": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/recordtv.webp",
+                "url": "https://alanza.iptv2022.com/sh/RecordTV/index.m3u8"
+            }, {
+                "name": "BAND",
+                "icono": "https://logo.iptveditor.com/band.png",
+                "url": "http://15.235.50.115:14522/Band"
+            }, {
+                "name": "REDE TV",
+                "icono": "https://redetvgo.com.br/client/assets/logo/logo-oficial.png",
+                "url": "https://fast-channels-t.b-cdn.net/redetv/aovivo_abr/playlist.m3u8"
+            }, {
+                "name": "GAZETA TV",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.pn",
+                "url": "https://stmv5.samcast.com.br/wagner7919/wagner7919/chunklist_w1606860923.m3u8"
+            }, {
+                "name": "TV BRASIL",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvBrasil2023.png/320px-TvBrasil2023.png",
+                "url": "https://stmv7.samcast.com.br/wtvbrasil/wtvbrasil/playlist.m3u8",
+                "headers": {
+                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
+                    "X-Did": "704b97090ad1fb5e",
+                    "X-Version": "8/1.0.7",
+                    "User-Agent": "Magma Player/8",
+                    "Accept-Encoding": "gzip",
+
+                    "Connection": "Keep-Alive"
+                }
+            }
+        ]
+    }, {
         "name": "🇧🇷CANALES DE BRASIL",
         "samples": [
             {
