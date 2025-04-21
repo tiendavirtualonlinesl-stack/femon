@@ -2418,43 +2418,6 @@
         ]
     }, {
         "name": "🇧🇷CANALES DE BRASIL",
-        "samples": [{
-                "name": "SBT",
-                "icono": "https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png",
-                "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sbtintl-xiaomi/playlist.m3u8"
-            }, {
-                "name": "RECORD",
-                "icono": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/recordtv.webp",
-                "url": "https://alanza.iptv2022.com/sh/RecordTV/index.m3u8"
-            }, {
-                "name": "BAND",
-                "icono": "https://logo.iptveditor.com/band.png",
-                "url": "http://15.235.50.115:14522/Band"
-            }, {
-                "name": "REDE TV",
-                "icono": "https://redetvgo.com.br/client/assets/logo/logo-oficial.png",
-                "url": "https://fast-channels-t.b-cdn.net/redetv/aovivo_abr/playlist.m3u8"
-            }, {
-                "name": "GAZETA TV",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.pn",
-                "url": "https://stmv5.samcast.com.br/wagner7919/wagner7919/chunklist_w1606860923.m3u8"
-            }, {
-                "name": "TV BRASIL",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvBrasil2023.png/320px-TvBrasil2023.png",
-                "url": "https://stmv7.samcast.com.br/wtvbrasil/wtvbrasil/playlist.m3u8",
-                "headers": {
-                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-                    "X-Did": "704b97090ad1fb5e",
-                    "X-Version": "8/1.0.7",
-                    "User-Agent": "Magma Player/8",
-                    "Accept-Encoding": "gzip",
-
-                    "Connection": "Keep-Alive"
-                }
-            }
-        ]
-    }, {
-        "name": "🇧🇷CANALES DE BRASIL",
         "samples": [
             {
                 "name": "SBT",
