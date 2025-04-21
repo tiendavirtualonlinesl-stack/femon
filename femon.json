@@ -2478,6 +2478,7 @@
                 "name": "CLICKTV",
                 "icono": "https://i.ibb.co/gZqHJMrp/clicktv.png",
                 "url": "https://v2.tustreaming.cl/clicktv/playlist.m3u8"
+            
             }
         ]
     },
@@ -2490,6 +2491,18 @@
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dabefaac89742589778fcfab78f08354&key=896dd914683b01c8044ffd34d7b6416b",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "GolTV Ecuador HD",
+                "url": "http://170.39.192.130:2095/56933873069play/270124play/322704",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dabefaac89742589778fcfab78f08354&key=896dd914683b01c8044ffd34d7b6416b",
+                "icono": "https://d2po7v53a8yrck.cloudfront.net/static/2/Open/SourceLogos/Cleared%20Logos/GolTV.JPG",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.ar",
                     "Referer": "https://portal.app.flow.com.ar/",
@@ -2609,6 +2622,7 @@
                 "url": "http://nxtv2112.xyz:80/5MUK2Fhqtq/wqq6nhKF4W/2370.ts",
                 "drm_scheme": "clearkey",
                 "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=da8a49a594160cc0059f07b9f71cd39a&key=37ca91dd799b351a02445151c7f61070"
+            
             }
         ]
     },
@@ -2649,6 +2663,7 @@
                 "name": "RED ADVENIR",
                 "icono": "https://i.postimg.cc/KzyN2BxQ/advenr.jpg",
                 "url": "https://streamer1.streamhost.org/salive/GMIredadvenirh/chunklist_w1976177922.m3u8"
+         
             }
         ]
     },
@@ -2697,6 +2712,7 @@
                 "name": "EL TRECE",
                 "icono": "https://i.ibb.co/v6xyk8yY/1662578.png",
                 "url": "http://190.2.212.209:8050/play/a0nf"
+            
             }
         ]
     },
@@ -2783,6 +2799,19 @@
                 }
             },
             {
+                "name": "RED GLOBAL",
+                "url": "http://170.39.192.130:2095/56933873069play/270124play/316484",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Global_logo_2019.png",
+                "headers": {
+                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
+                    "X-Did": "704b97090ad1fb5e",
+                    "X-Version": "8/1.0.7",
+                    "User-Agent": "Magma Player/8",
+                    "Accept-Encoding": "gzip",
+                    "Connection": "Keep-Alive"
+                }
+            },
+            {
                 "name": "Willax",
                 "url": "http://170.39.192.130:2095/56933873069play/270124play/316481",
                 "icono": "https://i.ibb.co/crMgx1K/PE-WILLAX.png",
@@ -2809,8 +2838,21 @@
                 }
             },
             {
-                "name": "LIGA 1 MAX",
+                "name": "LIGA 1",
                 "url": "http://magmaplayer.com/stream/m3u8/ZGZ5KmRjAmOsZGL4YwV0Zl4kBQDhZGp2KmR3AQZjZj/hls/1070.m3u8",
+                "icono": "https://i.postimg.cc/XqTfcP0R/ESTO-ES-TV-LIGA-1-PERU.png",
+                "headers": {
+                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
+                    "X-Did": "704b97090ad1fb5e",
+                    "X-Version": "8/1.0.7",
+                    "User-Agent": "Magma Player/8",
+                    "Accept-Encoding": "gzip",
+                    "Connection": "Keep-Alive"
+                }
+            },
+            {
+                "name": "LIGA 1 MAX",
+                "url": "http://170.39.192.130:2095/56933873069play/270124play/316491",
                 "icono": "https://i.ibb.co/xKjXb8p5/image-LIGA-1-MAX-fabe3155b8.png",
                 "headers": {
                     "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
