@@ -589,30 +589,6 @@
                 "name": "DIRECTV SPORTS 2",
                 "url": "http://170.39.192.130:2095/56933873069play/270124play/315178",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png"
-            },
-            {
-                "name": "DIRECTV SPORTS 1 P",
-                "url": "http://m.mtd.llc:8880/CH0100000000128/index_fk.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/multiple_key.php?data=Wwp7CiJrZXkiOiI3MDU5NzFiNzA5YzcwOTM2MjFiNTU4Y2Y5NDMyMGQ4NyIsCiJrZXlfaWQiOiI4Y2NmNDVhNGE2NjE0MTRlYWExMDgzOTNlMjVkZDI2ZiIKfSwgewoia2V5IjoiYWY0YmEzMWMxMzI0ZWI5MmFjODg0NjNmN2JkOTQxZDUiLAoia2V5X2lkIjoiYzQ0ZDUyYjExZGNlMzg3NWFkMjc2NWM5ZDQ2OTA3NWIiCn0KXQ==",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png",
-                "headers": {
-                    "Origin": "android_mobile.directvgo.com",
-                    "Referer": "android_mobile.directvgo.com",
-                    "User-Agent": "dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1"
-                }
-            },
-            {
-                "name": "DIRECTV SPORTS 2 P",
-                "url": "http://m.mtd.llc:8880/CH0100000000128/index_fk.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/multiple_key.php?data=Wwp7CiJrZXkiOiI3MDU5NzFiNzA5YzcwOTM2MjFiNTU4Y2Y5NDMyMGQ4NyIsCiJrZXlfaWQiOiI4Y2NmNDVhNGE2NjE0MTRlYWExMDgzOTNlMjVkZDI2ZiIKfSwgewoia2V5IjoiYWY0YmEzMWMxMzI0ZWI5MmFjODg0NjNmN2JkOTQxZDUiLAoia2V5X2lkIjoiYzQ0ZDUyYjExZGNlMzg3NWFkMjc2NWM5ZDQ2OTA3NWIiCn0KXQ==",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png",
-                "headers": {
-                    "Origin": "android_mobile.directvgo.com",
-                    "Referer": "android_mobile.directvgo.com",
-                    "User-Agent": "dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1"
-                }
             }
         ]
     },
@@ -1588,11 +1564,11 @@
                 }
             },
             {
-                "name": "LIFE TIME",
+                "name": "LIFETIME",
                 "url": "https://chromecast.cvattv.com.ar/live/c6eds/Lifetime/SA_Live_dash_enc_wl/Lifetime.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=eae51b1d67ff47adac7b6bd3a4b1120a&key=b4d6bb47193f33ffc12379cdc447455d",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg",
+                "icono": "https://i.postimg.cc/GtsHTL68/channels4-profile.jpg",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.ar",
                     "Referer": "https://portal.app.flow.com.ar/",
@@ -1601,7 +1577,7 @@
             },
             {
                 "name": "LOVE NATURE",
-                "url": "https://chromecast.sensa.com.ar/bpk-tv/LoveNature/default/index_fk.mpd",
+                "url": "http://cdn.sensa.com.ar/bpk-tv/LoveNature/default/index_fk.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ea6437084f6c055c7c856f86361e86fa&key=9791c0e6f72b4a5eacf8bddfa5290209",
                 "icono": "https://geo.edge.pontiscloud.com:9002/images/1801/CH_LOGO/800/542/0/0/32909050074718.png",
@@ -2646,7 +2622,7 @@
         ]
     },
     {
-        "name": "🇺🇾URUGUAY",
+        "name": "🇺🇾CANALES DE URUGUAY",
         "samples": [
             {
                 "name": "CANAL 4 UY",
