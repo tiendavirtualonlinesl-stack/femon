@@ -1568,7 +1568,7 @@
                 "url": "https://chromecast.cvattv.com.ar/live/c6eds/Lifetime/SA_Live_dash_enc_wl/Lifetime.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=eae51b1d67ff47adac7b6bd3a4b1120a&key=b4d6bb47193f33ffc12379cdc447455d",
-                "icono": "https://i.postimg.cc/GtsHTL68/channels4-profile.jpg",
+                "icono": "https://github.com/luisoddone/femon/blob/1b5cda70ce22f7e408eafc9ed22aace7e18355e3/DFFFFFFFFFFFFFFFFFFFFFFFFFF.png",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.ar",
                     "Referer": "https://portal.app.flow.com.ar/",
