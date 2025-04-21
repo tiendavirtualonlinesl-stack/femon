@@ -597,9 +597,9 @@
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/multiple_key.php?data=Wwp7CiJrZXkiOiI3MDU5NzFiNzA5YzcwOTM2MjFiNTU4Y2Y5NDMyMGQ4NyIsCiJrZXlfaWQiOiI4Y2NmNDVhNGE2NjE0MTRlYWExMDgzOTNlMjVkZDI2ZiIKfSwgewoia2V5IjoiYWY0YmEzMWMxMzI0ZWI5MmFjODg0NjNmN2JkOTQxZDUiLAoia2V5X2lkIjoiYzQ0ZDUyYjExZGNlMzg3NWFkMjc2NWM5ZDQ2OTA3NWIiCn0KXQ==",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png",
                 "headers": {
-                    "Origin": "https://portal.app.flow.com.ar",
-                    "Referer": "https://portal.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                    "Origin": "android_mobile.directvgo.com",
+                    "Referer": "android_mobile.directvgo.com",
+                    "User-Agent": "dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1"
                 }
             },
             {
@@ -609,9 +609,9 @@
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/multiple_key.php?data=Wwp7CiJrZXkiOiI3MDU5NzFiNzA5YzcwOTM2MjFiNTU4Y2Y5NDMyMGQ4NyIsCiJrZXlfaWQiOiI4Y2NmNDVhNGE2NjE0MTRlYWExMDgzOTNlMjVkZDI2ZiIKfSwgewoia2V5IjoiYWY0YmEzMWMxMzI0ZWI5MmFjODg0NjNmN2JkOTQxZDUiLAoia2V5X2lkIjoiYzQ0ZDUyYjExZGNlMzg3NWFkMjc2NWM5ZDQ2OTA3NWIiCn0KXQ==",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png",
                 "headers": {
-                    "Origin": "https://portal.app.flow.com.ar",
-                    "Referer": "https://portal.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                    "Origin": "android_mobile.directvgo.com",
+                    "Referer": "android_mobile.directvgo.com",
+                    "User-Agent": "dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1"
                 }
             }
         ]
@@ -1447,7 +1447,7 @@
                 "url": "https://chromecast.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_Live_dash_enc/Home_and_Garden.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=43bc6a87ee4f21aa320ba00b980a6fd8&key=bd55130539a30faa1d90b3142eebe0b2",
-                "icono": "https://github.com/masterentertainment/listas/blob/main/logos/DHGTV.png",
+                "icono": "https://i.postimg.cc/SR44FvdF/DSDSDSDSDSDDDD.png",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.ar",
                     "Referer": "https://portal.app.flow.com.ar/",
@@ -1601,22 +1601,22 @@
             },
             {
                 "name": "LOVE NATURE",
-                "url": "https://chromecast.cvattv.com.ar/live/c6eds/Lifetime/SA_Live_dash_enc_wl/Lifetime.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=eae51b1d67ff47adac7b6bd3a4b1120a&key=b4d6bb47193f33ffc12379cdc447455d",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.ar",
-                    "Referer": "https://portal.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "DISCOVERY WORLD",
                 "url": "https://chromecast.sensa.com.ar/bpk-tv/LoveNature/default/index_fk.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ea6437084f6c055c7c856f86361e86fa&key=9791c0e6f72b4a5eacf8bddfa5290209",
                 "icono": "https://geo.edge.pontiscloud.com:9002/images/1801/CH_LOGO/800/542/0/0/32909050074718.png",
+                "headers": {
+                    "Origin": "=https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager"
+                }
+            },
+            {
+                "name": "DISCOVERY WORLD",
+                "url": "https://chromecast.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_Live_dash_enc_C/Discovery_World_HD.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=34ee94c2263345f7a3a590661264e490&key=56757d656a697ab7a2e5e083b5d21bb5",
+                "icono": "https://a-qiio.onrender.com/webp/logos/disworld.webp",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.ar",
                     "Referer": "https://portal.app.flow.com.ar/",
