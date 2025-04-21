@@ -2721,11 +2721,35 @@
                 }
             },
             {
-                "name": "FUTBOL URUGUAYO EVENTOS",
+                "name": "FUTBOL URUGUAYO EVENTOS 1",
                 "url": "https://chromecast.cvattv.com.ar/live/c7eds/Eventos_HD_Uy/SA_Live_dash_enc_wl/Eventos_HD_Uy.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=48d0e34c8797c5c2a742d2630a8fb975&key=fb5d12b9d8febe836e5670abd003ddca",
-                "icono": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0123%2Fr1442155_1296x729_16%2D9.jpg",
+                "icono": "https://i.postimg.cc/1Xd87n13/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped.png",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "FUTBOL URUGUAYO EVENTOS 2",
+                "url": "https://chromecast.cvattv.com.ar/live/c4eds/Eventos_2_UY/SA_Live_dash_enc_C/Eventos_2_UY.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=87bfded2bdfbd3ad9dce4d30b2739fd1&key=e80b0d66d60fa0a2d24d8b36055a6fef",
+                "icono": "https://i.postimg.cc/1Xd87n13/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped.png",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "FUTBOL URUGUAYO EVENTOS 1",
+                "url": "https://chromecast.cvattv.com.ar/live/c4eds/Eventos3_UY/SA_Live_dash_enc_C/Eventos3_UY.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f774b06a300783596f27b552226de9c0&key=4d6256b28b487bcf906bcf0328635747",
+                "icono": "https://i.postimg.cc/1Xd87n13/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped.png",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.ar",
                     "Referer": "https://portal.app.flow.com.ar/",
