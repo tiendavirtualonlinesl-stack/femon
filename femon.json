@@ -2570,12 +2570,17 @@
             {
                 "name": "REDE TV",
                 "icono": "https://redetvgo.com.br/client/assets/logo/logo-oficial.png",
-                "url": "https://fast-channels-t.b-cdn.net/redetv/aovivo_abr/playlist.m3u8"
+                "url": "https://5a0c3936c25c8.streamlock.net/8032/8032/chunklist.m3u8?"
             },
             {
                 "name": "GAZETA TV",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.pn",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png",
                 "url": "https://stmv5.samcast.com.br/wagner7919/wagner7919/chunklist_w1606860923.m3u8"
+            },
+	    {
+                "name": "URBAN DRIVE",
+                "icono": "https://urban-drive.ch/cdn/shop/files/logo-o.png",
+                "url": "http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8"
             },
             {
                 "name": "TV BRASIL",
