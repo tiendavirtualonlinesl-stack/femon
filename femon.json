@@ -2481,8 +2481,8 @@
       "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7760caa058b51b7cce151c0539fa4a8f&key=edd086c1011ed2c54cbe869d0e8d9289",
       "icono": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Elocho_TV_nuevo_logo.png",
       "headers": {
-        "Origin": "https://portal.app.flow.com.ar",
-        "Referer": "https://portal.app.flow.com.ar/",
+        "Origin": "https://web.app.flow.com.ar",
+        "Referer": "https://web.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       }
     },
@@ -2493,8 +2493,8 @@
       "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7a53740aa52d8b50ccb218aab5e9d50e&key=e772fa4a4997b50a0ff04e2ef286a864",
       "icono": "https://4.bp.blogspot.com/-OUx3MrU8EFk/WDyKrgWT7xI/AAAAAAAABPI/GMsSZyCV_HYjqZaCrlKU13d82a3mI45mgCLcB/s1600/c10-tucuman.png",
       "headers": {
-        "Origin": "https://portal.app.flow.com.ar",
-        "Referer": "https://portal.app.flow.com.ar/",
+        "Origin": "https://web.app.flow.com.ar",
+        "Referer": "https://web.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       }
     },
@@ -2504,8 +2504,8 @@
       "type": "CLEARKEY",
       "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=662447df521fb590b72b1a11671c2afd&key=81c204c443987d7b176587d626a124a0",
       "headers": {
-        "Origin": "https://portal.app.flow.com.ar",
-        "Referer": "https://portal.app.flow.com.ar/",
+        "Origin": "https://web.app.flow.com.ar",
+        "Referer": "https://web.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       }
     },
@@ -2516,8 +2516,8 @@
       "drm_license_uri": "https://dl.dropbox.com/scl/fi/3e8oywvgpo6wj48y88owe/KEY.telefe.rosario.json?rlkey=5mdzysk3iis67bjgvf9hc4k9u&dl=0",
       "icono": "https://static.tvar.io/imagenes/teleferosario.png",
       "headers": {
-        "Origin": "https://portal.app.flow.com.ar",
-        "Referer": "https://portal.app.flow.com.ar/",
+        "Origin": "https://web.app.flow.com.ar",
+        "Referer": "https://web.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       }
     },
@@ -2528,8 +2528,8 @@
       "drm_license_uri": "https://dl.dropbox.com/scl/fi/z21uds8janr6tb9jvvs8w/KEY.telefe.cordoba.json?rlkey=qynf51jetwjqjryw67tuyrpf5&dl=0",
       "icono": "https://static.tvar.io/imagenes/telefecba.png",
       "headers": {
-        "Origin": "https://portal.app.flow.com.ar",
-        "Referer": "https://portal.app.flow.com.ar/",
+        "Origin": "https://web.app.flow.com.ar",
+        "Referer": "https://web.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       }
     },
@@ -2540,8 +2540,8 @@
       "drm_license_uri": "https://dl.dropbox.com/scl/fi/a97iw0i52tkmqchsfm1ml/KEY.CANAL-12-CORDOBA.json?rlkey=p5ctuf2ahfnbs0kj3by5ituih&dl=0",
       "icono": "https://i.ibb.co/60sFBfY/og-image.jpg",
       "headers": {
-        "Origin": "https://portal.app.flow.com.ar",
-        "Referer": "https://portal.app.flow.com.ar/",
+        "Origin": "https://web.app.flow.com.ar",
+        "Referer": "https://web.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       }
     },
@@ -2550,8 +2550,8 @@
       "url": "https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8",
       "icono": "https://static.tvar.io/imagenes/canal10cba.jpg",
       "headers": {
-        "Origin": "https://portal.app.flow.com.ar",
-        "Referer": "https://portal.app.flow.com.ar/",
+        "Origin": "https://web.app.flow.com.ar",
+        "Referer": "https://web.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       }
     },
@@ -2560,8 +2560,8 @@
       "url": "http://stmvideo2.livecastv.com/telediario/telediario/playlist.m3u8",
       "icono": "https://static.tvar.io/imagenes/canal13riocuarto.jpg",
       "headers": {
-        "Origin": "https://portal.app.flow.com.ar",
-        "Referer": "https://portal.app.flow.com.ar/",
+        "Origin": "https://web.app.flow.com.ar",
+        "Referer": "https://web.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       }
     },
