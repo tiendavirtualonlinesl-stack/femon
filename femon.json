@@ -2460,29 +2460,122 @@
         ]
     },
     {
-        "name": "​🇦🇷​CANALES INTERIOR DE ARGENTINA",
-        "samples": [{
-               "name": "ARGENTINISIMA",
-                "url": "https://chromecast.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc_wl/Argentinisima.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a6243f46366445ebbf3117ec27365481&key=81667cdc3bcf19a6a66c0919fa00a20b",
-                "icono": "https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_2/large.gallery_5617_2_64591.png.37ce989505360788bdf2e959983a6366.png",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            }, {
-                "name": "NET TV",
-                "url": "https://chromecast.cvattv.com.ar/live/c6eds/Net_TV/SA_Live_dash_enc_wl/Net_TV.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=89d433166edd31d56df2a59df8ec6704&key=b2015faded0a456d10aa8db1b4cbac68",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/1200px-Net_TV_logo.png",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
+  "name": "🇦🇷 CANALES INTERIOR DE ARGENTINA",
+  "samples": [
+    {
+      "name": "ARGENTINISIMA",
+      "url": "https://chromecast.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc_wl/Argentinisima.mpd",
+      "type": "CLEARKEY",
+      "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a6243f46366445ebbf3117ec27365481&key=81667cdc3bcf19a6a66c0919fa00a20b",
+      "icono": "https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_2/large.gallery_5617_2_64591.png.37ce989505360788bdf2e959983a6366.png",
+      "headers": {
+        "Origin": "https://web.app.flow.com.ar",
+        "Referer": "https://web.app.flow.com.ar/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+      }
+    },
+    {
+      "name": "CANAL 8 TUCUMÁN",
+      "url": "https://chromecast.cvattv.com.ar/live/c7eds/Canal_8_Tucuman/SA_Live_dash_enc/Canal_8_Tucuman.mpd",
+      "type": "CLEARKEY",
+      "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7760caa058b51b7cce151c0539fa4a8f&key=edd086c1011ed2c54cbe869d0e8d9289",
+      "icono": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Elocho_TV_nuevo_logo.png",
+      "headers": {
+        "Origin": "https://portal.app.flow.com.ar",
+        "Referer": "https://portal.app.flow.com.ar/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+      }
+    },
+    {
+      "name": "CANAL 10 TUCUMÁN",
+      "url": "https://chromecast.cvattv.com.ar/live/c7eds/Ch10_Tucuman/SA_Live_dash_enc/Ch10_Tucuman.mpd",
+      "type": "CLEARKEY",
+      "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7a53740aa52d8b50ccb218aab5e9d50e&key=e772fa4a4997b50a0ff04e2ef286a864",
+      "icono": "https://4.bp.blogspot.com/-OUx3MrU8EFk/WDyKrgWT7xI/AAAAAAAABPI/GMsSZyCV_HYjqZaCrlKU13d82a3mI45mgCLcB/s1600/c10-tucuman.png",
+      "headers": {
+        "Origin": "https://portal.app.flow.com.ar",
+        "Referer": "https://portal.app.flow.com.ar/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+      }
+    },
+    {
+      "name": "CANAL 3 ROSARIO",
+      "url": "https://chromecast.cvattv.com.ar/live/c3eds/Canal_3_Rosario/SA_Live_dash_enc/Canal_3_Rosario.mpd",
+      "type": "CLEARKEY",
+      "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=662447df521fb590b72b1a11671c2afd&key=81c204c443987d7b176587d626a124a0",
+      "headers": {
+        "Origin": "https://portal.app.flow.com.ar",
+        "Referer": "https://portal.app.flow.com.ar/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+      }
+    },
+    {
+      "name": "TELEFE ROSARIO",
+      "url": "http://edge-live13-sl.cvattv.com.ar/live/c4eds/Canal_5_Rosario/SA_Live_dash_enc_2A/Canal_5_Rosario.mpd",
+      "drm_scheme": "clearkey",
+      "drm_license_uri": "https://dl.dropbox.com/scl/fi/3e8oywvgpo6wj48y88owe/KEY.telefe.rosario.json?rlkey=5mdzysk3iis67bjgvf9hc4k9u&dl=0",
+      "icono": "https://static.tvar.io/imagenes/teleferosario.png",
+      "headers": {
+        "Origin": "https://portal.app.flow.com.ar",
+        "Referer": "https://portal.app.flow.com.ar/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+      }
+    },
+    {
+      "name": "TELEFE CÓRDOBA",
+      "url": "http://edge-live16-sl.cvattv.com.ar/live/c6eds/Canal_8_CBA/SA_Live_dash_enc_2A/Canal_8_CBA.mpd",
+      "drm_scheme": "clearkey",
+      "drm_license_uri": "https://dl.dropbox.com/scl/fi/z21uds8janr6tb9jvvs8w/KEY.telefe.cordoba.json?rlkey=qynf51jetwjqjryw67tuyrpf5&dl=0",
+      "icono": "https://static.tvar.io/imagenes/telefecba.png",
+      "headers": {
+        "Origin": "https://portal.app.flow.com.ar",
+        "Referer": "https://portal.app.flow.com.ar/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+      }
+    },
+    {
+      "name": "CANAL 12 CÓRDOBA",
+      "url": "https://edge-live16-sl.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc_2A/Canal_12_CBA.mpd",
+      "drm_scheme": "clearkey",
+      "drm_license_uri": "https://dl.dropbox.com/scl/fi/a97iw0i52tkmqchsfm1ml/KEY.CANAL-12-CORDOBA.json?rlkey=p5ctuf2ahfnbs0kj3by5ituih&dl=0",
+      "icono": "https://i.ibb.co/60sFBfY/og-image.jpg",
+      "headers": {
+        "Origin": "https://portal.app.flow.com.ar",
+        "Referer": "https://portal.app.flow.com.ar/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+      }
+    },
+    {
+      "name": "CANAL 10 CÓRDOBA",
+      "url": "https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8",
+      "icono": "https://static.tvar.io/imagenes/canal10cba.jpg",
+      "headers": {
+        "Origin": "https://portal.app.flow.com.ar",
+        "Referer": "https://portal.app.flow.com.ar/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+      }
+    },
+    {
+      "name": "CANAL 13 RÍO CUARTO",
+      "url": "http://stmvideo2.livecastv.com/telediario/telediario/playlist.m3u8",
+      "icono": "https://static.tvar.io/imagenes/canal13riocuarto.jpg",
+      "headers": {
+        "Origin": "https://portal.app.flow.com.ar",
+        "Referer": "https://portal.app.flow.com.ar/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+      }
+    },
+    {
+      "name": "NET TV",
+      "url": "https://chromecast.cvattv.com.ar/live/c6eds/Net_TV/SA_Live_dash_enc_wl/Net_TV.mpd",
+      "type": "CLEARKEY",
+      "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=89d433166edd31d56df2a59df8ec6704&key=b2015faded0a456d10aa8db1b4cbac68",
+      "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/1200px-Net_TV_logo.png",
+      "headers": {
+        "Origin": "https://web.app.flow.com.ar",
+        "Referer": "https://web.app.flow.com.ar/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+      }
             }, {
                 "name": "ENCUENTRO ",
                 "url": "https://chromecast.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc_wl/Encuentro.mpd",
