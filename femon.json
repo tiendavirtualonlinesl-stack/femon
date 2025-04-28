@@ -581,9 +581,11 @@
         "name": "⚽ DEPORTES DIRECTV SPORTS",
         "samples": [
             {
-                "name": "DIRECTV SPORTS 1",
-                "url": "http://170.39.192.130:2095/56933873069play/270124play/315180",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png"
+				"name": "DSPORTS HD PRUEBA",
+				"url": "https://b2ZmaWNpYWw.fubohd.com:443/dsports/mono.m3u8?token=ebd09903108991145862fe043c72913cc1d52e7b-f0-1745836560-1745818560",
+				"type": "hls",
+				"drm": false,
+				"icon": "https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png"
             },
             {
                 "name": "DIRECTV SPORTS 2",
