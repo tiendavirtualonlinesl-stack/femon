@@ -661,56 +661,44 @@
         {
             "name": "PREMIERE BR 1",
             "url": "https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/out/v1/98fe69f2cdc041388004305e63353268/cenc.mpd",
-            "type": "DASH",
-            "drm": true,
-            "kid": "9547f9aead1237c8a3b1bf0a91ed9995",
-            "key": "534fab4541fef31921dd970c65d51848",
-            "icono": "https://es.m.wikipedia.org/wiki/Archivo:Premiere_logo_2013.png"
+            "type": "CLEARKEY",
+            "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9547f9aead1237c8a3b1bf0a91ed9995&key=534fab4541fef31921dd970c65d51848",
+            "icono": "https://github.com/luisoddone/femon/blob/main/PREMIERE-SI.jpg?raw=true"
         },
         {
             "name": "PREMIERE BR 2",
             "url": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd",
-            "type": "DASH",
-            "drm": true,
-            "kid": "d98239180d8380b3a1bb28d875b1ddf2",
-            "key": "cf836ced579257d1c76ae8809818e6c4",
-            "icono": "https://es.m.wikipedia.org/wiki/Archivo:Premiere_logo_2013.png"
+            "type": "CLEARKEY",
+            "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d98239180d8380b3a1bb28d875b1ddf2&key=cf836ced579257d1c76ae8809818e6c4",
+            "icono": "https://github.com/luisoddone/femon/blob/main/PREMIERE-SI.jpg?raw=true"
         },
         {
             "name": "PREMIERE BR 3",
             "url": "https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/j4y12ucrx0/out/v1/9135597c4400465e9e752dc32de587fd/cenc.mpd",
-            "type": "DASH",
-            "drm": true,
-            "kid": "d5a3ac0b892bfcdf352b6def9cb2764",
-            "key": "ac0936acc0036fad2273efaa42b1fafd",
-            "icono": "https://es.m.wikipedia.org/wiki/Archivo:Premiere_logo_2013.png"
+            "type": "CLEARKEY",
+            "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d5a3ac0b892bfcdf352b6def9cb2764&key=ac0936acc0036fad2273efaa42b1fafd",
+            "icono": "https://github.com/luisoddone/femon/blob/main/PREMIERE-SI.jpg?raw=true"
         },
         {
             "name": "PREMIERE BR 4",
             "url": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zytzybatcd/out/v1/4e59aa00f6784bb98170741d40b33e3e/cenc.mpd",
-            "type": "DASH",
-            "drm": true,
-            "kid": "ce5d18ffd68650affce1985201983ab7",
-            "key": "397c64e42507d95e5460830918c22a98",
-            "icono": "https://es.m.wikipedia.org/wiki/Archivo:Premiere_logo_2013.png"
+            "type": "CLEARKEY",
+            "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ce5d18ffd68650affce1985201983ab7&key=397c64e42507d95e5460830918c22a98",
+            "icono": "https://github.com/luisoddone/femon/blob/main/PREMIERE-SI.jpg?raw=true"
         },
         {
             "name": "PREMIERE BR 5",
             "url": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cydwktwhqj/out/v1/c6e2919fe4e04a73935691f8284a4afe/cenc.mpd",
-            "type": "DASH",
-            "drm": true,
-            "kid": "05cedc366ce4ec735ee4b33fcefbf01f",
-            "key": "475d6dd40ea8a6896e02b26a6cf34d95",
-            "icono": "https://es.m.wikipedia.org/wiki/Archivo:Premiere_logo_2013.png"
+            "type": "CLEARKEY",
+            "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=05cedc366ce4ec735ee4b33fcefbf01f&key=475d6dd40ea8a6896e02b26a6cf34d95",
+            "icono": "https://github.com/luisoddone/femon/blob/main/PREMIERE-SI.jpg?raw=true"
         },
         {
             "name": "PREMIERE BR 6",
             "url": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dabubydklo/out/v1/c272f10312ac4e81bcf2183509703dd1/cenc.mpd",
-            "type": "DASH",
-            "drm": true,
-            "kid": "7ba384f9d983c731ab1e3702c16e2faf",
-            "key": "f28adca4375e8a041fd22aef26440009",
-            "icono": "https://es.m.wikipedia.org/wiki/Archivo:Premiere_logo_2013.png"
+            "type": "CLEARKEY",
+            "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7ba384f9d983c731ab1e3702c16e2faf&key=f28adca4375e8a041fd22aef26440009",
+            "icono": "https://github.com/luisoddone/femon/blob/main/PREMIERE-SI.jpg?raw=true"
             }
         ]
     },
