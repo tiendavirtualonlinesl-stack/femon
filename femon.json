@@ -658,12 +658,12 @@
     {
         "name": "⚽ DEPORTES BRASIL 🇧🇷​",
         "samples": [
-        {
-            "name": "PREMIERE BR 1 si",
-            "url": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd",
-            "type": "CLEARKEY",
-            "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d98239180d8380b3a1bb28d875b1ddf2&key=cf836ced579257d1c76ae8809818e6c4",
-            "icono": "https://github.com/luisoddone/femon/blob/main/PREMIERE-SI.jpg?raw=true"
+		{
+			"name": "PREMIERE BR 1 prooooo",
+			"url": "https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/out/v1/98fe69f2cdc041388004305e63353268/cenc.mpd",
+			"type": "CLEARKEY",
+			"drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9547f9aead1237c8a3b1bf0a91ed9995&key=534fab4541fef31921dd970c65d51848",
+			"icono": "https://github.com/luisoddone/femon/blob/main/PREMIERE-SI.jpg?raw=true"
         },
         {
             "name": "PREMIERE BR 2",
