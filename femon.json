@@ -242,9 +242,16 @@
                 "icono": "https://i.postimg.cc/K8yF76wm/images-2.jpg"
             },
             {
-                "name": "ABC",
-                "url": "https://abc-color.cdn.vustreams.com:443/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/live-audio_track_0_0_und=64000-video_track=1200000.m3u8",
-                "icono": "https://i.ibb.co/dGqjksf/descarga.png"
+                "name": "ABC TV",
+                "url": "https://chromecast.cvattv.com.ar/live/c5eds/ABC_TV_C4/SA_Live_dash_enc_wl/ABC_TV_C4.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c0bef75733b2645452432bd4e76f36f5&key=ea16243367d814c1d53f1eaf21f005ff",
+                "icono": "https://i.ibb.co/dGqjksf/descarga.png",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
             },
             {
                 "name": "NOTICIAS_PY 🇵🇾",
@@ -2454,9 +2461,9 @@
     },
     {
       "name": "TELEFE ROSARIO",
-      "url": "http://edge-live13-sl.cvattv.com.ar/live/c4eds/Canal_5_Rosario/SA_Live_dash_enc_2A/Canal_5_Rosario.mpd",
+      "url": "https://chromecast.cvattv.com.ar/live/c4eds/Canal_5_Rosario/SA_Live_dash_enc_wl/Canal_5_Rosario.mpd",
       "drm_scheme": "clearkey",
-      "drm_license_uri": "https://dl.dropbox.com/scl/fi/3e8oywvgpo6wj48y88owe/KEY.telefe.rosario.json?rlkey=5mdzysk3iis67bjgvf9hc4k9u&dl=0",
+      "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c61b5ac8e1664bf5b544e92ea2597e1c&key=938437ac25f0a18e04efc1a083489edc",
       "icono": "https://static.tvar.io/imagenes/teleferosario.png",
       "headers": {
         "Origin": "https://web.app.flow.com.ar",
@@ -2466,9 +2473,9 @@
     },
     {
       "name": "TELEFE CÓRDOBA",
-      "url": "http://edge-live16-sl.cvattv.com.ar/live/c6eds/Canal_8_CBA/SA_Live_dash_enc_2A/Canal_8_CBA.mpd",
+      "url": "https://chromecast.cvattv.com.ar/live/c6eds/Canal_8_CBA/SA_Live_dash_enc_wl/Canal_8_CBA.mpd",
       "drm_scheme": "clearkey",
-      "drm_license_uri": "https://dl.dropbox.com/scl/fi/z21uds8janr6tb9jvvs8w/KEY.telefe.cordoba.json?rlkey=qynf51jetwjqjryw67tuyrpf5&dl=0",
+      "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=103ce214b4d04c8eb4dd43670e956dad&key=20e030576b8dc4df0d1c68e16af3bc0f",
       "icono": "https://static.tvar.io/imagenes/telefecba.png",
       "headers": {
         "Origin": "https://web.app.flow.com.ar",
@@ -2478,20 +2485,10 @@
     },
     {
       "name": "CANAL 12 CÓRDOBA",
-      "url": "https://edge-live16-sl.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc_2A/Canal_12_CBA.mpd",
+      "url": "https://chromecast.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc_wl/Canal_12_CBA.mpd",
       "drm_scheme": "clearkey",
-      "drm_license_uri": "https://dl.dropbox.com/scl/fi/a97iw0i52tkmqchsfm1ml/KEY.CANAL-12-CORDOBA.json?rlkey=p5ctuf2ahfnbs0kj3by5ituih&dl=0",
+      "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=90422640d3e846159fa450f83870ed4a&key=abb3cd94aece1a462df25a8f21085cca",
       "icono": "https://i.ibb.co/60sFBfY/og-image.jpg",
-      "headers": {
-        "Origin": "https://web.app.flow.com.ar",
-        "Referer": "https://web.app.flow.com.ar/",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-      }
-    },
-    {
-      "name": "CANAL 10 CÓRDOBA",
-      "url": "https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8",
-      "icono": "https://static.tvar.io/imagenes/canal10cba.jpg",
       "headers": {
         "Origin": "https://web.app.flow.com.ar",
         "Referer": "https://web.app.flow.com.ar/",
