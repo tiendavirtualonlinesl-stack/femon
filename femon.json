@@ -1,6 +1,6 @@
 [
     {
-        "name": "🔵​⚽🟡​TIGO SPORTS EVENTOS​",
+        "name": "🔵​⚽🟡​TIGO SPORTS EVENTOS PY​",
         "samples": [
             {
                 "name": "EVENTOS INTERMEDIA",
@@ -2462,7 +2462,7 @@
     {
       "name": "TELEFE ROSARIO",
       "url": "https://chromecast.cvattv.com.ar/live/c4eds/Canal_5_Rosario/SA_Live_dash_enc_wl/Canal_5_Rosario.mpd",
-      "drm_scheme": "clearkey",
+      "type": "CLEARKEY",
       "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c61b5ac8e1664bf5b544e92ea2597e1c&key=938437ac25f0a18e04efc1a083489edc",
       "icono": "https://static.tvar.io/imagenes/teleferosario.png",
       "headers": {
@@ -2474,7 +2474,7 @@
     {
       "name": "TELEFE CÓRDOBA",
       "url": "https://cdn.cvattv.com.ar/live/c6eds/Canal_8_CBA/SA_Live_dash_enc_wl/Canal_8_CBA.mpd",
-      "drm_scheme": "clearkey",
+      "type": "CLEARKEY",
       "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=103ce214b4d04c8eb4dd43670e956dad&key=20e030576b8dc4df0d1c68e16af3bc0f",
       "icono": "https://static.tvar.io/imagenes/telefecba.png",
       "headers": {
@@ -2486,7 +2486,7 @@
     {
       "name": "CANAL 12 CÓRDOBA",
       "url": "https://chromecast.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc_wl/Canal_12_CBA.mpd",
-      "drm_scheme": "clearkey",
+      "type": "CLEARKEY",
       "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=90422640d3e846159fa450f83870ed4a&key=abb3cd94aece1a462df25a8f21085cca",
       "icono": "https://i.ibb.co/60sFBfY/og-image.jpg",
       "headers": {
@@ -2498,89 +2498,12 @@
     {
       "name": "CANAL 13 RÍO CUARTO",
       "url": "http://stmvideo2.livecastv.com/telediario/telediario/playlist.m3u8",
+      "type": "HLS",
       "icono": "https://static.tvar.io/imagenes/canal13riocuarto.jpg",
       "headers": {
         "Origin": "https://web.app.flow.com.ar",
         "Referer": "https://web.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-      }
-    },
-    {
-      "name": "NET TV",
-      "url": "https://chromecast.cvattv.com.ar/live/c6eds/Net_TV/SA_Live_dash_enc_wl/Net_TV.mpd",
-      "type": "CLEARKEY",
-      "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=89d433166edd31d56df2a59df8ec6704&key=b2015faded0a456d10aa8db1b4cbac68",
-      "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/1200px-Net_TV_logo.png",
-      "headers": {
-        "Origin": "https://web.app.flow.com.ar",
-        "Referer": "https://web.app.flow.com.ar/",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-      }
-            }, {
-                "name": "ENCUENTRO ",
-                "url": "https://chromecast.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc_wl/Encuentro.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ac3ae78beb64478ab390b4ad70e3e0c9&key=c7d669761c3516d852a0edf9e07c9198",
-                "icono": "https://i.postimg.cc/HnnfR511/Logo-del-canal-Encuentro-FDGFDGDFG.png",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            }, {
-                "name": "TELEMAX",
-                "url": "https://chromecast.cvattv.com.ar/live/c6eds/Telemax/SA_Live_dash_enc_wl/Telemax.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e7ec364ad6854fedad797538cb58780d&key=57dfb3fca2ca35b37ff81c35595e9be8",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            }, {
-                "name": "BRAVO TV",
-                "url": "https://chromecast.cvattv.com.ar/live/c7eds/BravoTV/SA_Live_dash_enc_2A_wl/BravoTV.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ad7fbbec39cea4a5a63ac13d94da48d4&key=f71087b4dc211db079237c0fb783eb93",
-                "icono": "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_09/large.643551553_BravoTV.png.57a91952c5e4e5fd1a66c5b047909fb4.png",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            }, {
-                "name": "CIUDAD MAGAZINE",
-                "url": "https://chromecast.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc_wl/Magazine.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4f1235069d34c22cb73d9b78bae15587&key=55e068ff6b152e34c66dc639b38e8692",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            }, {
-                "name": "CANAL CIUDAD",
-                "url": "https://chromecast.cvattv.com.ar/live/c6eds/Canal_de_la_ciudad/SA_Live_dash_enc_wl/Canal_de_la_ciudad.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5ee7842b3cf24d1dba088365fa5d0543&key=69cec006409823c06fbf2866a231b4f7",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/9/91/Logo_Canal_de_la_Ciudad.png",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            }, {
-                "name": "DIPUTADOS TV",
-                "url": "https://chromecast.cvattv.com.ar/live/c6eds/Diputados_TV/SA_Live_dash_enc_wl/Diputados_TV.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9666b195171442afd4551a8de01291a6&key=1c0061df9b4b098e40355167e97cfbf0",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/3/34/Logo_Diputados_TV.png",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             }
         ]
