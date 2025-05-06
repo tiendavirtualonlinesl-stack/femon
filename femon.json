@@ -1,22 +1,41 @@
 [
     {
-        "name": "🔵​⚽🟡​TIGO SPORTS EVENTOS​",
+        "name": "🔵​⚽🟡​TIGO SPORTS​",
         "samples": [
             {
-                "name": "EVENTOS TIGO",
-                "url": "https://london.crackstreamslivehd.com/global/eventos9/index.m3u8?token=f54ec20de2c8017226891659378ec23980dda3e3-a3-1746244931-1746212531&ip=131.100.185.225",
-                "icono": "https://i.postimg.cc/hPNyMG8m/APF-INTERMEDIA.jpg"
+                "name": "TIGO SPORTS EN VIVO",
+                "url": "https://sam-py-edge05.tigo.com.py/VMX4_widevine/rolling-buffer/TigoSportsHD/TigoSportsHD/transmux/index.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b52a7fa91fb031a3d6f2a505414b6fcd&key=a655a22f9c0a66574b5d95dee212fbf9",
+                "icono": "https://github.com/luisoddone/femon/blob/main/oso1.png?raw=true",
+                "headers": {
+                    "Origin": "https://www.tigosports.com.py",
+                    "Referer": "https://www.tigosports.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
             },
             {
-                "name": "TIGO 1 EVENTOS 1",
+                "name": "TIGO SPORTS+ EN VIVO",
+                "url": "https://sam-py-edge05.tigo.com.py/VMX4_widevine/rolling-buffer/TigoSportsPlusHD/TigoSportsPlusHD/transmux/index.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a8d8bfb76315e4fc6ba1328e1d8870bd&key=eb27c40de4c406980e473fb6233fc897",
+                "icono": "https://github.com/luisoddone/femon/blob/main/oso1.png?raw=true",
+                "headers": {
+                    "Origin": "https://www.tigosports.com.py",
+                    "Referer": "https://www.tigosports.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {			
+                "name": "TIGO EVENTOS 1",
                 "url": "https://sam-py-edge05.tigo.com.py/ccur-session/f9de91d275e9428d9b2020eaf9c3772017462185850761b65a320aeed11ebae01d90082191a3coPufp9yYB3qqtMFbxeMGTmPz/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
                 "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg"
             },
             {
-                "name": "TIGO 2 EVENTOS",
-                "url": "https://sam-py-edge05.tigo.com.py/ccur-session/5f6c44226fc7494a8499be3dd6a8a6fe17462218668561b65a320aeed11ebae01d90082191a3cOrayJsNqJs3Xc3vvwwifH9of/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
+                "name": "TIGO EVENTOS 2",
+                "url": "https://sam-py-edge05.tigo.com.py/ccur-session/f9de91d275e9428d9b2020eaf9c3772017462185850761b65a320aeed11ebae01d90082191a3coPufp9yYB3qqtMFbxeMGTmPz/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/wbw3yya7vk1f3ivn650ug/tigo4.txt?rlkey=ozbktawdgz3ir2ydtm4qez3om&st=8nrn8w9m&dl=0",
                 "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg",
@@ -27,14 +46,14 @@
                 }
             },
             {
-                "name": "TIGO 3 EVENTOS",
-                "url": "https://sam-py-edge05.tigo.com.py/ccur-session/5f6c44226fc7494a8499be3dd6a8a6fe17462218668561b65a320aeed11ebae01d90082191a3cOrayJsNqJs3Xc3vvwwifH9of/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd",
+                "name": "TIGO EVENTOS 3",
+                "url": "https://sam-py-edge05.tigo.com.py/ccur-session/f9de91d275e9428d9b2020eaf9c3772017462185850761b65a320aeed11ebae01d90082191a3coPufp9yYB3qqtMFbxeMGTmPz/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/kg654aptb3wmdvhw1e06i/tigo3.json?rlkey=lz1ve7n2e77c4xylazzpn4qgz&st=vef4p50k&dl=0",
                 "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg"
             },
             {
-                "name": "TIGO 4 EVENTOS",
+                "name": "TIGO EVENTOS 4",
                 "url": "https://streamsvv1.su/global/player.php?channel=tigopy",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
