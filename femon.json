@@ -1,21 +1,21 @@
 [
     {
-        "name": "en esta carpeta en este momento estamos probando canales favor no ingresar​",
+		"name": "en esta carpeta en este momento estamos probando canales favor no ingresar​",
 		"samples": [
 			{
-				"name": "Tigo Sports HD (Shaka Compatible)",
-				"url": "https://sam-py-edge05.tigo.com.py/VMX4_widevine/rolling-buffer/TigoSportsHD/TigoSportsHD/transmux/index.mpd",
-				"type": "CLEARKEY_EXTENDED",
-				"clearkey_config": {
-				"key_id": "b52a7fa91fb031a3d6f2a505414b6fcd",
-				"key": "a655a22f9c0a66574b5d95dee212fbf9"
-				},
-				"drm_system": "org.w3.clearkey",
-				"icono": "https://i.ibb.co/nNH8Zv8m/unicanal1.png"
-            }
-        ]
-    },
-    {
+				"name": "Tigo Sports HHD",
+				"image": "https://tuimagen.com/tigosports.png",
+				"category": "🇵🇾 Deportes",
+				"url": "https://sam-py-edge05.tigo.com.py/ccur-session/01_549061181/VMX4/rolling-buffer/TigoSportsHD/TigoSportsHD/transmux/CCURStream_video_TigoSportsHD4-1.m3u8?ccur_st=0&ccur_et=0&ccur_fmt_type=fmp4",
+				"quality": "1280x720 - Medio",
+				"audio": {
+				"language": "spa",
+				"url": "https://sam-py-edge05.tigo.com.py/ccur-session/01_549061181/VMX4/rolling-buffer/TigoSportsHD/TigoSportsHD/transmux/CCURStream_audio_TigoSportsHD1-10.m3u8?ccur_st=0&ccur_et=0&ccur_fmt_type=fmp4"
+        }
+      }
+    ]
+  },
+  {
 	        "name": "🔵​🇵🇾🟡​TIGO SPORTS ​",
         "samples": [
             {
