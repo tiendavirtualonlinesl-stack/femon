@@ -3,19 +3,19 @@
         "name": "🔵​🇵🇾🟡​TIGO SPORTS ​",
         "samples": [
             {
-                "name": "TIGO SPORTS EN VIVO",
-				"url": "https://sam-py-edge05.tigo.com.py/VMX4_widevine/rolling-buffer/TigoSportsHD/TigoSportsHD/transmux/index.mpd?dvr_window_length=30",
+				"name": "TIGO SPORTS EN VIVO prueba",
+				"url": "https://sam-py-edge05.tigo.com.py/VMX4_widevine/rolling-buffer/TigoSportsHD/TigoSportsHD/transmux/index.mpd",
 				"type": "CLEARKEY",
-				"drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b52a7fa91fb031a3d6f2a505414b6fcd&key=a655a22f9c0a66574b5d95dee212fbf9",
-				"icono": "https://i.ibb.co/nNH8Zv8m/unicanal1.png",
-					"headers": {
-					"Origin": "https://www.tigosports.com.py",
+				"drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1c62a216a5fe423f959cb1ca02f62d83&key=3c5f7d3b0d6e4e2b8c9a1f4d5e6f7a8b",
+				"icono": "https://github.com/luisoddone/femon/blob/main/oso1.png?raw=true",
+				"headers": {
+				"Origin": "https://www.tigosports.com.py",
 					"Referer": "https://www.tigosports.com.py/",
 					"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },
             {
-				"name": "TIGO SPORTS+ EN VIVO",
+				"name": "TIGO SPORTS+ EN VIVO prueba",
 				"url": "https://sam-py-edge05.tigo.com.py/VMX4_widevine/rolling-buffer/TigoSportsPlusHD/TigoSportsPlusHD/transmux/index.mpd?dvr_window_length=30",
 				"type": "CLEARKEY",
 				"drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a8d8bfb76315e4fc6ba1328e1d8870bd&key=eb27c40de4c406980e473fb6233fc897",
