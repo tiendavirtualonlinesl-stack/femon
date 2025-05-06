@@ -1,22 +1,24 @@
 [
     {
-        "name": "🔵​🇵🇾🟡​TIGO SPORTS ​",
+        "name": "en esta carpeta en este momento estamos probando canales favor no ingresar​",
+		"samples": [
+			{
+				"name": "Tigo Sports HD (Shaka Compatible)",
+				"url": "https://sam-py-edge05.tigo.com.py/VMX4_widevine/rolling-buffer/TigoSportsHD/TigoSportsHD/transmux/index.mpd",
+				"type": "CLEARKEY_EXTENDED",
+				"clearkey_config": {
+				"key_id": "b52a7fa91fb031a3d6f2a505414b6fcd",
+				"key": "a655a22f9c0a66574b5d95dee212fbf9"
+				},
+				"drm_system": "org.w3.clearkey",
+				"icono": "https://i.ibb.co/nNH8Zv8m/unicanal1.png"
+            }
+        ]
+    },
+    {
+	        "name": "🔵​🇵🇾🟡​TIGO SPORTS ​",
         "samples": [
             {
-				"name": "TIGO SPORTS EN VIVO prueba 2",
-				"url": "https://sam-py-edge05.tigo.com.py/VMX4_widevine/rolling-buffer/TigoSportsHD/TigoSportsHD/transmux/index.mpd",
-				"type": "CLEARKEY",
-				"drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b52a7fa91fb031a3d6f2a505414b6fcd&key=a655a22f9c0a66574b5d95dee212fbf9",
-				"icono": "https://github.com/luisoddone/femon/blob/main/oso1.png?raw=true"
-      },
-      {
-				"name": "TIGO SPORTS+ EN VIVO prueba",
-				"url": "https://sam-py-edge05.tigo.com.py/VMX4_widevine/rolling-buffer/TigoSportsPlusHD/TigoSportsPlusHD/transmux/index.mpd?dvr_window_length=30",
-				"type": "CLEARKEY",
-				"drm_license_uri": "https://dl.dropbox.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
-				"icono": "https://i.ibb.co/nNH8Zv8m/unicanal1.png"
-      },
-      {
                 "name": "TIGO 1 EVENTOS 1",
                 "url": "https://sam-py-edge05.tigo.com.py/ccur-session/f9de91d275e9428d9b2020eaf9c3772017462185850761b65a320aeed11ebae01d90082191a3coPufp9yYB3qqtMFbxeMGTmPz/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
                 "type": "CLEARKEY",
