@@ -1057,56 +1057,36 @@
         ]
     },
     {
-        "name": "⚽ DEPORTES DIRECTV SPORTS",
-        "samples": [
-            {
-
-			"name": "DIRECTV SPORTS",
-			"url": "http://magmaplayer.com/stream/secure/AmN0KmZkZy8lBQNmBwWuZQN6ZwNjAwcyZJRkBzR3AmN6LJMyZwbkZzLjBzWxZzWsZGp0AmVm.m3u8",
-			"icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png"
-        ,
-			"headers": {
-			"X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-			"X-Did": "704b97090ad1fb5e",
-			"X-Version": "8/1.0.7",
-			"User-Agent": "Magma Player/8",
-			"Accept-Encoding": "gzip",
-        
-			"Connection": "Keep-Alive"
-    }
+  "name": "⚽ DEPORTES DIRECTV SPORTS",
+  "samples": [
+    {
+      "name": "D Sports (ARG)",
+      "url": "http://m.mtd.llc:8880/CH0100000000021/index_fk.mpd",
+      "icono": "https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png",
+      "headers": {
+        "User-Agent": "dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1",
+        "origin": "android_mobile.directvgo.com"
+      },
+      "drm": {
+        "license_type": "clearkey",
+        "license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/multiple_key.php?data=Wwp7CiJrZXkiOiI3YWY0MDQxNzNiMWNiYjcyNTkzNGU0NzI1YTI3NGI5YyIsCiJrZXlfaWQiOiJiY2FiYzBmYmE5MTI0MzNmYjEyZjQwNTQyNzgzYzcyNiIKfSwgewoia2V5IjoiMTNmN2MyZGE1NmU0NDFmZjk3YWE2OThkNWFhYTQxYzQiLAoia2V5X2lkIjoiMDA1ZGFkMmQ4YmE1M2YyNzhiZWE3MmQyNGRhMTllYjUiCn0KXQ=="
+      }
     },
-	    {
-			"name": "DIRECTV SPORTS 2",
-			"url": "http://magmaplayer.com/stream/m3u8/AwRkKmZlAS8kAmxhAwNhZwZ5YwVmKmR3AQDlAN/hls/324.m3u8",
-			"icono": "https://i.ibb.co/RGy1cnLP/directv-sports2.png"
-        ,
-			"headers": {
-			"X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-			"X-Did": "704b97090ad1fb5e",
-			"X-Version": "8/1.0.7",
-			"User-Agent": "Magma Player/8",
-			"Accept-Encoding": "gzip",
-        
-			"Connection": "Keep-Alive"
+    {
+      "name": "D Sports 2",
+      "url": "http://m.mtd.llc:8880/CH0100000000128/index_fk.mpd",
+      "icono": "https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png",
+      "headers": {
+        "User-Agent": "dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1",
+        "origin": "android_mobile.directvgo.com"
+      },
+      "drm": {
+        "license_type": "clearkey",
+        "license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/multiple_key.php?data=Wwp7CiJrZXkiOiI3MDU5NzFiNzA5YzcwOTM2MjFiNTU4Y2Y5NDMyMGQ4NyIsCiJrZXlfaWQiOiI4Y2NmNDVhNGE2NjE0MTRlYWExMDgzOTNlMjVkZDI2ZiIKfSwgewoia2V5IjoiYWY0YmEzMWMxMzI0ZWI5MmFjODg0NjNmN2JkOTQxZDUiLAoia2V5X2lkIjoiYzQ0ZDUyYjExZGNlMzg3NWFkMjc2NWM5ZDQ2OTA3NWIiCn0KXQ=="
+      }
     }
-    },
-	    {
-			"name": "DIRECTV SPORTS PLUS",
-			"url": "http://magmaplayer.com/stream/m3u8/Awx5KmZkAS8kAmxhAwNhZwZ5YwVmKmR3AQDlAN/hls/314.m3u8",
-			"icono": "https://i.ibb.co/rG8VJmk2/Y2gw-MTAw-MDAw-MDAw-MTM5-X2xpbm-Vhcl9ja-GFubm-Vs-X3-Nzb-GE-11002-LOGO-360x270.png"
-        ,
-			"headers": {
-			"X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-			"X-Did": "704b97090ad1fb5e",
-			"X-Version": "8/1.0.7",
-			"User-Agent": "Magma Player/8",
-			"Accept-Encoding": "gzip",
-        
-			"Connection": "Keep-Alive"
-    }
-	    }
-       ]
-  },
+  ]
+},
       {
     "name": "⚽ DEPORTES MOVISTAR",
     "samples": [
@@ -1226,50 +1206,97 @@
         ]
     },
     {
-        "name": "⚽ DEPORTES BRASIL 🇧🇷​",
-        "samples": [
-		{
-			"name": "PREMIERE BR 1 prooooo",
-			"url": "https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/out/v1/98fe69f2cdc041388004305e63353268/cenc.mpd",
-			"type": "CLEARKEY",
-			"drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9547f9aead1237c8a3b1bf0a91ed9995&key=534fab4541fef31921dd970c65d51848",
-			"icono": "https://github.com/luisoddone/femon/blob/main/PREMIERE-SI.jpg?raw=true"
-        },
-        {
-            "name": "PREMIERE BR 2",
-            "url": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd",
-            "type": "CLEARKEY",
-            "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d98239180d8380b3a1bb28d875b1ddf2&key=cf836ced579257d1c76ae8809818e6c4",
-            "icono": "https://github.com/luisoddone/femon/blob/main/PREMIERE-SI.jpg?raw=true"
-        },
-        {
-            "name": "PREMIERE BR 3",
-            "url": "https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/j4y12ucrx0/out/v1/9135597c4400465e9e752dc32de587fd/cenc.mpd",
-            "type": "CLEARKEY",
-            "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d5a3ac0b892bfcdf352b6def9cb2764&key=ac0936acc0036fad2273efaa42b1fafd",
-            "icono": "https://github.com/luisoddone/femon/blob/main/PREMIERE-SI.jpg?raw=true"
-        },
-        {
-            "name": "PREMIERE BR 4",
-            "url": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zytzybatcd/out/v1/4e59aa00f6784bb98170741d40b33e3e/cenc.mpd",
-            "type": "CLEARKEY",
-            "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ce5d18ffd68650affce1985201983ab7&key=397c64e42507d95e5460830918c22a98",
-            "icono": "https://github.com/luisoddone/femon/blob/main/PREMIERE-SI.jpg?raw=true"
-        },
-        {
-            "name": "PREMIERE BR 5",
-            "url": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cydwktwhqj/out/v1/c6e2919fe4e04a73935691f8284a4afe/cenc.mpd",
-            "type": "CLEARKEY",
-            "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=05cedc366ce4ec735ee4b33fcefbf01f&key=475d6dd40ea8a6896e02b26a6cf34d95",
-            "icono": "https://github.com/luisoddone/femon/blob/main/PREMIERE-SI.jpg?raw=true"
-        },
-        {
-            "name": "PREMIERE BR 6",
-            "url": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dabubydklo/out/v1/c272f10312ac4e81bcf2183509703dd1/cenc.mpd",
-            "type": "CLEARKEY",
-            "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7ba384f9d983c731ab1e3702c16e2faf&key=f28adca4375e8a041fd22aef26440009",
-            "icono": "https://github.com/luisoddone/femon/blob/main/PREMIERE-SI.jpg?raw=true"
-            }
+  "name": "⚽ DEPORTES BRASIL 🇧🇷​",
+  "samples": [
+    {
+      "name": "Premier Clubes",
+      "url": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd",
+      "type": "CLEARKEY",
+      "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d98239180d8380b3a1bb28d875b1ddf2&key=cf836ced579257d1c76ae8809818e6c4",
+      "icono": "https://embedtv.digital/assets/images/premiere.png"
+    },
+    {
+      "name": "Premier 2",
+      "url": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd",
+      "type": "CLEARKEY",
+      "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=fd2e8019f37211ca8b78a8b656f1b83a&key=273189c214e85b43ac36298d1c422330",
+      "icono": "https://embedtv.digital/assets/images/premiere.png"
+    },
+    {
+      "name": "Premier 3",
+      "url": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/out/v1/98fe69f2cdc041388004305e63353268/cenc.mpd",
+      "type": "CLEARKEY",
+      "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9547f9aead1237c8a3b1bf0a91ed9995&key=534fab4541fef31921dd970c65d51848",
+      "icono": "https://embedtv.digital/assets/images/premiere.png"
+    },
+    {
+      "name": "Premier 4",
+      "url": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zytzybatcd/out/v1/4e59aa00f6784bb98170741d40b33e3e/cenc.mpd",
+      "type": "CLEARKEY",
+      "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ce5d18ffd68650affce1985201983ab7&key=397c64e42507d95e5460830918c22a98",
+      "icono": "https://embedtv.digital/assets/images/premiere.png"
+    },
+    {
+      "name": "Premier 5",
+      "url": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/j4y12ucrx0/out/v1/9135597c4400465e9e752dc32de587fd/cenc.mpd",
+      "type": "CLEARKEY",
+      "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d5a3ac0b892bfccdf352b6def9cb2764&key=ac0936acc0036fad2273efaa42b1fafd",
+      "icono": "https://embedtv.digital/assets/images/premiere.png"
+    },
+    {
+      "name": "Premier 6",
+      "url": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cydwktwhqj/out/v1/c6e2919fe4e04a73935691f8284a4afe/cenc.mpd",
+      "type": "CLEARKEY",
+      "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=05cedc366ce4ec735ee4b33fcefbf01f&key=475d6dd40eaba6896e02b26a6cf34d95",
+      "icono": "https://embedtv.digital/assets/images/premiere.png"
+    },
+    {
+      "name": "Premier 7",
+      "url": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wczqphrl5k/out/v1/7a20b4be236a4a9484fdf5cdfcbe79d5/cenc.mpd",
+      "type": "CLEARKEY",
+      "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7ce96e01eee54fb77e5cc4e7b753d6b0&key=184f94303d3357b9a7381ccdeee9b611",
+      "icono": "https://embedtv.digital/assets/images/premiere.png"
+    },
+    {
+      "name": "Premier 8",
+      "url": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dabubydklo/out/v1/c272f10312ac4e81bcf2183509703dd1/cenc.mpd",
+      "type": "CLEARKEY",
+      "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7ba384f9d983c731ab1e3702c16e2faf&key=f28adca4375e8a041fd22aef26440009",
+      "icono": "https://embedtv.digital/assets/images/premiere.png"
+    },
+    {
+      "name": "SPORTV 1",
+      "url": "https://fazoeli.fun/fontes/embedtv/sportv.m3u8",
+      "type": "HLS",
+      "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg",
+      "headers": {
+        "Referer": "https://embedtv-0.icu/",
+        "Origin": "https://embedtv-0.icu",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+      }
+    },
+    {
+      "name": "SPORTV 2",
+      "url": "https://fazoeli.fun/fontes/embedtv/sportv2.m3u8",
+      "type": "HLS",
+      "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg",
+      "headers": {
+        "Referer": "https://embedtv-0.icu/",
+        "Origin": "https://embedtv-0.icu",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+      }
+    },
+    {
+      "name": "SPORTV 3",
+      "url": "https://fazoeli.fun/fontes/embedtv/sportv3.m3u8",
+      "type": "HLS",
+      "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg",
+      "headers": {
+        "Referer": "https://embedtv-0.icu/",
+        "Origin": "https://embedtv-0.icu",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+      }
+     }
         ]
     },
     {
@@ -2815,21 +2842,65 @@
         ]
     },
     {
-        "name": "​🇦🇷GRAN HERMANO",
-        "samples": [
-            {
-                "name": "GRAN HERMANO 24/7",
-                "url": "http://tv.zeuspro.xyz:8080/live/jcoronado25/d41cb84b2988/102111.m3u8",
-                "type": "CLEARKEY",
-                "icono": "https://i.ibb.co/qF5zpHcs/el-nuevo-logo-de-gran-hermano-jpg-215279816.webp",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            }
-        ]
+  "name": "🇦🇷GRAN HERMANO",
+  "samples": [
+    {
+      "name": "GRAN HERMANO 24/7",
+      "url": "http://tv.zeuspro.xyz:8080/live/jcoronado25/d41cb84b2988/102111.m3u8",
+      "type": "CLEARKEY",
+      "icono": "https://i.ibb.co/qF5zpHcs/el-nuevo-logo-de-gran-hermano-jpg-215279816.webp",
+      "headers": {
+        "Origin": "https://web.app.flow.com.ar",
+        "Referer": "https://web.app.flow.com.ar/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+      }
     },
+    {
+      "name": "D Sports (ARG)",
+      "url": "http://m.mtd.llc:8880/CH0100000000021/index_fk.mpd",
+      "type": "CLEARKEY",
+      "icono": "https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png",
+      "headers": {
+        "Origin": "android_mobile.directvgo.com",
+        "User-Agent": "dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1"
+      },
+      "license": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/multiple_key.php?data=Wwp7CiJrZXkiOiI3YWY0MDQxNzNiMWNiYjcyNTkzNGU0NzI1YTI3NGI5YyIsCiJrZXlfaWQiOiJiY2FiYzBmYmE5MTI0MzNmYjEyZjQwNTQyNzgzYzcyNiIKfSwgewoia2V5IjoiMTNmN2MyZGE1NmU0NDFmZjk3YWE2OThkNWFhYTQxYzQiLAoia2V5X2lkIjoiMDA1ZGFkMmQ4YmE1M2YyNzhiZWE3MmQyNGRhMTllYjUiCn0KXQ=="
+    },
+    {
+      "name": "D Sports 2",
+      "url": "http://m.mtd.llc:8880/CH0100000000128/index_fk.mpd",
+      "type": "CLEARKEY",
+      "icono": "https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png",
+      "headers": {
+        "Origin": "android_mobile.directvgo.com",
+        "User-Agent": "dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1"
+      },
+      "license": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/multiple_key.php?data=Wwp7CiJrZXkiOiI3MDU5NzFiNzA5YzcwOTM2MjFiNTU4Y2Y5NDMyMGQ4NyIsCiJrZXlfaWQiOiI4Y2NmNDVhNGE2NjE0MTRlYWExMDgzOTNlMjVkZDI2ZiIKfSwgewoia2V5IjoiYWY0YmEzMWMxMzI0ZWI5MmFjODg0NjNmN2JkOTQxZDUiLAoia2V5X2lkIjoiYzQ0ZDUyYjExZGNlMzg3NWFkMjc2NWM5ZDQ2OTA3NWIiCn0KXQ=="
+    },
+    {
+      "name": "D Sports +",
+      "url": "http://m.mtd.llc:8880/CH0100000000139/index_fk.mpd",
+      "type": "CLEARKEY",
+      "icono": "https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png",
+      "headers": {
+        "Origin": "android_mobile.directvgo.com",
+        "User-Agent": "dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1"
+      },
+      "license": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"dbskbhEGQVe1urIqeZ0piQ\",\"k\":\"xJjyqXjCPyQLGPsXH9FQyA\"},{\"kty\":\"oct\",\"kid\":\"8Zw6jGONUsKrd7lWa8splg\",\"k\":\"dACp-QXxctXXTX3EQHJMjg\"}],\"type\":\"temporary\"}"
+    },
+    {
+      "name": "DSports Fight",
+      "url": "http://m.mtd.llc:8880/CH0100000000302/index_fk.mpd",
+      "type": "CLEARKEY",
+      "icono": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMzAyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png",
+      "headers": {
+        "Origin": "android_mobile.directvgo.com",
+        "User-Agent": "dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1"
+      },
+      "license": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"NrLGt3NqWQG_QIkWpFSr-Q\",\"k\":\"m9fsG6gCpxZO2sqkk8I0fA\"}],\"type\":\"temporary\"}"
+    }
+  ]
+},
     {
         "name": "🇧🇷CANALES DE BRASIL",
         "samples": [
@@ -2862,6 +2933,11 @@
                 "name": "URBAN DRIVE",
                 "icono": "https://urban-drive.ch/cdn/shop/files/logo-o.png",
                 "url": "http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8"
+            },
+	    {
+                "name": "GLOBO",
+                "icono": "https://e7.pngegg.com/pngimages/82/749/png-clipart-brazil-rede-globo-logo-globo-com-globo-tv-international-others-miscellaneous-logo.png",
+                "url": "http://45.134.141.162:3366/stream/globo/san/master432.m3u8"
             },
             {
                 "name": "TV BRASIL",
