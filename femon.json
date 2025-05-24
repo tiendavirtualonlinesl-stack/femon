@@ -10,8 +10,8 @@
 	        "name": "🇵🇾​ EVENTOS TIGO FUTBOL PARAGUAYO​",
         "samples": [
             {
-		"name": "CERRO VS 2 DE MAYO",
-                "url": "https://1jqqbmfkz.s3.eu-west-1.amazonaws.com/hls/stream2/index.m3u8",
+		"name": "CERRO VSS 2 DE MAYO",
+                "url": "https://1y9bp115.s3.eu-west-1.amazonaws.com/hls/stream14/index.m3u8",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Tigo.svg/1200px-Logo_Tigo.svg.png",
 				"headers": {
                 "Origin": "https://elverruca.tech",
