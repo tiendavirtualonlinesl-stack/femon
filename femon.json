@@ -7,18 +7,8 @@
         ]
     },
     {	
-	        "name": "🇵🇾​ EVENTOS TIGO FUTBOL PARAGUAYO​",
+	        "name": "🇵🇾​ EVENTOS TIGO SPORTS FUTBOL PARAGUAYO​",
         "samples": [
-            {
-		"name": "CERRO VSS 2 DE MAYO",
-                "url": "https://1y9bp115.s3.eu-west-1.amazonaws.com/hls/stream14/index.m3u8",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Tigo.svg/1200px-Logo_Tigo.svg.png",
-				"headers": {
-                "Origin": "https://elverruca.tech",
-                "Referer": "https://elverruca.tech/",
-                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
             {
       		  "name": "TIGO 1 EVENTOS",
       		  "url": "https://sam-py-edge05.tigo.com.py/ccur-session/f9de91d275e9428d9b2020eaf9c3772017462185850761b65a320aeed11ebae01d90082191a3coPufp9yYB3qqtMFbxeMGTmPz/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
@@ -799,15 +789,14 @@
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/4gwhrzf22w2401dfix2kh/premiun.json?rlkey=nzp11gn43womr013ppnr6wxq0&st=ahppdvk9&dl=0",
         "icono": "https://i.ibb.co/0jSPkhK/1917793265-ESPNPremium-11-png-c58d52a209062a470b942de50e11f529.png"
      ,
-"headers": {
+		"headers": {
                 "Origin": "https://web.app.flow.com.ar",
                 "Referer": "https://web.app.flow.com.ar/",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
-
       {
-        "name": "TYC SPORTS",
+        "name": "TYC SPORTS ARGENTINA",
         "url": "http://edge-mix04-coe.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_C/TyCSport.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
@@ -831,25 +820,25 @@
     }
 },
 	    {
-        "name": "TYC SPORT 2",
+        "name": "TYC SPORTS 2",
         "url": "https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1OTM5ZmMzZDQyZjgwLWExMDktMDkyNC0xYmRiLTVjZDNkMDJh/master.m3u8?md5=WEFcDC9a_uWLF4xhkWpipA&expires=1742502555",
         "icono": "https://i.ibb.co/8LNvR82m/tyc-sports-2-862x485.webp",
         "type": "HLS"
       },
       {
-        "name": "TYC SPORT INTERNACIONAL",
+        "name": "TYC SPORTS INTERNACIONAL",
         "url": "https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1NTNkNjYzYWExYmU1LWVjMDgtMDQ2NC1kMDA1LTQ1MTE5YjBl/master.m3u8?md5=DDqG68eI1U2a46ICa7bwSw&expires=1742428477",
         "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
         "type": "HLS"
       },
       {
-        "name": "TYC SPORT (PLAY 1)",
+        "name": "TYC SPORTS (PLAY 1)",
         "url": "https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8",
         "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
         "type": "HLS"
       },
      {
-    "name": "TYC SPORT (PLAY 2)",
+    "name": "TYC SPORTS (PLAY 2)",
     "url": "https://livst.site/amc/index.m3u8",
     "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
     "type": "HLS",
@@ -875,32 +864,32 @@
 },
       
       {
-        "name": "TYC SPORT (PLAY 3)",
+        "name": "TYC SPORTS (PLAY 3)",
         "url": "https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_10.m3u8",
         "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
         "type": "HLS"
       },
       {
-        "name": "TYC SPORT (PLAY 4)",
+        "name": "TYC SPORTS (PLAY 4)",
         "url": "https://dj8bzwveg7go9.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index_15.m3u8",
         "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
         "type": "HLS"
       },
       {
-        "name": "TYC SPORT (PLAY 5)",
+        "name": "TYC SPORTS (PLAY 5)",
         "url": "https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index_9.m3u8",
         "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
         "type": "HLS"
       },
 {
-    "name": "TYC SPORT (PLAY 5)",
+    "name": "TYC SPORTS (PLAY 5)",
     "url": "https://gol12.com/online/canales.php?stream=disney2",
     "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
     "type": "WEBVIEW"
     
 },
        {
-    "name": "TYC SPORT (PLAY 8)",
+    "name": "TYC SPORTS (PLAY 8)",
     "url": "https://plpro.org/stream/secure/ZKj3ZQA8ZwtjZmblLGNjBwVjZQL6MGSuZGcwZ2R1BwxlMwx6MwDkLmb1BJZ0sQR3ZmLlAwtjBQHlAwE8ZQtmZQWwAQp2LGD1Z2VmZajjsQO8ETSfqzyeYmVhZF4jVPuZnJ51rQftIGftDJ5xpz9cMPNkAQftZwZjZwuFDGLjGPOPqJyfMP9IF1RkYwVmZQxkAl4jZQRc/703.m3u8",
     "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
     "type": "HLS",
@@ -916,14 +905,14 @@
        },
        
             {
-    "name": "TYC SPORT (PLAY 6)",
+    "name": "TYC SPORTS (PLAY 6)",
     "url": "https://dpstream1.my/fun1.html?channel=dsports",
     "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
     "type": "WEBVIEW"
 
        },
 {
-  "name": "TYC SPORT (PLAY 7)",
+  "name": "TYC SPORTS (PLAY 7)",
   "url": "https://sportzonline.si/channels/hd/hd2.php",
   "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
   "type": "WEBVIEW2",
@@ -940,7 +929,7 @@
   }
 },
       {
-        "name": "TNT SPORT HD",
+        "name": "TNT SPORTS HD",
         "url": "https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_C/TNT_Sports_HD.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a",
@@ -951,11 +940,9 @@
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         }
-
-   
-    ]
-  },
-   {
+   ]
+            },
+	    {
         "name": "⚽ DEPORTES ESPN",
         "samples": [
             {
@@ -1214,33 +1201,52 @@
   "name": "⚽ DEPORTES DIRECTV SPORTS",
   "samples": [
     {
-      "name": "D Sports (ARG)",
-      "url": "http://m.mtd.llc:8880/CH0100000000021/index_fk.mpd",
-      "icono": "https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png",
-      "headers": {
-        "User-Agent": "dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1",
-        "origin": "android_mobile.directvgo.com"
-      },
-      "drm": {
-        "license_type": "clearkey",
-        "license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/multiple_key.php?data=Wwp7CiJrZXkiOiI3YWY0MDQxNzNiMWNiYjcyNTkzNGU0NzI1YTI3NGI5YyIsCiJrZXlfaWQiOiJiY2FiYzBmYmE5MTI0MzNmYjEyZjQwNTQyNzgzYzcyNiIKfSwgewoia2V5IjoiMTNmN2MyZGE1NmU0NDFmZjk3YWE2OThkNWFhYTQxYzQiLAoia2V5X2lkIjoiMDA1ZGFkMmQ4YmE1M2YyNzhiZWE3MmQyNGRhMTllYjUiCn0KXQ=="
-      }
-    },
-    {
-      "name": "D Sports 2",
-      "url": "http://m.mtd.llc:8880/CH0100000000128/index_fk.mpd",
-      "icono": "https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png",
-      "headers": {
-        "User-Agent": "dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1",
-        "origin": "android_mobile.directvgo.com"
-      },
-      "drm": {
-        "license_type": "clearkey",
-        "license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/multiple_key.php?data=Wwp7CiJrZXkiOiI3MDU5NzFiNzA5YzcwOTM2MjFiNTU4Y2Y5NDMyMGQ4NyIsCiJrZXlfaWQiOiI4Y2NmNDVhNGE2NjE0MTRlYWExMDgzOTNlMjVkZDI2ZiIKfSwgewoia2V5IjoiYWY0YmEzMWMxMzI0ZWI5MmFjODg0NjNmN2JkOTQxZDUiLAoia2V5X2lkIjoiYzQ0ZDUyYjExZGNlMzg3NWFkMjc2NWM5ZDQ2OTA3NWIiCn0KXQ=="
-      }
+        "name": "DIRECTV SPORTS ARGENTINA",
+        "url": "http://magmaplayer.com/stream/secure/AmN0KmZkZy8lBQNmBwWuZQN6ZwNjAwcyZJRkBzR3AmN6LJMyZwbkZzLjBzWxZzWsZGp0AmVm.m3u8",
+        "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png"
+        ,
+    "headers": {
+        "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
+        "X-Did": "704b97090ad1fb5e",
+        "X-Version": "8/1.0.7",
+        "User-Agent": "Magma Player/8",
+        "Accept-Encoding": "gzip",
+        
+        "Connection": "Keep-Alive"
     }
-  ]
-},
+    },
+	    {
+        "name": "DIRECTV SPORTS ARGENTINA 2",
+        "url": "http://magmaplayer.com/stream/m3u8/AwRkKmZlAS8kAmxhAwNhZwZ5YwVmKmR3AQDlAN/hls/324.m3u8",
+        "icono": "https://i.ibb.co/RGy1cnLP/directv-sports2.png"
+        ,
+    "headers": {
+        "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
+        "X-Did": "704b97090ad1fb5e",
+        "X-Version": "8/1.0.7",
+        "User-Agent": "Magma Player/8",
+        "Accept-Encoding": "gzip",
+        
+        "Connection": "Keep-Alive"
+    }
+    },
+	    {
+        "name": "DIRECTV SPORTS +",
+        "url": "http://magmaplayer.com/stream/m3u8/Awx5KmZkAS8kAmxhAwNhZwZ5YwVmKmR3AQDlAN/hls/314.m3u8",
+        "icono": "https://i.ibb.co/rG8VJmk2/Y2gw-MTAw-MDAw-MDAw-MTM5-X2xpbm-Vhcl9ja-GFubm-Vs-X3-Nzb-GE-11002-LOGO-360x270.png"
+        ,
+    "headers": {
+        "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
+        "X-Did": "704b97090ad1fb5e",
+        "X-Version": "8/1.0.7",
+        "User-Agent": "Magma Player/8",
+        "Accept-Encoding": "gzip",
+        
+        "Connection": "Keep-Alive"
+    }
+	    }
+       ]
+  },
       {
     "name": "⚽ DEPORTES MOVISTAR",
     "samples": [
@@ -1598,6 +1604,13 @@
                 }
             },
             {
+			
+        "name": "MY PADEL TV",
+        "url": "https://d1zpoa0s0okzmu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h7omeoyf2i8uy/live/fast-channel-mypadeltv-c792478d/fast-channel-mypadeltv-c792478d.m3u8",
+        "icono": "https://github.com/luisoddone/femon/blob/main/channels4_profile.jpg?raw=true",
+        "type": "HLS"
+      },
+      {
                 "name": "CDO PREMIUM",
                 "url": "http://magmaplayer.com/stream/m3u8/BQVjKmR0BI8kAQthZwVlYwRmAP4kZmIsZGp0ZmZj/hls/149.m3u8",
                 "icono": "https://i.ibb.co/nMRb9NYk/6065f67d6a70f2448ee66115-cdo.png",
@@ -2294,9 +2307,9 @@
             },
             {
                 "name": "DISCOVERY THEATER",
-                "url": "https://chromecast.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc_C/Theater_HD.mpd",
+                "url": "https://chromecast.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc_wl/Theater_HD.mpd",
                 "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a611ddbf8c15fa617a0c391cb7b3e128&key=0cd1300baf8890380fd41124962195c4",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5279c05ea51c4dae8e7fa6be88448089&key=5279c05ea51c4dae8e7fa6be88448089",
                 "icono": "https://i.ibb.co/TD6cKXF0/2015-Discovery-theater-HD-logo-svg.png",
                 "headers": {
                     "Origin": "https://web.app.flow.com.ar",
@@ -2332,23 +2345,11 @@
                 "url": "https://chromecast.cvattv.com.ar/live/c6eds/Lifetime/SA_Live_dash_enc_wl/Lifetime.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=eae51b1d67ff47adac7b6bd3a4b1120a&key=b4d6bb47193f33ffc12379cdc447455d",
-                "icono": "https://github.com/luisoddone/femon/blob/1b5cda70ce22f7e408eafc9ed22aace7e18355e3/DFFFFFFFFFFFFFFFFFFFFFFFFFF.png",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/2048px-Lifetime_logo17.svg.png",
                 "headers": {
                     "Origin": "https://web.app.flow.com.ar",
                     "Referer": "https://web.app.flow.com.ar/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "LOVE NATURE",
-                "url": "http://cdn.sensa.com.ar/bpk-tv/LoveNature/default/index_fk.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ea6437084f6c055c7c856f86361e86fa&key=9791c0e6f72b4a5eacf8bddfa5290209",
-                "icono": "https://www.mygreenpod.com/wp-content/uploads/2019/04/Love-Nature-Logo.jpg",
-                "headers": {
-                    "Origin": "=https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar",
-                    "User-Agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager"
                 }
             },
             {
@@ -2458,6 +2459,18 @@
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4a742e478d14023e1993e011d9415f94&key=0df77ede9bc744376836d21afa137dda",
                 "icono": "https://lokos.pages.dev/webp/logos/disney.webp",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "Disney Jr",
+                "url": "https://chromecast.cvattv.com.ar/live/c7eds/DisneyJr/SA_Live_dash_enc_2A_wl/DisneyJr.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bd29c4a538f28845ce33581111749428&key=46d9589f41a11c3637c07c604956deac",
+                "icono": "https://github.com/luisoddone/femon/blob/main/maxresdefault%20(1).jpg?raw=true",
                 "headers": {
                     "Origin": "https://web.app.flow.com.ar",
                     "Referer": "https://web.app.flow.com.ar/",
@@ -3027,55 +3040,11 @@
         "Origin": "https://web.app.flow.com.ar",
         "Referer": "https://web.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-      }
-    },
-    {
-      "name": "D Sports (ARG)",
-      "url": "http://m.mtd.llc:8880/CH0100000000021/index_fk.mpd",
-      "type": "CLEARKEY",
-      "icono": "https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png",
-      "headers": {
-        "Origin": "android_mobile.directvgo.com",
-        "User-Agent": "dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1"
-      },
-      "license": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/multiple_key.php?data=Wwp7CiJrZXkiOiI3YWY0MDQxNzNiMWNiYjcyNTkzNGU0NzI1YTI3NGI5YyIsCiJrZXlfaWQiOiJiY2FiYzBmYmE5MTI0MzNmYjEyZjQwNTQyNzgzYzcyNiIKfSwgewoia2V5IjoiMTNmN2MyZGE1NmU0NDFmZjk3YWE2OThkNWFhYTQxYzQiLAoia2V5X2lkIjoiMDA1ZGFkMmQ4YmE1M2YyNzhiZWE3MmQyNGRhMTllYjUiCn0KXQ=="
-    },
-    {
-      "name": "D Sports 2",
-      "url": "http://m.mtd.llc:8880/CH0100000000128/index_fk.mpd",
-      "type": "CLEARKEY",
-      "icono": "https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png",
-      "headers": {
-        "Origin": "android_mobile.directvgo.com",
-        "User-Agent": "dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1"
-      },
-      "license": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/multiple_key.php?data=Wwp7CiJrZXkiOiI3MDU5NzFiNzA5YzcwOTM2MjFiNTU4Y2Y5NDMyMGQ4NyIsCiJrZXlfaWQiOiI4Y2NmNDVhNGE2NjE0MTRlYWExMDgzOTNlMjVkZDI2ZiIKfSwgewoia2V5IjoiYWY0YmEzMWMxMzI0ZWI5MmFjODg0NjNmN2JkOTQxZDUiLAoia2V5X2lkIjoiYzQ0ZDUyYjExZGNlMzg3NWFkMjc2NWM5ZDQ2OTA3NWIiCn0KXQ=="
-    },
-    {
-      "name": "D Sports +",
-      "url": "http://m.mtd.llc:8880/CH0100000000139/index_fk.mpd",
-      "type": "CLEARKEY",
-      "icono": "https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png",
-      "headers": {
-        "Origin": "android_mobile.directvgo.com",
-        "User-Agent": "dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1"
-      },
-      "license": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"dbskbhEGQVe1urIqeZ0piQ\",\"k\":\"xJjyqXjCPyQLGPsXH9FQyA\"},{\"kty\":\"oct\",\"kid\":\"8Zw6jGONUsKrd7lWa8splg\",\"k\":\"dACp-QXxctXXTX3EQHJMjg\"}],\"type\":\"temporary\"}"
-    },
-    {
-      "name": "DSports Fight",
-      "url": "http://m.mtd.llc:8880/CH0100000000302/index_fk.mpd",
-      "type": "CLEARKEY",
-      "icono": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMzAyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png",
-      "headers": {
-        "Origin": "android_mobile.directvgo.com",
-        "User-Agent": "dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1"
-      },
-      "license": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"NrLGt3NqWQG_QIkWpFSr-Q\",\"k\":\"m9fsG6gCpxZO2sqkk8I0fA\"}],\"type\":\"temporary\"}"
-    }
-  ]
+   }
+      }	    
+]
 },
-    {
+      	 {
         "name": "🇧🇷CANALES DE BRASIL",
         "samples": [
             {
