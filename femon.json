@@ -605,6 +605,150 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       }
     },
+{
+    "name": "CBA24N Córdoba",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/CBA24/SA_Live_dash_enc_C/CBA24.mpd",
+    "type": "CLEARKEY",
+    "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b93e6ce6b4fb51b890ac57d8c0b6a402&key=53eb2499d8c57cf6f9ea887c8683c591",
+    "icono": "https://i.ibb.co/K2sJwVC/canal-u.png",
+    "headers": {
+      "Origin": "https://web.app.flow.com.ar",
+      "Referer": "https://web.app.flow.com.ar/",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+    }
+  },
+  {
+    "name": "Canal C Córdoba",
+    "url": "https://cdn.cvattv.com.ar/live/c5eds/Canal_C/SA_Live_dash_enc_C/Canal_C.mpd",
+    "type": "CLEARKEY",
+    "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9a866ca98bef2351a68e4843139f8073&key=b0893077653d1ef842a1b65d8b34455a",
+    "icono": "https://i.ibb.co/F6bXsYs/canal-c.png",
+    "headers": {
+      "Origin": "https://web.app.flow.com.ar",
+      "Referer": "https://web.app.flow.com.ar/",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+    }
+  },
+  {
+    "name": "Canal Local Carlos Paz",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/Local_Carlos_Paz/SA_Live_dash_enc_C/Local_Carlos_Paz.mpd",
+    "type": "CLEARKEY",
+    "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7804609194dc7145bf297153276096d2&key=03d3f4e3d0b35362dadfddce10dee00c",
+    "icono": "https://i.ibb.co/5RH9HTB/next-multimedio.png",
+    "headers": {
+      "Origin": "https://web.app.flow.com.ar",
+      "Referer": "https://web.app.flow.com.ar/",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+    }
+  },
+  {
+    "name": "TeleDiario TV",
+    "url": "http://cdn.sensa.com.ar/bpk-tv/TelediarioTelevision/default/index_fk.mpd",
+    "type": "CLEARKEY",
+    "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ff1e6f58369fa0457670eb452cb49f8a&key=4a5b005a7dbd38fe00c50d27fa23ab0a",
+    "icono": null,
+    "headers": {
+      "Origin": "https://web.app.flow.com.ar",
+      "Referer": "https://web.app.flow.com.ar/",
+      "User-Agent": "Mozilla/5.0 (Web0S; Linux; SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager"
+    }
+  },
+  {
+    "name": "Canal Universidad De La Plata",
+    "url": "https://cdn.cvattv.com.ar/live/c3eds/Canal_Universidad/SA_Live_dash_enc_C/Canal_Universidad.mpd",
+    "type": "CLEARKEY",
+    "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=93c40cee58a5f415828cc32d0c80d311&key=d00906d71ee69515cd4dca1162d5ae7f",
+    "icono": "https://i.ibb.co/xHqzrPV/canal-universidad.png",
+    "headers": {
+      "Origin": "https://web.app.flow.com.ar",
+      "Referer": "https://web.app.flow.com.ar/",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+    }
+  },
+  {
+    "name": "Somos Bahía Blanca",
+    "url": "https://cdn.cvattv.com.ar/live/c3eds/Somos_Bahia_Blanca/SA_Live_dash_enc/Somos_Bahia_Blanca.mpd",
+    "type": "CLEARKEY",
+    "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=64c7e9ed4e3930b54d020c08a6792f10&key=737b6374d4492e8c233ca2c2ebac9b85",
+    "icono": null,
+    "headers": {
+      "Origin": "https://web.app.flow.com.ar",
+      "Referer": "https://web.app.flow.com.ar/",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+    }
+  },
+  {
+    "name": "Somos Corrientes",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/Somos_Corrientes/SA_Live_dash_enc/Somos_Corrientes.mpd",
+    "type": "CLEARKEY",
+    "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f0179a4ba9f407dfdee057a33f8f220c&key=e0c3f11cb1d7f8d17b7a1532f29edb0b",
+    "icono": "https://i.ibb.co/Jy849HS/somos-corrientes.png",
+    "headers": {
+      "Origin": "https://web.app.flow.com.ar",
+      "Referer": "https://web.app.flow.com.ar/",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+    }
+  },
+  {
+    "name": "Somos El Valle",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/Somos_El_Valle/SA_Live_dash_enc_C/Somos_El_Valle.mpd",
+    "type": "CLEARKEY",
+    "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=513f2056bf40d9123918fd7939fbf065&key=075ee6dd9b67d88be5642eaa510e91cb",
+    "icono": "https://i.ibb.co/bdxBzMQ/somos-el-valle.png",
+    "headers": {
+      "Origin": "https://web.app.flow.com.ar",
+      "Referer": "https://web.app.flow.com.ar/",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+    }
+  },
+  {
+    "name": "Somos La Plata",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Somos_La_Plata/SA_Live_dash_enc/Somos_La_Plata.mpd",
+    "type": "CLEARKEY",
+    "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bffd3b447aa44a429a703245836e46fa&key=13be31c0bcb76b28b1248bf64ab3926e",
+    "icono": "https://i.ibb.co/vBWtKxB/somos-la-plata.png",
+    "headers": {
+      "Origin": "https://web.app.flow.com.ar",
+      "Referer": "https://web.app.flow.com.ar/",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+    }
+  },
+  {
+    "name": "SOMOS MAR DEL PLATA NECOCHEA",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/Canal_Ciudad_MDQ/SA_Live_dash_enc/Canal_Ciudad_MDQ.mpd",
+    "type": "CLEARKEY",
+    "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b57763b8d9c205d609ea509432201fac&key=a476cf79190fe4810efdd81e32317ff3",
+    "icono": "https://i.ibb.co/Mpxwj59/somos-mar-del-plata.png",
+    "headers": {
+      "Origin": "https://web.app.flow.com.ar",
+      "Referer": "https://web.app.flow.com.ar/",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+    }
+  },
+  {
+    "name": "Somos Norte",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Somos_Norte/SA_Live_dash_enc/Somos_Norte.mpd",
+    "type": "CLEARKEY",
+    "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ee8a6cc35fdb4ab7adeed9d16593459f&key=5ca774838d5c887f7a8d7dee64b9a6b0",
+    "icono": "https://i.ibb.co/qnXjFGd/somos-salta.png",
+    "headers": {
+      "Origin": "https://web.app.flow.com.ar",
+      "Referer": "https://web.app.flow.com.ar/",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+    }
+  },
+  {
+    "name": "Somos Rafaela",
+    "url": "https://cdn.cvattv.com.ar/live/c4eds/Somos_Rafaela/SA_Live_dash_enc/Somos_Rafaela.mpd",
+    "type": "CLEARKEY",
+    "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7071b5b3283cebd376d1ba9c6e53ba6e&key=87a6c4c8baaefb073270e92f092b4c25",
+    "icono": "https://i.ibb.co/b5KqPnJ/somos-rafaela.png",
+    "headers": {
+      "Origin": "https://web.app.flow.com.ar",
+      "Referer": "https://web.app.flow.com.ar/",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+    }
+  },
     {
       "name": "CANAL 12 CÓRDOBA",
       "url": "https://chromecast.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc_wl/Canal_12_CBA.mpd",
