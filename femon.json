@@ -7,7 +7,7 @@
         ]
     },
     {	
-	        "name": "🇵🇾​ EVENTOS TIGO FUTBOL PARAGUAYO​",
+	        "name": "🇵🇾​ EVENTO TIGO FUTBOL PARAGUAYO​",
         "samples": [
             {
       		  "name": "TIGO 1 EVENTOS",
@@ -2305,7 +2305,7 @@
                 "name": "DISCOVERY TURBO",
                 "url": "https://chromecast.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_Live_dash_enc_2A_wl/DiscoveryTurbo.mpd",
                 "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/9oqg6qqxgw6fhwcvn6fex/turbo.json?rlkey=taczv93ig5h2v25nts4cw5jvo&st=4nuuv4rk&dl=0",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a611ddbf8c15fa617a0c391cb7b3e128&key=0cd1300baf8890380fd41124962195c4",
                 "icono": "https://i.ibb.co/M8C0j8Q/India-Tvd3227d-discovery-turbo.jpg",
                 "headers": {
                     "Origin": "https://web.app.flow.com.ar",
@@ -3610,7 +3610,7 @@
             },
             {
                 "name": "GOL PERU",
-                "url": "http://170.39.192.130:2095/56933873069play/270124play/316494",
+                "url": "http://2.magmas5.com:8000/live/XXXR3str3amLine/200conxxxxQ41/4828.ts",
                 "icono": "https://i.pinimg.com/originals/74/6a/23/746a2351b447660e738281490be3b50e.png",
                 "headers": {
                     "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
@@ -3636,7 +3636,7 @@
             },
             {
                 "name": "LIGA 1 MAX",
-                "url": "http://170.39.192.130:2095/56933873069play/270124play/316491",
+                "url": "http://dnsnetplusroq.com:8080/live/salvadCAMBIO623821/VeMvtmdbem8g/63327.ts",
                 "icono": "https://i.ibb.co/xKjXb8p5/image-LIGA-1-MAX-fabe3155b8.png",
                 "headers": {
                     "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
