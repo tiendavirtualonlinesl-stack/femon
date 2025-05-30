@@ -7,35 +7,45 @@
         ]
     },
     {	
-	        "name": "🇵🇾​ EVENTO TIGO FUTBOL PARAGUAY",
+	        "name": "🇵🇾​ EVENTO TIGO FUTBOL PARAGUAYO",
         "samples": [
             {
       		  "name": "TIGO 1 EVENTOS",
-      		  "url": "https://sam-py-edge01.tigo.com.py/ccur-session/f9de91d275e9428d9b2020eaf9c3772017462185850761b65a320aeed11ebae01d90082191a3coPufp9yYB3qqtMFbxeMGTmPz/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
+      		  "url": "https://sam-py-edge02.tigo.com.py/ccur-session/c3929a0c65044418a6fbc8a1bc5a3b161748469806142c5ca2860cc8c11eb907015d11a164c462rJOHqVR8fPCnyzwUMQ6xVaZ/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
      		   "type": "CLEARKEY",
       		  "drm_license_uri": "https://dl.dropbox.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
-      		  "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg"
+      		  "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg",		  
+				"headers": {
+			    "Origin": "https://sam-py-edge02.tigo.com.py",
+			    "Referer": "https://sam-py-edge02.tigo.com.py",
+				"User-Agent": "FireFox"
+		    }
     },
     {
-                "name": "TIGO 2 EVENTOS",
-                "url": "https://sam-py-edge05.tigo.com.py/ccur-session/f9de91d275e9428d9b2020eaf9c3772017462185850761b65a320aeed11ebae01d90082191a3coPufp9yYB3qqtMFbxeMGTmPz/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/wbw3yya7vk1f3ivn650ug/tigo4.txt?rlkey=ozbktawdgz3ir2ydtm4qez3om&st=8nrn8w9m&dl=0",
-                "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg",
-                "headers": {
-                    "Origin": "https://www.tigosports.com.py",
-                    "Referer": "https://www.tigosports.com.py/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "TIGO 3 EVENTOS",
-                "url": "https://sam-py-edge05.tigo.com.py/ccur-session/f9de91d275e9428d9b2020eaf9c3772017462185850761b65a320aeed11ebae01d90082191a3coPufp9yYB3qqtMFbxeMGTmPz/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/kg654aptb3wmdvhw1e06i/tigo3.json?rlkey=lz1ve7n2e77c4xylazzpn4qgz&st=vef4p50k&dl=0",
-                "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg"
-            },
-            {
+			"name": "TIGO 2 EVENTOS",
+			"url": "https://sam-py-edge01.tigo.com.py/ccur-session/6871f45cbfe44a1e98b13fc859c68f411748633511997430103c0e78511edba2f6b8db5aabe06earL4jvDh96joGMnUe2fHojg/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
+			"type": "CLEARKEY",
+			"drm_license_uri": "https://dl.dropbox.com/scl/fi/wbw3yya7vk1f3ivn650ug/tigo4.txt?rlkey=ozbktawdgz3ir2ydtm4qez3om&st=8nrn8w9m&dl=0",
+      		  "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg",		  
+				"headers": {
+			    "Origin": "https://www.tigosports.com.py",
+			    "Referer": "https://www.tigosports.com.py/",
+				"User-Agent": "FireFox"
+		    }
+    },
+    {
+			"name": "TIGO 3 EVENTOS",
+			"url": "https://sam-py-edge01.tigo.com.py/ccur-session/6871f45cbfe44a1e98b13fc859c68f411748633511997430103c0e78511edba2f6b8db5aabe06earL4jvDh96joGMnUe2fHojg/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
+			"type": "CLEARKEY",
+			"drm_license_uri": "https://dl.dropbox.com/scl/fi/kg654aptb3wmdvhw1e06i/tigo3.json?rlkey=lz1ve7n2e77c4xylazzpn4qgz&st=vef4p50k&dl=0",
+      		  "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg",		  
+				"headers": {
+			    "Origin": "https://www.tigosports.com.py",
+			    "Referer": "https://www.tigosports.com.py/",
+				"User-Agent": "FireFox"
+		    }
+    },
+    {
         "name": "TIGO EN VIVO",
    "url": "https://vsd121.okcdn.ru:443/hls/8700102707795.m3u8/sig/3unDpVxa37E/expires/1748183541447/srcIp/143.255.143.150/urls/185.226.55.77/clientType/1/srcAg/UNKNOWN_ANDROID/mid/10936958525011/8700102707795_high/index.m3u8",
         "type": "CLEARKEY",
