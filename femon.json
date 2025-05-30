@@ -10,18 +10,8 @@
 	        "name": "🇵🇾​ EVENTO TIGO FUTBOL PARAGUAY",
         "samples": [
             {
-		"name": "prueba",
-  		"url": "https://sam-py-edge05.tigo.com.py/ccur-session/01_549061181/VMX4/rolling-buffer/TigoSportsHD/TigoSportsHD/transmux/CCURStream_video_TigoSportsHD4-1.m3u8?ccur_st=0&ccur_et=0&ccur_fmt_type=fmp4",
-	  "icono": "https://i.pinimg.com/originals/74/6a/23/746a2351b447660e738281490be3b50e.png",
- 		 "headers": {
-	    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36",
-   	 "Accept": "*/*",
-  	  "Connection": "Keep-Alive"
-      }
-            },
-            {
       		  "name": "TIGO 1 EVENTOS",
-      		  "url": "https://sam-py-edge05.tigo.com.py/ccur-session/f9de91d275e9428d9b2020eaf9c3772017462185850761b65a320aeed11ebae01d90082191a3coPufp9yYB3qqtMFbxeMGTmPz/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
+      		  "url": "https://sam-py-edge01.tigo.com.py/ccur-session/f9de91d275e9428d9b2020eaf9c3772017462185850761b65a320aeed11ebae01d90082191a3coPufp9yYB3qqtMFbxeMGTmPz/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
      		   "type": "CLEARKEY",
       		  "drm_license_uri": "https://dl.dropbox.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
       		  "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg"
