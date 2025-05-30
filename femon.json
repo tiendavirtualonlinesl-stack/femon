@@ -7,17 +7,17 @@
         ]
     },
     {	
-	        "name": "🇵🇾​ EVENTO TIGO FUTBOL PARAGUAYO",
+	        "name": "🇵🇾​ EVENTO TIGO FUTBOL PARAGUAY",
         "samples": [
             {
       		  "name": "TIGO 1 EVENTOS",
-      		  "url": "https://sam-py-edge02.tigo.com.py/ccur-session/c3929a0c65044418a6fbc8a1bc5a3b161748469806142c5ca2860cc8c11eb907015d11a164c462rJOHqVR8fPCnyzwUMQ6xVaZ/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
+      		  "url": "https://sam-py-edge01.tigo.com.py/ccur-session/c3929a0c65044418a6fbc8a1bc5a3b161748469806142c5ca2860cc8c11eb907015d11a164c462rJOHqVR8fPCnyzwUMQ6xVaZ/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
      		   "type": "CLEARKEY",
       		  "drm_license_uri": "https://dl.dropbox.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
-      		  "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg",		  
+      		  "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg",	  
 				"headers": {
-			    "Origin": "https://sam-py-edge02.tigo.com.py",
-			    "Referer": "https://sam-py-edge02.tigo.com.py",
+			    "Origin": "https://www.tigosports.com.py",
+			    "Referer": "https://www.tigosports.com.py/",
 				"User-Agent": "FireFox"
 		    }
     },
@@ -35,15 +35,10 @@
     },
     {
 			"name": "TIGO 3 EVENTOS",
-			"url": "https://sam-py-edge01.tigo.com.py/ccur-session/6871f45cbfe44a1e98b13fc859c68f411748633511997430103c0e78511edba2f6b8db5aabe06earL4jvDh96joGMnUe2fHojg/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
-			"type": "CLEARKEY",
-			"drm_license_uri": "https://dl.dropbox.com/scl/fi/kg654aptb3wmdvhw1e06i/tigo3.json?rlkey=lz1ve7n2e77c4xylazzpn4qgz&st=vef4p50k&dl=0",
-      		  "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg",		  
-				"headers": {
-			    "Origin": "https://www.tigosports.com.py",
-			    "Referer": "https://www.tigosports.com.py/",
-				"User-Agent": "FireFox"
-		    }
+		"url": "https://sam-py-edge01.tigo.com.py/ccur-session/e319b1151f2d4f6682d5ccbb56be311417486357322181b65a320aeed11ebae01d90082191a3cTfPoq7bcpzIioW1uMA4mxQSR/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/kg654aptb3wmdvhw1e06i/tigo3.json?rlkey=lz1ve7n2e77c4xylazzpn4qgz&st=vef4p50k&dl=0",
+        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
     },
     {
         "name": "TIGO EN VIVO",
