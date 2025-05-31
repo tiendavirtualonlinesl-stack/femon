@@ -50,15 +50,13 @@
         "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg"
     },
     {
-        "name": "TIGO EN VIVO",
-   "url": "https://vsd121.okcdn.ru:443/hls/8700102707795.m3u8/sig/3unDpVxa37E/expires/1748183541447/srcIp/143.255.143.150/urls/185.226.55.77/clientType/1/srcAg/UNKNOWN_ANDROID/mid/10936958525011/8700102707795_high/index.m3u8",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
-        "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg",
-		    "headers": {
-
-			    "Origin": "https://www.tigosports.com.py",
-			    "Referer": "https://www.tigosports.com.py/"
+        "name": "FINAL CHAMPIONS UEFA",
+  "url": "https://1kd86zed.s3.eu-west-1.amazonaws.com/hls/stream4/index.m3u8",
+  "icono": "https://cdn.worldvectorlogo.com/logos/uefa-champions-league-1.svg",
+  "headers": {
+    "Origin": "https://elverruca.tech",
+    "Referer": "https://elverruca.tech/",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
 	}
 	},
 	 {
