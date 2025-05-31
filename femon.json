@@ -7,7 +7,7 @@
         ]
     },
     {	
-	        "name": "🇵🇾​ EVENTO TIGO FUTBOL PARAGUAYO",
+	        "name": "🇵🇾​ EVENTO TIGO FUTBOL PARAGUAY",
         "samples": [
             {
       		  "name": "TIGO 1 EVENTOS",
@@ -101,6 +101,7 @@
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
                 "icono": "https://i.ibb.co/qMvpYJqT/R.png",
+		    
                 "headers": {
                     "Origin": "https://portal.app.flow.com.py",
                     "Referer": "https://portal.app.flow.com.py/",
