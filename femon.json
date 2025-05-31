@@ -31,12 +31,17 @@
 			"icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg"
     },
 		{
-        "name": "EVENTOS1 TIGO FULL HD",
-        "url": "https://sam-py-edge01.tigo.com.py/ccur-session/7f6e3fdb59994965abed8dd5c6faccf517487270122031b65a320aeed11ebae01d90082191a3c1a5MrOL1SVX7zpX7GuV2tRmo/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
-        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
-    },
+  "name": "EVENTOS1 TIGO FULL HD",
+  "url": "https://sam-py-edge01.tigo.com.py/ccur-session/7f6e3fdb59994965abed8dd5c6faccf517487270122031b65a320aeed11ebae01d90082191a3c1a5MrOL1SVX7zpX7GuV2tRmo/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
+  "type": "CLEARKEY",
+  "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
+  "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg",
+  "headers": {
+    "Origin": "https://www.tigosports.com.py",
+    "Referer": "https://www.tigosports.com.py/",
+    "User-Agent": "FireFox"
+  }
+},
     {
 			"name": "TIGO 2 EVENTOS",
 			"url": "https://sam-py-edge01.tigo.com.py/ccur-session/6871f45cbfe44a1e98b13fc859c68f411748633511997430103c0e78511edba2f6b8db5aabe06earL4jvDh96joGMnUe2fHojg/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
