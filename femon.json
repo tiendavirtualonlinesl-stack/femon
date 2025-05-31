@@ -1,13 +1,27 @@
 [
+   
+
     {
 		"name": "📺 LAS PRIMERAS 34 CARPETAS CONTIENEN TODOS LOS CANALES DE TV EN VIVO 📡🛰️🇵🇾📶 📌 DEBAJO ENCONTRARÁS 🎬 TODAS LAS PELÍCULAS 🍿 ORDENADAS POR GÉNERO 🎞️ PARA QUE DISFRUTES LO QUE MÁS TE GUSTA",
-		"samples": [
-            {
+		"samples":[
+
+    {
+        "name": "EVENTOS FLOW",
+        "url": "https://cdn.cvattv.com.ar/live/c3eds/Eventos_PY/SA_Live_dash_enc/Eventos_PY.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2bdfc30f2a7591e107d8c84458c395dd&key=dcee0d6420b6b597fba15d3c4411a71e",
+        "icono": "https://i.postimg.cc/BvSyNRYQ/images-8.png",
+       
+       "headers": {
+                "Origin": "https://portal.app.flow.com.py",
+                "Referer": "https://portal.app.flow.com.py/",
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
-        ]
-    },
-    {	
-	        "name": "🇵🇾​ EVENTO TIGO FUTBOL PARAGUAY",
+        }
+       ]
+  },
+ {
+	        "name": "🇵🇾​ EVENTO TIGO FUTBOL PARAGUAYO",
         "samples": [
             {
       		  "name": "TIGO 1 EVENTOS",
@@ -96,16 +110,16 @@
         "name": "🇵🇾​CANALES PARAGUAYOS",
         "samples": [
             {
-                "name": "PARAVISION 🇵🇾",
-                "url": "https://cdn.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc_C/PARAVISION_C4.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
-                "icono": "https://i.ibb.co/qMvpYJqT/R.png",
-		    
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+				"name": "PARAVISION 🇵🇾",
+				"url": "https://cdn.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc_C/PARAVISION_C4.mpd",
+				"type": "CLEARKEY",
+				"drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
+				"icono": "https://i.ibb.co/qMvpYJqT/R.png",
+       
+				"headers": {
+                "Origin": "https://portal.app.flow.com.py",
+                "Referer": "https://portal.app.flow.com.py/",
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },
             {
@@ -115,6 +129,7 @@
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/nxn9adh2409ceum2vmhkx/snt.json?rlkey=t12dj6hptaqjneyq8clqcmymz&st=9mz7elpt&dl=0",
                 "icono": "https://i.ibb.co/vCYX0M52/snt-canal-9-paraguay-logo-9-C6-C5-CBA57-seeklogo-com.png",
                 "headers": {
+				
                     "Origin": "https://portal.app.flow.com.py",
                     "Referer": "https://portal.app.flow.com.py/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
@@ -126,6 +141,7 @@
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/s84zrlejo4o4sizaioj6v/telefuturo.json?rlkey=p150vxxmajkmtd7pxo3ip72y0&st=ys1amw1n&dl=0",
                 "icono": "https://i.ibb.co/Hp9jRYsP/telefuturo-new-logo-2022-by-randomuser2040-dfhp9ty-fullview.png",
+				
                 "headers": {
                     "Origin": "https://portal.app.flow.com.py",
                     "Referer": "https://portal.app.flow.com.py/",
@@ -139,6 +155,7 @@
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/wtweq3d3m1xib4lh1or3h/rpc.json?rlkey=xjk79wbidhrp8tfialjc2o5lr&st=cvlw27y2&dl=0",
                 "icono": "https://i.ibb.co/CKmtNhM5/Logo-de-RPC-2016.png",
                 "headers": {
+				
                     "Origin": "https://portal.app.flow.com.py",
                     "Referer": "https://portal.app.flow.com.py/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
@@ -157,6 +174,7 @@
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/gufaliqatmwnfv3g7aeg1/unicanal.json?rlkey=5gsk99k8zpinbk8cc6r8hbj9t&st=4tfniuuj&dl=0",
                 "icono": "https://i.ibb.co/nNH8Zv8m/unicanal1.png",
+				
                 "headers": {
                     "Origin": "https://portal.app.flow.com.py",
                     "Referer": "https://portal.app.flow.com.py/",
@@ -174,6 +192,7 @@
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/dpbz4pdke63tt2s8z6isb/paraguaytv.json?rlkey=65dbkyp3z9fdx76bqmc3ldlmk&st=csm3pk5x&dl=0",
                 "icono": "https://i.ibb.co/pB0cvBG1/py-Tv-web-2.png",
+				
                 "headers": {
                     "Origin": "https://portal.app.flow.com.py",
                     "Referer": "https://portal.app.flow.com.py/",
