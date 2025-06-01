@@ -21,36 +21,42 @@
        ]
   },
  {
-	        "name": "🇵🇾​ EVENTO TIGO FUTBOL PARAGUAY",
+	        "name": "🇵🇾​ EVENTO TIGO FUTBOL PARAGUAYO",
         "samples": [
             {
-      		  "name": "TIGO 1 EVENTOS",
-      		  "url": "https://sam-py-edge02.tigo.com.py/ccur-session/f9de91d275e9428d9b2020eaf9c3772017462185850761b65a320aeed11ebae01d90082191a3coPufp9yYB3qqtMFbxeMGTmPz/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
-     		   "type": "CLEARKEY",
-      		  "drm_license_uri": "https://dl.dropbox.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
-			"icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg"
+        "name": "EVENTOS TIGO 1",
+        "url": "https://sam-py-edge01.tigo.com.py/cchttps://sam-py-edge02.tigo.com.py/ccur-session/7e035c25c0fa4e0ea9f6d8dbb63d49851748801710418b87d2b1934dc4e158a55a1a3a839e7b5m5YocASvNuvpXkjB7GO5vANF/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
+        "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg"
     },
-		{
-			"name": "TIGO 2 EVENTOS",
-			"url": "https://sam-py-edge01.tigo.com.py/ccur-session/6871f45cbfe44a1e98b13fc859c68f411748633511997430103c0e78511edba2f6b8db5aabe06earL4jvDh96joGMnUe2fHojg/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
-			"type": "CLEARKEY",
-			"drm_license_uri": "https://dl.dropbox.com/scl/fi/wbw3yya7vk1f3ivn650ug/tigo4.txt?rlkey=ozbktawdgz3ir2ydtm4qez3om&st=8nrn8w9m&dl=0",
-      		  "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg",		  
-				"headers": {
+    {
+        "name": "EVENTOS TIGO 2",
+        "url": "https://sam-py-edge01.tigo.com.py/ccur-session/f9de91d275e9428d9b2020eaf9c3772017462185850761b65a320aeed11ebae01d90082191a3coPufp9yYB3qqtMFbxeMGTmPz/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/wbw3yya7vk1f3ivn650ug/tigo4.txt?rlkey=ozbktawdgz3ir2ydtm4qez3om&st=8nrn8w9m&dl=0",
+        "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg",
+    "headers": {
+
 			    "Origin": "https://www.tigosports.com.py",
 			    "Referer": "https://www.tigosports.com.py/",
-				"User-Agent": "FireFox"
+	    "User-Agent": "FireFox"
 		    }
     },
     {
-			"name": "TIGO 3 EVENTOS",
-		"url": "https://sam-py-edge01.tigo.com.py/ccur-session/e319b1151f2d4f6682d5ccbb56be311417486357322181b65a320aeed11ebae01d90082191a3cTfPoq7bcpzIioW1uMA4mxQSR/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd",
+        "name": "EVENTOSTIGO 3",
+        "url": "https://sam-py-edge01.tigo.com.py/ccur-session/ad6d9ad340dc44cfaed441c88e5104801748631800536430103c0e78511edba2f6b8db5aabe06TfPoq7bcpzIioW1uMA4mxQSR/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/kg654aptb3wmdvhw1e06i/tigo3.json?rlkey=lz1ve7n2e77c4xylazzpn4qgz&st=vef4p50k&dl=0",
         "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg"
     },
+		{
+                "name": "OLIMPIA vs GUARANI",
+                "url": "https://dwy2.dbcast.live/8S-HNvbuppyX5LJK4GGYBA/1747896675/3137392e36302e3233392e3432/ff737/playlist.m3u8",
+                "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg"
+    },
     {
-        "name": "FÚTBOL EN VIVO OPC 2",
+        "name": "TIGO OPC 4",
    "url": "https://live.enhdtv.com:8081/8150/index.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
@@ -62,7 +68,7 @@
 		    }
 	    },
 	    	    {
-        "name": "FÚTBOL EN VIVO 3",
+        "name": "PRUEBA",
    "url": "https://live.enhdtv.com:8081/8094/index.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
