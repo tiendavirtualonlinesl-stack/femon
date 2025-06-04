@@ -28,8 +28,8 @@
         "url": "https://sam-py-edge04.tigo.com.py/ccur-session/01_3508407031/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1c62a216a5fe423f959cb1ca02f62d83&key=54f2fdc83c1da33cd9269bf21e08218c",
-        "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg"
-       "headers": {
+        "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg",
+    "headers": {
 
 			    "Origin": "https://www.tigosports.com.py",
 			    "Referer": "https://www.tigosports.com.py/",
