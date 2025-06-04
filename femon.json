@@ -21,11 +21,11 @@
        ]
   },
  {
-	        "name": "🇵🇾​ EVENTO TIGO FUTBOL PARAGUAYO",
+	        "name": "🇵🇾​ EVENTO TIGO FUTBOL PARAGUAY",
         "samples": [
             {
         "name": "EVENTOS TIGO 1",
-        "url": "https://sam-py-edge05.tigo.com.py/ccur-session/d1951b41212f44ebba982ab5f748bd0c174863164257316feaf40a0e811ed8108854fef85545eTfPoq7bcpzIioW1uMA4mxQSR/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
+        "url": "https://sam-py-edge04.tigo.com.py/ccur-session/01_3508407031/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
         "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg"
