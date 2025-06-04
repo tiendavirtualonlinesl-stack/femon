@@ -21,7 +21,7 @@
        ]
   },
  {
-	        "name": "🇵🇾​ EVENTO TIGO FUTBOL PARAGUAYO",
+	        "name": "🇵🇾​ EVENTO TIGO FUTBOL PARAGUAY",
         "samples": [
             {
         "name": "EVENTOS TIGO 1",
@@ -29,6 +29,12 @@
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1c62a216a5fe423f959cb1ca02f62d83&key=54f2fdc83c1da33cd9269bf21e08218c",
         "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg"
+       "headers": {
+
+			    "Origin": "https://www.tigosports.com.py",
+			    "Referer": "https://www.tigosports.com.py/",
+	    "User-Agent": "FireFox"
+		    }
     },
     {
         "name": "EVENTOS TIGO 2",
