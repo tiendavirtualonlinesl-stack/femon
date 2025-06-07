@@ -21,7 +21,7 @@
        ]
   },
  {
-	        "name": "🇵🇾​ EVENTO TIGO FUTBOL PARAGUAYO",
+	        "name": "🇵🇾​ EVENTO TIGO FUTBOL PARAGUAY",
         "samples": [
             {
         "name": "EVENTOS TIGO 1",
@@ -4230,6 +4230,24 @@
                 "genero": "Acción, Ciencia ficción, Comedia",
                 "duracion": "101 min",
                 "type": "PELICULA"
+            }
+        ]
+    },
+    {
+		
+        "name": "⭐️Chespirito: Sin querer queriendo⭐️",
+        "samples": [
+            {
+                "name": "CAPITULO 1",
+                "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431515.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/dASDr3Nix1OC6ZSm5pAzhjxzNoE.png",
+                "type": "PELICULA",
+                "descripcion": "La historia de Roberto Gómez Bolaños, el hombre que transformó su anhelo de hacer reír en un legado universal. Desde su infancia hasta su consagración en las décadas de los 50 a los 80, esta biografía íntima nos revela cómo un joven soñador encontró su lugar en la naciente industria televisiva, creando personajes inolvidables cargados de ternura y humor. Pero detrás del genio que hizo reír al mundo entero, hubo también un ser humano en constante búsqueda de amor y reconocimiento, dispuesto a sacrificarlo todo por permanecer en el corazón de su audiencia.",
+                "anio": "2025",
+                "duracion": "110 min",
+                "genero": "Terror, Misterio",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/dASDr3Nix1OC6ZSm5pAzhjxzNoE.png",
+                "iconpng": "https://image.tmdb.org/t/p/original/dASDr3Nix1OC6ZSm5pAzhjxzNoE.png"
             }
         ]
     },
