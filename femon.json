@@ -16,56 +16,80 @@
                 "Origin": "https://web.app.flow.com.ar",
                 "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+				
             }
         }
        ]
   },
  {
-	        "name": "🇵🇾​ EVENTO TIGO FUTBOL PARAGUAY",
-        "samples": [
+	 "name": "🇧🇷BRASIL 🆚 PARAGUAY🇵🇾",
+		"samples":[
+
+    {
+                "name": "GEN_TV 🇵🇾",
+                "url": "https://chromecast.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc_C/GEN_TV.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/y66sigfrf2md3jc8yud6u/gentv.json?rlkey=017rpiwa48ehik6b5etaig3ee&st=4krm46c3&dl=0",
+                "icono": "https://i0.wp.com/television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg?fit=620%2C350&ssl=1",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"		
+                }
+            },
             {
-        "name": "EVENTOS TIGO 1",
-        "url": "https://sam-py-edge04.tigo.com.py/ccur-session/01_3508407031/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1c62a216a5fe423f959cb1ca02f62d83&key=54f2fdc83c1da33cd9269bf21e08218c",
-        "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg",
-    "headers": {
-
-			    "Origin": "https://www.tigosports.com.py",
-			    "Referer": "https://www.tigosports.com.py/",
-	    "User-Agent": "FireFox"
-		    }
+                "name": "UNICANAL",
+                "url": "https://chromecast.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc_C/UNICANAL_C4.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/gufaliqatmwnfv3g7aeg1/unicanal.json?rlkey=5gsk99k8zpinbk8cc6r8hbj9t&st=4tfniuuj&dl=0",
+                "icono": "https://i.ibb.co/nNH8Zv8m/unicanal1.png",
+				
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "GLOBO",
+                "icono": "https://e7.pngegg.com/pngimages/82/749/png-clipart-brazil-rede-globo-logo-globo-com-globo-tv-international-others-miscellaneous-logo.png",
+                "url": "http://45.134.141.162:3366/stream/globo/san/master432.m3u8"
+            }
+        ]
     },
     {
-        "name": "EVENTOS TIGO 2",
-        "url": "https://sam-py-edge01.tigo.com.py/ccur-session/f9de91d275e9428d9b2020eaf9c3772017462185850761b65a320aeed11ebae01d90082191a3coPufp9yYB3qqtMFbxeMGTmPz/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/wbw3yya7vk1f3ivn650ug/tigo4.txt?rlkey=ozbktawdgz3ir2ydtm4qez3om&st=8nrn8w9m&dl=0",
-        "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg",
-    "headers": {
-
-			    "Origin": "https://www.tigosports.com.py",
-			    "Referer": "https://www.tigosports.com.py/",
-	    "User-Agent": "FireFox"
-		    }
+  "name": "🇵🇾​ EVENTO TIGO FUTBOL PARAGUAY",
+  "samples": [
+    {
+      "name": "EVENTOS TIGO 1",
+      "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
+      "type": "CLEARKEY",
+      "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
+      "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg"
     },
     {
-        "name": "EVENTOSTIGO 3",
-        "url": "https://sam-py-edge01.tigo.com.py/ccur-session/ad6d9ad340dc44cfaed441c88e5104801748631800536430103c0e78511edba2f6b8db5aabe06TfPoq7bcpzIioW1uMA4mxQSR/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/kg654aptb3wmdvhw1e06i/tigo3.json?rlkey=lz1ve7n2e77c4xylazzpn4qgz&st=vef4p50k&dl=0",
-        "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg"
+      "name": "EVENTOS TIGO 2",
+      "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
+      "type": "CLEARKEY",
+      "drm_license_uri": "https://dl.dropbox.com/scl/fi/wbw3yya7vk1f3ivn650ug/tigo4.txt?rlkey=ozbktawdgz3ir2ydtm4qez3om&st=8nrn8w9m&dl=0",
+      "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg"
     },
-		{
-        "name": "TIGO OPC 4",
-   "url": "https://live.enhdtv.com:8081/8150/index.m3u8",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
-        "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg",
-		    "headers": {
-
-			    "Origin": "https://www.tigosports.com.py",
-			    "Referer": "https://www.tigosports.com.py/"
+    {
+      "name": "EVENTOS TIGO 3",
+      "url": "https://d2slu3qf332d0d.cloudfront.net/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd",
+      "type": "CLEARKEY",
+      "drm_license_uri": "https://dl.dropbox.com/scl/fi/kg654aptb3wmdvhw1e06i/tigo3.json?rlkey=lz1ve7n2e77c4xylazzpn4qgz&st=vef4p50k&dl=0",
+      "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg"
+    },
+    {
+      "name": "TIGO OPC 4",
+      "url": "https://live.enhdtv.com:8081/8150/index.m3u8",
+      "type": "CLEARKEY",
+      "drm_license_uri": "https://dl.dropbox.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
+      "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg",
+      "headers": {
+        "Origin": "https://www.tigosports.com.py",
+        "Referer": "https://www.tigosports.com.py/"
             }
         }
        ]
