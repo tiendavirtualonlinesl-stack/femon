@@ -1604,26 +1604,53 @@
   "name": "⚽ DEPORTES DIRECTV SPORTS",
   "samples": [
     {
-                "name": "DIRECTV SPORTS",
-                "url": "https://pro.pccaptv.xyz:2087/flamatv2.0/vkFdZG4BcqQp/181838",
-                "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
-                "type": "HLS"
-            },
-            {
-                "name": "DIRECTV SPORTS 2",
-                "url": "https://pro.pccaptv.xyz:2087/flamatv2.0/vkFdZG4BcqQp/181837",
-                "icono": "https://i.ibb.co/RGy1cnLP/directv-sports2.png",
-                "type": "HLS"
-            },
-            {
-                "name": "DIRECTV SPORTS PLUS",
-                "url": "https://pro.pccaptv.xyz:2087/flamatv2.0/vkFdZG4BcqQp/181834",
-                "icono": "https://i.ibb.co/rG8VJmk2/Y2gw-MTAw-MDAw-MDAw-MTM5-X2xpbm-Vhcl9ja-GFubm-Vs-X3-Nzb-GE-11002-LOGO-360x270.png",
-                "type": "HLS"
-            }
-        ]
+        "name": "DIRECTV SPORTS ARGENTINA",
+        "url": "http://magmaplayer.com/stream/secure/AmN0KmZkZy8lBQNmBwWuZQN6ZwNjAwcyZJRkBzR3AmN6LJMyZwbkZzLjBzWxZzWsZGp0AmVm.m3u8",
+        "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png"
+        ,
+    "headers": {
+        "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
+        "X-Did": "704b97090ad1fb5e",
+        "X-Version": "8/1.0.7",
+        "User-Agent": "Magma Player/8",
+        "Accept-Encoding": "gzip",
+        
+        "Connection": "Keep-Alive"
+    }
     },
-    {
+	    {
+        "name": "DIRECTV SPORTS ARGENTINA 2",
+        "url": "http://magmaplayer.com/stream/m3u8/AwRkKmZlAS8kAmxhAwNhZwZ5YwVmKmR3AQDlAN/hls/324.m3u8",
+        "icono": "https://i.ibb.co/RGy1cnLP/directv-sports2.png"
+        ,
+    "headers": {
+        "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
+        "X-Did": "704b97090ad1fb5e",
+        "X-Version": "8/1.0.7",
+        "User-Agent": "Magma Player/8",
+        "Accept-Encoding": "gzip",
+        
+        "Connection": "Keep-Alive"
+    }
+    },
+	    {
+        "name": "DIRECTV SPORTS +",
+        "url": "http://magmaplayer.com/stream/m3u8/Awx5KmZkAS8kAmxhAwNhZwZ5YwVmKmR3AQDlAN/hls/314.m3u8",
+        "icono": "https://i.ibb.co/rG8VJmk2/Y2gw-MTAw-MDAw-MDAw-MTM5-X2xpbm-Vhcl9ja-GFubm-Vs-X3-Nzb-GE-11002-LOGO-360x270.png"
+        ,
+    "headers": {
+        "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
+        "X-Did": "704b97090ad1fb5e",
+        "X-Version": "8/1.0.7",
+        "User-Agent": "Magma Player/8",
+        "Accept-Encoding": "gzip",
+        
+        "Connection": "Keep-Alive"
+    }
+	    }
+       ]
+  },
+      {
     "name": "⚽ DEPORTES MOVISTAR",
     "samples": [
       {
