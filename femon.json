@@ -22,43 +22,7 @@
        ]
   },
  {
-	 "name": "🇧🇷BRASIL 🆚 PARAGUAY🇵🇾",
-		"samples":[
-
-    {
-                "name": "GEN_TV 🇵🇾",
-                "url": "https://chromecast.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc_C/GEN_TV.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/y66sigfrf2md3jc8yud6u/gentv.json?rlkey=017rpiwa48ehik6b5etaig3ee&st=4krm46c3&dl=0",
-                "icono": "https://i0.wp.com/television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg?fit=620%2C350&ssl=1",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"		
-                }
-            },
-            {
-                "name": "UNICANAL",
-                "url": "https://chromecast.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc_C/UNICANAL_C4.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/gufaliqatmwnfv3g7aeg1/unicanal.json?rlkey=5gsk99k8zpinbk8cc6r8hbj9t&st=4tfniuuj&dl=0",
-                "icono": "https://i.ibb.co/nNH8Zv8m/unicanal1.png",
-				
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "GLOBO",
-                "icono": "https://e7.pngegg.com/pngimages/82/749/png-clipart-brazil-rede-globo-logo-globo-com-globo-tv-international-others-miscellaneous-logo.png",
-                "url": "http://45.134.141.162:3366/stream/globo/san/master432.m3u8"
-            }
-        ]
-    },
-    {
-  "name": "🇵🇾​ EVENTO TIGO FUTBOL PARAGUAY",
+  "name": "🇵🇾​ EVENTO TIGO FUTBOL PARAGUAYO",
   "samples": [
     {
       "name": "EVENTOS TIGO 1",
@@ -114,7 +78,7 @@
        ]
   },
  {
-        "name": "🇵🇾​CANALES PARAGUAYOS",
+        "name": "🇵🇾​CANALES DE PARAGUAY",
         "samples": [
             {
 				"name": "PARAVISION 🇵🇾",
@@ -143,7 +107,7 @@
                 }
             },
             {
-                "name": "TELEFUTURO FLOW HD",
+                "name": "TELEFUTURO HD",
                 "url": "https://chromecast.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc_C/TELEFUTURO_C4.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/s84zrlejo4o4sizaioj6v/telefuturo.json?rlkey=p150vxxmajkmtd7pxo3ip72y0&st=ys1amw1n&dl=0",
@@ -169,13 +133,6 @@
                 }
             },
             {
-                "name": "ALMAYA TV PILAR",
-                "url": "https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/p1o0273sjlfsvcnhxa6dl/tigo2.json?rlkey=9040quxroxwqkrn0gfx9xnmyt&st=gk11qt0h&dl=0",
-                "icono": "https://yt3.googleusercontent.com/o1juQh7EOWuWghEcnuIJsMD5zUI0q6-Wx9vSJGpLmkiUEGY6KVQWch6ygzUqx8a18nTkf2aV=s900-c-k-c0x00ffffff-no-rj"
-            },
-            {
                 "name": "UNICANAL",
                 "url": "https://chromecast.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc_C/UNICANAL_C4.mpd",
                 "type": "CLEARKEY",
@@ -194,7 +151,7 @@
                 "icono": "https://i.ibb.co/hfFmYXz/WW.jpg"
             },
             {
-                "name": "PARAGUAY TV FLOW",
+                "name": "PARAGUAY TV ",
                 "url": "http://chromecast.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_Live_dash_enc_C/Paraguay_TV.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/dpbz4pdke63tt2s8z6isb/paraguaytv.json?rlkey=65dbkyp3z9fdx76bqmc3ldlmk&st=csm3pk5x&dl=0",
@@ -212,16 +169,6 @@
                 "icono": "https://i.ibb.co/r2DnTpxP/vnIkhRO.png"
             },
             {
-                "name": "MISION TV DIGITAL",
-                "url": "https://glb.bozztv.com/glb/ssh101/misiontvlive/index.m3u8",
-                "icono": "https://i.postimg.cc/x1gwws1Q/misiontv.jpg"
-            },
-            {
-                "name": "SALTOS TV DIGITAL",
-                "url": "https://ssh101.bozztv.com/ssh101/redcanindeyu/chunks.m3u8",
-                "icono": "https://i.postimg.cc/5yCHGY5c/saltostv.jpg"
-            },
-            {
                 "name": "HEI TV",
                 "url": "https://cdn.cvattv.com.ar/live/c3eds/Eventos_PY/SA_Live_dash_enc_C/Eventos_PY.mpd",
                 "type": "CLEARKEY",
@@ -232,16 +179,6 @@
                     "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
-            },
-            {
-                "name": "TVS ENCARNACIÓN",
-                "url": "https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvQFJzKcRcVwOdIYJyEYalfo-jxJUxIShSo2McYTa62rMUHyhSEMoobgY_TWisuSkqsF8VYSmxKqOBp_OB5J0021QgBafPu5J9Lj8WFlg73ld49oRbxrlCNJPFYPhwqiPKIKfiNUeLixeuwePCaIXa5kKBnucBFDLPBqEwCR0Oxr13d0_anYu7N4wbeznVb2FtQ4gkCWsUnq33Yn3AOqdYeDZLsSJkPKz3ktv1duXy-eFNLzEgAgzbWw5SbPTImmFrhU47pnQCpyQK95oCqc7QA5Ne2X1-CVXWzf69EVqc-t1Y6ISwmxxGebFQuGYXRaDINwF5XBS63LojRC0o9fwcK4PKrbB0jhMP2qn3TSheXzAVYxNgD1RsUh_q0Nm4fZ7qMA-vOa5OPI-vvENfsiBrZt_vrePHnVQLrumm2DvAnVq1vX0qmn6syzRFO6O13EFSs7v6kh6wCblOE8gLfQSStgMvMFqnOUpKhdQxWi-3RqfomPt1mC_QZkg6RjUIx6fGfW2glSRZ6SRTbW0UStk_jWpmdI0316hxVX6ndJSaIKXAq48MNDFDuzVmmPlzEE-EFLH-VnK54quqZAM5DAt8cJs8eU2QPn4gVvN-lP8w6hsWRG6znKBSOQwpkgFT4gDcUCI7xfoLLb3YSZmiJLVU_8eRg2v3_Q7nloA1NEskV-HJ4XZftckW5z6u3nS0Jp1OrRun99GkhPrRX4zLAtT_dtgzc42i-hXBrZchOPqAhmyfdZX9mDI1K230e81hm5EXgtQ6y7YBvH42eZPYbcbTi2br1fYWe-AfeE-HMKrPaI3KkBB0Z1XO2vh7DZgLHGtV4M-eRh4xzkaNX7KAU9SFqXgcJ6zxy9eJeGmaacnA_9W89pOKIDo4KAL19GMy_-LNu-ozOdz8sFJ3cHShvCBKLS-zJcyxAbBJLzXLJHkeZEydLWxnfhshSxWT0_NQ0xMUlSj7l_hk9Gw7Rd_S2_lPDIvbc2N-SwN0Hy8BIvmJu2wUgwKaYaGgyVTCIENtsU_Ro2JNggASoJZXUtd2VzdC0yMN8K.m3u8",
-                "icono": "https://i.postimg.cc/tg57vW0V/tvs-encarnacion-en-vivo-online-funciona.jpg"
-            },
-            {
-                "name": "MI TV",
-                "url": "https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist_w464461610.m3u8",
-                "icono": "https://i.postimg.cc/qvvgzQzD/1200px-LOGO-MITV-ALTA-DEFINICION-2020-PNG.png"
             },
             {
                 "name": "TV CAMARA",
@@ -280,28 +217,6 @@
                 }
             },
             {
-                "name": "REPÚBLICA TV",
-                "url": "https://tigocloud.desdeparaguay.net:443/republicatv/republicatv/playlist.m3u8",
-                "icono": "https://i.postimg.cc/nL4YNJS0/0365c0-899f93b4209e49498c3cd8e72b083aac-mv2.png"
-            },
-            {
-                "name": "INVASIVA TV",
-                "url": "https://video.hostingcaaguazu.com:19360/invasivatv/invasivatv.m3u8",
-                "icono": "https://i.postimg.cc/Y0GxD2Lq/IMG-20240626-194907-706-560x315.jpg"
-            },
-            {
-                "name": "CANAL PRO PY",
-                "url": "https://chromecast.cvattv.com.ar/live/c7eds/Canal_PRO/SA_Live_dash_enc_C/Canal_PRO.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3ea2rcaxm4c73e1i4er7p/canalpro.json?rlkey=i4w63twvt8w66a1mx1fs4myr4&st=kie9io96&dl=0",
-                "icono": "https://i.ibb.co/bRvgPF2K/3fae4e-bf58b7726a1e4f4992cb3fe7a0bd7e50-mv2.png",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
                 "name": "5 DIAS PY",
                 "url": "https://chromecast.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_Live_dash_enc_C/5_Dias_PY.mpd",
                 "type": "CLEARKEY",
@@ -312,11 +227,6 @@
                     "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
-            },
-            {
-                "name": "RTV",
-                "url": "https://video.medios.com.py:3585/multi_live/play.m3u8",
-                "icono": "https://i.postimg.cc/K8yF76wm/images-2.jpg"
             },
             {
                 "name": "ABC TV",
@@ -377,6 +287,86 @@
                     "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
+            }
+        ]
+    },
+    {
+		"name": "🇵🇾​CANALES INTERIOR PARAGUAY",
+        "samples": [
+            {
+			    "name": "ALBERDI CANAL 5",
+                "url": "http://181.78.27.128:8000/play/a05p/index.m3u8",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
+                "icono": "https://i.postimg.cc/MTwCLz0S/Whats-App-Image-2025-04-09-at-17-45-28.jpg"
+            },
+            {
+			    "name": "ALMAYA TV PILAR",
+                "url": "https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/p1o0273sjlfsvcnhxa6dl/tigo2.json?rlkey=9040quxroxwqkrn0gfx9xnmyt&st=gk11qt0h&dl=0",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBFP5NqPElxyqa1AKzmpPIvZECPXcWUkCuNQ&s"
+            },
+            {
+                "name": "TVS ENCARNACIÓN",
+                "url": "https://usher.ttvnw.net/api/channel/hls/tvs_encarnacion.m3u8?acmb=eyJBcHBWZXJzaW9uIjoiNDQzZTUwODAtMTQ0OC00NTBjLTg3MWItMjQzZjc2N2YyNzYyIn0%3D&allow_source=true&browser_family=chrome&browser_version=137.0&cdm=wv&enable_score=true&fast_bread=true&include_unavailable=true&os_name=Windows&os_version=NT%2010.0&p=5774172&platform=web&play_session_id=1891f8342d42958c63c48e470380a672&player_backend=mediaplayer&player_version=1.42.0-rc.1&playlist_include_framerate=true&reassignments_supported=true&sig=10702501b8166c7a8ecba411195671c7187e37ea&supported_codecs=av1,h265,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22tvs_encarnacion%22%2C%22channel_id%22%3A3497140%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22P3qptB5IaMGM1ql0fZ0a9TqisJNN4Roe%22%2C%22expires%22%3A1749693353%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22site%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22131.100.185.225%22%2C%22version%22%3A3%2C%22maximum_resolution%22%3A%22FULL_HD%22%2C%22maximum_video_bitrate_kbps%22%3A12500%2C%22maximum_resolution_reasons%22%3A%7B%22QUAD_HD%22%3A%5B%22AUTHZ_GEO%22%2C%22AUTHZ_NOT_LOGGED_IN%22%5D%2C%22ULTRA_HD%22%3A%5B%22AUTHZ_GEO%22%2C%22AUTHZ_NOT_LOGGED_IN%22%5D%7D%2C%22maximum_video_bitrate_kbps_reasons%22%3A%5B%22AUTHZ_DISALLOWED_BITRATE%22%5D%7D&transcode_mode=cbr_v1",
+                "icono": "https://i.postimg.cc/tg57vW0V/tvs-encarnacion-en-vivo-online-funciona.jpg"
+            },
+            {
+                "name": "MI TV",
+                "url": "https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist_w464461610.m3u8",
+                "icono": "https://i.postimg.cc/qvvgzQzD/1200px-LOGO-MITV-ALTA-DEFINICION-2020-PNG.png"
+            },
+            {
+                "name": "SUR TV",
+                "url": "https://chromecast.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_Live_dash_enc_C/SUR_TV_C4.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/a31oay4x7psi130hou2kx/surtv.json?rlkey=0x5izspqac7coo6r17w1n7jbj&st=ch0jhlr0&dl=0",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Sur_TV_Itap%C3%BAa_logo_2022.png",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "UNIVERSO TV",
+                "url": "https://chromecast.cvattv.com.ar/live/c7eds/Universo/SA_Live_dash_enc_C/Universo.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=41ca5477db3048dbf731fc12604c7504&key=6c7e8e96a86333cbfb4771cbfe9f6b4b",
+                "icono": "https://i.postimg.cc/nrSXkZnY/descarga-2.png",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "REPÚBLICA TV",
+                "url": "https://tigocloud.desdeparaguay.net:443/republicatv/republicatv/playlist.m3u8",
+                "icono": "https://i.postimg.cc/nL4YNJS0/0365c0-899f93b4209e49498c3cd8e72b083aac-mv2.png"
+            },
+            {
+                "name": "INVASIVA TV",
+                "url": "https://video.hostingcaaguazu.com:19360/invasivatv/invasivatv.m3u8",
+                "icono": "https://i.postimg.cc/Y0GxD2Lq/IMG-20240626-194907-706-560x315.jpg"
+            },
+            {
+                "name": "5 DIAS PY",
+                "url": "https://chromecast.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_Live_dash_enc_C/5_Dias_PY.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/s1b3862a8q8g2dp0t68lo/5dias.json?rlkey=jrma046phplkzdkkmmeymedmg&st=ffl1bilx&dl=0",
+                "icono": "https://i.ibb.co/cXhyvZGC/R-1.png",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "RTV",
+                "url": "https://video.medios.com.py:3585/multi_live/play.m3u8",
+                "icono": "https://i.postimg.cc/K8yF76wm/images-2.jpg"
             },
             {
                 "name": "UNION TV",
@@ -384,18 +374,10 @@
                 "icono": "https://i.ibb.co/HLvq6nfQ/logo-retina-01.png"
             },
             {
-                "name": "FARRA PLAY",
-                "url": "https://stream.farra.com.py/live/farra_src.m3u8",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
-                "icono": "https://i.ibb.co/KhR0pjB/Farra-Play-TV-en-vivo.jpg"
-            },
-            {
-                "name": "ALBERDI CANAL 5",
-                "url": "http://181.78.27.128:8000/play/a05p/index.m3u8",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
-                "icono": "https://i.postimg.cc/MTwCLz0S/Whats-App-Image-2025-04-09-at-17-45-28.jpg"
+
+                "name": "NANDE PORTEPE TV",
+                "url": "https://live.enhdtv.com:19360/capiatatv/capiatatv.m3u8",
+                "icono": "https://mediosenparaguay.com/gallery_gen/ddd118dd8293c349cfb4c7989ab0aa3b_300x300_fill.jpg"
             },
             {
                 "name": "SOMOS DEL ESTE TV",
@@ -403,6 +385,20 @@
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
                 "icono": "https://i.ibb.co/G3bDy9N/images-1.jpg"
+		    },
+            {
+                "name": "YAGUARON TV",
+                "url": "https://video.hostingcaaguazu.com:19360/regionalnetworkstv/regionalnetworkstv.m3u8",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
+                "icono": "https://mediosenparaguay.com/gallery_gen/cae134f3e8f4e494d2759fd7fc84854c_300x300_fill.jpg"
+		    },
+            {
+                "name": "TV LAMBARE",
+                "url": "https://video.hostingcaaguazu.com:19360/tvlambare/tvlambare.m3u8",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
+                "icono": "https://github.com/luisoddone/femon/blob/main/images%20(5).jpeg?raw=true"
             }
         ]
     },
@@ -552,271 +548,613 @@
   "name": "🇦🇷 CANALES INTERIOR DE ARGENTINA",
   "samples": [
      {
-                "name": "ARGENTINISIMA satelital",
-                "url": "https://stream1.sersat.com/hls/argentinisima.m3u8",
+                "name": "9 Nordeste",
+                "url": "https://cdn.cvattv.com.ar/live/c4eds/CH_9_Resistencia/SA_Live_dash_enc/CH_9_Resistencia.mpd",
                 "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
-                "icono": "https://i.ibb.co/KhR0pjB/Farra-Play-TV-en-vivo.jpg"
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Canal_9_de_Resistencia_-_Imagen_del_Nordeste.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dde29700ee0423e1afe3828c6f251295&key=1928b62bc191bd26c357137d7d909868",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
             },
-	  {
-                "name": "Canal 9 La Rioja ☝",
-                "url": "https://inliveserver.com:1936/12014/12014/playlist.m3u8",
+            {
+                "name": "13 Max Televisi\\u00f3n",
+                "url": "http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/chunklist_w247540946.m3u8",
+                "type": "HLS",
+                "icono": "https://static.tvar.io/imagenes/13maxdigital.png"
+            },
+            {
+                "name": "America Tucuman",
+                "url": "https://cdn.cvattv.com.ar/live/c7eds/America_Tucuman/SA_Live_dash_enc/America_Tucuman.mpd",
                 "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
-                "icono": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/07/Canal-9-La-Rioja-en-vivo-Online-.png?fit=1920%2C1080&ssl=1"
+                "icono": "https://i.ibb.co/B6ZHDXy/america-tucuman.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ed542fdaa4598671e26aca3e160afed7&key=cdb880c60523b9ebc61b9003c41f8048",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
             },
-	   {
-                "name": "Teveocho La Rioja",
-                "url": "https://srvchp.witel.ar:1936/live/teveocho/playlist.m3u8",
+            {
+                "name": "Bragado TV",
+                "url": "https://inliveserver.com:1936/12000/12000/chunklist_w100079146.m3u8",
+                "type": "HLS",
+                "icono": "https://www.bragadotv.com.ar/images/custom/logo.png"
+            },
+            {
+                "name": "CBA24N córdoba",
+                "url": "https://cdn.cvattv.com.ar/live/c4eds/CBA24/SA_Live_dash_enc_C/CBA24.mpd",
                 "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
-                "icono": "https://telearg.weebly.com/uploads/1/3/1/2/131240845/teveocho_1.png"
+                "icono": "https://i.ibb.co/K2sJwVC/canal-u.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b93e6ce6b4fb51b890ac57d8c0b6a402&key=53eb2499d8c57cf6f9ea887c8683c591",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
             },
-	  {
-                "name": "Canal 7 Neuquén",
+            {
+                "name": "Canal C córdoba",
+                "url": "https://cdn.cvattv.com.ar/live/c5eds/Canal_C/SA_Live_dash_enc_C/Canal_C.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://infonegocios.info/content/companies/logos/81031_Canal%20C.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9a866ca98bef2351a68e4843139f8073&key=b0893077653d1ef842a1b65d8b34455a",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "Canal Coop Jesus MAria Cordoba",
+                "url": "https://cdn.sensa.com.ar/output/COR/CaroyaCoopH/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://www.canalcoop.com.ar/_next/static/media/canal-coop.d704a2e4.png"
+            },
+            {
+                "name": "Canal 3 Rosario",
+                "url": "https://cdn.cvattv.com.ar/live/c3eds/Canal_3_Rosario/SA_Live_dash_enc/Canal_3_Rosario.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/2/22/Eltres_RGB-grad_%28positivo%29.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=662447df521fb590b72b1a11671c2afd&key=81c204c443987d7b176587d626a124a0",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "Canal 4 Jujuy",
+                "url": "https://5cd577a3dd8ec.streamlock.net/CAMARAS/live3/playlist.m3u8",
+                "type": "HLS",
+                "icono": "http://static.tvar.io/imagenes/canal4jujuy.png"
+            },
+            {
+                "name": "Canal 4 San Juan",
+                "url": "http://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Channel_4_logo_%28San_Juan%2C_Argentina%29_.png/133px-Channel_4_logo_%28San_Juan%2C_Argentina%29_.png"
+            },
+            {
+                "name": "Canal 4 San Francisco Cordoba",
+                "url": "http://204.199.3.2/.m3u8",
+                "type": "HLS",
+                "icono": "https://directostv.teleame.com/wp-content/uploads/2020/09/Canal-4-San-Francisco-Cordoba-en-vivo-Online.png"
+            },
+            {
+                "name": "Canal 4 Telecondor",
+                "url": "https://videostream.shockmedia.com.ar:19360/canal4telecondor/canal4telecondor.m3u8",
+                "type": "HLS",
+                "icono": "https://pbs.twimg.com/profile_images/913627349/telecondor_satelital_400x400.jpg"
+            },
+            {
+                "name": "Canal 6 Posadas",
+                "url": "https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/e/e2/C6Digital.png"
+            },
+            {
+                "name": "Canal 7 Jujuy",
+                "url": "https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/ZGSTNsG/canal7jujuy.png"
+            },
+            {
+                "name": "Canal 7 Neuquen",
                 "url": "https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
-                "icono": "https://telearg.weebly.com/uploads/1/3/1/2/131240845/canal-7-neuquen_1.png"
+                "type": "HLS",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Canalsiete-nqn-logo.png"
             },
-	  {
-                "name": "Ciudad Magazine",
-                "url": "https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
-                "icono": "https://telearg.weebly.com/uploads/1/3/1/2/131240845/ciudad-magazine_1.png"
+            {
+                "name": "Canal 9 Litoral",
+                "url": "https://stream.arcast.live/canal9litoral/ngrp:canal9litoral_all/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://static.tvar.io/imagenes/canal9litoral.png"
             },
-	  {
-                "name": "El folklórico",
-                "url": "https://tvstream.t5satelital.blog/hls/elfolklorico.m3u8",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
-                "icono": "https://telearg.weebly.com/uploads/1/3/1/2/131240845/el-folklorico-tv.png"
+            {
+                "name": "Canal 9 Mendoza",
+                "url": "http://liketv.pro:80/NovaBoxtv504/JWJNnMCeFU/207931.ts",
+                "type": "HLS",
+                "icono": "http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png"
             },
-           {
-      "name": "CANAL 8 TUCUMÁN",
-      "url": "https://chromecast.cvattv.com.ar/live/c7eds/Canal_8_Tucuman/SA_Live_dash_enc/Canal_8_Tucuman.mpd",
-      "type": "CLEARKEY",
-      "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7760caa058b51b7cce151c0539fa4a8f&key=edd086c1011ed2c54cbe869d0e8d9289",
-      "icono": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Elocho_TV_nuevo_logo.png",
-      "headers": {
-        "Origin": "https://web.app.flow.com.ar",
-        "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-      }
+            {
+                "name": "Canal 9 Rio Cuarto",
+                "url": "https://tv.streamcasthd.com:3614/live/canal9riocuartotvlive.m3u8",
+                "type": "HLS",
+                "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRcmiYzNwzn89j7ks8I1vYHGd0oyNLWh3d_R0NFMD-WCiN-udg2juUYvOvmbuXN2HN4tErMp1AdPpQND4TMa6JQgBQGfUYWjYudy5oYj87_3tyrRgrMbtUjwIElxsTCadryU7el078PbU/s1600/canal9-rcuarto.png"
+            },
+            {
+                "name": "Canal 10 Córdoba",
+                "url": "https://cdn.cvattv.com.ar/live/c4eds/Canal10_CBA_HD/SA_Live_dash_enc/Canal10_CBA_HD.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.imgur.com/87WCHtd.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6d85fcc70989d0dbe8d70dd70a4629c0&key=a953290192fd5db5bf7936a88ecc6877",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "Canal 10 Tucuman",
+                "url": "https://cdn.cvattv.com.ar/live/c7eds/Ch10_Tucuman/SA_Live_dash_enc/Ch10_Tucuman.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/vvknBFv/canal10-tucuman.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7a53740aa52d8b50ccb218aab5e9d50e&key=e772fa4a4997b50a0ff04e2ef286a864",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "Canal 11 Machagay Chaco",
+                "url": "https://srv2.zcast.com.br/machagay/machagay/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://oncedigital.com.ar/wp-content/uploads/2022/11/cropped-qqqqqq.png"
+            },
+            {
+                "name": "Canal 12 Misiones",
+                "url": "https://cdn.cvattv.com.ar/live/c4eds/CH_12_Posadas/SA_Live_dash_enc/CH_12_Posadas.mpd",
+                "type": "CLEARKEY",
+                "icono": "http://canal12misiones.com/wp-content/uploads/2020/01/logo_horiz_1200x720px.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9c996a1465acddc9c3f7a2dd9b86aa88&key=a2b63e48c99bebb52bfcdb1830efdd3e",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "Canal 13 La Rioja",
+                "url": "http://arcast.net:1935/mp/mp/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/1ZC4K4q/Canal-13-La-Rioja.png"
+            },
+            {
+                "name": "Canal 22 Buenos Aires",
+                "url": "https://5f700d5b2c46f.streamlock.net:443/canal22/canal22/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfx5yyhaE24x9sdH6IA6q6S685kENeqwqaBg&s"
+            },
+            {
+                "name": "Canal 34 San juan",
+                "url": "http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://static.tvar.io/imagenes/34sanjuan.png"
+            },
+            {
+                "name": "Canal 50 Morteros",
+                "url": "https://online.coopmorteros.coop/canal50/vivo.m3u8",
+                "type": "HLS",
+                "icono": "https://canal50.tv/public/images/logos/CANAL50_HD.png"
+            },
+            {
+                "name": "Chaco TV (720p)",
+                "url": "https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://barranquerasonline.com.ar/wp-content/uploads/2018/05/unnamed.jpg"
+            },
+            {
+                "name": "Chamame Tv Corrientes",
+                "url": "https://srv2.zcast.com.br/chamame/chamame/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://static-cdn.jtvnw.net/jtv_user_pictures/c14e9545-b484-473a-b31d-680b95e4de4c-profile_image-70x70.png"
+            },
+            {
+                "name": "Chilecito TV (480p)",
+                "url": "https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8",
+                "type": "HLS",
+                "icono": "https://diariochilecito.com/wp-content/uploads/2022/09/Chilecito-TV.jpg"
+            },
+            {
+                "name": "El Doce Córdoba",
+                "url": "https://cdn.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc/Canal_12_CBA.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.imgur.com/HfyKPpD.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=90422640d3e846159fa450f83870ed4a&key=abb3cd94aece1a462df25a8f21085cca",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "El Ocho Tv Tucuman",
+                "url": "https://cdn.cvattv.com.ar/live/c7eds/Canal_8_Tucuman/SA_Live_dash_enc/Canal_8_Tucuman.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Elocho_TV_nuevo_logo.png/456px-Elocho_TV_nuevo_logo.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7760caa058b51b7cce151c0539fa4a8f&key=edd086c1011ed2c54cbe869d0e8d9289",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "Multivision Cable",
+                "url": "https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8",
+                "type": "HLS",
+                "icono": "https://static.tvar.io/imagenes/multivisioncable.jpg"
+            },
+            {
+                "name": "Rtv Neuquen",
+                "url": "http://media.neuquen.gov.ar/rtn/television/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/Fqf4R9T/descarga.jpg"
+            },
+            {
+                "name": "Sptv San Pedro",
+                "url": "https://srv2.zcast.com.br/sptv32/sptv32/playlist.m3u8",
+                "type": "HLS",
+                "icono": "http://static.tvar.io/imagenes/sptv32.png"
+            },
+            {
+                "name": "Stream Max Jujuy",
+                "url": "https://srv6.zcast.com.br/streamax/streamax/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://static.tvar.io/imagenes/streammax.png"
+            },
+            {
+                "name": "Telefé Córdoba",
+                "url": "https://cdn.cvattv.com.ar/live/c6eds/Canal_8_CBA/SA_Live_dash_enc/Canal_8_CBA.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSCju5rg0ZA5QLXIXk231TFMWYIlyReHkqSM4pCNz6LOJAPu7nUdLFg9_k4jBuEwyWVxE&usqp=CAU",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=103ce214b4d04c8eb4dd43670e956dad&key=20e030576b8dc4df0d1c68e16af3bc0f",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "Telefe Rosario",
+                "url": "https://cdn.cvattv.com.ar/live/c4eds/Canal_5_Rosario/SA_Live_dash_enc/Canal_5_Rosario.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/3/30/Telefe_Rosario_%282018%29.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c61b5ac8e1664bf5b544e92ea2597e1c&key=938437ac25f0a18e04efc1a083489edc",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "Telefé Santa fé",
+                "url": "https://cdn.cvattv.com.ar/live/c6eds/Canal_13_SFE/SA_Live_dash_enc/Canal_13_SFE.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://telefe-static2.akamaized.net/media/143210/logo-santa-fe-368x80.png?v=20190205101807000",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=59ef9057114f44a480b62e36a6b1374f&key=74ef97bc54df5655c3a1d4f80b16e8d7",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar/",
+                    "Referer": "https://portal.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+                }
+            },
+            {
+                "name": "Somos Mar del Plata Necochea",
+                "url": "https://cdn.cvattv.com.ar/live/c4eds/Canal_Ciudad_MDQ/SA_Live_dash_enc/Canal_Ciudad_MDQ.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/Mpxwj59/somos-mar-del-plata.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b57763b8d9c205d609ea509432201fac&key=a476cf79190fe4810efdd81e32317ff3",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "Somos La Plata",
+                "url": "https://cdn.cvattv.com.ar/live/c6eds/Somos_La_Plata/SA_Live_dash_enc/Somos_La_Plata.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSNoh-IlnEG1YvhT0YsB8IWevwPGG7b16D-g&s",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bffd3b447aa44a429a703245836e46fa&key=13be31c0bcb76b28b1248bf64ab3926e",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "Somos El Valle",
+                "url": "https://cdn.cvattv.com.ar/live/c4eds/Somos_El_Valle/SA_Live_dash_enc_C/Somos_El_Valle.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://static.wikia.nocookie.net/logopedia/images/5/55/Somoselvalle.jpg/revision/latest?cb=20160903125456&path-prefix=es",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=513f2056bf40d9123918fd7939fbf065&key=075ee6dd9b67d88be5642eaa510e91cb",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "Somos Corrientes",
+                "url": "https://cdn.cvattv.com.ar/live/c4eds/Somos_Corrientes/SA_Live_dash_enc/Somos_Corrientes.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGnXL-g9Q8Z1C6ZihDETcgSh-NvT1iNMMYpA&s",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f0179a4ba9f407dfdee057a33f8f220c&key=e0c3f11cb1d7f8d17b7a1532f29edb0b",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "Somos Bahía Blanca",
+                "url": "https://cdn.cvattv.com.ar/live/c3eds/Somos_Bahia_Blanca/SA_Live_dash_enc/Somos_Bahia_Blanca.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQihwU2t6DGM7T2CLKAWcCzUcUjySb3XZHJuw&s",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=64c7e9ed4e3930b54d020c08a6792f10&key=737b6374d4492e8c233ca2c2ebac9b85",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "Show Sports Córdoba",
+                "url": "https://cdn.cvattv.com.ar/live/c4eds/Show_Sports/SA_Live_dash_enc/Show_Sports.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjIb3we5seL4WIBk5bh57zf28LvXHjTo86g&s",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=df3ed6245bb9af1a0346379e8e475dff&key=f86f8457438d4e449d53b956cc1be664",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "Canal 13 La Rioja",
+                "url": "https://stream.arcast.host:8443/mp/mp/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4Z9idWrF2Zx8EbLD_pb3yTYPVZcjj3S3CHXFZeqnrPff7Lf0mC2atDCe8Tzecq6biNyIpZ735k05tEgKPuJ4menvOBplKhwsqmOWCdljr2oHLDGd4WgzZynvjHdH5kNilDfLfCDUz_iri5DrR53UKe_pfz9LpGILsVueMOeSqnwUqlopFlC_MVjlP/s135/c13-larioja.png"
+            },
+            {
+                "name": "EL ONCE TV SALTA",
+                "url": "https://cdn.cvattv.com.ar/live/c4eds/Telefe_Salta/SA_Live_dash_enc/Telefe_Salta.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Elonce_TV_Salta.png/439px-Elonce_TV_Salta.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6c7a5de392f874308e4dd8f2837f1115&key=9ccf9ec6922c403d67d0df7952547581",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+                }
+            },
+            {
+                "name": "TEVE OCHO CHEPES LA RIOJA",
+                "url": "https://srvchp.witel.ar:1936/live/teveocho/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://tvocho.ar/wp-content/uploads/2024/05/teveoh2.png"
+            },
+            {
+                "name": "Somos Norte Salta",
+                "url": "https://cdn.cvattv.com.ar/live/c6eds/Somos_Norte/SA_Live_dash_enc/Somos_Norte.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/qnXjFGd/somos-salta.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ee8a6cc35fdb4ab7adeed9d16593459f&key=5ca774838d5c887f7a8d7dee64b9a6b0",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+                }
+            },
+            {
+                "name": "TV PUBLICA PAMPEANA",
+                "url": "https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://tvpp.lapampa.gob.ar/images/LOGOS_SITIO_CANAL.png"
+            },
+            {
+                "name": "CPE TV LA PAMPA",
+                "url": "https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://pbs.twimg.com/profile_images/702081768405520384/FzPbHDMn_400x400.jpg"
+            },
+            {
+                "name": "TVCO GENERAL PICO",
+                "url": "https://smt-usr-edge01.sensa.com.ar/output/ARR/TVCOh/track_0_3000/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://www.corpico.com.ar/static/img/tvco-vivo.png"
+            },
+            {
+                "name": "SAN LUIS +",
+                "url": "https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8",
+                "type": "HLS",
+                "icono": "https://static.wikia.nocookie.net/logopedia/images/3/35/San_Luis_%2B_%28Logo_2023%29.png/revision/latest?cb=20240627181044"
+            },
+            {
+                "name": "EL ONCE TV",
+                "url": "https://cdn.cvattv.com.ar/live/c4eds/Telefe_Salta/SA_Live_dash_enc/Telefe_Salta.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Elonce_TV_Salta.png/439px-Elonce_TV_Salta.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6c7a5de392f874308e4dd8f2837f1115&key=9ccf9ec6922c403d67d0df7952547581",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar/",
+                    "Referer": "https://portal.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+                }
+            },
+            {
+                "name": "CANAL 12 TUCUMAN",
+                "url": "https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8",
+                "type": "HLS",
+                "icono": "https://pbs.twimg.com/media/FDDBNt6WYAArZVM?format=jpg&name=4096x4096"
+            },
+            {
+                "name": "SOMOS AMBA",
+                "url": "http://liketv.pro:80/NovaBoxtv504/JWJNnMCeFU/17497.ts",
+                "type": "HLS",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo_Canales_Somos_de_Cablevisi%C3%B3n.png"
+            },
+            {
+                "name": "EL DESTAPE",
+                "url": "http://m.mtd.llc:2082/eldestape/index_fkr.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/yFbrg0L/eldestape.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f4e509e988c595b2ebe01a53ae9f9f88&key=2e7e05d9053f97638edb6d5e8d791fd6",
+                "headers": {
+                    "Origin": "https://www.telecentroplay.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "Show Sports Córdoba",
+                "url": "https://cdn.cvattv.com.ar/live/c4eds/Show_Sports/SA_Live_dash_enc/Show_Sports.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/QnqdqBV/ss.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=df3ed6245bb9af1a0346379e8e475dff&key=f86f8457438d4e449d53b956cc1be664",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                }
+            }
+        ]
     },
     {
-      "name": "CANAL 10 TUCUMÁN",
-      "url": "https://chromecast.cvattv.com.ar/live/c7eds/Ch10_Tucuman/SA_Live_dash_enc/Ch10_Tucuman.mpd",
-      "type": "CLEARKEY",
-      "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7a53740aa52d8b50ccb218aab5e9d50e&key=e772fa4a4997b50a0ff04e2ef286a864",
-      "icono": "https://4.bp.blogspot.com/-OUx3MrU8EFk/WDyKrgWT7xI/AAAAAAAABPI/GMsSZyCV_HYjqZaCrlKU13d82a3mI45mgCLcB/s1600/c10-tucuman.png",
-      "headers": {
-        "Origin": "https://web.app.flow.com.ar",
-        "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-      }
-    },
-    {
-      "name": "CANAL 3 ROSARIO",
-      "url": "https://chromecast.cvattv.com.ar/live/c3eds/Canal_3_Rosario/SA_Live_dash_enc/Canal_3_Rosario.mpd",
-      "type": "CLEARKEY",
-      "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=662447df521fb590b72b1a11671c2afd&key=81c204c443987d7b176587d626a124a0",
-      "headers": {
-        "Origin": "https://web.app.flow.com.ar",
-        "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-      }
-    },
-    {
-      "name": "TELEFE ROSARIO",
-      "url": "https://chromecast.cvattv.com.ar/live/c4eds/Canal_5_Rosario/SA_Live_dash_enc_wl/Canal_5_Rosario.mpd",
-      "type": "CLEARKEY",
-      "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c61b5ac8e1664bf5b544e92ea2597e1c&key=938437ac25f0a18e04efc1a083489edc",
-      "icono": "https://static.tvar.io/imagenes/teleferosario.png",
-      "headers": {
-        "Origin": "https://web.app.flow.com.ar",
-        "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-      }
-    },
-    {
-      "name": "TELEFE CÓRDOBA",
-      "url": "https://cdn.cvattv.com.ar/live/c6eds/Canal_8_CBA/SA_Live_dash_enc_wl/Canal_8_CBA.mpd",
-      "type": "CLEARKEY",
-      "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=103ce214b4d04c8eb4dd43670e956dad&key=20e030576b8dc4df0d1c68e16af3bc0f",
-      "icono": "https://static.tvar.io/imagenes/telefecba.png",
-      "headers": {
-        "Origin": "https://web.app.flow.com.ar",
-        "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-      }
-    },
-{
-    "name": "CBA24N Córdoba",
-    "url": "https://cdn.cvattv.com.ar/live/c4eds/CBA24/SA_Live_dash_enc_C/CBA24.mpd",
-    "type": "CLEARKEY",
-    "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b93e6ce6b4fb51b890ac57d8c0b6a402&key=53eb2499d8c57cf6f9ea887c8683c591",
-    "icono": "https://i.ibb.co/K2sJwVC/canal-u.png",
-    "headers": {
-      "Origin": "https://web.app.flow.com.ar",
-      "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-    }
-  },
-  {
-    "name": "Canal C Córdoba",
-    "url": "https://cdn.cvattv.com.ar/live/c5eds/Canal_C/SA_Live_dash_enc_C/Canal_C.mpd",
-    "type": "CLEARKEY",
-    "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9a866ca98bef2351a68e4843139f8073&key=b0893077653d1ef842a1b65d8b34455a",
-    "icono": "https://i.ibb.co/F6bXsYs/canal-c.png",
-    "headers": {
-      "Origin": "https://web.app.flow.com.ar",
-      "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-    }
-  },
-  {
-    "name": "Canal Local Carlos Paz",
-    "url": "https://cdn.cvattv.com.ar/live/c4eds/Local_Carlos_Paz/SA_Live_dash_enc_C/Local_Carlos_Paz.mpd",
-    "type": "CLEARKEY",
-    "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7804609194dc7145bf297153276096d2&key=03d3f4e3d0b35362dadfddce10dee00c",
-    "icono": "https://i.ibb.co/5RH9HTB/next-multimedio.png",
-    "headers": {
-      "Origin": "https://web.app.flow.com.ar",
-      "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-    }
-  },
-  {
-    "name": "TeleDiario TV",
-    "url": "http://cdn.sensa.com.ar/bpk-tv/TelediarioTelevision/default/index_fk.mpd",
-    "type": "CLEARKEY",
-    "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ff1e6f58369fa0457670eb452cb49f8a&key=4a5b005a7dbd38fe00c50d27fa23ab0a",
-    "icono": null,
-    "headers": {
-      "Origin": "https://web.app.flow.com.ar",
-      "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-      "User-Agent": "Mozilla/5.0 (Web0S; Linux; SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager"
-    }
-  },
-  {
-    "name": "Canal Universidad De La Plata",
-    "url": "https://cdn.cvattv.com.ar/live/c3eds/Canal_Universidad/SA_Live_dash_enc_C/Canal_Universidad.mpd",
-    "type": "CLEARKEY",
-    "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=93c40cee58a5f415828cc32d0c80d311&key=d00906d71ee69515cd4dca1162d5ae7f",
-    "icono": "https://i.ibb.co/xHqzrPV/canal-universidad.png",
-    "headers": {
-      "Origin": "https://web.app.flow.com.ar",
-      "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-    }
-  },
-  {
-    "name": "Somos Bahía Blanca",
-    "url": "https://cdn.cvattv.com.ar/live/c3eds/Somos_Bahia_Blanca/SA_Live_dash_enc/Somos_Bahia_Blanca.mpd",
-    "type": "CLEARKEY",
-    "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=64c7e9ed4e3930b54d020c08a6792f10&key=737b6374d4492e8c233ca2c2ebac9b85",
-    "icono": null,
-    "headers": {
-      "Origin": "https://web.app.flow.com.ar",
-      "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-    }
-  },
-  {
-    "name": "Somos Corrientes",
-    "url": "https://cdn.cvattv.com.ar/live/c4eds/Somos_Corrientes/SA_Live_dash_enc/Somos_Corrientes.mpd",
-    "type": "CLEARKEY",
-    "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f0179a4ba9f407dfdee057a33f8f220c&key=e0c3f11cb1d7f8d17b7a1532f29edb0b",
-    "icono": "https://i.ibb.co/Jy849HS/somos-corrientes.png",
-    "headers": {
-      "Origin": "https://web.app.flow.com.ar",
-      "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-    }
-  },
-  {
-    "name": "Somos El Valle",
-    "url": "https://cdn.cvattv.com.ar/live/c4eds/Somos_El_Valle/SA_Live_dash_enc_C/Somos_El_Valle.mpd",
-    "type": "CLEARKEY",
-    "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=513f2056bf40d9123918fd7939fbf065&key=075ee6dd9b67d88be5642eaa510e91cb",
-    "icono": "https://i.ibb.co/bdxBzMQ/somos-el-valle.png",
-    "headers": {
-      "Origin": "https://web.app.flow.com.ar",
-      "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-    }
-  },
-  {
-    "name": "Somos La Plata",
-    "url": "https://cdn.cvattv.com.ar/live/c6eds/Somos_La_Plata/SA_Live_dash_enc/Somos_La_Plata.mpd",
-    "type": "CLEARKEY",
-    "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bffd3b447aa44a429a703245836e46fa&key=13be31c0bcb76b28b1248bf64ab3926e",
-    "icono": "https://i.ibb.co/vBWtKxB/somos-la-plata.png",
-    "headers": {
-      "Origin": "https://web.app.flow.com.ar",
-      "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-    }
-  },
-  {
-    "name": "SOMOS MAR DEL PLATA NECOCHEA",
-    "url": "https://cdn.cvattv.com.ar/live/c4eds/Canal_Ciudad_MDQ/SA_Live_dash_enc/Canal_Ciudad_MDQ.mpd",
-    "type": "CLEARKEY",
-    "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b57763b8d9c205d609ea509432201fac&key=a476cf79190fe4810efdd81e32317ff3",
-    "icono": "https://i.ibb.co/Mpxwj59/somos-mar-del-plata.png",
-    "headers": {
-      "Origin": "https://web.app.flow.com.ar",
-      "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-    }
-  },
-  {
-    "name": "Somos Norte",
-    "url": "https://cdn.cvattv.com.ar/live/c6eds/Somos_Norte/SA_Live_dash_enc/Somos_Norte.mpd",
-    "type": "CLEARKEY",
-    "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ee8a6cc35fdb4ab7adeed9d16593459f&key=5ca774838d5c887f7a8d7dee64b9a6b0",
-    "icono": "https://i.ibb.co/qnXjFGd/somos-salta.png",
-    "headers": {
-      "Origin": "https://web.app.flow.com.ar",
-      "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-    }
-  },
-  {
-    "name": "Somos Rafaela",
-    "url": "https://cdn.cvattv.com.ar/live/c4eds/Somos_Rafaela/SA_Live_dash_enc/Somos_Rafaela.mpd",
-    "type": "CLEARKEY",
-    "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7071b5b3283cebd376d1ba9c6e53ba6e&key=87a6c4c8baaefb073270e92f092b4c25",
-    "icono": "https://i.ibb.co/b5KqPnJ/somos-rafaela.png",
-    "headers": {
-      "Origin": "https://web.app.flow.com.ar",
-      "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-    }
-  },
-    {
-      "name": "CANAL 12 CÓRDOBA",
-      "url": "https://chromecast.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc_wl/Canal_12_CBA.mpd",
-      "type": "CLEARKEY",
-      "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=90422640d3e846159fa450f83870ed4a&key=abb3cd94aece1a462df25a8f21085cca",
-      "icono": "https://i.ibb.co/60sFBfY/og-image.jpg",
-      "headers": {
-        "Origin": "https://web.app.flow.com.ar",
-        "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-      }
-    },
-    {
-      "name": "CANAL 13 RÍO CUARTO",
-      "url": "http://stmvideo2.livecastv.com/telediario/telediario/playlist.m3u8",
-      "type": "HLS",
-      "icono": "https://static.tvar.io/imagenes/canal13riocuarto.jpg",
-      "headers": {
-        "Origin": "https://web.app.flow.com.ar",
-        "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        "name": "🕵🏻‍♂️CANALES DE NOTICIA🕵🏻‍♂️",
+        "samples": [
+            {
+                "name": "A24",
+                "url": "https://chromecast.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc/America24.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/WWfTn7M9/LnXQkIU.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3b1b027dd011af20fd9956c16dc084fb&key=45f75aacf06593c9b693fe427c67e5b8",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "C5N",
+                "url": "https://cdn.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/p6GQ3L3m/68747470733a2f2f692e696d6775722e636f6d2f453370616d41352e706e67.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=050df5c6e78c774e78c3e99eef8a1b29&key=0e4141d6ab21a36cbc4da777ab3096d4",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar/",
+                    "Referer": "https://portal.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "Cronica",
+                "url": "https://cdn.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc/CronicaTV.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/DHhzqNrr/unnamed.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=745e7abcc90d41ab706b2ac2f4371da3&key=50acd9d19d1361cb4a8a13a867bdc352",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "IP Noticias",
+                "url": "https://cdn.cvattv.com.ar/live/c7eds/Investigacion_Periodistica/SA_Live_dash_enc/Investigacion_Periodistica.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/m5G70dXc/OIP.jpg",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5299f96f873aa0f0e47edc4e15784717&key=9d53176b0969492f2d93f1867be1dce1",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar/",
+                    "Referer": "https://portal.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "La Nación +",
+                "url": "https://cdn.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc/La_Nacion.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/xSv4MBKr/NXKF436-PYFDRLJJB77-LJU7-JVQA.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f4eade7bbc39b25402acfa301bbad04a&key=a74d1df4235a74878327aa8d53ff283c",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "TN Noticias",
+                "url": "https://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc/TodoNoticias.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/dsvcQTLn/todo-noticias-logo-png-seeklogo-462511.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7ceb1cd0622cd7e88fcdc99fe3a55de6&key=951637093d41c7388a1ef3f620cfea21",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar/",
+                    "Referer": "https://portal.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "CNN En Español",
+                "url": "https://cdn.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_Live_dash_enc/CNN_en_Espanol.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-c003ec15-111102125227-cnnee-logo-story-top.jpg?c=16x9&q=h_833,w_1480,c_fill",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0b20ed9da0e5457c9dfd3ae0b6092491&key=98997a7020c18cb28174a2490147830a",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar/",
+                    "Referer": "https://portal.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "France24 Español",
+                "url": "https://cdn.cvattv.com.ar/live/c3eds/France24_Flow/SA_Live_dash_enc/France24_Flow.mpd",
+                "type": "CLEARKEY",
+                "icono": "http://78.47.174.211/logos/france24.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c8a3d29db38c4a9fa9a838c3d4d681db&key=d3aa374c4c0de33f463b4387a18297a6",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar/",
+                    "Referer": "https://portal.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "D News",
+                "url": "https://cdn.cvattv.com.ar/live/c7eds/DNews/SA_Live_dash_enc/DNews.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/gJL91wN/DNews.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=21563d82cfb7fdd18b213f0bd92a274f&key=5940d8d0b57b9e6533e99cc0e7bf2f8e",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar/",
+                    "Referer": "https://portal.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "RAI Italia",
+                "url": "https://cdn.cvattv.com.ar/live/c6eds/RAI/SA_Live_dash_enc/RAI.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://static.flow.com.ar/images/716/CH_LOGO/1920/1080/0/0/577119940729.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d214547d7d9a4011a39a899ce6e70071&key=16c2ed0617cf1e123f3af6ea8875a82d",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar/",
+                    "Referer": "https://portal.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             }
         ]
@@ -1266,53 +1604,26 @@
   "name": "⚽ DEPORTES DIRECTV SPORTS",
   "samples": [
     {
-        "name": "DIRECTV SPORTS ARGENTINA",
-        "url": "http://magmaplayer.com/stream/secure/AmN0KmZkZy8lBQNmBwWuZQN6ZwNjAwcyZJRkBzR3AmN6LJMyZwbkZzLjBzWxZzWsZGp0AmVm.m3u8",
-        "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png"
-        ,
-    "headers": {
-        "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-        "X-Did": "704b97090ad1fb5e",
-        "X-Version": "8/1.0.7",
-        "User-Agent": "Magma Player/8",
-        "Accept-Encoding": "gzip",
-        
-        "Connection": "Keep-Alive"
-    }
+                "name": "DIRECTV SPORTS",
+                "url": "https://pro.pccaptv.xyz:2087/flamatv2.0/vkFdZG4BcqQp/181838",
+                "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
+                "type": "HLS"
+            },
+            {
+                "name": "DIRECTV SPORTS 2",
+                "url": "https://pro.pccaptv.xyz:2087/flamatv2.0/vkFdZG4BcqQp/181837",
+                "icono": "https://i.ibb.co/RGy1cnLP/directv-sports2.png",
+                "type": "HLS"
+            },
+            {
+                "name": "DIRECTV SPORTS PLUS",
+                "url": "https://pro.pccaptv.xyz:2087/flamatv2.0/vkFdZG4BcqQp/181834",
+                "icono": "https://i.ibb.co/rG8VJmk2/Y2gw-MTAw-MDAw-MDAw-MTM5-X2xpbm-Vhcl9ja-GFubm-Vs-X3-Nzb-GE-11002-LOGO-360x270.png",
+                "type": "HLS"
+            }
+        ]
     },
-	    {
-        "name": "DIRECTV SPORTS ARGENTINA 2",
-        "url": "http://magmaplayer.com/stream/m3u8/AwRkKmZlAS8kAmxhAwNhZwZ5YwVmKmR3AQDlAN/hls/324.m3u8",
-        "icono": "https://i.ibb.co/RGy1cnLP/directv-sports2.png"
-        ,
-    "headers": {
-        "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-        "X-Did": "704b97090ad1fb5e",
-        "X-Version": "8/1.0.7",
-        "User-Agent": "Magma Player/8",
-        "Accept-Encoding": "gzip",
-        
-        "Connection": "Keep-Alive"
-    }
-    },
-	    {
-        "name": "DIRECTV SPORTS +",
-        "url": "http://magmaplayer.com/stream/m3u8/Awx5KmZkAS8kAmxhAwNhZwZ5YwVmKmR3AQDlAN/hls/314.m3u8",
-        "icono": "https://i.ibb.co/rG8VJmk2/Y2gw-MTAw-MDAw-MDAw-MTM5-X2xpbm-Vhcl9ja-GFubm-Vs-X3-Nzb-GE-11002-LOGO-360x270.png"
-        ,
-    "headers": {
-        "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-        "X-Did": "704b97090ad1fb5e",
-        "X-Version": "8/1.0.7",
-        "User-Agent": "Magma Player/8",
-        "Accept-Encoding": "gzip",
-        
-        "Connection": "Keep-Alive"
-    }
-	    }
-       ]
-  },
-      {
+    {
     "name": "⚽ DEPORTES MOVISTAR",
     "samples": [
       {
@@ -3094,6 +3405,41 @@
         ]
     },
     {
+        "name": "🙏🏻CANALES RELIGIOSOS🙏🏻",
+        "samples": [
+            {
+                "name": "ORBE 21",
+                "url": "https://cdn.cvattv.com.ar/live/c6eds/Canal_21/SA_Live_dash_enc/Canal_21.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Canal_Orbe_21_logo.svg/320px-Canal_Orbe_21_logo.svg.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=29ccae9b98d74e76b35ac4e9a7fd1af1&key=cd6f0d4dca0fc30533e845fc8ea6a945",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "EWTN",
+                "url": "https://cdn.cvattv.com.ar/live/c6eds/EWTN/SA_Live_dash_enc/EWTN.mpd?",
+                "type": "CLEARKEY",
+                "icono": "https://cdn.mitvstatic.com/channels/cl_ewtn_m.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=07df3c48652a431ab779d133f085b799&key=ee2fbeec1ecdffa5617383f684dfda0e",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "RED ADVENIR",
+                "url": "https://streamer1.streamhost.org/salive/GMIredadvenirh/chunklist_w1976177922.m3u8",
+                "type": "HLS",
+                "icono": "https://i.postimg.cc/KzyN2BxQ/advenr.jpg"
+            }
+        ]
+    },
+    {
   "name": "🇦🇷GRAN HERMANO",
   "samples": [
     {
@@ -3291,112 +3637,140 @@
         "name": "🇺🇾CANALES DE URUGUAY",
         "samples": [
             {
-                "name": "CANAL 4 UY",
-                "url": "https://chromecast.cvattv.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_enc_wl/Canal4_URU.mpd",
+                "name": "TNU",
+                "url": "https://cdn.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_enc/TV_Nacional_Uy.mpd",
                 "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dabefaac89742589778fcfab78f08354&key=896dd914683b01c8044ffd34d7b6416b",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Canal_5_Uruguay.png/250px-Canal_5_Uruguay.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c50518d7f59f4c0aa9a3079fe2b014fd&key=96038f76a2ba33866ea54eb4b260573f",
                 "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },
             {
-                "name": "GolTV Ecuador HD",
-                "url": "http://170.39.192.130:2095/56933873069play/270124play/322704",
+                "name": "Canal 4 Uruguay",
+                "url": "https://cdn.cvattv.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_enc/Canal4_URU.mpd",
                 "type": "CLEARKEY",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dabefaac89742589778fcfab78f08354&key=896dd914683b01c8044ffd34d7b6416b",
-                "icono": "https://d2po7v53a8yrck.cloudfront.net/static/2/Open/SourceLogos/Cleared%20Logos/GolTV.JPG",
                 "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },
             {
                 "name": "CANAL 10",
-                "url": "https://chromecast.cvattv.com.ar/live/c4eds/Canal10_URU/SA_Live_dash_enc_wl/Canal10_URU.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8dd34782d754f8fcb1e8b38da9ffad0b&key=6fb97467c0f0ea13f86d41a70e029c51",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Canal_10_Uruguay_Logo_1960.webp/640px-Canal_10_Uruguay_Logo_1960.webp.png",
+                "url": "https://cdn.cvattv.com.ar/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10_URU.mpd",
+                "icono": "https://i.ibb.co/zhDLbxd9/LowlfG2.png",
                 "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                },
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8dd34782d754f8fcb1e8b38da9ffad0b&key=6fb97467c0f0ea13f86d41a70e029c51"
+            },
+            {
+                "name": "Canal 12 Uruguay",
+                "url": "https://cdn.cvattv.com.ar/live/c4eds/Canal12URU/SA_Live_dash_enc/Canal12URU.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://www.teledoce.com/wp-content/uploads/2019/05/logo_tele2019.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dfde9d35d7438bfdf61da5dfac0557c1&key=acb13370c03a7254e2bb9cc9d2125017",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },
             {
-                "name": "TELEDOCE",
-                "url": "https://chromecast.cvattv.com.ar/live/c4eds/Canal12URU/SA_Live_dash_enc_wl/Canal12URU.mpd",
+                "name": "TV FLORIDA",
+                "icono": "https://i.ibb.co/5hT93gX5/ORjoLdw.png",
+                "url": "https://stmv1.srvif.com/tv6842/tv6842/playlist.m3u8"
+            },
+            {
+                "name": "VIVO TV",
+                "icono": "https://i.ibb.co/cSLGCS4T/Logo-white.png",
+                "url": "https://stream.vivotv.uy/hls/stream.m3u8"
+            },
+            {
+                "name": "UCL",
+                "icono": "https://i.ibb.co/c2ddPKW/ucl-24.jpg",
+                "url": "https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8"
+            },
+            {
+                "name": "VTV+",
+                "icono": "https://i.ibb.co/7HNRN1S/Logo-VTV-Plus-nuevo.png",
+                "url": "https://cdn.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc/VTV_Plus_HD.mpd",
+                "drm_scheme": "HLS",
+                "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=da8a49a594160cc0059f07b9f71cd39a&key=37ca91dd799b351a02445151c7f61070",
                 "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dfde9d35d7438bfdf61da5dfac0557c1&key=acb13370c03a7254e2bb9cc9d2125017",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_Canal_12_2004.jpg/800px-Logo_Canal_12_2004.jpg",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=da8a49a594160cc0059f07b9f71cd39a&key=37ca91dd799b351a02445151c7f61070",
                 "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "VTV+ PLUS",
+                "url": "http://sdmx.vip:80/live/flamatv/WZuUyWkgTA/2055406.m3u8",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/7HNRN1S/Logo-VTV-Plus-nuevo.png"
+            },
+            {
+                "name": "VTV+ PLUS opc2",
+                "url": "http://liketv.pro:80/live/NovaBoxtv504/JWJNnMCeFU/8721.m3u8",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/7HNRN1S/Logo-VTV-Plus-nuevo.png"
+            },
+            {
+                "name": "TV Ciudad Uruguay",
+                "url": "https://cdn.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_enc/Teve_Ciudad.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/8/83/TVCiudad_logo_2020.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9b536cd1716647ee94c45fa4836d29d6&key=d691c88a95440666742d1d8183182347",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },
             {
                 "name": "VTV",
-                "url": "https://chromecast.cvattv.com.ar/live/c3eds/VTV_HD/SA_Live_dash_enc_wl/VTV_HD.mpd",
+                "url": "https://cdn.cvattv.com.ar/live/c3eds/VTV_HD/SA_Live_dash_enc/VTV_HD.mpd?",
                 "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b96960aa715a4e51b7e952e81c99ac8e&key=5bbffc680764dbd63d90b774b3aa0c0a",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b96960aa715a4e51b7e952e81c99ac8e&key=5bbffc680764dbd63d90b774b3aa0c0a",
                 "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },
             {
-                "name": "VTV PLUS",
-                "url": "https://chromecast.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc_wl/VTV_Plus_HD.mpd",
+                "name": "Ve Plus",
+                "url": "https://cdn.sensa.com.ar/bpk-tv/VePlus/default/index.mpd",
                 "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=da8a49a594160cc0059f07b9f71cd39a&key=37ca91dd799b351a02445151c7f61070",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo_VTV_Plus_nuevo.png/1100px-Logo_VTV_Plus_nuevo.png",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/7/74/Ve_Plus_TV.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8236bef638490a63aacdc424df908658&key=6229f752364cd5e71cd31a9ef9757bf1",
                 "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
                 }
             },
             {
-                "name": "FUTBOL URUGUAYO EVENTOS 1",
-                "url": "https://chromecast.cvattv.com.ar/live/c7eds/Eventos_HD_Uy/SA_Live_dash_enc_wl/Eventos_HD_Uy.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=48d0e34c8797c5c2a742d2630a8fb975&key=fb5d12b9d8febe836e5670abd003ddca",
-                "icono": "https://i.postimg.cc/1Xd87n13/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped.png",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
+                "name": "Gol TV",
+                "url": "http://tvvip.us:8880/live/FL4m4L4T$TV*Sv/eZWd*69I88$PWq*X25a$XVc0gW$/327839.m3u8",
+                "type": "HLS",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjv_0rMgZ6OxQ2zGi_bJPpXaqLw7IdwJ25IA&s"
             },
             {
-                "name": "FUTBOL URUGUAYO EVENTOS 2",
-                "url": "https://chromecast.cvattv.com.ar/live/c4eds/Eventos_2_UY/SA_Live_dash_enc_C/Eventos_2_UY.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=87bfded2bdfbd3ad9dce4d30b2739fd1&key=e80b0d66d60fa0a2d24d8b36055a6fef",
-                "icono": "https://i.postimg.cc/1Xd87n13/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped.png",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "FUTBOL URUGUAYO EVENTOS 1",
-                "url": "https://chromecast.cvattv.com.ar/live/c4eds/Eventos3_UY/SA_Live_dash_enc_C/Eventos3_UY.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f774b06a300783596f27b552226de9c0&key=4d6256b28b487bcf906bcf0328635747",
-                "icono": "https://i.postimg.cc/1Xd87n13/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped.png",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
+                "name": "AUF TV",
+                "url": "https://pro.pccaptv.xyz:2087/flamatv2.0/vkFdZG4BcqQp/181835",
+                "type": "HLS",
+                "icono": "https://pbs.twimg.com/profile_images/1389297875469877250/_Rgj0-YU_400x400.jpg"
             }
         ]
     },
@@ -3627,82 +4001,28 @@
                 "url": "https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8"
             },
             {
-                "name": "AMERICA",
-                "url": "http://magmaplayer.com/stream/m3u8/BGNkKmZ1KmR2BP4lAQZhZGt0YwR3Ay8kAmDmZQZ/hls/35.m3u8",
+                "name": "AMERICA TV",
+                "url": "https://pro.pccaptv.xyz:2087/flamatv2.0/vkFdZG4BcqQp/181718",
                 "icono": "https://i.ibb.co/P6Xz8Jc/Am-rica-Televisi-n-svg.png",
-                "headers": {
-                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-                    "X-Did": "704b97090ad1fb5e",
-                    "X-Version": "8/1.0.7",
-                    "User-Agent": "Magma Player/8",
-                    "Accept-Encoding": "gzip",
-                    "Connection": "Keep-Alive"
-                }
+                "type": "HLS"
             },
             {
-                "name": "RED GLOBAL",
-                "url": "http://170.39.192.130:2095/56933873069play/270124play/316484",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Global_logo_2019.png",
-                "headers": {
-                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-                    "X-Did": "704b97090ad1fb5e",
-                    "X-Version": "8/1.0.7",
-                    "User-Agent": "Magma Player/8",
-                    "Accept-Encoding": "gzip",
-                    "Connection": "Keep-Alive"
-                }
-            },
-            {
-                "name": "Willax",
-                "url": "http://170.39.192.130:2095/56933873069play/270124play/316481",
-                "icono": "https://i.ibb.co/crMgx1K/PE-WILLAX.png",
-                "headers": {
-                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-                    "X-Did": "704b97090ad1fb5e",
-                    "X-Version": "8/1.0.7",
-                    "User-Agent": "Magma Player/8",
-                    "Accept-Encoding": "gzip",
-                    "Connection": "Keep-Alive"
-                }
-            },
-            {
-                "name": "GOL PERU",
+                "name": "GOL PERÚ",
                 "url": "http://2.magmas5.com:8000/live/XXXR3str3amLine/200conxxxxQ41/4828.ts",
-                "icono": "https://i.pinimg.com/originals/74/6a/23/746a2351b447660e738281490be3b50e.png",
-                "headers": {
-                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-                    "X-Did": "704b97090ad1fb5e",
-                    "X-Version": "8/1.0.7",
-                    "User-Agent": "Magma Player/8",
-                    "Accept-Encoding": "gzip",
-                    "Connection": "Keep-Alive"
-                }
-            },
-            {
-                "name": "LIGA 1",
-                "url": "http://magmaplayer.com/stream/m3u8/ZGZ5KmRjAmOsZGL4YwV0Zl4kBQDhZGp2KmR3AQZjZj/hls/1070.m3u8",
-                "icono": "https://seeklogo.com/images/L/liga-1-peru-logo-2910BFBDB8-seeklogo.com.png",
-                "headers": {
-                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-                    "X-Did": "704b97090ad1fb5e",
-                    "X-Version": "8/1.0.7",
-                    "User-Agent": "Magma Player/8",
-                    "Accept-Encoding": "gzip",
-                    "Connection": "Keep-Alive"
-                }
+                "icono": "https://i.ibb.co/Mx30xYbz/Gol-Per-2019-svg.png",
+                "type": "HLS"
             },
             {
                 "name": "LIGA 1 MAX",
+                "url": "http://totalplay.site:80/live/SVCable8264819i4@/@hfPYw@YqgRHB/9498",
+                "icono": "https://elcomercio.pe/resizer/B6H3HRs6cygo7DsP4dshkAj03uY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/YYO6MTKKL5EGPNR3OIVKF5V7LI.jpeg",
+                "type": "HLS"
+            },
+            {
+                "name": "Liga 1 Max",
                 "url": "http://dnsnetplusroq.com:8080/live/salvadCAMBIO623821/VeMvtmdbem8g/63327.ts",
-                "icono": "https://i.ibb.co/xKjXb8p5/image-LIGA-1-MAX-fabe3155b8.png",
-                "headers": {
-                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-                    "X-Did": "704b97090ad1fb5e",
-                    "X-Version": "8/1.0.7",
-                    "User-Agent": "Magma Player/8",
-                    "Accept-Encoding": "gzip",
-                    "Connection": "Keep-Alive"
-                }
+                "type": "HLS",
+                "icono": "https://i.ibb.co/xKjXb8p5/image-LIGA-1-MAX-fabe3155b8.png"
             },
             {
                 "name": "MOVISTAR DEPORTES",
@@ -3715,7 +4035,7 @@
                     "User-Agent": "Magma Player/8",
                     "Accept-Encoding": "gzip",
                     "Connection": "Keep-Alive"
-				}
+                }
             }
         ]
     },
