@@ -2943,250 +2943,40 @@
         ]
     },
     {
-        "name": "🎬CANALES 24/7 CINES VIP",
+        "name": "🎬 24/7 SERIES",
         "samples": [
             {
-                "name": "CINE ACCIÓN",
-                "url": "https://magmaplayer.com/stream/m3u8/AQx5KmR1BS8lBQNmBwWuZQN6ZwNjAwcyZJRkBwxjAQH6LmN2LwbmATLlBzWxAGSsZGp0ZGtk/hls/158.m3u8",
-                "icono": "https://x.playerlatino.live/cine247.png",
-                "headers": {
-                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-                    "X-Did": "704b97090ad1fb5e",
-                    "X-Version": "8/1.0.7",
-                    "User-Agent": "Magma Player/8",
-                    "Accept-Encoding": "gzip",
-                    "Connection": "Keep-Alive"
-                }
+                "name": "24/7 La liga de la justicia",
+                "url": "http://totalplay.site:80/SVCable8264819i4@/sWj7BX5f66/428532",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnP1AukvG1VSUbkTANpVTo-1tj-Q88CVZFlg&s",
+                "type": "HLS"
             },
             {
-                "name": "MARVEL ACCIÓN",
-                "url": "https://magmaplayer.com/stream/m3u8/ZwxmKmR3A18lBQNmBwWuZQN6ZwNjAwcyZJRkBwAxAmD6AGSyZQcwZQuzBzIzZy8kAmDlZGp/hls/177.m3u8",
-                "icono": "https://x.playerlatino.live/cine247.png",
-                "headers": {
-                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-                    "X-Did": "704b97090ad1fb5e",
-                    "X-Version": "8/1.0.7",
-                    "User-Agent": "Magma Player/8",
-                    "Accept-Encoding": "gzip",
-                    "Connection": "Keep-Alive"
-                }
-            },
-            {
-                "name": "CINE TERROR",
-                "url": "https://magmaplayer.com/stream/m3u8/AmplKmR4ZI8lBQNmBwWuZQN6ZwNjAwcyZJRkBwAxAmD6AGSyZQcwZQuzBzIzZy8kAmDlZGp/hls/181.m3u8",
-                "icono": "https://x.playerlatino.live/cine247.png",
-                "headers": {
-                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-                    "X-Did": "704b97090ad1fb5e",
-                    "X-Version": "8/1.0.7",
-                    "User-Agent": "Magma Player/8",
-                    "Accept-Encoding": "gzip",
-                    "Connection": "Keep-Alive"
-                }
-            },
-            {
-                "name": "CINE ACCIÓN SAGAS",
-                "url": "https://magmaplayer.com/stream/m3u8/ZwV2KmR2ZS8lBQNmBwWuZQN6ZwNjAwcyZJRkBwAxAmD6AGSyZQcwZQuzBzIzZy8kAmDlZGp/hls/160.m3u8",
-                "icono": "https://x.playerlatino.live/cine247.png",
-                "headers": {
-                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-                    "X-Did": "704b97090ad1fb5e",
-                    "X-Version": "8/1.0.7",
-                    "User-Agent": "Magma Player/8",
-                    "Accept-Encoding": "gzip",
-                    "Connection": "Keep-Alive"
-                }
-            },
-            {
-                "name": "CINE FANTASÍA",
-                "url": "https://magmaplayer.com/stream/m3u8/BQR2KmR2A18lBQNmBwWuZQN6ZwNjAwcyZJRkBwAxAmD6AGSyZQcwZQuzBzIzZy8kAmDlZGp/hls/167.m3u8",
-                "icono": "https://x.playerlatino.live/cine247.png",
-                "headers": {
-                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-                    "X-Did": "704b97090ad1fb5e",
-                    "X-Version": "8/1.0.7",
-                    "User-Agent": "Magma Player/8",
-                    "Accept-Encoding": "gzip",
-                    "Connection": "Keep-Alive"
-                }
-            },
-            {
-                "name": "CINE INFANTIL",
-                "url": "https://magmaplayer.com/stream/m3u8/ZGt1KmR2BI8lBQNmBwWuZQN6ZwNjAwcyZJRkBwAxAmD6AGSyZQcwZQuzBzIzZy8kAmDlZGp/hls/169.m3u8",
-                "icono": "https://x.playerlatino.live/cine247.png",
-                "headers": {
-                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-                    "X-Did": "704b97090ad1fb5e",
-                    "X-Version": "8/1.0.7",
-                    "User-Agent": "Magma Player/8",
-                    "Accept-Encoding": "gzip",
-                    "Connection": "Keep-Alive"
-                }
-            },
-            {
-                "name": "CINE ROMANCE",
-                "url": "https://magmaplayer.com/stream/m3u8/BQx2KmR3BI8lBQNmBwWuZQN6ZwNjAwcyZJRkBwAxAmD6AGSyZQcwZQuzBzIzZy8kAmDlZGp/hls/179.m3u8",
-                "icono": "https://x.playerlatino.live/cine247.png",
-                "headers": {
-                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-                    "X-Did": "704b97090ad1fb5e",
-                    "X-Version": "8/1.0.7",
-                    "User-Agent": "Magma Player/8",
-                    "Accept-Encoding": "gzip",
-                    "Connection": "Keep-Alive"
-                }
-            },
-            {
-                "name": "CINE NAVIDEÑO",
-                "url": "https://magmaplayer.com/stream/m3u8/ZmL0KmRjAGusZwtjZmblLGNjBwVjZQL6MGSuZGbmMQp0BwHkMGN6LmN4MwcyMwWsZGp0ZwR3/hls/1058.m3u8",
-                "icono": "https://x.playerlatino.live/cine247.png",
-                "headers": {
-                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-                    "X-Did": "704b97090ad1fb5e",
-                    "X-Version": "8/1.0.7",
-                    "User-Agent": "Magma Player/8",
-                    "Accept-Encoding": "gzip",
-                    "Connection": "Keep-Alive"
-                }
-            },
-            {
-                "name": "CINE ZOMBIES",
-                "url": "https://magmaplayer.com/stream/m3u8/BGxmKmR4AS8lBQNmBwWuZQN6ZwNjAwcyZJRkBwAxAmD6AGSyZQcwZQuzBzIzZy8kAmDlZGp/hls/184.m3u8",
-                "icono": "https://x.playerlatino.live/cine247.png",
-                "headers": {
-                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-                    "X-Did": "704b97090ad1fb5e",
-                    "X-Version": "8/1.0.7",
-                    "User-Agent": "Magma Player/8",
-                    "Accept-Encoding": "gzip",
-                    "Connection": "Keep-Alive"
-                }
-            },
-            {
-                "name": "CINE COMEDIA",
-                "url": "http://magmaplayer.com/stream/m3u8/AQV2KmR2Zy8lBQNmBwWuZQN6ZwNjAwcyZJRkBwAxAmD6AGSyZQcwZQuzBzIzZy8kAmDlZGp/hls/162.m3u8",
-                "icono": "https://x.playerlatino.live/cine247.png",
-                "headers": {
-                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-                    "X-Did": "704b97090ad1fb5e",
-                    "X-Version": "8/1.0.7",
-                    "User-Agent": "Magma Player/8",
-                    "Accept-Encoding": "gzip",
-                    "Connection": "Keep-Alive"
-                }
-            },
-            {
-                "name": "CINE COMEDIA 2",
-                "url": "http://magmaplayer.com/stream/m3u8/ZGNjKmR2AS8lBQNmBwWuZQN6ZwNjAwcyZJRkBwAxAmD6AGSyZQcwZQuzBzIzZy8kAmDlZGt/hls/164.m3u8",
-                "icono": "https://x.playerlatino.live/cine247.png",
-                "headers": {
-                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-                    "X-Did": "704b97090ad1fb5e",
-                    "X-Version": "8/1.0.7",
-                    "User-Agent": "Magma Player/8",
-                    "Accept-Encoding": "gzip",
-                    "Connection": "Keep-Alive"
-                }
-            },
-            {
-                "name": "CINE FICCIÓN",
-                "url": "http://magmaplayer.com/stream/m3u8/AwN1KmR2A18lBQNmBwWuZQN6ZwNjAwcyZJRkBwAxAmD6AGSyZQcwZQuzBzIzZy8kAmDlZGt/hls/167.m3u8",
-                "icono": "https://x.playerlatino.live/cine247.png",
-                "headers": {
-                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-                    "X-Did": "704b97090ad1fb5e",
-                    "X-Version": "8/1.0.7",
-                    "User-Agent": "Magma Player/8",
-                    "Accept-Encoding": "gzip",
-                    "Connection": "Keep-Alive"
-                }
-            },
-            {
-                "name": "CINE INFANTIL SAGAS",
-                "url": "http://magmaplayer.com/stream/m3u8/ZwR1KmR1BI8lBQNmBwWuZQN6ZwNjAwcyZJRkBwAxAmD6AGSyZQcwZQuzBzIzZy8kAmDlZGt/hls/159.m3u8",
-                "icono": "https://x.playerlatino.live/cine247.png",
-                "headers": {
-                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-                    "X-Did": "704b97090ad1fb5e",
-                    "X-Version": "8/1.0.7",
-                    "User-Agent": "Magma Player/8",
-                    "Accept-Encoding": "gzip",
-                    "Connection": "Keep-Alive"
-                }
-            }
-        ]
-    },
-    {
-        "name": "🎬CANALES 24/7 VIP",
-        "samples": [
-            {
-                "name": "CINE ACCIÓN",
-                "url": "https://magmaplayer.com/stream/m3u8/AQx5KmR1BS8lBQNmBwWuZQN6ZwNjAwcyZJRkBwxjAQH6LmN2LwbmATLlBzWxAGSsZGp0ZGtk/hls/158.m3u8",
-                "icono": "https://x.playerlatino.live/cine247.png",
-                "headers": {
-                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-                    "X-Did": "704b97090ad1fb5e",
-                    "X-Version": "8/1.0.7",
-                    "User-Agent": "Magma Player/8",
-                    "Accept-Encoding": "gzip",
-                    "Connection": "Keep-Alive"
-                }
-            },
-            {
-                "name": "LOS SIMPSONS",
-                "url": "http://magmaplayer.com/stream/m3u8/AwD1KmLmAI8lBQN0BwR0MQcvLJZjBwExAJD6ZGH4Zwb0AQD1BwL4LGV6MTMzL18kAmDkAwV/hls/635.m3u8",
+                "name": "24/7 LOS SIMPSONS",
+                "url": "https://pro.pccaptv.xyz:2087/flamatv2.0/vkFdZG4BcqQp/286672",
                 "icono": "https://m.media-amazon.com/images/S/pv-target-images/16af05e8c93d21a9e8999206d8371a929c3348d6509907b7b18b982732bb748e._SX1080_FMjpg_.jpg",
-                "headers": {
-                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-                    "X-Did": "704b97090ad1fb5e",
-                    "X-Version": "8/1.0.7",
-                    "User-Agent": "Magma Player/8",
-                    "Accept-Encoding": "gzip",
-                    "Connection": "Keep-Alive"
-                }
+                "type": "HLS"
             },
             {
-                "name": "DRAGON BALL SUPER",
-                "url": "http://magmaplayer.com/stream/m3u8/BGx0KmZjAI8lBQNmBwWuZQN6ZwNjAwcyZJRkBwL2ZGV6ZzEyMGczAwMyBzR5A2IsZGp0ZGD5/hls/305.m3u8",
-                "icono": "http://imgfz.com/i/36uZ9fb.jpeg",
-                "type": "HLS",
-                "headers": {
-                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-                    "X-Did": "704b97090ad1fb5e",
-                    "X-Version": "8/1.0.7",
-                    "User-Agent": "Magma Player/8",
-                    "Accept-Encoding": "gzip",
-                    "Connection": "Keep-Alive"
-                }
+                "name": "24/7 DRAGON BALL SUPER",
+                "url": "https://pro.boxdigital.org:2087/flamatv2.0/vkFdZG4BcqQp/203589",
+                "icono": "https://static.wikia.nocookie.net/dragonball/images/4/42/Dragon_Ball_Super_Broly_logo_Hispanoam%C3%A9rica.png/revision/latest?cb=20181121024822&path-prefix=es",
+                "type": "HLS"
             },
             {
-                "name": "EL CHAPULIN COLORADO",
-                "url": "http://magmaplayer.com/stream/m3u8/AQL3KmR1Zy8lBQN0BwR0MQcvLJZjBwExAJD6ZGH4Zwb0AQD1BwL4LGV6MTMzL18kAmDkAwV/hls/152.m3u8",
+                "name": "24/7 EL CHAPULIN COLORADO",
+                "url": "http://dnsnetplusroq.com:8080/live/salvadCAMBIO623821/VeMvtmdbem8g/65133.ts",
                 "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRjR78mrOm9s_hg-PsixcSJ1Rcxa28xvUdiY7sa-AoIru7d6AM4",
-                "headers": {
-                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-                    "X-Did": "704b97090ad1fb5e",
-                    "X-Version": "8/1.0.7",
-                    "User-Agent": "Magma Player/8",
-                    "Accept-Encoding": "gzip",
-                    "Connection": "Keep-Alive"
-                }
+                "type": "HLS"
             },
             {
-                "name": "EL CHAVO DEL 8",
-                "url": "http://magmaplayer.com/stream/m3u8/Zmt3KmZ0AS8lBQN0BwR0MQcvLJZjBwExAJD6ZGH4Zwb0AQD1BwL4LGV6MTMzL18kAmDkAwV/hls/344.m3u8",
+                "name": "24/7 EL CHAVO DEL 8",
+                "url": "https://pro.pccaptv.xyz:2087/flamatv2.0/vkFdZG4BcqQp/286122",
                 "icono": "https://i.ibb.co/S48tv2qb/R-4.png",
-                "headers": {
-                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-                    "X-Did": "704b97090ad1fb5e",
-                    "X-Version": "8/1.0.7",
-                    "User-Agent": "Magma Player/8",
-                    "Accept-Encoding": "gzip",
-                    "Connection": "Keep-Alive"
-                }
+                "type": "HLS"
             },
             {
-                "name": "CHESPIRITO",
+                "name": "24/7 CHESPIRITO",
                 "url": "http://magmaplayer.com/stream/m3u8/AGZjKmR1Z18lBQN0BwR0MQcvLJZjBwExAJD6ZGH4Zwb0AQD1BwL4LGV6MTMzL18kAmDkAwV/hls/153.m3u8",
                 "icono": "https://www.telegratishd.com/imge/chespirito.png",
                 "headers": {
@@ -3196,38 +2986,115 @@
                     "User-Agent": "Magma Player/8",
                     "Accept-Encoding": "gzip",
                     "Connection": "Keep-Alive"
-                }
+                },
+                "type": "HLS"
             },
             {
-                "name": "NARUTO",
-                "url": "https://magmaplayer.com/stream/m3u8/AQR0KmpjZy8lBQNmBwWuZQN6ZwNjAwcyZJRkBwxjAQH6LmN2LwbmATLlBzWxAGSsZGp0ZGtk/hls/702.m3u8",
-                "icono": "https://wallpapers.com/images/hd/naruto-profile-pictures-sa1tekghfajrr928.jpg",
-                "headers": {
-                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-                    "X-Did": "704b97090ad1fb5e",
-                    "X-Version": "8/1.0.7",
-                    "User-Agent": "Magma Player/8",
-                    "Accept-Encoding": "gzip",
-                    "Connection": "Keep-Alive"
-                }
+                "name": "24/7 FULL HOUSE",
+                "url": "http://dnsnetplusroq.com:8080/live/salvadCAMBIO623821/VeMvtmdbem8g/65134.ts",
+                "type": "HLS",
+                "icono": "s:1:/images/OGC50mihC5bVpx1doYXq2YO6ZLvq8spIMRAJs_VgcjKf88UQZMh4Hfmi6rNLV8IBKVbO-qTtMVD9_kcH-kXTNd-evZDu_mSA5n7nu3nxIe7DGJvDFUcTsXVpYLOTJ6ByDa1XzGje_yZzSuSb2z9-02PpDIjS4iW_F439nfixeWI.jpg"
             },
             {
-                "name": "ALF",
-                "url": "http://magmaplayer.com/stream/m3u8/AGp5KmV4KmV4ZQD6ZGExBzWuLmN6ATD1MQbkAGtlBwD0AQH6AwuuZwcxMzMwKmR3AQR2Zt/hls/28.m3u8",
-                "icono": "https://i.ibb.co/xtbHtrr6/R-5.png",
-                "headers": {
-                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-                    "X-Did": "704b97090ad1fb5e",
-                    "X-Version": "8/1.0.7",
-                    "User-Agent": "Magma Player/8",
-                    "Accept-Encoding": "gzip",
-                    "Connection": "Keep-Alive"
-                }
+                "name": "24/7 PIRATAS DEL CARIBE",
+                "url": "https://pstv.lat:443/live/Onlinetv/DgTHuWS7JK/19876.m3u8",
+                "type": "HLS",
+                "icono": ""
             },
             {
-                "name": "TERROR 24/7",
-                "url": "https://gtechtecnologia.com/telelatino/play/196.m3u8",
-                "icono": "https://www.telegratishd.com/imge/terror.png"
+                "name": "24/7 Harry Potter",
+                "url": "http://skytvpluzz.xyz:80/live/rodotv/ChhSVdWKm7/22750.ts",
+                "type": "HLS",
+                "icono": "https://images.justwatch.com/backdrop/322430019/s640/harry-potter-y-la-piedra-filosofal"
+            },
+            {
+                "name": "24/7 Volver al futuro",
+                "url": "http://goldfull.pro:8880/live/Playtvpremium@938/jewcewTpsA7Z/308474.m3u8",
+                "type": "HLS",
+                "icono": ""
+            },
+            {
+                "name": "24/7 - Los SuperCampeones",
+                "url": "https://pro.boxdigital.org:2087/flamatv2.0/vkFdZG4BcqQp/173219",
+                "type": "HLS",
+                "icono": ""
+            },
+            {
+                "name": "24/7  Tom y Jerry",
+                "url": "https://pro.boxdigital.org:2087/flamatv2.0/vkFdZG4BcqQp/302521",
+                "type": "HLS",
+                "icono": ""
+            },
+            {
+                "name": "24/7 Kung Fu Panda",
+                "url": "https://pro.boxdigital.org:2087/flamatv2.0/vkFdZG4BcqQp/294689",
+                "type": "HLS",
+                "icono": ""
+            }
+        ]
+    },
+    {
+        "name": "🎬CANALES CINES 24/7",
+        "samples": [
+            {
+                "name": "DPelicula Plus",
+                "url": "https://arestv.vip:443/live/T3stN0v@25/2Khh9Ah35S/219.m3u8",
+                "type": "HLS",
+                "icono": "https://1000marcas.net/wp-content/uploads/2022/01/De-Pelicula-Plus-Logo.png"
+            },
+            {
+                "name": "DPelicula Clasico",
+                "url": "https://arestv.vip:443/live/T3stN0v@25/2Khh9Ah35S/218.m3u8",
+                "type": "HLS",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/3/30/De_Pel%C3%ADcula_Cl%C3%A1sico.png"
+            },
+            {
+                "name": "Distrito Comedia",
+                "url": "http://liketv.pro:80/live/NovaBoxtv504/JWJNnMCeFU/126461.m3u8",
+                "type": "HLS",
+                "icono": "https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2022/01/descarga-1.png?w=300"
+            },
+            {
+                "name": "Golden Edge",
+                "url": "https://arestv.vip:443/live/T3stN0v@25/2Khh9Ah35S/256.m3u8",
+                "type": "HLS",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png"
+            },
+            {
+                "name": "Golden Premiere 2",
+                "url": "http://45.184.87.142:8000/play/a04u",
+                "type": "HLS",
+                "icono": "https://static.wikia.nocookie.net/logopedia/images/9/90/Golden_Premier_2_2020.png/revision/latest?cb=20201201141739&path-prefix=es"
+            },
+            {
+                "name": "DISNEY 2",
+                "url": "http://skytvpluzz.xyz:80/rodotv/ChhSVdWKm7/743.ts",
+                "type": "HLS",
+                "icono": "https://static.wikia.nocookie.net/logopedia/images/c/c4/Disney_Channel_2024.png/revision/latest/scale-to-width-down/300?cb=20250205033811"
+            },
+            {
+                "name": "CINEMA LEGO MOVIES",
+                "url": "http://skytvpluzz.xyz:80/rodotv/ChhSVdWKm7/31052.ts",
+                "type": "HLS",
+                "icono": "https://static.wikia.nocookie.net/logopedia/images/4/46/The_LEGO_Movie_2014.png/revision/latest?cb=20211209223242&path-prefix=es"
+            },
+            {
+                "name": "CINEMA DISNEY PIXAR 1",
+                "url": "http://skytvpluzz.xyz:80/rodotv/ChhSVdWKm7/31053.ts",
+                "type": "HLS",
+                "icono": "https://static.wikia.nocookie.net/disneyypixar/images/b/b5/Disney_Cinema.png/revision/latest?cb=20241128064453&path-prefix=es"
+            },
+            {
+                "name": "CINEMA DC COMICS",
+                "url": "http://skytvpluzz.xyz:80/rodotv/ChhSVdWKm7/31054.ts",
+                "type": "HLS",
+                "icono": "http://skytvpluzz.xyz:80/images/p9NQIZs6uYELnnQxnWqhtgKcLdXF8P234pG3H0dIP7B4pdFQz6JRUUJPAqNUxrfdHy9Cyssw29TtUYnMoT1lHaNf34ARYxWQQXKUU4j_fH63_TiMFOFEWutGOEtP0v9Yb8PDONfLnzlx-GKGLM8GmPUsiQHi6anLVtgwNug_J4p4knkeVn4NM41PYjHnMhl2.png"
+            },
+            {
+                "name": "CINEMA CANTINFLAS",
+                "url": "http://skytvpluzz.xyz:80/rodotv/ChhSVdWKm7/31068.ts",
+                "type": "HLS",
+                "icono": "http://skytvpluzz.xyz:80/images/p9NQIZs6uYELnnQxnWqhtgKcLdXF8P234pG3H0dIP7B4pdFQz6JRUUJPAqNUxrfdudD1sZ-SQdG5aSJ8sRZ20l4_wgTDX8rnaKJywtBk-mnRUdF88jSltPf6-grkxytM80Vl0FiEoeoS01g9wovievCY44Wlzn19fOoSzPxfDYbzsas0aYLEm3jVFhh1wR5L.png"
             }
         ]
     },
