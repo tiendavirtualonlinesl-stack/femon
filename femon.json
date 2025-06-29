@@ -2,7 +2,7 @@
    
 
     {
-"name": "📺 LAS PRIMERAS 34 CARPETAS CONTIENEN TODOS LOS CANALES DE TV EN VIVO 📡🛰️🇵🇾📶 📌 DEBAJO ENCONTRARÁS 🎬 TODAS LAS PELÍCULAS 🍿 ORDENADAS POR GÉNERO 🎞️ PARA QUE DISFRUTES LO QUE MÁS TE GUSTA",
+"name": "📺 LAS PRIMERAS CARPETAS CONTIENEN TODOS LOS CANALES DE TV EN VIVO 📡🛰️🇵🇾📶 📌 DEBAJO ENCONTRARÁS 🎬 TODAS LAS PELÍCULAS 🍿 ORDENADAS POR GÉNERO 🎞️ PARA QUE DISFRUTES LO QUE MÁS TE GUSTA",
 "samples":[
 
     {
@@ -160,20 +160,23 @@
       "drm_license_uri": "https://dl.dropbox.com/scl/fi/kg654aptb3wmdvhw1e06i/tigo3.json?rlkey=lz1ve7n2e77c4xylazzpn4qgz&st=vef4p50k&dl=0",
       "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg"
     },
-    {
-      "name": "TIGO OPC 4",
-      "url": "https://live.enhdtv.com:8081/8150/index.m3u8",
-      "type": "CLEARKEY",
-      "drm_license_uri": "https://dl.dropbox.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
-      "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg",
-      "headers": {
-        "Origin": "https://www.tigosports.com.py",
-        "Referer": "https://www.tigosports.com.py/"
+    {        
+	    "name": "INTERMEDIA 1",
+        "url": "https://live.enhdtv.com:8081/8150/index.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
+        "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg"
+    },
+	    {
+        "name": "INTERMEDIA 2",
+        "url": "https://live.enhdtv.com:8081/8162/index.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
+        "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg"
             }
-        }
-       ]
-  },
- {
+        ]
+    },
+    {
         "name": "🇵🇾​CANALES DE PARAGUAY",
         "samples": [
             {
