@@ -2583,6 +2583,67 @@
             }
         ]
     },
+    {		
+        "name": "🎬CANALES DE NOVELAS",
+        "samples": [
+            {
+                "name": "RCN +",
+                "url": "https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
+                "icono": "https://i.ibb.co/j80Rjhd/MJzuRAN.png"
+            },
+            {
+                "name": "NOVELAS TURCAS",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
+                "icono": "https://i.ibb.co/TVFBq72/turcas-logo-3203466-C6-C-seeklogo-com.png"
+            },
+            {
+                "name": "TLN",
+                "url": "http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
+                "icono": "https://i.ibb.co/KHSrKnN/7314320.png"
+            },
+            {
+                "name": "Canal De Las Estrellas",
+                "url": "https://edge6-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzUxMzI3MDQ2Iiwic2lwIjoiMTgxLjQ2LjU3LjExMiIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9DYW5hbDkvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMmVjNjhmNWM1OTVmNWJkMCIsInNlc3Npb25faWQiOiI4MDk4Nzc2OC0xNzUxMTU0MjQ2LTQ3OCIsImNsaWVudF9pZCI6IjYyNDQ5ODciLCJkZXZpY2VfaWQiOiI4MDk4Nzc2OCIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjIxOSIsInNvdXJjZXMiOls4NSwxNDQsMTg0LDg2LDg4XX0=.XghUDywtxBR40WfB4Mk7ybla-kinRXdNRxB6BV25KLq2l8Oij_Ci4OH3PBAemgFf7tVE3H47c8E1q99YZaM2dw==/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_enc/Canal_de_las_estrellas.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://static.flow.com.ar/images/670/CH_LOGO/350/500/0/0/74835190079.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b37d85be9d2b4b619f945beff713fda3&key=917309c98f072b0bd484dd6560c6d166",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "Pasiones",
+                "url": "https://edge6-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzUxMzI3MDQ2Iiwic2lwIjoiMTgxLjQ2LjU3LjExMiIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9DYW5hbDkvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMmVjNjhmNWM1OTVmNWJkMCIsInNlc3Npb25faWQiOiI4MDk4Nzc2OC0xNzUxMTU0MjQ2LTQ3OCIsImNsaWVudF9pZCI6IjYyNDQ5ODciLCJkZXZpY2VfaWQiOiI4MDk4Nzc2OCIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjIxOSIsInNvdXJjZXMiOls4NSwxNDQsMTg0LDg2LDg4XX0=.XghUDywtxBR40WfB4Mk7ybla-kinRXdNRxB6BV25KLq2l8Oij_Ci4OH3PBAemgFf7tVE3H47c8E1q99YZaM2dw==/live/c7eds/Pasiones/SA_Live_dash_enc/Pasiones.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/Jd4QbVc/800px-Pasiones-Tv-logo-svg.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d41cf825e878f0d8e276218af7f5b7e1&key=13d1b73ab578ab8623be9347bcf8972a",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "Novelísima",
+                "url": "http://cdn.sensa.com.ar/bpk-tv/Novelis/default/index_fk.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://geo.edge.pontiscloud.com:9002/images/2484/CH_LOGO/800/542/0/0/68355397076898.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4400f758ddbddc81b7ef9a2b32251625&key=aa2448ebc63a5034b9b8e6e8d15f770d",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            }
+        ]
+    },
     {
         "name": "👦CANALES INFANTILES",
         "samples": [
@@ -4788,6 +4849,19 @@
         "name": "⭐️Estrenos 2025⭐️",
         "samples": [
             {
+                "name": "Cómo entrenar a tu dragón",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/435828.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/fTpbUIwdsfyIldzYvzQi2K4Icws.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/7HqLLVjdjhXS0Qoz1SgZofhkIpE.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/sQiQw5CDqxBr7SRT53FMHELm9yp.png",
+                "descripcion": "En la escarpada isla de Berk, donde vikingos y dragones han sido enemigos acérrimos durante generaciones, Hipo se desmarca desafiando siglos de tradición cuando entabla amistad con Desdentao, un temido dragón de la Furia Nocturna. Su insólito vínculo revela la verdadera naturaleza de los dragones y desafía los cimientos de la sociedad vikinga.",
+                "anio": "2025",
+                "genero": "Acción, Familia, Fantasía",
+                "duracion": "125 min",
+                "type": "PELICULA"
+            },
+            {
+			
                 "name": "Sikandar",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/431517.ts",
                 "icono": "https://image.tmdb.org/t/p/original/41s42CRXafa3OuRGvCtfYPEBmse.jpg",
@@ -4799,7 +4873,7 @@
                 "duracion": "133 min",
                 "type": "PELICULA"
             },
-            {
+            {	
                 "name": "Tierras perdidas",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/431516.ts",
                 "icono": "https://image.tmdb.org/t/p/original/sLDxndoqFWwJEq7iEdYQBzPjUDQ.jpg",
