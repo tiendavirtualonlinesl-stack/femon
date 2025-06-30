@@ -2,7 +2,7 @@
    
 
     {
-"name": "📺 LAS PRIMERAS CARPETAS CONTIENEN TODOS LOS CANALES DE TV EN VIVO 📡🛰️🇵🇾📶 📌 DEBAJO ENCONTRARÁS 🎬 TODAS LAS PELÍCULAS 🍿 ORDENADAS POR GÉNERO 🎞️ PARA QUE DISFRUTES LO QUE MÁS TE GUSTA",
+"name": "📺 LAS PRIMERAS 34 CARPETAS CONTIENEN TODOS LOS CANALES DE TV EN VIVO 📡🛰️🇵🇾📶 📌 DEBAJO ENCONTRARÁS 🎬 TODAS LAS PELÍCULAS 🍿 ORDENADAS POR GÉNERO 🎞️ PARA QUE DISFRUTES LO QUE MÁS TE GUSTA",
 "samples":[
 
     {
@@ -26,65 +26,34 @@
   "samples": [
 
     {
-		
-                "name": "13:00 | Inglaterra (F) vs. Jamaica (F) | AMISTOSO",
-                "url": "http://mundosoporte.xyz:80/Betflix02/N5auNq85Rg/2784.m3u8",
+                "name": "16:00 | Internazionale vs Fluminense | CLUB WORLD CUP",
+                "url": "http://mundosoporte.xyz:80/Betflix02/N5auNq85Rg/2803.m3u8",
                 "type": "HLS",
-                "icono": "https://github.com/luisoddone/femon/blob/main/ChatGPT%20Image%2029%20jun%202025,%2015_37_25.png?raw=true"
+                "icono": "https://i.postimg.cc/yYDk0Z56/LOGOM-PLUS-aafa-37d9b8543e69.jpg"
             },
             {
-                "name": "13:00 | PSG vs Inter Miami | CLUB WORLD CUP",
-                "url": "http://mundosoporte.xyz:80/Betflix02/N5auNq85Rg/2775.m3u8",
+                "name": "16:00 | Internazionale vs Fluminense | CLUB WORLD CUP",
+                "url": "http://mundosoporte.xyz:80/Betflix02/N5auNq85Rg/2804.m3u8",
                 "type": "HLS",
-                "icono": "https://github.com/luisoddone/femon/blob/main/ChatGPT%20Image%2029%20jun%202025,%2015_37_25.png?raw=true"
+                "icono": "https://i.postimg.cc/yYDk0Z56/LOGOM-PLUS-aafa-37d9b8543e69.jpg"
             },
             {
-                "name": "13:00 | PSG vs Inter Miami | CLUB WORLD CUP",
-                "url": "http://mundosoporte.xyz:80/Betflix02/N5auNq85Rg/2774.m3u8",
+                "name": "19:00 | Cerro Largo vs River Plate | Uruguay - Primera Division",
+                "url": "http://mundosoporte.xyz:80/Betflix02/N5auNq85Rg/2808.m3u8",
                 "type": "HLS",
-                "icono": "https://github.com/luisoddone/femon/blob/main/ChatGPT%20Image%2029%20jun%202025,%2015_37_25.png?raw=true"
+                "icono": "https://i.postimg.cc/yYDk0Z56/LOGOM-PLUS-aafa-37d9b8543e69.jpg"
             },
             {
-                "name": "13:30 | Uruguay - Primera Division",
-                "url": "http://mundosoporte.xyz:80/Betflix02/N5auNq85Rg/2785.m3u8",
+                "name": "22:00 | Manchester City vs Al Hilal | CLUB WORLD CUP",
+                "url": "http://mundosoporte.xyz:80/Betflix02/N5auNq85Rg/2805.m3u8",
                 "type": "HLS",
-                "icono": "https://github.com/luisoddone/femon/blob/main/ChatGPT%20Image%2029%20jun%202025,%2015_37_25.png?raw=true"
+                "icono": "https://i.postimg.cc/yYDk0Z56/LOGOM-PLUS-aafa-37d9b8543e69.jpg"
             },
             {
-                "name": "17:00 | Flamengo vs Bayern München | CLUB WORLD CUP",
-                "url": "http://mundosoporte.xyz:80/Betflix02/N5auNq85Rg/2776.m3u8",
+                "name": "22:00 | Manchester City vs Al Hilal | CLUB WORLD CUP",
+                "url": "http://mundosoporte.xyz:80/Betflix02/N5auNq85Rg/2806.m3u8",
                 "type": "HLS",
-                "icono": "https://github.com/luisoddone/femon/blob/main/ChatGPT%20Image%2029%20jun%202025,%2015_37_25.png?raw=true"
-            },
-            {
-                "name": "17:00 | Flamengo vs Bayern München | CLUB WORLD CUP",
-                "url": "http://mundosoporte.xyz:80/Betflix02/N5auNq85Rg/2777.m3u8",
-                "type": "HLS",
-                "icono": "https://github.com/luisoddone/femon/blob/main/ChatGPT%20Image%2029%20jun%202025,%2015_37_25.png?raw=true"
-            },
-            {
-                "name": "17:00 | Canadá vs Guatemala | COPA DE ORO",
-                "url": "http://mundosoporte.xyz:80/Betflix02/N5auNq85Rg/2778.m3u8",
-                "type": "HLS",
-                "icono": "https://github.com/luisoddone/femon/blob/main/ChatGPT%20Image%2029%20jun%202025,%2015_37_25.png?raw=true"
-            },
-            {
-                "name": "20:00 | EE. UU. vs. Costa Rica | COPA DE ORO",
-                "url": "http://mundosoporte.xyz:80/Betflix02/N5auNq85Rg/2781.m3u8",
-                "type": "HLS",
-                "icono": "https://github.com/luisoddone/femon/blob/main/ChatGPT%20Image%2029%20jun%202025,%2015_37_25.png?raw=true"
-            },
-            {
-                "name": "20:00 | Medellín vs. Santa Fe | LIGA BETPLAY",
-                "url": "http://mundosoporte.xyz:80/Betflix02/N5auNq85Rg/2782.m3u8",
-                "type": "HLS",
-                "icono": "https://github.com/luisoddone/femon/blob/main/ChatGPT%20Image%2029%20jun%202025,%2015_37_25.png?raw=true"
-            },
-            {
-                "name": "20:00 | Medellín vs. Santa Fe | LIGA BETPLAY",
-                "url": "http://mundosoporte.xyz:80/Betflix02/N5auNq85Rg/2783.m3u8",
-                "type": "HLS",
-                "icono": "https://github.com/luisoddone/femon/blob/main/ChatGPT%20Image%2029%20jun%202025,%2015_37_25.png?raw=true"
+                "icono": "https://i.postimg.cc/yYDk0Z56/LOGOM-PLUS-aafa-37d9b8543e69.jpg"
 			},
             {	
                 "name": "Telefe",
