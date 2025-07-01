@@ -1,57 +1,29 @@
 [
-   
-
     {
-"name": "📺 LAS PRIMERAS 34 CARPETAS CONTIENEN TODOS LOS CANALES DE TV EN VIVO 📡🛰️🇵🇾📶 📌 DEBAJO ENCONTRARÁS 🎬 TODAS LAS PELÍCULAS 🍿 ORDENADAS POR GÉNERO 🎞️ PARA QUE DISFRUTES LO QUE MÁS TE GUSTA",
-"samples":[
-
-    {
-        "name": "EVENTOS FLOW",
-        "url": "https://cdn.cvattv.com.ar/live/c3eds/Eventos_PY/SA_Live_dash_enc/Eventos_PY.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2bdfc30f2a7591e107d8c84458c395dd&key=dcee0d6420b6b597fba15d3c4411a71e",
-        "icono": "https://i.postimg.cc/BvSyNRYQ/images-8.png",
-       
-       "headers": {
-                "Origin": "https://web.app.flow.com.py",
-                "Referer": "https://web.app.flow.com.py/guia-de-tvguia-de-tv",
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-				
-            }
-        }
-       ]
-  },
- {
   "name": "EVENTOS DEPORTIVOS FULL",
   "samples": [
 
     {
-                "name": "16:00 | Internazionale vs Fluminense | CLUB WORLD CUP",
-                "url": "http://mundosoporte.xyz:80/Betflix02/N5auNq85Rg/2803.m3u8",
+                "name": "16:00 | Real Madrid vs Juventus | CLUB WORLD CUP",
+                "url": "http://mundosoporte.xyz:80/Betflix02/N5auNq85Rg/2822.m3u8",
                 "type": "HLS",
                 "icono": "https://github.com/luisoddone/femon/blob/main/ChatGPT%20Image%2029%20jun%202025,%2015_37_25.png?raw=true"
             },
             {
-                "name": "16:00 | Internazionale vs Fluminense | CLUB WORLD CUP",
-                "url": "http://mundosoporte.xyz:80/Betflix02/N5auNq85Rg/2804.m3u8",
+                "name": "16:00 | Real Madrid vs Juventus | CLUB WORLD CUP",
+                "url": "http://mundosoporte.xyz:80/Betflix02/N5auNq85Rg/2821.m3u8",
                 "type": "HLS",
                 "icono": "https://github.com/luisoddone/femon/blob/main/ChatGPT%20Image%2029%20jun%202025,%2015_37_25.png?raw=true"
             },
             {
-                "name": "19:00 | Cerro Largo vs River Plate | Uruguay - Primera Division",
-                "url": "http://mundosoporte.xyz:80/Betflix02/N5auNq85Rg/2808.m3u8",
+                "name": "22:00 | Borussia Dortmund vs Monterrey | CLUB WORLD CUP",
+                "url": "http://mundosoporte.xyz:80/Betflix02/N5auNq85Rg/2822.m3u8",
                 "type": "HLS",
                 "icono": "https://github.com/luisoddone/femon/blob/main/ChatGPT%20Image%2029%20jun%202025,%2015_37_25.png?raw=true"
             },
             {
-                "name": "22:00 | Manchester City vs Al Hilal | CLUB WORLD CUP",
-                "url": "http://mundosoporte.xyz:80/Betflix02/N5auNq85Rg/2805.m3u8",
-                "type": "HLS",
-                "icono": "https://github.com/luisoddone/femon/blob/main/ChatGPT%20Image%2029%20jun%202025,%2015_37_25.png?raw=true"
-            },
-            {
-                "name": "22:00 | Manchester City vs Al Hilal | CLUB WORLD CUP",
-                "url": "http://mundosoporte.xyz:80/Betflix02/N5auNq85Rg/2806.m3u8",
+                "name": "22:00 | Borussia Dortmund vs Monterrey | CLUB WORLD CUP",
+                "url": "http://mundosoporte.xyz:80/Betflix02/N5auNq85Rg/2821.m3u8",
                 "type": "HLS",
                 "icono": "https://github.com/luisoddone/femon/blob/main/ChatGPT%20Image%2029%20jun%202025,%2015_37_25.png?raw=true"
 			},
@@ -68,21 +40,13 @@
                 }
             },
             {
-				
                 "name": "DAZN 1",
                 "url": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd",
                 "type": "CLEARKEY",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=44dd9cd370b08a868ead115fe84ecfde&key=bff19ab0a51cf14e848389b152913fd0",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.py",
-                    "Referer": "https://web.app.flow.com.py",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-					
-                }
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
+                "icono": "https://yt3.googleusercontent.com/xkKpq4tvcd1Mi-o6Tvk3GlkQUN-SQnmB4xgrTihJE3bxghJPqZC_i7IinG2Vepem7iq24fO430Y=s900-c-k-c0x00ffffff-no-rj"					
             },
             {
-				
       "name": "EVENTOS TIGO 1",
       "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
       "type": "CLEARKEY",
@@ -95,13 +59,6 @@
       "type": "CLEARKEY",
       "drm_license_uri": "https://dl.dropbox.com/scl/fi/wbw3yya7vk1f3ivn650ug/tigo4.txt?rlkey=ozbktawdgz3ir2ydtm4qez3om&st=8nrn8w9m&dl=0",
       "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg"
-    },
-    {
-      "name": "EVENTOS TIGO 3",
-      "url": "https://d2slu3qf332d0d.cloudfront.net/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd",
-      "type": "CLEARKEY",
-      "drm_license_uri": "https://dl.dropbox.com/scl/fi/kg654aptb3wmdvhw1e06i/tigo3.json?rlkey=lz1ve7n2e77c4xylazzpn4qgz&st=vef4p50k&dl=0",
-	"icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg"
     }
   ]
 },
@@ -123,11 +80,11 @@
       "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg"
     },
     {
-      "name": "EVENTOS TIGO 3",
-      "url": "https://d2slu3qf332d0d.cloudfront.net/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd",
-      "type": "CLEARKEY",
-      "drm_license_uri": "https://dl.dropbox.com/scl/fi/kg654aptb3wmdvhw1e06i/tigo3.json?rlkey=lz1ve7n2e77c4xylazzpn4qgz&st=vef4p50k&dl=0",
-      "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg"
+        "name": "EVENTOS TIGO 3",
+        "url": "https://sam-py-edge01.tigo.com.py/ccur-session/e319b1151f2d4f6682d5ccbb56be311417486357322181b65a320aeed11ebae01d90082191a3cTfPoq7bcpzIioW1uMA4mxQSR/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/kg654aptb3wmdvhw1e06i/tigo3.json?rlkey=lz1ve7n2e77c4xylazzpn4qgz&st=vef4p50k&dl=0",
+        "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg"
     },
     {        
 	    "name": "INTERMEDIA 1",
@@ -1827,6 +1784,67 @@
         ]
     },
     {
+	    "name": "⚽DEPORTES DAZN",
+        "samples": [
+            {
+                "name": "DAZN 1",
+                "url": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
+                "icono": "https://yt3.googleusercontent.com/xkKpq4tvcd1Mi-o6Tvk3GlkQUN-SQnmB4xgrTihJE3bxghJPqZC_i7IinG2Vepem7iq24fO430Y=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+                "name": "DAZN 2",
+                "url": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0eab5a3f3e3b4ba5d42d40ca30d17571&key=f3f061ded9b70e8160590d5802ecda6d",
+                "icono": "https://i.ibb.co/zVyXvjM/dazn2.png"
+            },
+            {
+                "name": "DAZN 3",
+                "url": "https://dtvlivegratis.com/stream.php?stream=disney8",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bad8efff688c0dbb3711e4a7114c22a3&key=6ba800673b20776c0c850130d45e1920",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9TSJe2eq5BVR4iTiqiPimKvFk0vztXF9PcbaLhYfG&s"
+            },
+            {
+                "name": "DAZN 4",
+                "url": "http://79.117.39.146:8000/play/a0ln",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d27104d427e4f87e75b19395a9f8796b&key=723593c70e2d4c4862754398e80168f8",
+                "icono": "https://i.postimg.cc/MGV5vpFx/images.png"
+            },
+            {
+                "name": "FORMULA 1",
+                "url": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d27104d427e4f87e75b19395a9f8796b&key=723593c70e2d4c4862754398e80168f8",
+                "icono": "https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png"
+            },
+            {
+                "name": "FORMULA 1 FULL HD",
+                "url": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1061be12d303247426ec25e8369b2647&key=bd622b0e610295de3b0bccb850ccaaaa",
+                "icono": "https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png"
+            },
+            {
+                "name": "LA LIGA HYPERMOTION",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd",
+                "url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d8235cccf08d0ff149a20dfcd11ff68b&key=e8ea3a1ae6892eb76a73dc1b14d216d6",
+                "icono": "https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png"
+            },
+            {
+                "name": "DAZN LA LIGA",
+                "url": "https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/9e1i4w12nobb5tc7ka3b0/daznliga.json?rlkey=sl7msjhndx49v5yos75e1etfz&st=pmjjwg93&dl=0",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToM6On2c3sZTpdN5TBqdxkfyK5cFdWSW3edVILEGDizarR95qaEJvfTw_5IuReWzmlBH0&usqp=CAU"
+            }
+        ]
+    },
+     {
         "name": "🎬CANALES DE CINE Y SERIES",
         "samples": [
             {
