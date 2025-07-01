@@ -1,4 +1,6 @@
 [
+   
+
     {
         "name": "⚡️Recomendados⚡️",
         "samples": [
@@ -368,6 +370,7 @@
                 "type": "PELICULA"
             },
             {
+			
                 "name": "Sikandar",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/431517.ts",
                 "icono": "https://image.tmdb.org/t/p/original/41s42CRXafa3OuRGvCtfYPEBmse.jpg",
@@ -379,7 +382,7 @@
                 "duracion": "133 min",
                 "type": "PELICULA"
             },
-            {
+            {	
                 "name": "Tierras perdidas",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/431516.ts",
                 "icono": "https://image.tmdb.org/t/p/original/sLDxndoqFWwJEq7iEdYQBzPjUDQ.jpg",
@@ -503,12 +506,12 @@
                 "name": "Into the Deep",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405176.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/tHkFVhZji6o9UyHXezAeFma8IOW.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/7YI3LxKLTxHjes9OaBUYrKdXqh3.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/vZ2nOYaoXgen39nLUtd819tr16h.png",
-                "descripcion": "Sigue a una mujer desesperada por escapar de su pueblo, conoce a un extraño que le promete una escapada romántica, pero resulta en engaño, desconfianza y violencia.",
-                "anio": "2022",
-                "genero": "Suspense",
-                "duracion": "91 min",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/804DmpPKcL9sTz2DQRY1HYBGKJk.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/a80lrPLA5CzXrz9RS3A3AoKmIlw.png",
+                "descripcion": "",
+                "anio": "2025",
+                "genero": "Terror, Acción, Suspense",
+                "duracion": "90 min",
                 "type": "PELICULA"
             },
             {
@@ -665,7 +668,7 @@
                 "duracion": "107 min",
                 "genero": "Acción, Comedia, Crimen",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/elZZLzhDzjRIIkGcIK0FGmZSUaq.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/cjyqw29goBzKAZiXMEGnZhGRjKZ.png"
+                "iconpng": "https://image.tmdb.org/t/p/w500/kv6uXot40z3ZmyHp0f6w6oYbmdp.png"
             },
             {
                 "name": "Una película de Minecraft",
@@ -1077,7 +1080,7 @@
                 "anio": "2025",
                 "duracion": "104 min",
                 "genero": "Terror, Misterio, Suspense",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/3nPkux81OfEW8knkuPoTTrqn7PY.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/3kzw6Rw7TBujqtchJS2TSP3O2US.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/8A5kXfxBBaVbF4pkaZubGSzDRsJ.png"
             },
             {
@@ -1089,8 +1092,8 @@
                 "anio": "2025",
                 "duracion": "100 min",
                 "genero": "Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/njzZDv1JStWz6wYnwMoOJhG1H0I.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/1Po7gUZesikzQwF9K91aud6x4XS.png"
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/3PfRhdiSiAu3nm2M2KKgz8wAxU.jpg",
+                "iconpng": ""
             },
             {
                 "name": "Lifeline",
@@ -1109,7 +1112,7 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168588.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/fOxsQAg1RmICNrh0gdI27UP2DVD.jpg",
                 "type": "PELICULA",
-                "descripcion": "Un representante de futbolistas arruinado se ve atrapado en una cuenta atrás frenética para devolver una gran suma de dinero a un exjugador que reclama lo que considera suyo. La historia nos lleva desde los barrios humildes donde nacen las estrellas hasta las cúpulas del poder deportivo, entre fichajes millonarios, traiciones y decisiones a vida o muerte.",
+                "descripcion": "",
                 "anio": "2025",
                 "duracion": "119 min",
                 "genero": "Suspense",
@@ -1145,7 +1148,7 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168124.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/3ecBMVWe2xRhHKcTcRkuqLk85jq.jpg",
                 "type": "PELICULA",
-                "descripcion": "Cuando la prometida de un gran gladiador es asesinada, jura perseguir al asesino. Pero cuando descubre que el asesino no es un extraño, el gladiador debe volver a entrar en el Coliseo para vengar a su novia.",
+                "descripcion": "",
                 "anio": "2024",
                 "duracion": "95 min",
                 "genero": "Acción",
@@ -1497,12 +1500,12 @@
                 "name": "Respire",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/406203.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/8gLBN3F37YYop5K1mhexqL11RKZ.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/xxkuySNoMailIohAdqJQuyNbuOz.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/zkq0LGbtr7D4ykt01ubuf1wXiGp.png",
-                "descripcion": "Charlie tiene 17 años. Está en la edad de dedicar su vida a salir con sus amigos: emociones, convicciones y pasiones. Sarah es la chica nueva. Hermosa, valiente, con historia y mucha personalidad. Una estrella desde el principio. Nada podía anticipar que sus caminos se cruzarían, pero así ocurre..",
-                "anio": "2014",
-                "genero": "Drama",
-                "duracion": "90 min",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/nBL7RlnF8bGKu6syVFEaYyyX1iN.jpg",
+                "iconpng": "",
+                "descripcion": "",
+                "anio": "2024",
+                "genero": "Terror",
+                "duracion": "",
                 "type": "PELICULA"
             },
             {
@@ -4075,7 +4078,7 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/171156.ts",
                 "icono": "https://image.tmdb.org/t/p/original/janjdSMrTRGtPrI1p9uOX66jv7x.jpg",
                 "type": "PELICULA",
-                "descripcion": "Un intrépido caballero se enfrenta a un reino mortal para salvar el alma de la Elegida. Enfrentándose a brujas, demonios y enemigos brutales, descubre que su regreso podría desatar el caos y condenar a la humanidad.",
+                "descripcion": "",
                 "anio": "2025",
                 "duracion": "103 min",
                 "genero": "Terror, Acción, Fantasía",
@@ -4285,12 +4288,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168871.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/hUrNKVrkMN7sdt0oAioopMcxyoq.jpg",
                 "type": "PELICULA",
-                "descripcion": "En un viaje a Londres, Mads, un próspero ejecutivo de marketing danés, se cruza con la misteriosa Joan. Su encuentro casual enciende un apasionado romance, que para Mads termina cuando retoma su vida en Dinamarca. Sin embargo, para Joan, la relación no termina aquí...",
-                "anio": "2024",
-                "duracion": "83 min",
-                "genero": "Drama, Suspense",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/zIqdfEWKc3uP8LxnQ1ZZi0fnzjg.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/ew1aDYFpuSaTrda6sykCpjVsoZl.png"
+                "descripcion": "",
+                "anio": "2025",
+                "duracion": "94 min",
+                "genero": "Comedia, Terror, Suspense",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/pkBV1whXgA9mv8UpOXujr0gGTnI.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/wd6hpxdOPSNzihwswOho4EMJtQv.png"
             },
             {
                 "name": "Los últimos románticos",
@@ -6762,7 +6765,7 @@
                 "url": "http://vedo.wvdbozpfc.com/vod/D1244C43CA7D45CA99FEF52DB85466C4_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/p9JdO5qKKwpXwW7MCEHlZHX1Lpr.jpg",
                 "type": "PELICULA",
-                "descripcion": "En esta historia la Tierra ha sido invadida, pero la raza humana no se ha extinguido por completo, ya que los invasores se han apoderado de las mentes terrestres y han salvado sus cuerpos, que utilizan para transportarse. Esto hace que algunos de estos contenedores físicos, como el de Melanie Stryder (Saoirse Ronan, 'Hanna'), opongan resistencia a la invasión de su mente.  Melanie no se hace a la idea de perder el control de sí misma y envía a su alma invasora, Wanderer (la misma actriz), constantes reminiscencias de su pasado que contienen recuerdos del hombre al que amaba, Jared (Max Irons, 'El retrato de Dorian Gray').  Debido a las sensaciones tan fuertes que recibe, Wanderer no puede hacerse con el control total de Melanie y empieza a desarrollar sentimientos hacia el hombre que aparece en su mente y que no conoce. Ambas fuerzas, la de Melanie y Wanderer, se aunarán para conseguir al mismo amante.",
+                "descripcion": "En esta historia la Tierra ha sido invadida, pero la raza humana no se ha extinguido por completo, ya que los invasores se han apoderado de las mentes terrestres y han salvado sus cuerpos, que utilizan para transportarse. Esto hace que algunos de estos contenedores físicos, como el de Melanie Stryder (Saoirse Ronan, 'Hanna'), opongan resistencia a la invasión de su mente.  Melanie no se hace a la idea de perder el control de sí misma y envía a su alma invasora, Wanderer (la misma actriz), constantes reminiscencias de su pasado que contienen recuerdos del hombre al que amaba, Jared (Max Irons, 'El retrato de Dorian Gray').  Debido a las sensaciones tan fuertes que recibe, Wanderer no puede hacerse con el control total de Melanie y empieza a desarrollar sentimientos hacia el hombre que aparece en su mente y que no conoce. Ambas fuerzas, la de Melanie y Wanderer, se aunarán para conseguir al mismo amante." ,
                 "anio": "2013",
                 "duracion": "125 min",
                 "genero": "Acción, Aventura, Ciencia ficción",
@@ -8313,7 +8316,7 @@
                 "type": "PELICULA",
                 "descripcion": "",
                 "anio": "2024",
-                "duracion": "97 min",
+                "duracion": "",
                 "genero": "Terror",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/ik0BMq1s9qGDKEQW1jh7C6Aycbk.jpg",
                 "iconpng": ""
@@ -9143,7 +9146,7 @@
                 "url": "http://vedo.wvdbozpfc.com/vod/A29BDFF2AB3543FDBEE300B863A7DF46_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/AprPc4k1MsRpAiHPKUxlEt9EWi9.jpg",
                 "type": "PELICULA",
-                "descripcion": "Toronto, 1999. Azra, una estudiante de posgrado musulmana y lesbiana, estudia interpretación y vive feliz con su novia (blanca, no musulmana) a medio planeta de distancia de su muy religiosa madre, Miriam. Cuando su padre fallece inesperadamente, Azra regresa a Pakistán, su tierra natal, y revive los recuerdos de su infancia en Karachi. Aunque la distancia y la manera de pensar han alejado a Azra y Mariam, madre e hija, aparentemente con poco en común, forjan una nueva conexión en la exuberante intersección entre Oriente y Occidente, pasado y presente. Con muchas referencias a los colores y el espíritu de los musicales de Bollywood, The Queen of My Dreams es una comedia dramática luminosa sobre los complicados (y a menudo omnipresentes) vínculos entre madres e hijas. (FIRE!!)",
+                "descripcion": "",
                 "anio": "2024",
                 "duracion": "99 min",
                 "genero": "Drama, Comedia",
@@ -9513,7 +9516,7 @@
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405199.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/eikAu9gPJTQQmwFwa1zX5Hfz96P.jpg",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/g70uNy3hRqEcU0ilBTtcuBFlizx.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/ulvR9o9H5vvIx6l05xMsBDKI9xm.png",
+                "iconpng": "https://image.tmdb.org/t/p/w500/gAm2iSFNmBcfYLpxvtiSVe7cvzU.png",
                 "descripcion": "",
                 "anio": "2025",
                 "genero": "Comedia",
@@ -9537,7 +9540,7 @@
                 "url": "http://vedo.wvdbozpfc.com/vod/3DA473C070814CB2BF67805C9469980A_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/r01XiXILuu0uymj8yvpRyiD9hB0.jpg",
                 "type": "PELICULA",
-                "descripcion": "En esta comedia llena de eventos, dos parejas que buscan tener hijos recurren a la inseminación artificial como último recurso. La ciencia no falla y la prueba da positivo, pero los humanos sí: “Una pequeña confusión” (nada pequeña) provoca que la doctora (Diana Bovio) intercambie accidentalmente las muestras de esperma. Ahora… cada futura mamá lleva el bebé de un completo extraño. Este ligero cambio de planes trastoca las vidas de Lola y Cuauh (Ana de la Reguera y Cristo Fernández), una pareja progresista de clase media con espíritu libre, y de Iñigo y Majo (Juanpa Zurita y Vico Escorcia), un dúo joven y conservador que vive en una burbuja de privilegio.",
+                "descripcion": "",
                 "anio": "2024",
                 "duracion": "107 min",
                 "genero": "Comedia",
@@ -9999,12 +10002,12 @@
                 "url": "http://vedo.wvdbozpfc.com/vod/B2EDD336F4AB4835877412BF4C44A4A2_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/86EtkVtsVgHUCxX6xDzXNNxJIeh.jpg",
                 "type": "PELICULA",
-                "descripcion": "Un especial de televisión que celebra el 15º aniversario de Saturday Night Live. Antes de una audiencia de celebridades, muchos de los antiguos miembros del elenco y presentadores invitados vuelven a realizar sus monólogos característicos y presentan una mirada retrospectiva a algunas de las mejores parodias cómicas y números musicales de los últimos 15 años.",
-                "anio": "1989",
-                "duracion": "120 min",
-                "genero": "Comedia",
-                "iconoHorizontal": "",
-                "iconpng": ""
+                "descripcion": "",
+                "anio": "2024",
+                "duracion": "82 min",
+                "genero": "Acción",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/qJUi08RHf2TVKNvvkhc07MJJiJt.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/dKseEHqdluBHQprgYjxAccyGXcv.png"
             },
             {
                 "name": "Historia y Geografía",
