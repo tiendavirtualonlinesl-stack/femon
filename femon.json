@@ -1,43 +1,43 @@
 [
     {
-  "name": "EVENTOS DEPORTIVOS FULL",
+  "name": "EVENTO DEPORTIVO FULL",
   "samples": [
 
     {
                 "name": "13:00 | Islandia (F) vs. Finlandia (F) | EUROPEO FEMENINO",
                 "url": "http://tv-cool.com:25461/coolevents@/qtzjdnS9PA3hswww1223/282653",
                 "type": "HLS",
-                "icono": "https://github.com/luisoddone/femon/blob/main/ChatGPT%20Image%2029%20jun%202025,%2015_37_25.png?raw=true"
+                "icono": "https://github.com/luisoddone/femon/blob/main/ChatGPT%20Image%2029%20jun%202025,%2015_37_25.png?raw=tru"
             },
             {
                 "name": "13:00 | Islandia (F) vs. Finlandia (F) | EUROPEO FEMENINO",
                 "url": "http://mundosoporte.xyz:80/Betflix02/N5auNq85Rg/2848.m3u8",
                 "type": "HLS",
-                "icono": "https://github.com/luisoddone/femon/blob/main/ChatGPT%20Image%2029%20jun%202025,%2015_37_25.png?raw=true"
+                "icono": "https://github.com/luisoddone/femon/blob/main/ChatGPT%20Image%2029%20jun%202025,%2015_37_25.png?raw=tru"
             },
             {
                 "name": "16:00 | Suiza (F) vs Noruega (F) | EUROPEO FEMENINO",
                 "url": "http://mundosoporte.xyz:80/Betflix02/N5auNq85Rg/2849.m3u8",
                 "type": "HLS",
-                "icono": "https://github.com/luisoddone/femon/blob/main/ChatGPT%20Image%2029%20jun%202025,%2015_37_25.png?raw=true"
+                "icono": "https://github.com/luisoddone/femon/blob/main/ChatGPT%20Image%2029%20jun%202025,%2015_37_25.png?raw=tru"
             },
             {
                 "name": "20:00 | EE. UU. vs. Guatemala | COPA DE ORO",
                 "url": "http://mundosoporte.xyz:80/Betflix02/N5auNq85Rg/2860.m3u8",
                 "type": "HLS",
-                "icono": "https://github.com/luisoddone/femon/blob/main/ChatGPT%20Image%2029%20jun%202025,%2015_37_25.png?raw=true"
+                "icono": "https://github.com/luisoddone/femon/blob/main/ChatGPT%20Image%2029%20jun%202025,%2015_37_25.png?raw=tru"
             },
             {
                 "name": "23:00 | México vs. Honduras | COPA DE ORO",
                 "url": "http://mundosoporte.xyz:80/Betflix02/N5auNq85Rg/2891.m3u8",
                 "type": "HLS",
-                "icono": "https://github.com/luisoddone/femon/blob/main/ChatGPT%20Image%2029%20jun%202025,%2015_37_25.png?raw=true"
+                "icono": "https://github.com/luisoddone/femon/blob/main/ChatGPT%20Image%2029%20jun%202025,%2015_37_25.png?raw=tru"
             },
             {
                 "name": "23:00 | México vs. Honduras | COPA DE ORO",
                 "url": "http://mundosoporte.xyz:80/Betflix02/N5auNq85Rg/2892.m3u8",
                 "type": "HLS",
-                "icono": "https://github.com/luisoddone/femon/blob/main/ChatGPT%20Image%2029%20jun%202025,%2015_37_25.png?raw=true"
+                "icono": "https://github.com/luisoddone/femon/blob/main/ChatGPT%20Image%2029%20jun%202025,%2015_37_25.png?raw=tru"
 			},
             {	
                 "name": "Telefe",
@@ -425,6 +425,20 @@
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
                 "icono": "https://i.postimg.cc/MTwCLz0S/Whats-App-Image-2025-04-09-at-17-45-28.jpg"
+            },
+            {
+			    "name": "REGIONAL TV YAGUARON",
+                "url": "https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
+                "icono": "https://github.com/fogertycapiata/tvpataguaya/blob/main/dfdfdfdf554.png?raw=true"
+            },
+            {		
+			    "name": "YAGUARON RADIO TV",
+                "url": "https://video.hostingcaaguazu.com:19360/regionalnetworkstv/regionalnetworkstv.m3u8",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
+                "icono": "https://github.com/fogertycapiata/tvpataguaya/blob/main/WhatsApp%20Image%202025-07-03%20at%2012.58.12.jpeg?raw=true"
             },
             {
                 "name": "MI TV",
