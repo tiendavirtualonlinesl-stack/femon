@@ -1,9 +1,8 @@
 [
     {
-  "name": "EVENTO DEPORTIVO FULL",
-  "samples": [
-
-    {
+        "name": "EVENTO DEPORTIVO FULL",
+        "samples": [
+            {
                 "name": "13:00 | Islandia (F) vs. Finlandia (F) | EUROPEO FEMENINO",
                 "url": "http://tv-cool.com:25461/coolevents@/qtzjdnS9PA3hswww1223/282653",
                 "type": "HLS",
@@ -38,8 +37,8 @@
                 "url": "http://mundosoporte.xyz:80/Betflix02/N5auNq85Rg/2892.m3u8",
                 "type": "HLS",
                 "icono": "https://github.com/luisoddone/femon/blob/main/ChatGPT%20Image%2029%20jun%202025,%2015_37_25.png?raw=tru"
-			},
-            {	
+            },
+            {
                 "name": "Telefe",
                 "url": "https://edge-live16-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzUxODI4ODE3Iiwic2lwIjoiMTgxLjQ2LjU3LjExMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy8yNl9UVl9IRC9TQV9MaXZlX2Rhc2hfZW5jX0MvIiwic2Vzc2lvbl9jZG5faWQiOiIwNWY1MDA0Njg3OTZhNGNjIiwic2Vzc2lvbl9pZCI6IjgwOTg3NzY4LTE3NTE2NTYwMTctNzUxIiwiY2xpZW50X2lkIjoiNjI0NDk4NyIsImRldmljZV9pZCI6IjgwOTg3NzY4IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMTA1Iiwic291cmNlcyI6Wzg1LDE0NCwxODQsODYsODhdfQ==.ek1GqTYBvMijnNsYjiFm5g8aODpbLINpwEOyJ0hH6hnYmo7e-Jj4sOsdxQ4ohKen_kuwg3e-cms31h18hVKqfw==/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd",
                 "type": "CLEARKEY",
@@ -56,68 +55,68 @@
                 "url": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
-                "icono": "https://yt3.googleusercontent.com/xkKpq4tvcd1Mi-o6Tvk3GlkQUN-SQnmB4xgrTihJE3bxghJPqZC_i7IinG2Vepem7iq24fO430Y=s900-c-k-c0x00ffffff-no-rj"					
+                "icono": "https://yt3.googleusercontent.com/xkKpq4tvcd1Mi-o6Tvk3GlkQUN-SQnmB4xgrTihJE3bxghJPqZC_i7IinG2Vepem7iq24fO430Y=s900-c-k-c0x00ffffff-no-rj"
             },
             {
-      "name": "EVENTOS TIGO 1",
-      "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
-      "type": "CLEARKEY",
-      "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
-      "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg"
+                "name": "EVENTOS TIGO 1",
+                "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
+                "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg"
+            },
+            {
+                "name": "EVENTOS TIGO 2",
+                "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/wbw3yya7vk1f3ivn650ug/tigo4.txt?rlkey=ozbktawdgz3ir2ydtm4qez3om&st=8nrn8w9m&dl=0",
+                "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg"
+            }
+        ]
     },
     {
-      "name": "EVENTOS TIGO 2",
-      "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
-      "type": "CLEARKEY",
-      "drm_license_uri": "https://dl.dropbox.com/scl/fi/wbw3yya7vk1f3ivn650ug/tigo4.txt?rlkey=ozbktawdgz3ir2ydtm4qez3om&st=8nrn8w9m&dl=0",
-      "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg"
-    }
-  ]
-},
-{
-  "name": "🇵🇾​ EVENTO TIGO SPORTS FUTBOL PARAGUAYO",
-  "samples": [
-    {
-      "name": "EVENTOS TIGO 1",
-      "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
-      "type": "CLEARKEY",
-      "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
-      "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg"
-    },
-    {
-      "name": "EVENTOS TIGO 2",
-      "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
-      "type": "CLEARKEY",
-      "drm_license_uri": "https://dl.dropbox.com/scl/fi/wbw3yya7vk1f3ivn650ug/tigo4.txt?rlkey=ozbktawdgz3ir2ydtm4qez3om&st=8nrn8w9m&dl=0",
-      "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg"
-    },
-    {
-        "name": "EVENTOS TIGO 3",
-        "url": "https://sam-py-edge01.tigo.com.py/ccur-session/e319b1151f2d4f6682d5ccbb56be311417486357322181b65a320aeed11ebae01d90082191a3cTfPoq7bcpzIioW1uMA4mxQSR/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/kg654aptb3wmdvhw1e06i/tigo3.json?rlkey=lz1ve7n2e77c4xylazzpn4qgz&st=vef4p50k&dl=0",
-        "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg"
-    },
-    {        
-	    "name": "TIGO 24/7 PRUEBA",
-        "url": "http://190.128.129.83:8000/play/a03m/index.m3u8",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
-        "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg"
-    },
-	{
-		    "name": "INTERMEDIA 1",
-        "url": "https://live.enhdtv.com:8081/8150/index.m3u8",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
-        "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg"
-    },
-	{
-        "name": "INTERMEDIA 2",
-        "url": "https://live.enhdtv.com:8081/8162/index.m3u8",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
-        "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg"
+        "name": "🇵🇾​ EVENTO TIGO SPORTS FUTBOL PARAGUAYO",
+        "samples": [
+            {
+                "name": "EVENTOS TIGO 1",
+                "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
+                "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg"
+            },
+            {
+                "name": "EVENTOS TIGO 2",
+                "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/wbw3yya7vk1f3ivn650ug/tigo4.txt?rlkey=ozbktawdgz3ir2ydtm4qez3om&st=8nrn8w9m&dl=0",
+                "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg"
+            },
+            {
+                "name": "EVENTOS TIGO 3",
+                "url": "https://sam-py-edge01.tigo.com.py/ccur-session/e319b1151f2d4f6682d5ccbb56be311417486357322181b65a320aeed11ebae01d90082191a3cTfPoq7bcpzIioW1uMA4mxQSR/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/kg654aptb3wmdvhw1e06i/tigo3.json?rlkey=lz1ve7n2e77c4xylazzpn4qgz&st=vef4p50k&dl=0",
+                "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg"
+            },
+            {
+                "name": "TIGO 24/7 PRUEBA",
+                "url": "http://190.128.129.83:8000/play/a03m/index.m3u8",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
+                "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg"
+            },
+            {
+                "name": "INTERMEDIA 1",
+                "url": "https://live.enhdtv.com:8081/8150/index.m3u8",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
+                "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg"
+            },
+            {
+                "name": "INTERMEDIA 2",
+                "url": "https://live.enhdtv.com:8081/8162/index.m3u8",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
+                "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg"
             }
         ]
     },
@@ -431,24 +430,24 @@
         ]
     },
     {
-		"name": "🇵🇾​CANALES INTERIOR PARAGUAY",
+        "name": "🇵🇾​CANALES INTERIOR PARAGUAY",
         "samples": [
             {
-			    "name": "ALBERDI CANAL 5",
+                "name": "ALBERDI CANAL 5",
                 "url": "http://181.78.27.128:8000/play/a05p/index.m3u8",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
                 "icono": "https://i.postimg.cc/MTwCLz0S/Whats-App-Image-2025-04-09-at-17-45-28.jpg"
             },
             {
-			    "name": "REGIONAL TV YAGUARON",
+                "name": "REGIONAL TV YAGUARON",
                 "url": "https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
                 "icono": "https://github.com/fogertycapiata/tvpataguaya/blob/main/dfdfdfdf554.png?raw=true"
             },
-            {		
-			    "name": "YAGUARON RADIO TV",
+            {
+                "name": "YAGUARON RADIO TV",
                 "url": "https://video.hostingcaaguazu.com:19360/regionalnetworkstv/regionalnetworkstv.m3u8",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
@@ -504,7 +503,7 @@
                 "name": "UNION TV",
                 "url": "https://copacogen.desdeparaguay.net/800tv/800tv/playlist.m3u8",
                 "icono": "https://i.ibb.co/HLvq6nfQ/logo-retina-01.png"
-		    },
+            },
             {
                 "name": "YAGUARON TV",
                 "url": "https://video.hostingcaaguazu.com:19360/regionalnetworkstv/regionalnetworkstv.m3u8",
@@ -530,7 +529,7 @@
                 }
             },
             {
-                "name": "Argentinísima Satelital",
+                "name": "JONA GAY",
                 "url": "https://edge-live16-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzUxODI4ODE3Iiwic2lwIjoiMTgxLjQ2LjU3LjExMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy8yNl9UVl9IRC9TQV9MaXZlX2Rhc2hfZW5jX0MvIiwic2Vzc2lvbl9jZG5faWQiOiIwNWY1MDA0Njg3OTZhNGNjIiwic2Vzc2lvbl9pZCI6IjgwOTg3NzY4LTE3NTE2NTYwMTctNzUxIiwiY2xpZW50X2lkIjoiNjI0NDk4NyIsImRldmljZV9pZCI6IjgwOTg3NzY4IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMTA1Iiwic291cmNlcyI6Wzg1LDE0NCwxODQsODYsODhdfQ==.ek1GqTYBvMijnNsYjiFm5g8aODpbLINpwEOyJ0hH6hnYmo7e-Jj4sOsdxQ4ohKen_kuwg3e-cms31h18hVKqfw==/live/c6eds/Argentinisima/SA_Live_dash_enc/Argentinisima.mpd",
                 "type": "CLEARKEY",
                 "icono": "https://cdn.mitvstatic.com/channels/ar_argentinisima-satelital_m.png",
@@ -808,9 +807,9 @@
         ]
     },
     {
-  "name": "🇦🇷 CANALES INTERIOR DE ARGENTINA",
-  "samples": [
-     {
+        "name": "🇦🇷 CANALES INTERIOR DE ARGENTINA",
+        "samples": [
+            {
                 "name": "9 Nordeste",
                 "url": "https://edge-live16-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzUxODI4ODE3Iiwic2lwIjoiMTgxLjQ2LjU3LjExMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy8yNl9UVl9IRC9TQV9MaXZlX2Rhc2hfZW5jX0MvIiwic2Vzc2lvbl9jZG5faWQiOiIwNWY1MDA0Njg3OTZhNGNjIiwic2Vzc2lvbl9pZCI6IjgwOTg3NzY4LTE3NTE2NTYwMTctNzUxIiwiY2xpZW50X2lkIjoiNjI0NDk4NyIsImRldmljZV9pZCI6IjgwOTg3NzY4IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMTA1Iiwic291cmNlcyI6Wzg1LDE0NCwxODQsODYsODhdfQ==.ek1GqTYBvMijnNsYjiFm5g8aODpbLINpwEOyJ0hH6hnYmo7e-Jj4sOsdxQ4ohKen_kuwg3e-cms31h18hVKqfw==/live/c4eds/CH_9_Resistencia/SA_Live_dash_enc/CH_9_Resistencia.mpd",
                 "type": "CLEARKEY",
@@ -1298,7 +1297,7 @@
         ]
     },
     {
-    "name": "⚽​🇦🇷⚽​PACK DEPORTES ESPN FOX ",
+        "name": "⚽​🇦🇷⚽​PACK DEPORTES ESPN FOX ",
         "samples": [
             {
                 "name": "ESPN PREMIUM",
@@ -1817,7 +1816,7 @@
         ]
     },
     {
-	    "name": "⚽DEPORTES DAZN",
+        "name": "⚽DEPORTES DAZN",
         "samples": [
             {
                 "name": "DAZN 1",
@@ -1877,7 +1876,7 @@
             }
         ]
     },
-     {
+    {
         "name": "🎬CANALES DE CINE Y SERIES",
         "samples": [
             {
@@ -2634,7 +2633,7 @@
             }
         ]
     },
-    {		
+    {
         "name": "🎬CANALES DE NOVELAS",
         "samples": [
             {
@@ -2812,517 +2811,517 @@
         "name": "🎬 SERIES Y DIBUJITOS 24/7",
         "samples": [
             {
-               "name": "LA VACA Y EL POLLITO",
-    "url": "http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/279005.m3u8",
-    "icono": "http://x.playerlatino.live/lavacayelpollito.png",
-    "type": "HLS"
-},
-{
-    "name": "LA VACA Y EL POLLITO",
-    "url": "http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/279006.m3u8",
-    "icono": "https://es.web.img3.acsta.net/pictures/18/04/25/10/15/5039486.png",
-    "type": "HLS"
-},
-{
-    "name": "Billy y Mandy",
-    "url": "http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/279009.m3u8",
-    "icono": "https://pics.filmaffinity.com/grim_evil_the_grim_adventures_of_billy_mandy-191983912-large.jpg",
-    "type": "HLS"
-},
-{
-    "name": "LOS CHICOS DEL BARRIO",
-    "url": "http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/279010.m3u8",
-    "icono": "https://m.media-amazon.com/images/S/pv-target-images/10f114bd96cbfc0c94d1ad7ff1903db05471af8b488e0c76cfaa544297787272.jpg",
-    "type": "HLS"
-},
-{
-    "name": "TOM Y JERRY",
-    "url": "http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/279012.m3u8",
-    "icono": "https://images.justwatch.com/poster/310410860/s718/tom-y-jerry.jpg",
-    "type": "HLS"
-},
-{
-    "name": "BOB SPONGE",
-    "url": "http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/279017.m3u8",
-    "icono": "https://vignette.wikia.nocookie.net/lucian-films-thirteenth-deluxe-edition/images/6/64/SpongeBob_SquarePants_logo_wordmark.png",
-    "type": "HLS"
-},
-{
-    "name": "EL CHAVO DEL OCHO",
-    "url": "http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/279007.m3u8",
-    "icono": "https://x.playerlatino.live/elchavodel8.png",
-    "type": "HLS"
-},
-{
-	
-    "name": "EL CHAVO DEL OCHO",
-    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58120",
-    "icono": "https://img.hidra.app/247/elchavo.png",
-    "type": "HLS"
-},
-{
-    "name": "FUTURAMA",
-    "url": "http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/279008.m3u8",
-    "icono": "https://pngimg.com/uploads/futurama/futurama_PNG26.png",
-    "type": "HLS"
-},
-{
-    "name": "JHONY BRAVO",
-    "url": "http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/279015.m3u8",
-    "icono": "http://x.playerlatino.live/johnnybravo.png",
-    "type": "HLS"
-},
-{
-    "name": "DEXTER",
-    "url": "http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/279029.m3u8",
-    "icono": "https://www.ecartelera.com/carteles-series/500/579/001_m.jpg",
-    "type": "HLS"
-},
-{
-    "name": "DINOSAURIOS",
-    "url": "http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/279019.m3u8",
-    "icono": "https://miro.medium.com/max/1380/1*5FDqv_Jqlk___XP0eFZptQ.png",
-    "type": "HLS"
-},
-{
-    "name": "DREAMWORKS",
-    "url": "http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=56443&extension=m3u8",
-    "icono": "https://1000marcas.net/wp-content/uploads/2020/02/logo-DreamWorks-1.png",
-    "type": "HLS"
-},
-{
-    "name": "DISNEY PIXAR",
-    "url": "https://nzbqsm47bouspvb.cdn-centaurus.com/hls2/01/09432/bvuev271f97y_n/master.m3u8?t=7wBaKZXA_9jqZI1mXJZN-pbsF1uryXPIeNvIc5l0pso&s=1750310651&e=129600&f=47163823&srv=qQa78VFsXvey&i=0.4&sp=500&p1=qQa78VFsXvey&p2=qQa78VFsXvey&asn=17072?=.m3u8",
-    "icono": "https://1000logos.net/wp-content/uploads/2017/08/Pixar-symbol-500x155.jpg",
-    "type": "HLS"
-},
-{
-    "name": "MARVEL",
-    "url": "https://nzbqsm47bouspvb.cdn-centaurus.com/hls2/01/09432/bvuev271f97y_n/master.m3u8?t=7wBaKZXA_9jqZI1mXJZN-pbsF1uryXPIeNvIc5l0pso&s=1750310651&e=129600&f=47163823&srv=qQa78VFsXvey&i=0.4&sp=500&p1=qQa78VFsXvey&p2=qQa78VFsXvey&asn=17072?=.m3u8",
-    "icono": "http://vignette4.wikia.nocookie.net/marvelmovies/images/e/ed/Marvel_Studios_2016_Transparent_Logo.png",
-    "type": "HLS"
-},
-{
-	"name": "DRAGON BALL",
-    "url": "http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=56616&extension=m3u8",
-    "icono": "https://i.imgur.com/ZnwLln5.png",
-    "type": "HLS"
-},
-{
-    "name": "DRAGON BALL Z",
-    "url": "http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/279024.m3u8",
-    "icono": "https://i.pinimg.com/originals/e3/46/83/e34683b61a49dfd0974b73821de6a339.png",
-    "type": "HLS"
-},
-{
-    "name": "DRAGON BALL GT",
-    "url": "http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/279025.m3u8",
-    "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Dragon_Ball_GT_logo.png/1280px-Dragon_Ball_GT_logo.png",
-    "type": "HLS"
-},
-{
-    "name": "DRAGON BALL SUPER",
-    "url": "http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=56618&extension=m3u8",
-    "icono": "https://upload.wikimedia.org/wikipedia/commons/2/22/Dragon_Ball_Super.png",
-    "type": "HLS"
-},
-{
-    "name": "NARUTO",
-    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=eba192f4-cd23-11eb-9091-0242ac110002&sid=eba192f4-cd23-11eb-9091-0242ac110002&userId=",
-    "icono": "https://www.logolynx.com/images/logolynx/4f/4f0ca4a99c82adc701d1c18856708d3a.png",
-    "type": "HLS"
-},
-{
-    "name": "CABALLEROS DEL ZODIACO",
-    "url": "http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=130986&extension=m3u8",
-    "icono": "https://th.bing.com/th/id/R404141aa90894f89d7090785b3e1685d?rik=ml589mK99ne4GQ&pid=ImgRaw",
-    "type": "HLS"
-},
-{
-    "name": "THE THEORY OF BIG BANG",
-    "url": "http://tv.zapping.life:8080/live/tuenti/jedvLeWMEV/94867.m3u8",
-    "icono": "http://x.playerlatino.live/thebigbangtheory.png",
-    "type": "HLS"
-},
-{
-    "name": "LOS SIMPSON",
-    "url": "http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/279045.m3u8",
-    "icono": "https://archive.org/download/klipartz.com_202501/klipartz.com.png",
-    "type": "HLS"
-},
-{	
-      "name": "24/7 Futurama FHD",
-      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50599",
-      "icono": "https://img.hidra.app/247/futurama.png",
-      "type": "HLS"
-    },
-    {
-      "name": "24/7 Laura Bozzo SD",
-      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49163",
-      "icono": "https://img.tvcl.xyz/247/247.png",
-      "type": "HLS"
-    },
-    {
-      "name": "24/7 Miguelito (Chile) SD",
-      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49164",
-      "icono": "https://img.tvcl.xyz/247/247.png",
-      "type": "HLS"
-    },
-    {
-      "name": "24/7 Los Magnificos Temp 1 SD",
-      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49182",
-      "icono": "https://img.tvcl.xyz/247/247.png",
-      "type": "HLS"
-    },
-    {
-      "name": "24/7 MacGiver (2016) Temp 1 SD",
-      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49186",
-      "icono": "https://img.tvcl.xyz/247/247.png",
-      "type": "HLS"
-    },
-    {
-      "name": "24/7 Hechizada Temp 1 SD",
-      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49192",
-      "icono": "https://img.tvcl.xyz/247/247.png",
-      "type": "HLS"
-    },
-    {
-      "name": "24/7 She-Ra La Princesa del Poder SD",
-      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49239",
-      "icono": "https://img.tvcl.xyz/247/247.png",
-      "type": "HLS"
-    },
-    {
-      "name": "24/7 La Casa de los Dibujos SD",
-      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49274",
-      "icono": "https://img.tvcl.xyz/247/247.png",
-      "type": "HLS"
-    },
-    {
-      "name": "24/7 Cinema Marvel Studios Oeste FHD",
-      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58068",
-      "icono": "https://img.hidra.app/247/cinemamarvel1.png",
-      "type": "HLS"
-    },
-    {	  
-      "name": "24/7 El Pajaro Loco SD",
-      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58086",
-      "icono": "https://img.hidra.app/247/pajaroloco.png",
-      "type": "HLS"
-    },
-    {
-      "name": "24/7 El Chavo HD",
-      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58120",
-      "icono": "https://img.hidra.app/247/elchavo.png",
-      "type": "HLS"
-    },
-    {
-      "name": "24/7 El Chavo Del 8 SD",
-      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58278",
-      "icono": "https://img.tvcl.xyz/247/247.png",
-      "type": "HLS"
-    },
-    {
-      "name": "24/7 Pajaro Loco HD",
-      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58322",
-      "icono": "https://img.tvcl.xyz/247/247.png",
-      "type": "HLS"
-    },
-    {
-      "name": "24/7 Los Simpsons HD",
-      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58314",
-      "icono": "https://img.tvcl.xyz/247/247.png",
-      "type": "HLS"
-    },
-    {
-      "name": "24/7 El show de Scooby Doo y ScrappyDoo SD",
-      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58179",
-      "icono": "https://img.tvcl.xyz/247/247.png",
-      "type": "HLS"
-    },
-    {
-      "name": "24/7 Capitán Centella SD",
-      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58168",
-      "icono": "https://img.tvcl.xyz/247/247.png",
-      "type": "HLS"
-    },
-    {
-      "name": "24/7 Cinema Ciencia Ficcion FHD",
-      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333120",
-      "icono": "https://img.hidra.app/247/cinemaficcion.png",
-      "type": "HLS"
-    },
-    {
-      "name": "24/7 Cinema Marvel Studios Este FHD",
-      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333121",
-      "icono": "https://img.hidra.app/247/cinemamarvel1.png",
-      "type": "HLS"
-    },
-    {
-      "name": "24/7 Cine Estelar HD",
-      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333122",
-      "icono": "http://puntoz.xyz/LOGOS/cine_estelar.png",
-      "type": "HLS"
-	},
-    {  
-      "name": "24/7 Desencanto HD",
-      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333130",
-      "icono": "https://img.hidra.app/247/desencanto.png",
-      "type": "HLS"
-    },
-    {
-      "name": "24/ 7Alf SD",
-      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333134",
-      "icono": "https://img.hidra.app/247/ALF.png",
-      "type": "HLS"
-    },
-    {
-      "name": "24/7 Looney Tunes HD",
-      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333153",
-      "icono": "https://img.hidra.app/247/looneytunes%20%281%29.png",
-      "type": "HLS"
-    },
-    {
-      "name": "24/7 Los Cazafantasmas",
-      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333155",
-      "icono": "http://puntoz.xyz/LOGOS/cazafantasmas.png",
-      "type": "HLS"
-    },
-    {
-      "name": "24/7 Los Croods HD",
-      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333156",
-      "icono": "https://img.hidra.app/247/loscroods.png",
-      "type": "HLS"
-    },
-    {
-      "name": "24/7 Los Simpsons Latinos FHD",
-      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333158",
-      "icono": "https://img.hidra.app/247/lossimsponsltinos128.png",
-      "type": "HLS"
+                "name": "LA VACA Y EL POLLITO",
+                "url": "http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/279005.m3u8",
+                "icono": "http://x.playerlatino.live/lavacayelpollito.png",
+                "type": "HLS"
+            },
+            {
+                "name": "LA VACA Y EL POLLITO",
+                "url": "http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/279006.m3u8",
+                "icono": "https://es.web.img3.acsta.net/pictures/18/04/25/10/15/5039486.png",
+                "type": "HLS"
+            },
+            {
+                "name": "Billy y Mandy",
+                "url": "http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/279009.m3u8",
+                "icono": "https://pics.filmaffinity.com/grim_evil_the_grim_adventures_of_billy_mandy-191983912-large.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "LOS CHICOS DEL BARRIO",
+                "url": "http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/279010.m3u8",
+                "icono": "https://m.media-amazon.com/images/S/pv-target-images/10f114bd96cbfc0c94d1ad7ff1903db05471af8b488e0c76cfaa544297787272.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "TOM Y JERRY",
+                "url": "http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/279012.m3u8",
+                "icono": "https://images.justwatch.com/poster/310410860/s718/tom-y-jerry.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "BOB SPONGE",
+                "url": "http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/279017.m3u8",
+                "icono": "https://vignette.wikia.nocookie.net/lucian-films-thirteenth-deluxe-edition/images/6/64/SpongeBob_SquarePants_logo_wordmark.png",
+                "type": "HLS"
+            },
+            {
+                "name": "EL CHAVO DEL OCHO",
+                "url": "http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/279007.m3u8",
+                "icono": "https://x.playerlatino.live/elchavodel8.png",
+                "type": "HLS"
+            },
+            {
+                "name": "EL CHAVO DEL OCHO",
+                "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58120",
+                "icono": "https://img.hidra.app/247/elchavo.png",
+                "type": "HLS"
+            },
+            {
+                "name": "FUTURAMA",
+                "url": "http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/279008.m3u8",
+                "icono": "https://pngimg.com/uploads/futurama/futurama_PNG26.png",
+                "type": "HLS"
+            },
+            {
+                "name": "JHONY BRAVO",
+                "url": "http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/279015.m3u8",
+                "icono": "http://x.playerlatino.live/johnnybravo.png",
+                "type": "HLS"
+            },
+            {
+                "name": "DEXTER",
+                "url": "http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/279029.m3u8",
+                "icono": "https://www.ecartelera.com/carteles-series/500/579/001_m.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "DINOSAURIOS",
+                "url": "http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/279019.m3u8",
+                "icono": "https://miro.medium.com/max/1380/1*5FDqv_Jqlk___XP0eFZptQ.png",
+                "type": "HLS"
+            },
+            {
+                "name": "DREAMWORKS",
+                "url": "http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=56443&extension=m3u8",
+                "icono": "https://1000marcas.net/wp-content/uploads/2020/02/logo-DreamWorks-1.png",
+                "type": "HLS"
+            },
+            {
+                "name": "DISNEY PIXAR",
+                "url": "https://nzbqsm47bouspvb.cdn-centaurus.com/hls2/01/09432/bvuev271f97y_n/master.m3u8?t=7wBaKZXA_9jqZI1mXJZN-pbsF1uryXPIeNvIc5l0pso&s=1750310651&e=129600&f=47163823&srv=qQa78VFsXvey&i=0.4&sp=500&p1=qQa78VFsXvey&p2=qQa78VFsXvey&asn=17072?=.m3u8",
+                "icono": "https://1000logos.net/wp-content/uploads/2017/08/Pixar-symbol-500x155.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "MARVEL",
+                "url": "https://nzbqsm47bouspvb.cdn-centaurus.com/hls2/01/09432/bvuev271f97y_n/master.m3u8?t=7wBaKZXA_9jqZI1mXJZN-pbsF1uryXPIeNvIc5l0pso&s=1750310651&e=129600&f=47163823&srv=qQa78VFsXvey&i=0.4&sp=500&p1=qQa78VFsXvey&p2=qQa78VFsXvey&asn=17072?=.m3u8",
+                "icono": "http://vignette4.wikia.nocookie.net/marvelmovies/images/e/ed/Marvel_Studios_2016_Transparent_Logo.png",
+                "type": "HLS"
+            },
+            {
+                "name": "DRAGON BALL",
+                "url": "http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=56616&extension=m3u8",
+                "icono": "https://i.imgur.com/ZnwLln5.png",
+                "type": "HLS"
+            },
+            {
+                "name": "DRAGON BALL Z",
+                "url": "http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/279024.m3u8",
+                "icono": "https://i.pinimg.com/originals/e3/46/83/e34683b61a49dfd0974b73821de6a339.png",
+                "type": "HLS"
+            },
+            {
+                "name": "DRAGON BALL GT",
+                "url": "http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/279025.m3u8",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Dragon_Ball_GT_logo.png/1280px-Dragon_Ball_GT_logo.png",
+                "type": "HLS"
+            },
+            {
+                "name": "DRAGON BALL SUPER",
+                "url": "http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=56618&extension=m3u8",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/2/22/Dragon_Ball_Super.png",
+                "type": "HLS"
+            },
+            {
+                "name": "NARUTO",
+                "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=eba192f4-cd23-11eb-9091-0242ac110002&sid=eba192f4-cd23-11eb-9091-0242ac110002&userId=",
+                "icono": "https://www.logolynx.com/images/logolynx/4f/4f0ca4a99c82adc701d1c18856708d3a.png",
+                "type": "HLS"
+            },
+            {
+                "name": "CABALLEROS DEL ZODIACO",
+                "url": "http://amepz.xyz:2052/streaming/clients_live.php?username=Diazvp27&password=Guillermina&stream=130986&extension=m3u8",
+                "icono": "https://th.bing.com/th/id/R404141aa90894f89d7090785b3e1685d?rik=ml589mK99ne4GQ&pid=ImgRaw",
+                "type": "HLS"
+            },
+            {
+                "name": "THE THEORY OF BIG BANG",
+                "url": "http://tv.zapping.life:8080/live/tuenti/jedvLeWMEV/94867.m3u8",
+                "icono": "http://x.playerlatino.live/thebigbangtheory.png",
+                "type": "HLS"
+            },
+            {
+                "name": "LOS SIMPSON",
+                "url": "http://xcm.budtv-ultra.com:2424/budtv/budtvline/8Y3ymUpJESps/279045.m3u8",
+                "icono": "https://archive.org/download/klipartz.com_202501/klipartz.com.png",
+                "type": "HLS"
+            },
+            {
+                "name": "24/7 Futurama FHD",
+                "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50599",
+                "icono": "https://img.hidra.app/247/futurama.png",
+                "type": "HLS"
+            },
+            {
+                "name": "24/7 Laura Bozzo SD",
+                "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49163",
+                "icono": "https://img.tvcl.xyz/247/247.png",
+                "type": "HLS"
+            },
+            {
+                "name": "24/7 Miguelito (Chile) SD",
+                "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49164",
+                "icono": "https://img.tvcl.xyz/247/247.png",
+                "type": "HLS"
+            },
+            {
+                "name": "24/7 Los Magnificos Temp 1 SD",
+                "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49182",
+                "icono": "https://img.tvcl.xyz/247/247.png",
+                "type": "HLS"
+            },
+            {
+                "name": "24/7 MacGiver (2016) Temp 1 SD",
+                "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49186",
+                "icono": "https://img.tvcl.xyz/247/247.png",
+                "type": "HLS"
+            },
+            {
+                "name": "24/7 Hechizada Temp 1 SD",
+                "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49192",
+                "icono": "https://img.tvcl.xyz/247/247.png",
+                "type": "HLS"
+            },
+            {
+                "name": "24/7 She-Ra La Princesa del Poder SD",
+                "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49239",
+                "icono": "https://img.tvcl.xyz/247/247.png",
+                "type": "HLS"
+            },
+            {
+                "name": "24/7 La Casa de los Dibujos SD",
+                "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49274",
+                "icono": "https://img.tvcl.xyz/247/247.png",
+                "type": "HLS"
+            },
+            {
+                "name": "24/7 Cinema Marvel Studios Oeste FHD",
+                "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58068",
+                "icono": "https://img.hidra.app/247/cinemamarvel1.png",
+                "type": "HLS"
+            },
+            {
+                "name": "24/7 El Pajaro Loco SD",
+                "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58086",
+                "icono": "https://img.hidra.app/247/pajaroloco.png",
+                "type": "HLS"
+            },
+            {
+                "name": "24/7 El Chavo HD",
+                "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58120",
+                "icono": "https://img.hidra.app/247/elchavo.png",
+                "type": "HLS"
+            },
+            {
+                "name": "24/7 El Chavo Del 8 SD",
+                "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58278",
+                "icono": "https://img.tvcl.xyz/247/247.png",
+                "type": "HLS"
+            },
+            {
+                "name": "24/7 Pajaro Loco HD",
+                "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58322",
+                "icono": "https://img.tvcl.xyz/247/247.png",
+                "type": "HLS"
+            },
+            {
+                "name": "24/7 Los Simpsons HD",
+                "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58314",
+                "icono": "https://img.tvcl.xyz/247/247.png",
+                "type": "HLS"
+            },
+            {
+                "name": "24/7 El show de Scooby Doo y ScrappyDoo SD",
+                "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58179",
+                "icono": "https://img.tvcl.xyz/247/247.png",
+                "type": "HLS"
+            },
+            {
+                "name": "24/7 Capitán Centella SD",
+                "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58168",
+                "icono": "https://img.tvcl.xyz/247/247.png",
+                "type": "HLS"
+            },
+            {
+                "name": "24/7 Cinema Ciencia Ficcion FHD",
+                "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333120",
+                "icono": "https://img.hidra.app/247/cinemaficcion.png",
+                "type": "HLS"
+            },
+            {
+                "name": "24/7 Cinema Marvel Studios Este FHD",
+                "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333121",
+                "icono": "https://img.hidra.app/247/cinemamarvel1.png",
+                "type": "HLS"
+            },
+            {
+                "name": "24/7 Cine Estelar HD",
+                "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333122",
+                "icono": "http://puntoz.xyz/LOGOS/cine_estelar.png",
+                "type": "HLS"
+            },
+            {
+                "name": "24/7 Desencanto HD",
+                "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333130",
+                "icono": "https://img.hidra.app/247/desencanto.png",
+                "type": "HLS"
+            },
+            {
+                "name": "24/ 7Alf SD",
+                "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333134",
+                "icono": "https://img.hidra.app/247/ALF.png",
+                "type": "HLS"
+            },
+            {
+                "name": "24/7 Looney Tunes HD",
+                "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333153",
+                "icono": "https://img.hidra.app/247/looneytunes%20%281%29.png",
+                "type": "HLS"
+            },
+            {
+                "name": "24/7 Los Cazafantasmas",
+                "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333155",
+                "icono": "http://puntoz.xyz/LOGOS/cazafantasmas.png",
+                "type": "HLS"
+            },
+            {
+                "name": "24/7 Los Croods HD",
+                "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333156",
+                "icono": "https://img.hidra.app/247/loscroods.png",
+                "type": "HLS"
+            },
+            {
+                "name": "24/7 Los Simpsons Latinos FHD",
+                "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333158",
+                "icono": "https://img.hidra.app/247/lossimsponsltinos128.png",
+                "type": "HLS"
             }
         ]
     },
     {
         "name": "🎬PELICULAS CINE 24/7",
         "samples": [
-            {      "name": "24/7 Cinema DC Universe HD",
-      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50577",
-      "icono": "https://img.hidra.app/247/cinemadcuniverse.png",
-      "type": "HLS"
-    },
-    {
-      "name": "24/7 Cinema Disney Family HD",
-      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50578",
-      "icono": "https://img.hidra.app/247/cinemadisneyfamilymovies.png",
-      "type": "HLS"
-    },
-    {
-      "name": "24/7 Cinema Disney Pixar FHD",
-      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50579",
-      "icono": "https://img.hidra.app/247/cinemadisneypixar.png",
-      "type": "HLS"
-    },
-    {
-      "name": "24/7 Cinema Dreamworks FHD",
-      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50580",
-      "icono": "https://img.hidra.app/247/cinemadreamworks.png",
-      "type": "HLS"
-    },
-    {
-      "name": "24/7 Cinema Familia FHD",
-      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50581",
-      "icono": "https://img.hidra.app/247/cinemafamilia.png",
-      "type": "HLS"
-    },
-    {
-      "name": "24/7 Cinema Happy Madison FHD",
-      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50582",
-      "icono": "https://img.hidra.app/247/cinemahappymadison128.png",
-      "type": "HLS"
-    },
-    {
-      "name": "24/7 Cinema Lego Movies FHD",
-      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50584",
-      "icono": "https://img.hidra.app/247/cinemalegomovie.png",
-      "type": "HLS"
-    },
-    {
-      "name": "24/7 Cinema Marvel Animated FHD",
-      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50585",
-      "icono": "https://img.hidra.app/247/cinemamarvelanimated.png",
-      "type": "HLS"
-    },
-    {
-      "name": "24/7 Cinema Marvel Studios FHD",
-      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50586",
-      "icono": "https://img.hidra.app/247/cinemamarvel1.png",
-      "type": "HLS"
-    },
-    {
-      "name": "24/7 Moviecenter Kids FHD",
-      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50622",
-      "icono": "https://img.hidra.app/247/MovieCenterkids.png",
-      "type": "HLS"
-    },
-    {
-      "name": "24/7 Moviecenter Premium Oeste FHD",
-      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50625",
-      "icono": "https://img.hidra.app/247/moviecenteroeste128.png",
-      "type": "HLS"
-    },
-    {
-      "name": "24/7 Disney Live Action FHD",
-      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50595",
-      "icono": "https://img.hidra.app/247/disneyliveaction128.png",
-      "type": "HLS"
-    },
-    {
-      "name": "24/7 Disney Princess FHD",
-      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50596",
-      "icono": "https://img.hidra.app/247/disneyprincesschannel128.png",
-      "type": "HLS"
+            {
+                "name": "24/7 Cinema DC Universe HD",
+                "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50577",
+                "icono": "https://img.hidra.app/247/cinemadcuniverse.png",
+                "type": "HLS"
+            },
+            {
+                "name": "24/7 Cinema Disney Family HD",
+                "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50578",
+                "icono": "https://img.hidra.app/247/cinemadisneyfamilymovies.png",
+                "type": "HLS"
+            },
+            {
+                "name": "24/7 Cinema Disney Pixar FHD",
+                "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50579",
+                "icono": "https://img.hidra.app/247/cinemadisneypixar.png",
+                "type": "HLS"
+            },
+            {
+                "name": "24/7 Cinema Dreamworks FHD",
+                "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50580",
+                "icono": "https://img.hidra.app/247/cinemadreamworks.png",
+                "type": "HLS"
+            },
+            {
+                "name": "24/7 Cinema Familia FHD",
+                "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50581",
+                "icono": "https://img.hidra.app/247/cinemafamilia.png",
+                "type": "HLS"
+            },
+            {
+                "name": "24/7 Cinema Happy Madison FHD",
+                "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50582",
+                "icono": "https://img.hidra.app/247/cinemahappymadison128.png",
+                "type": "HLS"
+            },
+            {
+                "name": "24/7 Cinema Lego Movies FHD",
+                "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50584",
+                "icono": "https://img.hidra.app/247/cinemalegomovie.png",
+                "type": "HLS"
+            },
+            {
+                "name": "24/7 Cinema Marvel Animated FHD",
+                "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50585",
+                "icono": "https://img.hidra.app/247/cinemamarvelanimated.png",
+                "type": "HLS"
+            },
+            {
+                "name": "24/7 Cinema Marvel Studios FHD",
+                "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50586",
+                "icono": "https://img.hidra.app/247/cinemamarvel1.png",
+                "type": "HLS"
+            },
+            {
+                "name": "24/7 Moviecenter Kids FHD",
+                "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50622",
+                "icono": "https://img.hidra.app/247/MovieCenterkids.png",
+                "type": "HLS"
+            },
+            {
+                "name": "24/7 Moviecenter Premium Oeste FHD",
+                "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50625",
+                "icono": "https://img.hidra.app/247/moviecenteroeste128.png",
+                "type": "HLS"
+            },
+            {
+                "name": "24/7 Disney Live Action FHD",
+                "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50595",
+                "icono": "https://img.hidra.app/247/disneyliveaction128.png",
+                "type": "HLS"
+            },
+            {
+                "name": "24/7 Disney Princess FHD",
+                "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50596",
+                "icono": "https://img.hidra.app/247/disneyprincesschannel128.png",
+                "type": "HLS"
             }
         ]
     },
     {
-    "name": "PLUTO TV",
-    "samples": [
-	    {
+        "name": "PLUTO TV",
+        "samples": [
+            {
                 "name": "ARCHIVOS FORENSE",
                 "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efb8c19b2678b000780d032/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
                 "icono": "https://i.postimg.cc/PrHHZ2cZ/images-11.jpg"
             },
-	        {
+            {
                 "name": "CAZADOR DE HOMICIDAS",
                 "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
                 "icono": "https://i.postimg.cc/nhTmrF2j/thumbnail.jpg"
             },
-	    {
+            {
                 "name": "CAZADOR DE RECOMPENSAS",
                 "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9992c685a2a80007fa414a/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
                 "icono": "https://i.postimg.cc/yNnKW7Yd/thumbnail-1.jpg"
             },
-	{
+            {
                 "name": "EMPEÑO A LO BESTIA",
                 "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f23102d5e239d00074b092a/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
                 "icono": "https://i.postimg.cc/fLQfJS57/tile.jpg"
             },
-	 {
+            {
                 "name": "CAZADOR DE HOMICIDAS",
                 "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
                 "icono": "https://i.postimg.cc/nhTmrF2j/thumbnail.jpg"
             },
-	{
+            {
                 "name": "CAZADOR DE HOMICIDAS",
                 "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
                 "icono": "https://i.postimg.cc/nhTmrF2j/thumbnail.jpg"
             },
-	{
+            {
                 "name": "CAZADOR DE HOMICIDAS",
                 "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
                 "icono": "https://i.postimg.cc/nhTmrF2j/thumbnail.jpg"
             },
-	  {
+            {
                 "name": "CAZADOR DE HOMICIDAS",
                 "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
                 "icono": "https://i.postimg.cc/nhTmrF2j/thumbnail.jpg"
             },
-	{
+            {
                 "name": "CAZADOR DE HOMICIDAS",
                 "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
                 "icono": "https://i.postimg.cc/nhTmrF2j/thumbnail.jpg"
             },
-	 {
+            {
                 "name": "CAZADOR DE HOMICIDAS",
                 "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
                 "icono": "https://i.postimg.cc/nhTmrF2j/thumbnail.jpg"
             },
-	 {
+            {
                 "name": "CAZADOR DE HOMICIDAS",
                 "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
                 "icono": "https://i.postimg.cc/nhTmrF2j/thumbnail.jpg"
             },
-	{
+            {
                 "name": "CAZADOR DE HOMICIDAS",
                 "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
                 "icono": "https://i.postimg.cc/nhTmrF2j/thumbnail.jpg"
             },
-	{
+            {
                 "name": "CAZADOR DE HOMICIDAS",
                 "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
                 "icono": "https://i.postimg.cc/nhTmrF2j/thumbnail.jpg"
             },
-	 {
+            {
                 "name": "CAZADOR DE HOMICIDAS",
                 "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
                 "icono": "https://i.postimg.cc/nhTmrF2j/thumbnail.jpg"
             },
-	{
+            {
                 "name": "CAZADOR DE HOMICIDAS",
                 "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
                 "icono": "https://i.postimg.cc/nhTmrF2j/thumbnail.jpg"
             },
-	{
+            {
                 "name": "CAZADOR DE HOMICIDAS",
                 "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
                 "icono": "https://i.postimg.cc/nhTmrF2j/thumbnail.jpg"
             },
-	 {
+            {
                 "name": "CAZADOR DE HOMICIDAS",
                 "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
                 "icono": "https://i.postimg.cc/nhTmrF2j/thumbnail.jpg"
             },
-	 {
+            {
                 "name": "CAZADOR DE HOMICIDAS",
                 "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
                 "icono": "https://i.postimg.cc/nhTmrF2j/thumbnail.jpg"
             },
-	{
+            {
                 "name": "CAZADOR DE HOMICIDAS",
                 "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
                 "icono": "https://i.postimg.cc/nhTmrF2j/thumbnail.jpg"
-            } 
-	    ]
+            }
+        ]
     },
-      	 {
+    {
         "name": "📻 RADIOS",
         "samples": [
             {
@@ -3477,23 +3476,23 @@
             }
         ]
     },
-    {			 
-  "name": "🇦🇷GRAN HERMANO",
-  "samples": [
     {
-      "name": "GRAN HERMANO 24/7",
-      "url": "http://tv.zeuspro.xyz:8080/live/jcoronado25/d41cb84b2988/102111.m3u8",
-      "type": "CLEARKEY",
-      "icono": "https://i.ibb.co/qF5zpHcs/el-nuevo-logo-de-gran-hermano-jpg-215279816.webp",
-      "headers": {
-        "Origin": "https://web.app.flow.com.py",
-        "Referer": "https://web.app.flow.com.py/guia-de-tvguia-de-tv",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-   }
-      }	    
-]
-},
-      	 {
+        "name": "🇦🇷GRAN HERMANO",
+        "samples": [
+            {
+                "name": "GRAN HERMANO 24/7",
+                "url": "http://tv.zeuspro.xyz:8080/live/jcoronado25/d41cb84b2988/102111.m3u8",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/qF5zpHcs/el-nuevo-logo-de-gran-hermano-jpg-215279816.webp",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.py",
+                    "Referer": "https://web.app.flow.com.py/guia-de-tvguia-de-tv",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            }
+        ]
+    },
+    {
         "name": "🇧🇷CANALES DE BRASIL",
         "samples": [
             {
@@ -3521,12 +3520,12 @@
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png",
                 "url": "https://stmv5.samcast.com.br/wagner7919/wagner7919/chunklist_w1606860923.m3u8"
             },
-	    {
+            {
                 "name": "URBAN DRIVE",
                 "icono": "https://urban-drive.ch/cdn/shop/files/logo-o.png",
                 "url": "http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8"
             },
-	    {
+            {
                 "name": "GLOBO",
                 "icono": "https://e7.pngegg.com/pngimages/82/749/png-clipart-brazil-rede-globo-logo-globo-com-globo-tv-international-others-miscellaneous-logo.png",
                 "url": "http://45.134.141.162:3366/stream/globo/san/master432.m3u8"
@@ -3667,7 +3666,6 @@
                 "name": "CLICKTV",
                 "icono": "https://i.ibb.co/gZqHJMrp/clicktv.png",
                 "url": "https://v2.tustreaming.cl/clicktv/playlist.m3u8"
-            
             }
         ]
     },
@@ -3881,7 +3879,6 @@
                 "url": "http://nxtv2112.xyz:80/5MUK2Fhqtq/wqq6nhKF4W/2370.ts",
                 "drm_scheme": "clearkey",
                 "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=da8a49a594160cc0059f07b9f71cd39a&key=37ca91dd799b351a02445151c7f61070"
-            
             }
         ]
     },
@@ -3922,7 +3919,6 @@
                 "name": "RED ADVENIR",
                 "icono": "https://i.postimg.cc/KzyN2BxQ/advenr.jpg",
                 "url": "https://streamer1.streamhost.org/salive/GMIredadvenirh/chunklist_w1976177922.m3u8"
-         
             }
         ]
     },
@@ -3971,7 +3967,6 @@
                 "name": "EL TRECE",
                 "icono": "https://i.ibb.co/v6xyk8yY/1662578.png",
                 "url": "http://190.2.212.209:8050/play/a0nf"
-            
             }
         ]
     },
@@ -4330,387 +4325,387 @@
         ]
     },
     {
-  "name": "⭐️Chespirito: Sin querer queriendo⭐️",
-  "samples": [
-    {
-    "name": "1 - Zapatero a Tus Zapatos",
-    "url": "http://ptccloud.lsdwedsfsc.site/vod/E8D226C08C504568BA1757ED056A07A1_media.mp4",
-    "icono": "https://image.tmdb.org/t/p/original/bVBj1GlvwiN7PMuf4t6JmcRZHd9.jpg",
-    "type": "HLS"
-  },
-  {
-    "name": "2 - No Hay Mal Que por Bien No Venga",
-    "url": "http://ptccloud.lsdwedsfsc.site/vod/18CB4B2684B94373A987B873B1A0EF59_media.mp4",
-    "icono": "https://image.tmdb.org/t/p/original/bVBj1GlvwiN7PMuf4t6JmcRZHd9.jpg",
-    "type": "HLS"
-  },
-  {
-    "name": "3 - Que No Panda el Cúnico",
-    "url": "http://ptccloud.lsdwedsfsc.site/vod/BEF950FA447A4A778C65CFCDB098E8B8_media.mp4",
-    "icono": "https://image.tmdb.org/t/p/original/bVBj1GlvwiN7PMuf4t6JmcRZHd9.jpg",
-    "type": "HLS"
-  },
-  {
-    "name": "4 - Episodio 4",
-    "url": "http://ptccloud.lsdwedsfsc.site/vod/CF5A84E49EDC4D709CAF5213D193B9DB_media.mp4",
-    "icono": "https://image.tmdb.org/t/p/original/bVBj1GlvwiN7PMuf4t6JmcRZHd9.jpg",
-    "type": "HLS"
-    }
-  ]
-},
-    {		
-  "name": "⭐️SERIE EL ENCARGADO TEMPORADA 1⭐️",
-  "samples": [
-    {      
-	  "name": "1 Un proyecto peligroso",
-      "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4BB294759E4749CDA3AD50980A0FFB7F_media.mp4",
-      "icono": "https://image.tmdb.org/t/p/original/oO6moEWDRYtYwZMYOUl1eOnAnE3.jpg",
-      "type": "HLS"
+        "name": "⭐️Chespirito: Sin querer queriendo⭐️",
+        "samples": [
+            {
+                "name": "1 - Zapatero a Tus Zapatos",
+                "url": "http://ptccloud.lsdwedsfsc.site/vod/E8D226C08C504568BA1757ED056A07A1_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/bVBj1GlvwiN7PMuf4t6JmcRZHd9.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "2 - No Hay Mal Que por Bien No Venga",
+                "url": "http://ptccloud.lsdwedsfsc.site/vod/18CB4B2684B94373A987B873B1A0EF59_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/bVBj1GlvwiN7PMuf4t6JmcRZHd9.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "3 - Que No Panda el Cúnico",
+                "url": "http://ptccloud.lsdwedsfsc.site/vod/BEF950FA447A4A778C65CFCDB098E8B8_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/bVBj1GlvwiN7PMuf4t6JmcRZHd9.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "4 - Episodio 4",
+                "url": "http://ptccloud.lsdwedsfsc.site/vod/CF5A84E49EDC4D709CAF5213D193B9DB_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/bVBj1GlvwiN7PMuf4t6JmcRZHd9.jpg",
+                "type": "HLS"
+            }
+        ]
     },
     {
-      "name": "2 Una acción solidaria",
-      "url": "http://vddgcoud02.gd34fdldh.xyz/vod/42F116D9B68245E69CDBB29CF2F47E38_media.mp4",
-      "icono": "https://image.tmdb.org/t/p/original/oO6moEWDRYtYwZMYOUl1eOnAnE3.jpg",
-      "type": "HLS"
+        "name": "⭐️SERIE EL ENCARGADO TEMPORADA 1⭐️",
+        "samples": [
+            {
+                "name": "1 Un proyecto peligroso",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4BB294759E4749CDA3AD50980A0FFB7F_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/oO6moEWDRYtYwZMYOUl1eOnAnE3.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "2 Una acción solidaria",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/42F116D9B68245E69CDBB29CF2F47E38_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/oO6moEWDRYtYwZMYOUl1eOnAnE3.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "3 Una turista en Buenos Aires",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1BDA539C18E24FE786161A4E43FD3AD3_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/oO6moEWDRYtYwZMYOUl1eOnAnE3.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "4 Una amante para Zambrano",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/99ACDFACB94247B48653ADFA562CE28D_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/oO6moEWDRYtYwZMYOUl1eOnAnE3.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "5 Visita sorpresa",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F90FEE16FEEF440F92E9746D56D62FF1_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/oO6moEWDRYtYwZMYOUl1eOnAnE3.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "6 Chofer nocturno",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/04389ABB1F3F4C3C83E13FB05D23141D_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/oO6moEWDRYtYwZMYOUl1eOnAnE3.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "7 Acompañante terapéutico",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/31043CE2A2C34AC782E4B19EBFF84A69_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/oO6moEWDRYtYwZMYOUl1eOnAnE3.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "8 Sabotaje en la sala de máquinas",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B33D8988A00F49DE951E7F6D701361DF_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/oO6moEWDRYtYwZMYOUl1eOnAnE3.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "9 El ocupa del 5B",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/EE991A99B3704C8092606502CAF6C806_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/oO6moEWDRYtYwZMYOUl1eOnAnE3.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "10 La hora de la verdad",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A654A95DB4AC4458AC1681C8363F4220_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/oO6moEWDRYtYwZMYOUl1eOnAnE3.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "11 El ave fénix",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1A862E30085F43FAB69685F9AA49A95F_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/oO6moEWDRYtYwZMYOUl1eOnAnE3.jpg",
+                "type": "HLS"
+            }
+        ]
     },
     {
-      "name": "3 Una turista en Buenos Aires",
-      "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1BDA539C18E24FE786161A4E43FD3AD3_media.mp4",
-      "icono": "https://image.tmdb.org/t/p/original/oO6moEWDRYtYwZMYOUl1eOnAnE3.jpg",
-      "type": "HLS"
+        "name": "⭐️SERIE EL ENCARGADO TEMPORADA 2⭐️",
+        "samples": [
+            {
+                "name": "1 - Una mujer solidaria",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/DC869B8930294341AA3836231B73F015_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/oO6moEWDRYtYwZMYOUl1eOnAnE3.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "2 - Una alianza inesperada",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B53F284F88D342B297B68B5B5FCFE01B_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/oO6moEWDRYtYwZMYOUl1eOnAnE3.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "3 - Un pequeño susto",
+                "url": "http://107.151.149.198:21606/vod/5578381D4E11489ABA67D66FA6AC5E29_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/oO6moEWDRYtYwZMYOUl1eOnAnE3.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "4 - El último adiós",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/8C4897B2AD9E4C89B281A5B6987F5E27_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/oO6moEWDRYtYwZMYOUl1eOnAnE3.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "5 - Allanamiento sorpresa",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F967C4C37D8A4F8B93A2ECB497CA43DD_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/oO6moEWDRYtYwZMYOUl1eOnAnE3.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "6 - Junta médica",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/6BA1ABA7FB8A4D90A38945F5E9DB031F_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/oO6moEWDRYtYwZMYOUl1eOnAnE3.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "7 - Aceitunas para todos",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/8E708581F84F4A61BB0DD13FCA63CECE_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/oO6moEWDRYtYwZMYOUl1eOnAnE3.jpg",
+                "type": "HLS"
+            }
+        ]
     },
     {
-      "name": "4 Una amante para Zambrano",
-      "url": "http://vddgcoud02.gd34fdldh.xyz/vod/99ACDFACB94247B48653ADFA562CE28D_media.mp4",
-      "icono": "https://image.tmdb.org/t/p/original/oO6moEWDRYtYwZMYOUl1eOnAnE3.jpg",
-      "type": "HLS"
+        "name": "⭐️SERIE EL ENCARGADO TEMPORADA 3⭐️",
+        "samples": [
+            {
+                "name": "1 - La Convención",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/49F04C0DD78340E995DC3D8FCB9BB46D_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/oO6moEWDRYtYwZMYOUl1eOnAnE3.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "2 - Soluciones integrales Basurto",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D0FAB4017C114E93AB422676E36C8B3C_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/oO6moEWDRYtYwZMYOUl1eOnAnE3.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "3 - Y bueh...",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A1B55D160C8943F98A2A93F25619ECF0_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/oO6moEWDRYtYwZMYOUl1eOnAnE3.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "4 - Otra oportunidad",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/43AAB6969D284DC98F14DECDF39A59AD_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/oO6moEWDRYtYwZMYOUl1eOnAnE3.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "5 - Un beso en los labios",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/7194E6AEAB594118A4C4E8DD57590A55_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/oO6moEWDRYtYwZMYOUl1eOnAnE3.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "6 - Portericidio",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0D293857558D4A9D93F629913D355D2B_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/oO6moEWDRYtYwZMYOUl1eOnAnE3.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "7 - Eliseo versus el Estado Nacional Argentino",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/929B5D3890E44EE8B1F5C2B02A5FC467_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/oO6moEWDRYtYwZMYOUl1eOnAnE3.jpg",
+                "type": "HLS"
+            }
+        ]
     },
     {
-      "name": "5 Visita sorpresa",
-      "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F90FEE16FEEF440F92E9746D56D62FF1_media.mp4",
-      "icono": "https://image.tmdb.org/t/p/original/oO6moEWDRYtYwZMYOUl1eOnAnE3.jpg",
-      "type": "HLS"
+        "name": "⭐️SERIE NETFLIX CASSANDRA⭐️",
+        "samples": [
+            {
+                "name": "1 - Empezar de cero",
+                "url": "http://ptccloud.lsdwedsfsc.site/vod/F89519599BF844C29483F33DE19FF584_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/qQYmYtk6GqbNiujYfWzxgeIi1A9.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "2 - ¿Quién soy?",
+                "url": "http://ptccloud.lsdwedsfsc.site/vod/9D04FD171AAA4DE490E8FD197F8C2690_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/qQYmYtk6GqbNiujYfWzxgeIi1A9.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "3 - Final del partido",
+                "url": "http://ptccloud.lsdwedsfsc.site/vod/EF27DEF5D52A44C4A68326B665C13839_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/qQYmYtk6GqbNiujYfWzxgeIi1A9.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "4 - Un juego de niños",
+                "url": "http://ptccloud.lsdwedsfsc.site/vod/B7F4444D8F794769B5CA25FAB612143B_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/qQYmYtk6GqbNiujYfWzxgeIi1A9.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "5 - No eres la única",
+                "url": "http://ptccloud.lsdwedsfsc.site/vod/D71F0D69E22A48E7AF287EE488683FFC_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/qQYmYtk6GqbNiujYfWzxgeIi1A9.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "6 - Feliz Navidad",
+                "url": "http://ptccloud.lsdwedsfsc.site/vod/AE4C62E1950C4ADBACF3BAE5495A9AD6_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/qQYmYtk6GqbNiujYfWzxgeIi1A9.jpg",
+                "type": "HLS"
+            }
+        ]
     },
     {
-      "name": "6 Chofer nocturno",
-      "url": "http://vddgcoud02.gd34fdldh.xyz/vod/04389ABB1F3F4C3C83E13FB05D23141D_media.mp4",
-      "icono": "https://image.tmdb.org/t/p/original/oO6moEWDRYtYwZMYOUl1eOnAnE3.jpg",
-      "type": "HLS"
+        "name": "⭐️SERIE NETFLIX EL JUEGO DEL CALAMAR TEMPORADA 1⭐️",
+        "samples": [
+            {
+                "name": "1. Luz roja, luz verde",
+                "url": "http://uyjj.xmqkychtb.com/vod/016251FB27034E2AA81B513CBB142018_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "2. Infierno",
+                "url": "http://uyjj.xmqkychtb.com/vod/DA114A2AFA804FF9974E9C3C454D9704_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "3. El hombre del paraguas",
+                "url": "http://uyjj.xmqkychtb.com/vod/42DF541B1095497D9D88EAC096396B92_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "4. El equipo es lo primero",
+                "url": "http://uyjj.xmqkychtb.com/vod/2EBDEB0E233543D8AFBAD832A2584D0E_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "5. Un mundo justo",
+                "url": "http://uyjj.xmqkychtb.com/vod/CB2A3E2A592B4C49A352CE137DB92586_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "6. Gganbu",
+                "url": "http://uyjj.xmqkychtb.com/vod/7C44D9B4036E46EC9C2BCEED722B383E_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "7. Personas importantes",
+                "url": "http://uyjj.xmqkychtb.com/vod/0C0C532D94E74BF68406B6646CAAA396_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "8. El líder",
+                "url": "http://uyjj.xmqkychtb.com/vod/B0161A72EA6E4586A7292BE4DC215677_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "9. Un día con suerte",
+                "url": "http://uyjj.xmqkychtb.com/vod/F899020D2FAC4342AD8B11B3BBFDE592_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
+                "type": "HLS"
+            }
+        ]
     },
     {
-      "name": "7 Acompañante terapéutico",
-      "url": "http://vddgcoud02.gd34fdldh.xyz/vod/31043CE2A2C34AC782E4B19EBFF84A69_media.mp4",
-      "icono": "https://image.tmdb.org/t/p/original/oO6moEWDRYtYwZMYOUl1eOnAnE3.jpg",
-      "type": "HLS"
+        "name": "⭐️SERIE NETFLIX EL JUEGO DEL CALAMAR TEMPORADA 2⭐️",
+        "samples": [
+            {
+                "name": "1. Pan y lotería",
+                "url": "http://uyjj.xmqkychtb.com/vod/0250A21A1B8347F6A0A5BDDF9FE50372_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "2. Fiesta de Halloween",
+                "url": "http://uyjj.xmqkychtb.com/vod/A0CB2183FDF540B3BF88EC3CB91D938B_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "3. 001",
+                "url": "http://uyjj.xmqkychtb.com/vod/0F9EB3ED1E97403DA4FA5FDB165E943B_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "4. Seis piernas",
+                "url": "http://uyjj.xmqkychtb.com/vod/DA1445F3B967431C85B20BD7902A8666_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "5. Otro juego",
+                "url": "http://uyjj.xmqkychtb.com/vod/1F1CF0572CE44AE68BB32C1AC427EA9E_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "6. O ﻿ X",
+                "url": "http://uyjj.xmqkychtb.com/vod/DD8033C72CF9457FA57D102F03DCF2D0_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "7. Amigos o enemigos",
+                "url": "http://uyjj.xmqkychtb.com/vod/40396A76447D4EFBB5AA3987ECFD5B0A_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
+                "type": "HLS"
+            }
+        ]
     },
     {
-      "name": "8 Sabotaje en la sala de máquinas",
-      "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B33D8988A00F49DE951E7F6D701361DF_media.mp4",
-      "icono": "https://image.tmdb.org/t/p/original/oO6moEWDRYtYwZMYOUl1eOnAnE3.jpg",
-      "type": "HLS"
+        "name": "⭐️SERIE NETFLIX EL JUEGO DEL CALAMAR TEMPORADA 3⭐️",
+        "samples": [
+            {
+                "name": "1. Episodio 1",
+                "url": "http://iptvpremium.ink:55577/series/contenido23f834/72cjDfjfUr7/505945.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "2. Episodio 2",
+                "url": "http://iptvpremium.ink:55577/series/contenido23f834/72cjDfjfUr7/505946.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "3. Episodio 3",
+                "url": "http://iptvpremium.ink:55577/series/contenido23f834/72cjDfjfUr7/505947.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "4. Episodio 4",
+                "url": "http://iptvpremium.ink:55577/series/contenido23f834/72cjDfjfUr7/505948.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "5. Episodio 5",
+                "url": "http://iptvpremium.ink:55577/series/contenido23f834/72cjDfjfUr7/505949.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "6. Episodio 6",
+                "url": "http://iptvpremium.ink:55577/series/contenido23f834/72cjDfjfUr7/505950.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
+                "type": "HLS"
+            }
+        ]
     },
-    {
-      "name": "9 El ocupa del 5B",
-      "url": "http://vddgcoud02.gd34fdldh.xyz/vod/EE991A99B3704C8092606502CAF6C806_media.mp4",
-      "icono": "https://image.tmdb.org/t/p/original/oO6moEWDRYtYwZMYOUl1eOnAnE3.jpg",
-      "type": "HLS"
-    },
-    {
-      "name": "10 La hora de la verdad",
-      "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A654A95DB4AC4458AC1681C8363F4220_media.mp4",
-      "icono": "https://image.tmdb.org/t/p/original/oO6moEWDRYtYwZMYOUl1eOnAnE3.jpg",
-      "type": "HLS"
-    },
-    {
-      "name": "11 El ave fénix",
-      "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1A862E30085F43FAB69685F9AA49A95F_media.mp4",
-      "icono": "https://image.tmdb.org/t/p/original/oO6moEWDRYtYwZMYOUl1eOnAnE3.jpg",
-      "type": "HLS"
-    }
-  ]
-},
-    {
-  "name": "⭐️SERIE EL ENCARGADO TEMPORADA 2⭐️",
-  "samples": [
-    {      
-      "name": "1 - Una mujer solidaria",
-      "url": "http://vddgcoud02.gd34fdldh.xyz/vod/DC869B8930294341AA3836231B73F015_media.mp4",
-      "icono": "https://image.tmdb.org/t/p/original/oO6moEWDRYtYwZMYOUl1eOnAnE3.jpg",
-      "type": "HLS"
-    },
-    {
-      "name": "2 - Una alianza inesperada",
-      "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B53F284F88D342B297B68B5B5FCFE01B_media.mp4",
-      "icono": "https://image.tmdb.org/t/p/original/oO6moEWDRYtYwZMYOUl1eOnAnE3.jpg",
-      "type": "HLS"
-    },
-    {
-      "name": "3 - Un pequeño susto",
-      "url": "http://107.151.149.198:21606/vod/5578381D4E11489ABA67D66FA6AC5E29_media.mp4",
-      "icono": "https://image.tmdb.org/t/p/original/oO6moEWDRYtYwZMYOUl1eOnAnE3.jpg",
-      "type": "HLS"
-    },
-    {
-      "name": "4 - El último adiós",
-      "url": "http://vddgcoud02.gd34fdldh.xyz/vod/8C4897B2AD9E4C89B281A5B6987F5E27_media.mp4",
-      "icono": "https://image.tmdb.org/t/p/original/oO6moEWDRYtYwZMYOUl1eOnAnE3.jpg",
-      "type": "HLS"
-    },
-    {
-      "name": "5 - Allanamiento sorpresa",
-      "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F967C4C37D8A4F8B93A2ECB497CA43DD_media.mp4",
-      "icono": "https://image.tmdb.org/t/p/original/oO6moEWDRYtYwZMYOUl1eOnAnE3.jpg",
-      "type": "HLS"
-    },
-    {
-      "name": "6 - Junta médica",
-      "url": "http://vddgcoud02.gd34fdldh.xyz/vod/6BA1ABA7FB8A4D90A38945F5E9DB031F_media.mp4",
-      "icono": "https://image.tmdb.org/t/p/original/oO6moEWDRYtYwZMYOUl1eOnAnE3.jpg",
-      "type": "HLS"
-    },
-    {
-      "name": "7 - Aceitunas para todos",
-      "url": "http://vddgcoud02.gd34fdldh.xyz/vod/8E708581F84F4A61BB0DD13FCA63CECE_media.mp4",
-      "icono": "https://image.tmdb.org/t/p/original/oO6moEWDRYtYwZMYOUl1eOnAnE3.jpg",
-      "type": "HLS"
-    }
-  ]
-},
-    {
-  "name": "⭐️SERIE EL ENCARGADO TEMPORADA 3⭐️",
-  "samples": [
-    {            
-	  "name": "1 - La Convención",
-      "url": "http://vddgcoud02.gd34fdldh.xyz/vod/49F04C0DD78340E995DC3D8FCB9BB46D_media.mp4",
-      "icono": "https://image.tmdb.org/t/p/original/oO6moEWDRYtYwZMYOUl1eOnAnE3.jpg",
-      "type": "HLS"
-    },
-    {
-      "name": "2 - Soluciones integrales Basurto",
-      "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D0FAB4017C114E93AB422676E36C8B3C_media.mp4",
-      "icono": "https://image.tmdb.org/t/p/original/oO6moEWDRYtYwZMYOUl1eOnAnE3.jpg",
-      "type": "HLS"
-    },
-    {
-      "name": "3 - Y bueh...",
-      "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A1B55D160C8943F98A2A93F25619ECF0_media.mp4",
-      "icono": "https://image.tmdb.org/t/p/original/oO6moEWDRYtYwZMYOUl1eOnAnE3.jpg",
-      "type": "HLS"
-    },
-    {
-      "name": "4 - Otra oportunidad",
-      "url": "http://vddgcoud02.gd34fdldh.xyz/vod/43AAB6969D284DC98F14DECDF39A59AD_media.mp4",
-      "icono": "https://image.tmdb.org/t/p/original/oO6moEWDRYtYwZMYOUl1eOnAnE3.jpg",
-      "type": "HLS"
-    },
-    {
-      "name": "5 - Un beso en los labios",
-      "url": "http://vddgcoud02.gd34fdldh.xyz/vod/7194E6AEAB594118A4C4E8DD57590A55_media.mp4",
-      "icono": "https://image.tmdb.org/t/p/original/oO6moEWDRYtYwZMYOUl1eOnAnE3.jpg",
-      "type": "HLS"
-    },
-    {
-      "name": "6 - Portericidio",
-      "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0D293857558D4A9D93F629913D355D2B_media.mp4",
-      "icono": "https://image.tmdb.org/t/p/original/oO6moEWDRYtYwZMYOUl1eOnAnE3.jpg",
-      "type": "HLS"
-    },
-    {
-      "name": "7 - Eliseo versus el Estado Nacional Argentino",
-      "url": "http://vddgcoud02.gd34fdldh.xyz/vod/929B5D3890E44EE8B1F5C2B02A5FC467_media.mp4",
-      "icono": "https://image.tmdb.org/t/p/original/oO6moEWDRYtYwZMYOUl1eOnAnE3.jpg",
-      "type": "HLS"
-    }
-  ]
-},
-    {
-"name": "⭐️SERIE NETFLIX CASSANDRA⭐️",
-  "samples": [
-    {         
-    "name": "1 - Empezar de cero",
-    "url": "http://ptccloud.lsdwedsfsc.site/vod/F89519599BF844C29483F33DE19FF584_media.mp4",
-    "icono": "https://image.tmdb.org/t/p/original/qQYmYtk6GqbNiujYfWzxgeIi1A9.jpg",
-    "type": "HLS"
-  },
-  {
-    "name": "2 - ¿Quién soy?",
-    "url": "http://ptccloud.lsdwedsfsc.site/vod/9D04FD171AAA4DE490E8FD197F8C2690_media.mp4",
-    "icono": "https://image.tmdb.org/t/p/original/qQYmYtk6GqbNiujYfWzxgeIi1A9.jpg",
-    "type": "HLS"
-  },
-  {
-    "name": "3 - Final del partido",
-    "url": "http://ptccloud.lsdwedsfsc.site/vod/EF27DEF5D52A44C4A68326B665C13839_media.mp4",
-    "icono": "https://image.tmdb.org/t/p/original/qQYmYtk6GqbNiujYfWzxgeIi1A9.jpg",
-    "type": "HLS"
-  },
-  {
-    "name": "4 - Un juego de niños",
-    "url": "http://ptccloud.lsdwedsfsc.site/vod/B7F4444D8F794769B5CA25FAB612143B_media.mp4",
-    "icono": "https://image.tmdb.org/t/p/original/qQYmYtk6GqbNiujYfWzxgeIi1A9.jpg",
-    "type": "HLS"
-  },
-  {
-    "name": "5 - No eres la única",
-    "url": "http://ptccloud.lsdwedsfsc.site/vod/D71F0D69E22A48E7AF287EE488683FFC_media.mp4",
-    "icono": "https://image.tmdb.org/t/p/original/qQYmYtk6GqbNiujYfWzxgeIi1A9.jpg",
-    "type": "HLS"
-  },
-  {
-    "name": "6 - Feliz Navidad",
-    "url": "http://ptccloud.lsdwedsfsc.site/vod/AE4C62E1950C4ADBACF3BAE5495A9AD6_media.mp4",
-    "icono": "https://image.tmdb.org/t/p/original/qQYmYtk6GqbNiujYfWzxgeIi1A9.jpg",
-    "type": "HLS"
-    }
-  ]
-},
-    {	
-"name": "⭐️SERIE NETFLIX EL JUEGO DEL CALAMAR TEMPORADA 1⭐️",
-  "samples": [
-    {         
-        "name": "1. Luz roja, luz verde",
-        "url": "http://uyjj.xmqkychtb.com/vod/016251FB27034E2AA81B513CBB142018_media.mp4",
-        "icono": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
-        "type": "HLS"
-    },
-    {
-        "name": "2. Infierno",
-        "url": "http://uyjj.xmqkychtb.com/vod/DA114A2AFA804FF9974E9C3C454D9704_media.mp4",
-        "icono": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
-        "type": "HLS"
-    },
-    {
-        "name": "3. El hombre del paraguas",
-        "url": "http://uyjj.xmqkychtb.com/vod/42DF541B1095497D9D88EAC096396B92_media.mp4",
-        "icono": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
-        "type": "HLS"
-    },
-    {
-        "name": "4. El equipo es lo primero",
-        "url": "http://uyjj.xmqkychtb.com/vod/2EBDEB0E233543D8AFBAD832A2584D0E_media.mp4",
-        "icono": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
-        "type": "HLS"
-    },
-    {
-        "name": "5. Un mundo justo",
-        "url": "http://uyjj.xmqkychtb.com/vod/CB2A3E2A592B4C49A352CE137DB92586_media.mp4",
-        "icono": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
-        "type": "HLS"
-    },
-    {
-        "name": "6. Gganbu",
-        "url": "http://uyjj.xmqkychtb.com/vod/7C44D9B4036E46EC9C2BCEED722B383E_media.mp4",
-        "icono": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
-        "type": "HLS"
-    },
-    {
-        "name": "7. Personas importantes",
-        "url": "http://uyjj.xmqkychtb.com/vod/0C0C532D94E74BF68406B6646CAAA396_media.mp4",
-        "icono": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
-        "type": "HLS"
-    },
-    {
-        "name": "8. El líder",
-        "url": "http://uyjj.xmqkychtb.com/vod/B0161A72EA6E4586A7292BE4DC215677_media.mp4",
-        "icono": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
-        "type": "HLS"
-    },
-    {
-        "name": "9. Un día con suerte",
-        "url": "http://uyjj.xmqkychtb.com/vod/F899020D2FAC4342AD8B11B3BBFDE592_media.mp4",
-        "icono": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
-        "type": "HLS"
-    }
-  ]
-},
-    {
-"name": "⭐️SERIE NETFLIX EL JUEGO DEL CALAMAR TEMPORADA 2⭐️",
-  "samples": [
-    {
-        "name": "1. Pan y lotería",
-        "url": "http://uyjj.xmqkychtb.com/vod/0250A21A1B8347F6A0A5BDDF9FE50372_media.mp4",
-        "icono": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
-        "type": "HLS"
-    },
-    {
-        "name": "2. Fiesta de Halloween",
-        "url": "http://uyjj.xmqkychtb.com/vod/A0CB2183FDF540B3BF88EC3CB91D938B_media.mp4",
-        "icono": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
-        "type": "HLS"
-    },
-    {
-        "name": "3. 001",
-        "url": "http://uyjj.xmqkychtb.com/vod/0F9EB3ED1E97403DA4FA5FDB165E943B_media.mp4",
-        "icono": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
-        "type": "HLS"
-    },
-    {
-        "name": "4. Seis piernas",
-        "url": "http://uyjj.xmqkychtb.com/vod/DA1445F3B967431C85B20BD7902A8666_media.mp4",
-        "icono": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
-        "type": "HLS"
-    },
-    {
-        "name": "5. Otro juego",
-        "url": "http://uyjj.xmqkychtb.com/vod/1F1CF0572CE44AE68BB32C1AC427EA9E_media.mp4",
-        "icono": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
-        "type": "HLS"
-    },
-    {
-        "name": "6. O ﻿ X",
-        "url": "http://uyjj.xmqkychtb.com/vod/DD8033C72CF9457FA57D102F03DCF2D0_media.mp4",
-        "icono": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
-        "type": "HLS"
-    },
-    {
-        "name": "7. Amigos o enemigos",
-        "url": "http://uyjj.xmqkychtb.com/vod/40396A76447D4EFBB5AA3987ECFD5B0A_media.mp4",
-        "icono": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
-        "type": "HLS"
-    }
-  ]
-},
-    {
-  "name": "⭐️SERIE NETFLIX EL JUEGO DEL CALAMAR TEMPORADA 3⭐️",
-  "samples": [
-    {
-        "name": "1. Episodio 1",
-        "url": "http://iptvpremium.ink:55577/series/contenido23f834/72cjDfjfUr7/505945.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
-        "type": "HLS"
-    },
-    {
-        "name": "2. Episodio 2",
-        "url": "http://iptvpremium.ink:55577/series/contenido23f834/72cjDfjfUr7/505946.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
-        "type": "HLS"
-    },
-    {
-        "name": "3. Episodio 3",
-        "url": "http://iptvpremium.ink:55577/series/contenido23f834/72cjDfjfUr7/505947.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
-        "type": "HLS"
-    },
-    {
-        "name": "4. Episodio 4",
-        "url": "http://iptvpremium.ink:55577/series/contenido23f834/72cjDfjfUr7/505948.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
-        "type": "HLS"
-    },
-    {
-        "name": "5. Episodio 5",
-        "url": "http://iptvpremium.ink:55577/series/contenido23f834/72cjDfjfUr7/505949.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
-        "type": "HLS"
-    },
-    {
-        "name": "6. Episodio 6",
-        "url": "http://iptvpremium.ink:55577/series/contenido23f834/72cjDfjfUr7/505950.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
-        "type": "HLS"
-    }
-  ]
-},
     {
         "name": "⚡️Recomendados⚡️",
         "samples": [
@@ -5080,7 +5075,6 @@
                 "type": "PELICULA"
             },
             {
-			
                 "name": "Sikandar",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/431517.ts",
                 "icono": "https://image.tmdb.org/t/p/original/41s42CRXafa3OuRGvCtfYPEBmse.jpg",
@@ -5092,7 +5086,7 @@
                 "duracion": "133 min",
                 "type": "PELICULA"
             },
-            {	
+            {
                 "name": "Tierras perdidas",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/431516.ts",
                 "icono": "https://image.tmdb.org/t/p/original/sLDxndoqFWwJEq7iEdYQBzPjUDQ.jpg",
@@ -11475,7 +11469,7 @@
                 "url": "http://vedo.wvdbozpfc.com/vod/D1244C43CA7D45CA99FEF52DB85466C4_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/p9JdO5qKKwpXwW7MCEHlZHX1Lpr.jpg",
                 "type": "PELICULA",
-                "descripcion": "En esta historia la Tierra ha sido invadida, pero la raza humana no se ha extinguido por completo, ya que los invasores se han apoderado de las mentes terrestres y han salvado sus cuerpos, que utilizan para transportarse. Esto hace que algunos de estos contenedores físicos, como el de Melanie Stryder (Saoirse Ronan, 'Hanna'), opongan resistencia a la invasión de su mente.  Melanie no se hace a la idea de perder el control de sí misma y envía a su alma invasora, Wanderer (la misma actriz), constantes reminiscencias de su pasado que contienen recuerdos del hombre al que amaba, Jared (Max Irons, 'El retrato de Dorian Gray').  Debido a las sensaciones tan fuertes que recibe, Wanderer no puede hacerse con el control total de Melanie y empieza a desarrollar sentimientos hacia el hombre que aparece en su mente y que no conoce. Ambas fuerzas, la de Melanie y Wanderer, se aunarán para conseguir al mismo amante." ,
+                "descripcion": "En esta historia la Tierra ha sido invadida, pero la raza humana no se ha extinguido por completo, ya que los invasores se han apoderado de las mentes terrestres y han salvado sus cuerpos, que utilizan para transportarse. Esto hace que algunos de estos contenedores físicos, como el de Melanie Stryder (Saoirse Ronan, 'Hanna'), opongan resistencia a la invasión de su mente.  Melanie no se hace a la idea de perder el control de sí misma y envía a su alma invasora, Wanderer (la misma actriz), constantes reminiscencias de su pasado que contienen recuerdos del hombre al que amaba, Jared (Max Irons, 'El retrato de Dorian Gray').  Debido a las sensaciones tan fuertes que recibe, Wanderer no puede hacerse con el control total de Melanie y empieza a desarrollar sentimientos hacia el hombre que aparece en su mente y que no conoce. Ambas fuerzas, la de Melanie y Wanderer, se aunarán para conseguir al mismo amante.",
                 "anio": "2013",
                 "duracion": "125 min",
                 "genero": "Acción, Aventura, Ciencia ficción",
