@@ -791,7 +791,7 @@
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9a866ca98bef2351a68e4843139f8073&key=b0893077653d1ef842a1b65d8b34455a",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.ar",
-                    "Referer": "https://portal.app.flow.com.ar/",
+                    "Referer": "https://portal.app.flow.com.ar",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },
@@ -809,7 +809,7 @@
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=662447df521fb590b72b1a11671c2afd&key=81c204c443987d7b176587d626a124a0",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.ar",
-                    "Referer": "https://portal.app.flow.com.ar/",
+                    "Referer": "https://portal.app.flow.com.ar",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },
@@ -851,9 +851,15 @@
             },
             {
                 "name": "Canal 7 Neuquen",
-                "url": "https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8",
-                "type": "HLS",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Canalsiete-nqn-logo.png"
+                "url": "https://edge-live31-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzUyNjkyMjIwIiwic2lwIjoiMTgxLjQ2LjU3LjExMiIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9BcnRlYXJIRC9TQV9MaXZlX2Rhc2hfZW5jX0MvIiwic2Vzc2lvbl9jZG5faWQiOiI4ZTdiZThjMjFiYzUzZjc2Iiwic2Vzc2lvbl9pZCI6IjgxMzMwNTc0LTE3NTI1MTk0MjAtNDI2IiwiY2xpZW50X2lkIjoiMTI0MzgyMjIiLCJkZXZpY2VfaWQiOiI4MTMzMDU3NCIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTQiLCJzb3VyY2VzIjpbODUsMTQ0LDE4NCw4Niw4OF19.oQRz7GRckZ0d0RrjfxNO-_gQa9MV0ZxM-V-gIzP4v1vMnBiUgOYzKok7QPw4IM3yY2XA3UKX8TSFp14KpQe7dA==/live/c4eds/Telefe_Neuquen/SA_Live_dash_enc/Telefe_Neuquen.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Canalsiete-nqn-logo.png",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/q8llw64f79ma1snak176h/KEY.telefe.neuquen.json?rlkey=x44os1tsl3ews1potwi2infoe&dl=0",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+                }
             },
             {
                 "name": "Canal 9 Litoral",
@@ -1025,7 +1031,7 @@
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c61b5ac8e1664bf5b544e92ea2597e1c&key=938437ac25f0a18e04efc1a083489edc",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.ar",
-                    "Referer": "https://portal.app.flow.com.ar/",
+                    "Referer": "https://portal.app.flow.com.ar",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },
@@ -1036,7 +1042,7 @@
                 "icono": "https://telefe-static2.akamaized.net/media/143210/logo-santa-fe-368x80.png?v=20190205101807000",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=59ef9057114f44a480b62e36a6b1374f&key=74ef97bc54df5655c3a1d4f80b16e8d7",
                 "headers": {
-                    "Origin": "https://portal.app.flow.com.ar",
+                    "Origin": "https://portal.app.flow.com.ar/",
                     "Referer": "https://portal.app.flow.com.ar/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
                 }
@@ -1049,7 +1055,7 @@
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b57763b8d9c205d609ea509432201fac&key=a476cf79190fe4810efdd81e32317ff3",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.ar",
-                    "Referer": "https://portal.app.flow.com.ar/",
+                    "Referer": "https://portal.app.flow.com.ar",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },
@@ -1061,7 +1067,7 @@
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bffd3b447aa44a429a703245836e46fa&key=13be31c0bcb76b28b1248bf64ab3926e",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.ar",
-                    "Referer": "https://portal.app.flow.com.ar/",
+                    "Referer": "https://portal.app.flow.com.ar",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },
@@ -1073,7 +1079,7 @@
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=513f2056bf40d9123918fd7939fbf065&key=075ee6dd9b67d88be5642eaa510e91cb",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.ar",
-                    "Referer": "https://portal.app.flow.com.ar/",
+                    "Referer": "https://portal.app.flow.com.ar",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },
@@ -1085,7 +1091,7 @@
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f0179a4ba9f407dfdee057a33f8f220c&key=e0c3f11cb1d7f8d17b7a1532f29edb0b",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.ar",
-                    "Referer": "https://portal.app.flow.com.ar/",
+                    "Referer": "https://portal.app.flow.com.ar",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },
@@ -1097,7 +1103,7 @@
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=64c7e9ed4e3930b54d020c08a6792f10&key=737b6374d4492e8c233ca2c2ebac9b85",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.ar",
-                    "Referer": "https://portal.app.flow.com.ar/",
+                    "Referer": "https://portal.app.flow.com.ar",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },
@@ -1109,7 +1115,7 @@
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=df3ed6245bb9af1a0346379e8e475dff&key=f86f8457438d4e449d53b956cc1be664",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.ar",
-                    "Referer": "https://portal.app.flow.com.ar/",
+                    "Referer": "https://portal.app.flow.com.ar",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },
@@ -1127,7 +1133,7 @@
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6c7a5de392f874308e4dd8f2837f1115&key=9ccf9ec6922c403d67d0df7952547581",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.ar",
-                    "Referer": "https://portal.app.flow.com.ar/",
+                    "Referer": "https://portal.app.flow.com.ar",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
                 }
             },
@@ -1145,7 +1151,7 @@
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ee8a6cc35fdb4ab7adeed9d16593459f&key=5ca774838d5c887f7a8d7dee64b9a6b0",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.ar",
-                    "Referer": "https://portal.app.flow.com.ar/",
+                    "Referer": "https://portal.app.flow.com.ar",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
                 }
             },
@@ -1180,7 +1186,7 @@
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Elonce_TV_Salta.png/439px-Elonce_TV_Salta.png",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6c7a5de392f874308e4dd8f2837f1115&key=9ccf9ec6922c403d67d0df7952547581",
                 "headers": {
-                    "Origin": "https://portal.app.flow.com.ar",
+                    "Origin": "https://portal.app.flow.com.ar/",
                     "Referer": "https://portal.app.flow.com.ar/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
                 }
@@ -1199,13 +1205,13 @@
             },
             {
                 "name": "EL DESTAPE",
-                "url": "http://m.mtd.llc:2082/eldestape/index_fkr.mpd",
+                "url": "https://cdn.sensa.com.ar/bpk-tv/ElDestape/default/index.mpd",
                 "type": "CLEARKEY",
                 "icono": "https://i.ibb.co/yFbrg0L/eldestape.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f4e509e988c595b2ebe01a53ae9f9f88&key=2e7e05d9053f97638edb6d5e8d791fd6",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=af0566c50e733c311bdfa6736a95ce50&key=e4dfd12993097b3c35ad47562d61b4ce",
                 "headers": {
-                    "Origin": "https://www.telecentroplay.com.ar",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
                 }
             },
             {
@@ -1216,9 +1222,146 @@
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=df3ed6245bb9af1a0346379e8e475dff&key=f86f8457438d4e449d53b956cc1be664",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.ar",
-                    "Referer": "https://portal.app.flow.com.ar/",
+                    "Referer": "https://portal.app.flow.com.ar",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
                 }
+            },
+            {
+                "name": "LatinaTv",
+                "url": "https://videostream.shockmedia.com.ar:19360/latinatv/latinatv.m3u8",
+                "type": "HLS",
+                "icono": "https://i0.wp.com/5900.tv/wp-content/uploads/2023/09/latinatvmza.jpg?fit=1280%2C720&ssl=1"
+            },
+            {
+                "name": "COVISAR - Sta Rosa",
+                "url": "https://cdn.sensa.com.ar/output/STAROSA/COVISARH/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://geo.edge.pontiscloud.com:9002/images/2514/CH_LOGO/160/160/0/0/89469456077129.png"
+            },
+            {
+                "name": "Luque TV",
+                "url": "https://cdn.sensa.com.ar/output/STAROSA/LUQUETVH/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://geo.edge.pontiscloud.com:9002/images/2515/CH_LOGO/160/160/0/0/77974389077126.png"
+            },
+            {
+                "name": "Río Primero TV",
+                "url": "https://cdn.sensa.com.ar/output/STAROSA/RIO1TVH/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://geo.edge.pontiscloud.com:9002/images/2512/CH_LOGO/160/160/0/0/30214768077125.png"
+            },
+            {
+                "name": "TvCoop Posse",
+                "url": "https://cdn.sensa.com.ar/output/NDS/tvcoopjpH/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://geo.edge.pontiscloud.com:9002/images/2517/CH_LOGO/160/160/0/0/2990054407460.png"
+            },
+            {
+                "name": "CEOSCA-Camilo Aldao",
+                "url": "https://cdn.sensa.com.ar/output/NDS/CEOSCAH/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://geo.edge.pontiscloud.com:9002/images/2522/CH_LOGO/160/160/0/0/97778346077157.png"
+            },
+            {
+                "name": "Vivencias TV",
+                "url": "https://cdn.sensa.com.ar/output/NDS/vivenciasH/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://geo.edge.pontiscloud.com:9002/images/2541/CH_LOGO/160/160/0/0/35003362076629.png"
+            },
+            {
+                "name": "Unidos Tv",
+                "url": "https://cdn.sensa.com.ar/output/NDS/unidostvH/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://geo.edge.pontiscloud.com:9002/images/2543/CH_LOGO/160/160/0/0/49748039075506.png"
+            },
+            {
+                "name": "Canal 11 Oliva",
+                "url": "https://cdn.sensa.com.ar/output/NDS/OlivaH/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://geo.edge.pontiscloud.com:9002/images/2540/CH_LOGO/160/160/0/0/29838770078011.png"
+            },
+            {
+                "name": "Telediario Televisión",
+                "url": "https://cdn.sensa.com.ar/bpk-tv/TelediarioTelevision/default/index.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://geo.edge.pontiscloud.com:9002/images/782/CH_LOGO/160/160/0/0/93452015074309.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ff1e6f58369fa0457670eb452cb49f8a&key=4a5b005a7dbd38fe00c50d27fa23ab0a",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "COONET Brinkmann",
+                "url": "https://cdn.sensa.com.ar/output/SMT4/BRKD/output.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://geo.edge.pontiscloud.com:9002/images/1241/CH_LOGO/160/160/0/0/42902231076974.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=04983282c2fa819a08fa03a13fe4fdbe&key=4780a24340ea957c4a27b257e2b6ec4c",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "COOP PLUS Porteña",
+                "url": "https://cdn.sensa.com.ar/output/SMT5/PORD/output.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://geo.edge.pontiscloud.com:9002/images/1820/CH_LOGO/160/160/0/0/64370533077571.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=04983282c2fa819a08fa03a13fe4fdbe&key=4780a24340ea957c4a27b257e2b6ec4c",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "CPE Santa Rosa La Pampa",
+                "url": "https://cdn.sensa.com.ar/output/ARR2/Canal19LPD/output.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://geo.edge.pontiscloud.com:9002/images/1061/CH_LOGO/160/160/0/0/79624310076902.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=04983282c2fa819a08fa03a13fe4fdbe&key=4780a24340ea957c4a27b257e2b6ec4c",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "LDM TV La Pampa",
+                "url": "https://cdn.sensa.com.ar/output/ARR2/Canal19LPD/output.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://geo.edge.pontiscloud.com:9002/images/1061/CH_LOGO/160/160/0/0/79624310076902.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=04983282c2fa819a08fa03a13fe4fdbe&key=4780a24340ea957c4a27b257e2b6ec4c",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "NTV Tortuguitas",
+                "url": "https://cdn.sensa.com.ar/output/SMT5/NTVD/output.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://geo.edge.pontiscloud.com:9002/images/3422/CH_LOGO/160/160/0/0/60976969078835.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=04983282c2fa819a08fa03a13fe4fdbe&key=4780a24340ea957c4a27b257e2b6ec4c",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "DBosco Televisión",
+                "url": "https://cdn.sensa.com.ar/output/ARR2/C7SAAD/output.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://geo.edge.pontiscloud.com:9002/images/2503/CH_LOGO/160/160/0/0/18862298077160.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=04983282c2fa819a08fa03a13fe4fdbe&key=4780a24340ea957c4a27b257e2b6ec4c",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "CATAMARCA TV",
+                "url": "https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/WKCytzW/CEu-Poq-G-removebg-preview.png"
             }
         ]
     },
