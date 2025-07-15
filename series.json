@@ -4,6 +4,384 @@
             "nombre": "RECOMENDADOS",
             "series": [
                 {
+                    "nombre": "Duster",
+                    "genero": "Crimen, Drama",
+                    "descripcion": "En 1972, la primera agente negra del FBI se dirige al suroeste y recluta a un valiente conductor de escape en un audaz esfuerzo por acabar con un sindicato criminal en creciente.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/sidoMlKGJYVgZws2CZTx5scRMtI.png",
+                    "icono": "https://image.tmdb.org/t/p/original/wYBsKEFU0qHdhSI9QtQjL8HELMn.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/gs9gImz03a5fIUMZmI9QZAky0xC.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Baltimore lo cambia todo",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/75D119F8076C4020AB2654EB2B349928_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Mentes sospechosas",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/8EF4F4B4C86B4A16B436CDA3196D15E9_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "No eres bueno",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/DDC2FE7593DD4088B54AD9857D0A585F_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Crimunalus Velocitus Super-Sonicus",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/0ECE0DCDB3D04C56A3B8F31BC624CF64_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Luz y gloria deslumbrantes",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/33716EA870D94F7CA2436BF0320FB955_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Conocerse por la ropa",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/E106430B0B6A491593622C7A9C2BDF66_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "K-129",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/282CC7BED2964400B88313666B0C70B2_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "66 Reno Split",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/9EE727C381A345458D4B7F40B680CC3B_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 113959,
+                    "total_seasons": 1
+                },
+                {
+                    "nombre": "Rosario Tijeras 4 Temporada",
+                    "genero": "Drama, Crimen",
+                    "descripcion": "La serie cuenta la historia de una guerrera de uno de los barrios más pobres y peligrosos en Ciudad de México. Su belleza y nobleza contrasta con el ambiente gris y desolado donde creció. Ella es temida por sus enemigos y adorada por sus amigos.",
+                    "anio": "2016",
+                    "iconPng": "https://image.tmdb.org/t/p/original/jmjEiNArL1eGqbE254Ku8sN8Jno.png",
+                    "icono": "https://image.tmdb.org/t/p/original/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/hsSw3DuG2ah2wgaZeDTwyv5FPh3.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 4",
+                            "numero_temporada": 4,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/27EDE9CBB451457AA7C7D754DB6C3A26_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/32D6636BF7044C0BA8A60856D860F280_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/8A395FB78BD9448980F5E85F03514987_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/20240D7C9EB540289D2A21FAA3814C4C_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/B8138B1201B44AD48600C50A01F2F0F0_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/84E53224A4E44994833E9DC1EBC4DFF0_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/F280D89AE3694D758ED2127445F57D8E_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/24000894F1604435BAE922D4E9D7676F_media.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Episodio 9",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/E8211A70B52C4D5DA823118E58FF42D9_media.mp4"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Episodio 10",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/32120A15A0194350B894138177C30356_media.mp4"
+                                },
+                                {
+                                    "numero": 11,
+                                    "titulo": "Episodio 11",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/857949D2F60F4E279DE749B7D56E270F_media.mp4"
+                                },
+                                {
+                                    "numero": 12,
+                                    "titulo": "Episodio 12",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/5C0BCDFE7AD745FBA08776690CEB8E3F_media.mp4"
+                                },
+                                {
+                                    "numero": 13,
+                                    "titulo": "Episodio 13",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/FA19A0217975481C888D212813E01F38_media.mp4"
+                                },
+                                {
+                                    "numero": 14,
+                                    "titulo": "Episodio 14",
+                                    "url": "http://uyjj.xmqkychtb.com/vod/55E64AEE171E451FB5B2E5D808EA60AF_media.mp4"
+                                },
+                                {
+                                    "numero": 15,
+                                    "titulo": "Episodio 15",
+                                    "url": "http://uyjj.xmqkychtb.com/vod/0581CD39B39349E3BCF0D96FF58A9AA6_media.mp4"
+                                },
+                                {
+                                    "numero": 16,
+                                    "titulo": "Episodio 16",
+                                    "url": "http://uyjj.xmqkychtb.com/vod/E709BD9211A845BE9B727D9C3707E295_media.mp4"
+                                },
+                                {
+                                    "numero": 17,
+                                    "titulo": "Episodio 17",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/3715F570D9854C16826B8E5034D6A05D_media.mp4"
+                                },
+                                {
+                                    "numero": 18,
+                                    "titulo": "Episodio 18",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/22A2460AA71B449AB45084DF1F550D5C_media.mp4"
+                                },
+                                {
+                                    "numero": 19,
+                                    "titulo": "Episodio 19",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/FDE35F3D6C114359AD762AB7542B4527_media.mp4"
+                                },
+                                {
+                                    "numero": 20,
+                                    "titulo": "Episodio 20",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/44E90A9A85864F069B79C43AC879777B_media.mp4"
+                                },
+                                {
+                                    "numero": 21,
+                                    "titulo": "Episodio 21",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/D88BC0E8EFBE431CB713E624E6E8AFC7_media.mp4"
+                                },
+                                {
+                                    "numero": 22,
+                                    "titulo": "Episodio 22",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/54716B6DD5684F509E7E7F5C89E7C4B4_media.mp4"
+                                },
+                                {
+                                    "numero": 23,
+                                    "titulo": "Episodio 23",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/AC13A4049EC9477782778C63FCE23C13_media.mp4"
+                                },
+                                {
+                                    "numero": 24,
+                                    "titulo": "Episodio 24",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/A092F8F50CE549E3B65E0A762EF6FD98_media.mp4"
+                                },
+                                {
+                                    "numero": 25,
+                                    "titulo": "Episodio 25",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/1FD2D82FFFF741F6BA256165E2ABAE75_media.mp4"
+                                },
+                                {
+                                    "numero": 26,
+                                    "titulo": "Episodio 26",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/923CDAE3D24C4AE6AFBC4A2D5164F889_media.mp4"
+                                },
+                                {
+                                    "numero": 27,
+                                    "titulo": "Episodio 27",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/2E038232A2A5432EB1B8E19806FBFA6E_media.mp4"
+                                },
+                                {
+                                    "numero": 28,
+                                    "titulo": "Episodio 28",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/74B2075D3C514115A50311239AA5BCC1_media.mp4"
+                                },
+                                {
+                                    "numero": 29,
+                                    "titulo": "Episodio 29",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/6217969399B843C2AC75FDF26EAD1661_media.mp4"
+                                },
+                                {
+                                    "numero": 30,
+                                    "titulo": "Episodio 30",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/17B795AA22744DA8955015A72482FE7C_media.mp4"
+                                },
+                                {
+                                    "numero": 31,
+                                    "titulo": "Episodio 31",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/9019F7FED3334EA38AAB4B4D121121D3_media.mp4"
+                                },
+                                {
+                                    "numero": 32,
+                                    "titulo": "Episodio 32",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/C7FC24C2D94C4239B12170A986939D03_media.mp4"
+                                },
+                                {
+                                    "numero": 33,
+                                    "titulo": "Episodio 33",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/4CFFA98224E241ABA205D7B05B7977A3_media.mp4"
+                                },
+                                {
+                                    "numero": 34,
+                                    "titulo": "Episodio 34",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/9B90DAC13DF04F408B787A4F5C33553B_media.mp4"
+                                },
+                                {
+                                    "numero": 35,
+                                    "titulo": "Episodio 35",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/50C9ED699E6F4312AC77710F340049F6_media.mp4"
+                                },
+                                {
+                                    "numero": 36,
+                                    "titulo": "Episodio 36",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/C400845F2268467DB22345029960BB27_media.mp4"
+                                },
+                                {
+                                    "numero": 37,
+                                    "titulo": "Episodio 37",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/7E123A354EEC40FD9FA80D13654525C3_media.mp4"
+                                },
+                                {
+                                    "numero": 38,
+                                    "titulo": "Episodio 38",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/15D4445EC334421895EC93609B6FDF63_media.mp4"
+                                },
+                                {
+                                    "numero": 39,
+                                    "titulo": "Episodio 39",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/3995130F08D74847A619E38002786E80_media.mp4"
+                                },
+                                {
+                                    "numero": 40,
+                                    "titulo": "Episodio 40",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/074D7630476C4AD5B889BCFCAC29A1CD_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 74428,
+                    "total_seasons": 4
+                },
+                {
+                    "nombre": "Los Protectores",
+                    "genero": "Drama, Comedia",
+                    "descripcion": "La historia se centra en tres representantes de fútbol que se encuentran en decadencia, ya que se encuentran en una situación económica difícil y deberán ingeniárselas para salir de la quiebra, formando así una alianza entre los tres, sin embargo, aparecerá una estrella del fútbol internacional y empezarán a disputarse por él hasta que deciden hacer una unión transitoria: un trabajo de protectores.",
+                    "anio": "2022",
+                    "iconPng": "https://image.tmdb.org/t/p/original/9DgxmcbVzY35x3CNJ1FiZfaw54n.png",
+                    "icono": "https://image.tmdb.org/t/p/original/kx0hXpQ3JW6QMBwKEgl7mnu5GgY.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/oLYSfcy1X9YV1kjBIiIcdaIAOsI.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://uyjj.xmqkychtb.com/vod/83402D344AF443BBA7C47DF06D8A7F75_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/94A13063FB4C4878808D58FE78EFD1D5_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/89D9BEE4A60A4EC2BFA5E1B2AF97009A_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/A8485CF5D3244239A5D82353DCBADE79_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/755EB8D5F992429D99655E26F1557F66_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/51664EA0DD4A4719BF24072648778090_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/94827774842942DABEE176051EBBCABD_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/81FE8A51DB6F45EA8256F8BB50D0B224_media.mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 2",
+                            "numero_temporada": 2,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://uyjj.xmqkychtb.com/vod/8488C76A61A448EA80F0AD3542E611B1_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://uyjj.xmqkychtb.com/vod/B06446F1A3AE47F39C4546D4C5243883_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/F9492C54B7994143A0C4149486651F01_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/2B33424886C34D5AB56364DEE777411F_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/3D073F430A0242F0B44E6982246CD067_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/F5FECB4F39E540DD814C0A3B59679B3D_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/596E356E0C234E6F8E6BB8AA086EB54A_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 122046,
+                    "total_seasons": 2
+                },
+                {
                     "nombre": "El juego del calamar",
                     "genero": "Action & Adventure, Misterio, Drama",
                     "descripcion": "Cientos de personas con problemas de dinero aceptan una invitación rarísima para competir en juegos infantiles. Dentro los esperan un tentador premio y desafíos letales.",
@@ -3295,20 +3673,15 @@
                     ],
                     "tmdb_id": 243316,
                     "total_seasons": 2
-                }
-            ]
-        },
-        {
-            "nombre": "⭐️⭐️Serie en Emision⭐️⭐️",
-            "series": [
+                },
                 {
-                    "nombre": "Viudas negras: P*tas y chorras",
-                    "genero": "Comedia, Crimen",
-                    "descripcion": "Una exdupla de ladronas debe desempolvar sus viejos trucos de seducción cuando un chantaje amenaza con sacar sus trapos sucios al sol.",
+                    "nombre": "Con esa misma mirada",
+                    "genero": "Drama",
+                    "descripcion": "Después de 25 años de matrimonio Eloísa descubre la infidelidad de su esposo con alguien más joven y decide separarse. Su inesperada soledad la obliga a cuestionarse y darse valor para redescubrir el amor con un hombre menor que ella.",
                     "anio": "2025",
-                    "iconPng": "https://image.tmdb.org/t/p/original/dyS7L97MLiJ5qha3Qtt29ieDXdk.png",
-                    "icono": "https://image.tmdb.org/t/p/original/5Vlv9pBlvdAHRyKEm7jNEjA1p9N.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/8LfHsnOgh81VJX9OrDwKSuv3ToK.jpg",
+                    "iconPng": "",
+                    "icono": "https://image.tmdb.org/t/p/original/yaAqgf2xJqU7dJwEoUAizHK8cFw.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/qKeYeBcfJ75jm0dkh45pSN0XIL4.jpg",
                     "temporadas": [
                         {
                             "nombre": "Temporada 1",
@@ -3316,15 +3689,140 @@
                             "capitulos": [
                                 {
                                     "numero": 1,
-                                    "titulo": "El Reencuentro",
-                                    "url": "6D32EB141F1045A291E9496CABE2C47A_media.mp4"
+                                    "titulo": "Episodio 1",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/7035E9C4A7544DB58EDBE51CABD5C6E3_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/C008481961E541319ED02E83E3085E7B_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/28908BDEE978459F8CD4E061E2CA8B42_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/3043977911774E2BB91DB80EED4E0DDB_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/0F9E83C1CC2947DF9D9F11E0808E6AF7_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/80D463CAD7ED40A4ABCD7D33C2319B09_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/ADAB5296243E4EE98FCC81C207307B32_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/AE12D708178C4D5783FA57A5843A99B0_media.mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 2",
+                            "numero_temporada": 2,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/FA7A6D441AFA451E99D7A200306A3478_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/506EB7F862034F07B03FCB885475EC70_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/A8D9A007948840CCA867DE619BB9A461_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/84E0B9F707FC43E88C74AD93392890E1_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/DC39837C8A144F659D74CB96525F8DD5_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod//179905948B5648A39071EF7AF568D67F_media.mp4"
                                 }
                             ]
                         }
                     ],
-                    "tmdb_id": 294972,
-                    "total_seasons": 1
+                    "tmdb_id": 286993,
+                    "total_seasons": 2
                 },
+                {
+                    "nombre": "Matices",
+                    "genero": "Crimen, Misterio",
+                    "descripcion": "Seis pacientes psiquiátricos se reúnen en una bodega aislada para completar el tratamiento del doctor Marlow, pero cuando se produce una muerte sospechosa, todos se convierten en sospechosos de una investigación de asesinato.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/1IXAzimOE6ZJYuBtjZiKMQkCF1K.png",
+                    "icono": "https://image.tmdb.org/t/p/original/AvT0eKDjW9fs4Dmi6x9XCLGK3nA.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/tG8EUw9lYeZsPrDL4vePhLWj7D.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Eviana",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/FF945F9013B843D580A7EA76C4712752_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Doctor Marlow",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/474BA5EE24984896B698732697C1D5D9_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Ceci",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/61BB4DE7917C4A3ABB86350B7EB77348_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Ana",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/93A00622E6EB4242B9C6897D96F0C01C_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "El Sr. y la Sra. Polan",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/25521BFE39834671A10BB0D4B252921A_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Fariba",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/D144E3D84A714A0F98DCD595326540FE_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 259854,
+                    "total_seasons": 1
+                }
+            ]
+        },
+        {
+            "nombre": "⭐️⭐️Serie en Emision⭐️⭐️",
+            "series": [
                 {
                     "nombre": "Buen chico",
                     "genero": "Crimen, Comedia, Action & Adventure, Drama",
@@ -3416,6 +3914,11 @@
                                     "numero": 2,
                                     "titulo": "Vuestra alegría me entristece",
                                     "url": "http://ptccloud.lsdwedsfsc.site/vod/E94F3AE7531047E3B60D9AB09B05AB6B_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Leche rara",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/6361004B52CE4646B7CD032842B47696_media.mp4"
                                 }
                             ]
                         }
@@ -3450,70 +3953,21 @@
                                     "numero": 3,
                                     "titulo": "Que No Panda el Cúnico",
                                     "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/440299.mkv"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Es Que No Me Tienen Paciencia",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/CF5A84E49EDC4D709CAF5213D193B9DB_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/90A41C0A361E44CF9E4605C097226CCB_media.mp4"
                                 }
                             ]
                         }
                     ],
                     "tmdb_id": 279060,
-                    "total_seasons": 1
-                },
-                {
-                    "nombre": "Matabot",
-                    "genero": "Comedia, Drama, Sci-Fi & Fantasy",
-                    "descripcion": "En un futuro tecnológico, un robot de seguridad rebelde consigue en secreto voluntad propia. Para no llamar la atención, se une a regañadientes a una nueva misión. Debe proteger a unos científicos en un planeta peligroso... aunque solo quiere ver culebrones.",
-                    "anio": "2025",
-                    "iconPng": "https://image.tmdb.org/t/p/original/ipus65KpISGNjoFSxABr50dgphi.png",
-                    "icono": "https://image.tmdb.org/t/p/original/zwu7yXEGHvJv9va0SmkFEJGn2L7.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/nn9vM29SKN227zupaOOmaJz5SA0.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "LibreComercio",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432815.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Contacto Visual",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432816.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Evaluación de riesgo",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432817.mp4"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Protocolo de velocidad de huida",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432818.mp4"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "Seguimiento bélico infinito",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432819.mp4"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "Canal de mando",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/B94F9F5C04CC46118426F97D2A930FC3_media.mp4"
-                                },
-                                {
-                                    "numero": 7,
-                                    "titulo": "Especies complementarias",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/967F84AD9075496D814E950AA0ECAA17_media.mp4"
-                                },
-                                {
-                                    "numero": 8,
-                                    "titulo": "Objeto extraño",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/381F8694A3714F3C8ABF9636F36F9BE7_media.mp4"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 241554,
                     "total_seasons": 1
                 },
                 {
@@ -10288,6 +10742,163 @@
                     ],
                     "tmdb_id": 292012,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Matices",
+                    "genero": "Crimen, Misterio",
+                    "descripcion": "Seis pacientes psiquiátricos se reúnen en una bodega aislada para completar el tratamiento del doctor Marlow, pero cuando se produce una muerte sospechosa, todos se convierten en sospechosos de una investigación de asesinato.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/1IXAzimOE6ZJYuBtjZiKMQkCF1K.png",
+                    "icono": "https://image.tmdb.org/t/p/original/AvT0eKDjW9fs4Dmi6x9XCLGK3nA.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/tG8EUw9lYeZsPrDL4vePhLWj7D.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Eviana",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/FF945F9013B843D580A7EA76C4712752_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Doctor Marlow",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/474BA5EE24984896B698732697C1D5D9_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Ceci",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/61BB4DE7917C4A3ABB86350B7EB77348_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Ana",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/93A00622E6EB4242B9C6897D96F0C01C_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "El Sr. y la Sra. Polan",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/25521BFE39834671A10BB0D4B252921A_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Fariba",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/D144E3D84A714A0F98DCD595326540FE_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 259854,
+                    "total_seasons": 1
+                },
+                {
+                    "nombre": "Duster",
+                    "genero": "Crimen, Drama",
+                    "descripcion": "En 1972, la primera agente negra del FBI se dirige al suroeste y recluta a un valiente conductor de escape en un audaz esfuerzo por acabar con un sindicato criminal en creciente.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/sidoMlKGJYVgZws2CZTx5scRMtI.png",
+                    "icono": "https://image.tmdb.org/t/p/original/wYBsKEFU0qHdhSI9QtQjL8HELMn.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/gs9gImz03a5fIUMZmI9QZAky0xC.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Baltimore lo cambia todo",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/75D119F8076C4020AB2654EB2B349928_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Mentes sospechosas",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/8EF4F4B4C86B4A16B436CDA3196D15E9_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "No eres bueno",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/DDC2FE7593DD4088B54AD9857D0A585F_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Crimunalus Velocitus Super-Sonicus",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/0ECE0DCDB3D04C56A3B8F31BC624CF64_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Luz y gloria deslumbrantes",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/33716EA870D94F7CA2436BF0320FB955_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Conocerse por la ropa",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/E106430B0B6A491593622C7A9C2BDF66_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "K-129",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/282CC7BED2964400B88313666B0C70B2_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "66 Reno Split",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/9EE727C381A345458D4B7F40B680CC3B_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 113959,
+                    "total_seasons": 1
+                },
+                {
+                    "nombre": "Las viudas de los jueves",
+                    "genero": "Drama, Crimen",
+                    "descripcion": "Para los amantes del suspenso, Las viudas de los jueves es casi un visionado obligado. En cada capítulo, la trama promete dar giros y desmoronar las vidas idílicas de las familias que viven en Las Cascadas. Además, el avance nos indica cierto tono oscuro que le viene bien a una trama como ésta. La adaptación a las costumbres mexicanas promete dar de qué hablar, y eso es algo que tiene muy emocionada a la autora del texto original, quien ha dado su visto bueno a la adaptación.",
+                    "anio": "2023",
+                    "iconPng": "https://image.tmdb.org/t/p/original/432pY0AsG0mEPo45H1YfRho7q4b.png",
+                    "icono": "https://image.tmdb.org/t/p/original/z8siNqkZO3le59CRVbdCh9aQOTF.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/AqNwbPA4loNEP8O6PP8IH12k8yZ.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Tienen que saber la verdad",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/DDA18A033FD948C1A9C24E6AE05B48A4_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Familia Scaglia",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/EE39A718590F4A4C9ED3A4A9B1A613EC_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Familia Andrade",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/62555BA3E23E4290BA688A2C24504032_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Familia De la Luna",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/FEEFE7A2849541E4A73F19B45EA5CFB7_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Familia Maldonado",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/183F1F671798461FA29D7BA495A7A6EF_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Familia Guevara",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/DCB9D4231E49425BB4449B282147A110_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 231681,
+                    "total_seasons": 1
                 }
             ]
         },
@@ -12231,6 +12842,106 @@
                     ],
                     "tmdb_id": 290321,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Los Protectores",
+                    "genero": "Drama, Comedia",
+                    "descripcion": "La historia se centra en tres representantes de fútbol que se encuentran en decadencia, ya que se encuentran en una situación económica difícil y deberán ingeniárselas para salir de la quiebra, formando así una alianza entre los tres, sin embargo, aparecerá una estrella del fútbol internacional y empezarán a disputarse por él hasta que deciden hacer una unión transitoria: un trabajo de protectores.",
+                    "anio": "2022",
+                    "iconPng": "https://image.tmdb.org/t/p/original/9DgxmcbVzY35x3CNJ1FiZfaw54n.png",
+                    "icono": "https://image.tmdb.org/t/p/original/kx0hXpQ3JW6QMBwKEgl7mnu5GgY.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/oLYSfcy1X9YV1kjBIiIcdaIAOsI.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://uyjj.xmqkychtb.com/vod/83402D344AF443BBA7C47DF06D8A7F75_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/94A13063FB4C4878808D58FE78EFD1D5_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/89D9BEE4A60A4EC2BFA5E1B2AF97009A_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/A8485CF5D3244239A5D82353DCBADE79_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/755EB8D5F992429D99655E26F1557F66_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/51664EA0DD4A4719BF24072648778090_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/94827774842942DABEE176051EBBCABD_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/81FE8A51DB6F45EA8256F8BB50D0B224_media.mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 2",
+                            "numero_temporada": 2,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://uyjj.xmqkychtb.com/vod/8488C76A61A448EA80F0AD3542E611B1_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://uyjj.xmqkychtb.com/vod/B06446F1A3AE47F39C4546D4C5243883_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/F9492C54B7994143A0C4149486651F01_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/2B33424886C34D5AB56364DEE777411F_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/3D073F430A0242F0B44E6982246CD067_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/F5FECB4F39E540DD814C0A3B59679B3D_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/596E356E0C234E6F8E6BB8AA086EB54A_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 122046,
+                    "total_seasons": 2
                 }
             ]
         },
@@ -12712,12 +13423,225 @@
                     ],
                     "tmdb_id": 97180,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Súper Sara",
+                    "genero": "Documental",
+                    "descripcion": "Explora la figura de Maria Antonia Abad Fernández, la mujer detrás del mito de Sara Montiel, una pionera como feminista, como actriz y como mujer. A lo largo de tres episodios descubriremos la historia menos conocida de uno de los iconos más internacionales del cine español, desde sus orígenes humildes en Campo de Criptana hasta su salto a Hollywood, donde se codeó con Marlon Brando, Elizabeth Taylor, Alfred Hitchcock o Marilyn Monroe; desde el éxito sin precedentes con 'El último cuplé' hasta su reinvención en el teatro y la televisión.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/fKjizDbU52N4cNUMu88PmSkAnYx.png",
+                    "icono": "https://image.tmdb.org/t/p/original/AfH6uFqDG4m3cjN5wMWNur7egtp.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/xmLeP0Ud3jIf7DsFTC5V4b2XQtd.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Los huevos fritos",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/085266D9F72A4A65BDD82E67B550AFE2_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Me fumo un puro",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/1E6C6E578C1940DD897CAA49480AD035_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "¿Pero que invento es esto",
+                                    "url": "http://uyjj.xmqkychtb.com/vod/83402D344AF443BBA7C47DF06D8A7F75_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 278764,
+                    "total_seasons": 1
                 }
             ]
         },
         {
             "nombre": "⭐️⭐️Drama⭐️⭐️",
             "series": [
+                {
+                    "nombre": "Bronco: Un éxito indomable",
+                    "genero": "Drama",
+                    "descripcion": "La serie cuenta la historia desde los inicio de Bronco, la forma en que se gestó la banda, sus obstáculos en el mundo de la música y el éxito total que los llevó a llenar el estadio Azteca con más de 100 mil personas para un concierto. Su separación, la muerte de algunos integrantes y su regreso a los escenarios.",
+                    "anio": "2019",
+                    "iconPng": "",
+                    "icono": "https://image.tmdb.org/t/p/original/uWf4Yrnr17CHwJjhAOcMgVdv7Cj.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/33ZG1rtN0VtrsK69OgP3NhqNdGa.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/8790A1A1C65C48FEB32F6004D4A5F1EF_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/AC498ED7753B4CFB9DD45FAF53A033A9_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/937DA2B61A3D4BA5A8B43AAA84361BD8_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/75AB69F554A842209A1557054FBBB394_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/4E19E023D6E54553A672DF48E5C07784_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/1926C8C3D4594CA98C5ED8A3B74FD7E2_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/B47A6F7CA9034494BDC154DE5E51AC82_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/2190F920FA3645A0AEAF829D39D4A4F9_media.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Episodio 9",
+                                    "url": "http://uyjj.xmqkychtb.com/vod/BE1C53C63F6844F2B595910B78B57FA0_media.mp4"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Episodio 10",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/FE5E7F531FA94664A52F64531C323242_media.mp4"
+                                },
+                                {
+                                    "numero": 11,
+                                    "titulo": "Episodio 11",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/AC36F59BE1AD4A07893EC527D3D8BB56_media.mp4"
+                                },
+                                {
+                                    "numero": 12,
+                                    "titulo": "Episodio 12",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/7DD3D11B7F864AE3986437ABC82DF089_media.mp4"
+                                },
+                                {
+                                    "numero": 13,
+                                    "titulo": "Episodio 13",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/378ABC5A774A449EBDBDA58F5B74F469_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 94703,
+                    "total_seasons": 1
+                },
+                {
+                    "nombre": "Con esa misma mirada",
+                    "genero": "Drama",
+                    "descripcion": "Después de 25 años de matrimonio Eloísa descubre la infidelidad de su esposo con alguien más joven y decide separarse. Su inesperada soledad la obliga a cuestionarse y darse valor para redescubrir el amor con un hombre menor que ella.",
+                    "anio": "2025",
+                    "iconPng": "",
+                    "icono": "https://image.tmdb.org/t/p/original/yaAqgf2xJqU7dJwEoUAizHK8cFw.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/qKeYeBcfJ75jm0dkh45pSN0XIL4.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/7035E9C4A7544DB58EDBE51CABD5C6E3_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/C008481961E541319ED02E83E3085E7B_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/28908BDEE978459F8CD4E061E2CA8B42_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/3043977911774E2BB91DB80EED4E0DDB_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/0F9E83C1CC2947DF9D9F11E0808E6AF7_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/80D463CAD7ED40A4ABCD7D33C2319B09_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/ADAB5296243E4EE98FCC81C207307B32_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/AE12D708178C4D5783FA57A5843A99B0_media.mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 2",
+                            "numero_temporada": 2,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/FA7A6D441AFA451E99D7A200306A3478_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/506EB7F862034F07B03FCB885475EC70_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/A8D9A007948840CCA867DE619BB9A461_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/84E0B9F707FC43E88C74AD93392890E1_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/DC39837C8A144F659D74CB96525F8DD5_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod//179905948B5648A39071EF7AF568D67F_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 286993,
+                    "total_seasons": 2
+                },
                 {
                     "nombre": "Olympo",
                     "genero": "Drama, Misterio",
@@ -14628,7 +15552,7 @@
                                 {
                                     "numero": 7,
                                     "titulo": "22 pasos",
-                                    "url": "http://uyjj.xmqkychtb.com/vod/85C44F19C5DF4C5E8CEA70A51BEE7C73_media.mp4"
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/AB19CF1372D64F8CA205627B4841D68F_media.mp4"
                                 },
                                 {
                                     "numero": 8,
@@ -16732,6 +17656,114 @@
                         }
                     ],
                     "tmdb_id": 292012,
+                    "total_seasons": 1
+                },
+                {
+                    "nombre": "Duster",
+                    "genero": "Crimen, Drama",
+                    "descripcion": "En 1972, la primera agente negra del FBI se dirige al suroeste y recluta a un valiente conductor de escape en un audaz esfuerzo por acabar con un sindicato criminal en creciente.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/sidoMlKGJYVgZws2CZTx5scRMtI.png",
+                    "icono": "https://image.tmdb.org/t/p/original/wYBsKEFU0qHdhSI9QtQjL8HELMn.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/gs9gImz03a5fIUMZmI9QZAky0xC.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Baltimore lo cambia todo",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/75D119F8076C4020AB2654EB2B349928_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Mentes sospechosas",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/8EF4F4B4C86B4A16B436CDA3196D15E9_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "No eres bueno",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/DDC2FE7593DD4088B54AD9857D0A585F_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Crimunalus Velocitus Super-Sonicus",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/0ECE0DCDB3D04C56A3B8F31BC624CF64_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Luz y gloria deslumbrantes",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/33716EA870D94F7CA2436BF0320FB955_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Conocerse por la ropa",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/E106430B0B6A491593622C7A9C2BDF66_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "K-129",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/282CC7BED2964400B88313666B0C70B2_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "66 Reno Split",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/9EE727C381A345458D4B7F40B680CC3B_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 113959,
+                    "total_seasons": 1
+                },
+                {
+                    "nombre": "Las viudas de los jueves",
+                    "genero": "Drama, Crimen",
+                    "descripcion": "Para los amantes del suspenso, Las viudas de los jueves es casi un visionado obligado. En cada capítulo, la trama promete dar giros y desmoronar las vidas idílicas de las familias que viven en Las Cascadas. Además, el avance nos indica cierto tono oscuro que le viene bien a una trama como ésta. La adaptación a las costumbres mexicanas promete dar de qué hablar, y eso es algo que tiene muy emocionada a la autora del texto original, quien ha dado su visto bueno a la adaptación.",
+                    "anio": "2023",
+                    "iconPng": "https://image.tmdb.org/t/p/original/432pY0AsG0mEPo45H1YfRho7q4b.png",
+                    "icono": "https://image.tmdb.org/t/p/original/z8siNqkZO3le59CRVbdCh9aQOTF.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/AqNwbPA4loNEP8O6PP8IH12k8yZ.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Tienen que saber la verdad",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/DDA18A033FD948C1A9C24E6AE05B48A4_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Familia Scaglia",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/EE39A718590F4A4C9ED3A4A9B1A613EC_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Familia Andrade",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/62555BA3E23E4290BA688A2C24504032_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Familia De la Luna",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/FEEFE7A2849541E4A73F19B45EA5CFB7_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Familia Maldonado",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/183F1F671798461FA29D7BA495A7A6EF_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Familia Guevara",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/DCB9D4231E49425BB4449B282147A110_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 231681,
                     "total_seasons": 1
                 }
             ]
