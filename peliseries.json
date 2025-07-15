@@ -3,30 +3,6 @@
         "name": "RECOMENDADOS",
         "samples": [
             {
-                "name": "F1 la película",
-                "url": "https://alm.digitalscreentv.com/movies/f1lapelcula.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/yKIG63pXN89EfbTA7yKpwxAU1rf.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/lSbblLngbeZIn6G4WXDcyQ6SLhw.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/aRdiaF4QQWN2mDeDwZuLzszwSdv.png",
-                "descripcion": "El mítico piloto Sonny Hayes vuelve de su retiro, persuadido para liderar un equipo de Fórmula 1 en apuros y guiar a su joven promesa, en busca de una nueva oportunidad de éxito.",
-                "anio": "2025",
-                "genero": "Acción, Drama",
-                "duracion": "156 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Lilo y Stitch",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/435955.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/tUae3mefrDVTgm5mRzqWnZK6fOP.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/7Zx3wDG5bBtcfk8lcnCWDOLM4Y4.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/toXaWRjF0DpaQ9yzdbyKoFpFLkU.png",
-                "descripcion": "La conmovedora y divertidísima historia de una solitaria niña hawaiana y el extraterrestre fugitivo que la ayuda a reparar su desestructurada familia.",
-                "anio": "2025",
-                "genero": "Familia, Ciencia ficción, Comedia, Aventura",
-                "duracion": "108 min",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Una ballena",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/435954.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/qwf9zfHVdpDRHqerMwZ2NtXItDY.jpg",
@@ -401,8 +377,80 @@
         ]
     },
     {
-        "name": "⭐️ESTRENOS 2025⭐️",
+        "name": "⭐️Estrenos 2025⭐️",
         "samples": [
+            {
+                "name": "La trama fenicia",
+                "url": "http://ptccloud.lsdwedsfsc.site/vod/0D2BF6F3738F4F86BB14D262787F0408_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/uy3ojOX8Ppp4ZFtBZobYxbvIiyn.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/w3RDV3pSpxN0C2DZ4Xpw4o5LWpI.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/wmgwKcaUSSc7JNd14aTpGBbEXxx.png",
+                "descripcion": "El magnate Zsa-zsa Korda es un rico empresario europeo que se ve envuelto en una trama de espionaje junto a su hija Liesl, una monja con la que mantiene una relación difícil y a la quiere dejar el negocio familiar.",
+                "anio": "2025",
+                "genero": "Aventura, Comedia",
+                "duracion": "102 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Tierra de nadie",
+                "url": "http://ptccloud.lsdwedsfsc.site/vod/D49713DB3D9D4FC08B593942DDBE1B8D_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/yulevI6A7GHGzkmtVgioStOq9cK.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/h0HMzt2uFBsgXRUvC5cMNBT70Ll.jpg",
+                "iconpng": "",
+                "descripcion": "Esta es la historia de tres amigos. Mateo el Gallego, un heroico -a su pesar- guardia civil, Juan El Antxale, un pescador convertido en narco por la mala suerte y en el paro, y Benito el Yeye, un resignado e inteligente depositario judicial siempre a medio camino entre la ley y la delincuencia. Tres amigos separados por un lugar, Cádiz y un momento, el presente. Atrapados los tres entre el abandono de las instituciones, el violento e imparable ascenso del narco en la provincia y el peligroso aumento del descontento social. Tres amigos atrapados en un polvorín que pondrá a prueba su amistad.",
+                "anio": "2025",
+                "genero": "Suspense, Crimen",
+                "duracion": "99 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Dora en busca del Sol Dorado",
+                "url": "http://ptccloud.lsdwedsfsc.site/vod/5CE22AA36D0E439DB809897976A9702B_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/sVLSOnGfNXj7VVGBgOz5cNa0lDz.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/tn1NAzCgVLI3GE5zlSYEvnPsyyK.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/6FEQLsNRoHXdhTIPL0SJmdpf2rK.png",
+                "descripcion": "Dora, Diego y Botas se unen a Naiya y Sonny en una emocionante búsqueda para encontrar el antiguo tesoro inca: el Sol Dorado.",
+                "anio": "2025",
+                "genero": "Aventura, Comedia, Familia",
+                "duracion": "96 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Marshmallow",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/466731.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/oxCJDzkFahBxRaeKoCBJwQkJZUE.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/4W28zYCwqRhrNuYy5G7EB8ZamHj.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/buuovNgwRDGGuhl8Xi07utqmWlk.png",
+                "descripcion": "Cuando un cuento de campamento se convierte en realidad, un grupo de campistas descubre un profundo secreto que cuestiona su propia existencia.",
+                "anio": "2025",
+                "genero": "Terror, Ciencia ficción",
+                "duracion": "93 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Samurai Fury",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/466729.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/6U0i0HsSCvhRW4IpGzdead6QRo3.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/iHHWF01W2vNpjI8UzWh2F7tJEZp.jpg",
+                "iconpng": "",
+                "descripcion": "Ambientada en el Kioto del siglo XV devastado por la guerra, en vísperas de la Guerra de Onin, la película se centra en una banda de forajidos liderada por Hyoe (Oizumi), un sinvergüenza cuyas letales habilidades con la espada lo colocan en la punta de la lanza en un levantamiento mortal contra el corrupto Shogunato y su ejército, liderado por su antiguo amigo convertido en archirrival, Doken (Tsutsumi).",
+                "anio": "2025",
+                "genero": "Acción, Drama",
+                "duracion": "135 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Crown of Shadows",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/466730.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/oK8Po4rbIWnZ5cNmBuutOvRrhcz.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/eX5EdYeRX1GReFQlfxp7DJUzYxW.jpg",
+                "iconpng": "",
+                "descripcion": "Tras asesinar al Rey, la Reina Ginnarra sume a Aberon en tinieblas. El Príncipe Elderon, exiliado, une fuerzas con rebeldes e invoca un dragón contra ella y sus Dioses Oscuros.",
+                "anio": "2025",
+                "genero": "Fantasía, Aventura",
+                "duracion": "144 min",
+                "type": "PELICULA"
+            },
             {
                 "name": "Thunderbolts*",
                 "url": "http://ptccloud.lsdwedsfsc.site/vod/F0C427E6AA8D4497B545CB82A40034BE_media.mp4",
@@ -789,7 +837,7 @@
             },
             {
                 "name": "A Working Man",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405219.mp4",
+                "url": "http://ptccloud.lsdwedsfsc.site/vod/26A4DD2F5EF54F1980600CBA1A279F75_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/8jrIVxlydAdFmHpBGmKpv2DPIWJ.jpg",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/fTrQsdMS2MUw00RnzH0r3JWHhts.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/glIqxFNDJFHrLgg7JBdQCx2sl1v.png",
@@ -801,7 +849,7 @@
             },
             {
                 "name": "Capitán América: Brave New World",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405193.mkv",
+                "url": "http://ptccloud.lsdwedsfsc.site/vod/1444DE4E1A894705BDE65F5C73EB1EEF_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/vUNj55xlF0pSU5FU3yDHC6L5wVX.jpg",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/8eifdha9GQeZAkexgtD45546XKx.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/v1ZqN0k7prhjkSANsiqbzJT5UkU.png",
@@ -921,7 +969,7 @@
             },
             {
                 "name": "El Mono",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/398893.mkv",
+                "url": "http://ptccloud.lsdwedsfsc.site/vod/B2E4BA52437E4812859073C31BF5BAD6_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/z15wy8YqFG8aCAkDQJKR63nxSmd.jpg",
                 "type": "PELICULA",
                 "descripcion": "Cuando dos hermanos gemelos encuentran un misterioso mono de cuerda, una serie de muertes atroces separan a su familia. Veinticinco años después, el mono comienza una nueva matanza que obliga a los hermanos a enfrentarse al juguete maldito.",
@@ -1357,6 +1405,18 @@
         "name": "⭐️Estrenos CAM 2025🎥",
         "samples": [
             {
+                "name": "Jurassic World: El renacer",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/466728.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/fhBYsFNlYyfa7uxbzklSOPodFfq.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/peAzdLKtT6VDWIfPQO9LJD1NCG4.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/bMathNQ0Gnpra5Ac7IKIS9b2czm.png",
+                "descripcion": "Cinco años después de los eventos de \"Dominion\", sigue a Zora (Scarlett Johansson), que dirige un equipo para conseguir material genético de tres enormes dinosaurios. Cuando la operación se cruza con una familia, quedan varados en una isla donde hacen un siniestro descubrimiento.",
+                "anio": "2025",
+                "genero": "Ciencia ficción, Aventura, Acción",
+                "duracion": "134 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "M3GAN 2.0",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/443649.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/fBgyUqyu3ioTSQjJJE5RFs2EG3B.jpg",
@@ -1439,18 +1499,6 @@
                 "genero": "Terror, Misterio",
                 "iconoHorizontal": "",
                 "iconpng": ""
-            },
-            {
-                "name": "Tierra de nadie",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169910.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/yulevI6A7GHGzkmtVgioStOq9cK.jpg",
-                "type": "PELICULA",
-                "descripcion": "Un  sheriff intenta mantener la paz cuando un hombre de familia desesperado roba violentamente una fábrica de pastillas junto con su cuñado, alertando a un agente de la mafia de Nueva Orleans.",
-                "anio": "2023",
-                "duracion": "111 min",
-                "genero": "Acción, Crimen, Suspense",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/3mrli3xsGrAieQks7KsBUm2LpCg.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/pw0TRvEP4UYpo2edTHIazBGCH5e.png"
             },
             {
                 "name": "Opus",
@@ -2083,7 +2131,7 @@
             },
             {
                 "name": "Mufasa: El rey león",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/406175.mkv",
+                "url": "http://ptccloud.lsdwedsfsc.site/vod/4CA808166E654BE1A7A3507A440BD9D7_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/dmw74cWIEKaEgl5Dv3kUTcCob6D.jpg",
                 "type": "PELICULA",
                 "descripcion": "Rafiki debe transmitir la leyenda de Mufasa a la joven cachorro de león Kiara, hija de Simba y Nala, y con Timón y Pumba prestando su estilo característico. Mufasa, un cachorro huérfano, perdido y solo, conoce a un simpático león llamado Taka, heredero de un linaje real. Este encuentro casual pone en marcha un viaje de un extraordinario grupo de inadaptados que buscan su destino.",
@@ -2101,7 +2149,7 @@
             },
             {
                 "name": "Sonic 3: La película",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/406201.mkv",
+                "url": "http://ptccloud.lsdwedsfsc.site/vod/46ADCE1FB8BD42C3B868D4EA8B2A346F_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/3aDWCRXLYOCuxjrjiPfLd79tcI6.jpg",
                 "type": "PELICULA",
                 "descripcion": "Sonic, Knuckles y Tails se reúnen para enfrentarse a un nuevo y poderoso adversario, Shadow, un misterioso villano cuyos poderes no se parecen a nada de lo que nuestros héroes han conocido hasta ahora. Con sus facultades superadas en todos los sentidos, el Equipo Sonic tendrá que establecer una insólita alianza con la esperanza de detener a Shadow y proteger el planeta.",
@@ -2281,7 +2329,7 @@
             },
             {
                 "name": "Moana 2",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/406192.mkv",
+                "url": "http://ptccloud.lsdwedsfsc.site/vod/FD6C26C5AEF94EF78651CE614EDCB1DB_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/b1WsCRfomw7tRi12NuseKsAJxYK.jpg",
                 "type": "PELICULA",
                 "descripcion": "Tras recibir una inesperada llamada de sus antepasados, Vaiana debe viajar a los lejanos mares de Oceanía y adentrarse en peligrosas aguas perdidas para vivir una aventura sin precedentes.",
@@ -2401,7 +2449,7 @@
             },
             {
                 "name": "Kraven the Hunter",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/406190.mkv",
+                "url": "http://ptccloud.lsdwedsfsc.site/vod/F5FC730263094D58A2F3AAD03664E908_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/ytmJ11n9gm34D1v56myjTxMaEDJ.jpg",
                 "type": "PELICULA",
                 "descripcion": "Kraven, un hombre cuya compleja relación con su despiadado padre, Nikolai Kravinoff, le hace emprender un camino de venganza con brutales consecuencias, motivándole a convertirse no sólo en el mejor cazador del mundo, sino también en uno de los más temidos.",
@@ -2913,6 +2961,18 @@
                 "anio": "2024",
                 "genero": "Comedia",
                 "duracion": "90 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Sus hijos después de ellos",
+                "url": "http://ptccloud.lsdwedsfsc.site/vod/EA3419C4A5C344C59B5905C164FF7421_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/57S1ZUx6f5hvw1tVtY47mExtKhf.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/r3xfgPr2eUyYTTVcwjYqn6lDzRL.jpg",
+                "iconpng": "",
+                "descripcion": "En el este de Francia, dos primos adolescentes pasan el verano de sus vidas cuando reman en una canoa robada hasta la orilla más lejana de un lago.",
+                "anio": "2024",
+                "genero": "Drama",
+                "duracion": "146 min",
                 "type": "PELICULA"
             }
         ]
@@ -3944,6 +4004,30 @@
                 "genero": "Suspense, Película de TV, Familia, Crimen",
                 "duracion": "85 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Cocoon",
+                "url": "http://ptccloud.lsdwedsfsc.site/vod/4B59A27C1DCD4F00A52B0C7772121D42_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/osyR4zl0hBivH7leFTy11vFGjhX.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/ekEK9tRvpZVYPl5rjUA5cSWKsER.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/9ROc9c9VIObj8pQDPEfhdBJvsp3.png",
+                "descripcion": "Un grupo de ancianos que viven en una residencia descubren la fuente de la eterna juventud. El único problema es que el lugar mágico pertenece a un grupo de extraterrestres, y desconocen si sus intenciones son amigables. Un espléndido reparto y acertadas dosis de sentimentalismo hicieron de este drama fantástico un gran éxito de taquilla.",
+                "anio": "1985",
+                "genero": "Comedia, Ciencia ficción, Misterio, Drama",
+                "duracion": "117 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Hombres de honor",
+                "url": "http://ptccloud.lsdwedsfsc.site/vod/653440A795D947379A7D44C02044B81D_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/bnsEO5HeS5AgS8OWIZ8BYGHyKNQ.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/laNHiehbOHYM3y9FVFfqmLuX8X5.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/w4bGf8VoByfmZN024udKaLRGClC.png",
+                "descripcion": "La historia de Carl Brashear, un hombre que combatió el racismo y se convirtió en el primer oficial afroamericano de la armada americana. La acción se desarrolla durante más de 30 años, periodo en el que destaca su relación con Billy Sunday , un oficial rebelde de alta graduación y experto buceador que fue degradado por permitir la graduación de Brashear.",
+                "anio": "2000",
+                "genero": "Drama",
+                "duracion": "150 min",
+                "type": "PELICULA"
             }
         ]
     },
@@ -4738,7 +4822,7 @@
             },
             {
                 "name": "Estado eléctrico",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168131.mkv",
+                "url": "http://ptccloud.lsdwedsfsc.site/vod/476E37CBEF6042DEB9A9083FCCCC232D_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/nCuSMDWhWGJAPdp9rSDIogG5X82.jpg",
                 "type": "PELICULA",
                 "descripcion": "Una adolescente huérfana emprende un viaje para encontrar a su hermano desaparecido junto con un misterioso robot, un cínico contrabandista y su ocurrente compañero.",
@@ -5022,6 +5106,18 @@
                 "anio": "2025",
                 "genero": "Documental",
                 "duracion": "54 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "La vieja guardia 2",
+                "url": "http://ptccloud.lsdwedsfsc.site/vod/DC16D3E87436498A9F551C1A686EA664_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/6eGyuK8bHMAB34AIIQOL3wZw8sn.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/x58Gk2ZGU5AEBp25MQe2nhZhd5z.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/jixYTOHUPDr4zHPHS8qVXc4osz7.png",
+                "descripcion": "Andy y su equipo de guerreros inmortales luchan con un propósito renovado y se enfrentan a un nuevo y poderoso enemigo que amenaza su misión de proteger a la humanidad.",
+                "anio": "2025",
+                "genero": "Acción, Fantasía",
+                "duracion": "107 min",
                 "type": "PELICULA"
             }
         ]
@@ -5700,6 +5796,30 @@
                 "genero": "Comedia, Drama",
                 "duracion": "102 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Marshmallow",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/466731.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/oxCJDzkFahBxRaeKoCBJwQkJZUE.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/4W28zYCwqRhrNuYy5G7EB8ZamHj.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/buuovNgwRDGGuhl8Xi07utqmWlk.png",
+                "descripcion": "",
+                "anio": "2025",
+                "genero": "Terror, Ciencia ficción",
+                "duracion": "93 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Jefes de Estado",
+                "url": "http://ptccloud.lsdwedsfsc.site/vod/33388727F7EE4D9C820FB04A2DDE3525_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/2CSdwqOUMH23cEBodqAJynMFz7c.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/xABhldZaMb6wfCH5oigV333OYnb.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/2VLbTs11eF3Ecw7coArU1oEGj1G.png",
+                "descripcion": "El primer ministro del Reino Unido y el presidente de EE. UU. tienen una rivalidad pública que pone en riesgo la alianza entre sus países. Pero cuando se convierten en el blanco de un poderoso enemigo, se ven obligados a confiar el uno en el otro. Aliados con Noel, una agente del MI6, intenta frustrar una conspiración que amenaza al mundo libre.",
+                "anio": "2025",
+                "genero": "Acción, Suspense, Comedia",
+                "duracion": "113 min",
+                "type": "PELICULA"
             }
         ]
     },
@@ -5813,6 +5933,18 @@
     {
         "name": "⭐️Hbo/Max⭐️",
         "samples": [
+            {
+                "name": "Mi mamá Jayne",
+                "url": "http://ptccloud.lsdwedsfsc.site/vod/FD3BFE04C69743D5BB82434037C249D6_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/6KpfMouMavYr1UwTz6612YhYjbs.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/k4MZdogt1DZX0b2tlkr17EFUvP5.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/teQPeI0AgHTKUAMCYsr7UYkYoeO.png",
+                "descripcion": "A través de entrevistas profundamente personales con sus hermanos y un examen de las fotografías, cartas y pertenencias dejadas atrás, Mariska arma un nuevo retrato de su madre Jayne Mansfield, una mujer extraordinaria y compleja.",
+                "anio": "2025",
+                "genero": "Documental",
+                "duracion": "106 min",
+                "type": "PELICULA"
+            },
             {
                 "name": "Mountainhead",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432837.mp4",
@@ -6771,6 +6903,66 @@
                 "genero": "Acción, Ciencia ficción, Aventura",
                 "duracion": "127 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Samurai Fury",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/466729.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/6U0i0HsSCvhRW4IpGzdead6QRo3.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/iHHWF01W2vNpjI8UzWh2F7tJEZp.jpg",
+                "iconpng": "",
+                "descripcion": "Ambientada en el Kioto del siglo XV devastado por la guerra, en vísperas de la Guerra de Onin, la película se centra en una banda de forajidos liderada por Hyoe (Oizumi), un sinvergüenza cuyas letales habilidades con la espada lo colocan en la punta de la lanza en un levantamiento mortal contra el corrupto Shogunato y su ejército, liderado por su antiguo amigo convertido en archirrival, Doken (Tsutsumi).",
+                "anio": "2025",
+                "genero": "Acción, Drama",
+                "duracion": "135 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "La vieja guardia 2",
+                "url": "http://ptccloud.lsdwedsfsc.site/vod/DC16D3E87436498A9F551C1A686EA664_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/6eGyuK8bHMAB34AIIQOL3wZw8sn.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/x58Gk2ZGU5AEBp25MQe2nhZhd5z.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/jixYTOHUPDr4zHPHS8qVXc4osz7.png",
+                "descripcion": "Andy y su equipo de guerreros inmortales luchan con un propósito renovado y se enfrentan a un nuevo y poderoso enemigo que amenaza su misión de proteger a la humanidad.",
+                "anio": "2025",
+                "genero": "Acción, Fantasía",
+                "duracion": "107 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Jefes de Estado",
+                "url": "http://ptccloud.lsdwedsfsc.site/vod/33388727F7EE4D9C820FB04A2DDE3525_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/2CSdwqOUMH23cEBodqAJynMFz7c.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/xABhldZaMb6wfCH5oigV333OYnb.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/2VLbTs11eF3Ecw7coArU1oEGj1G.png",
+                "descripcion": "El primer ministro del Reino Unido y el presidente de EE. UU. tienen una rivalidad pública que pone en riesgo la alianza entre sus países. Pero cuando se convierten en el blanco de un poderoso enemigo, se ven obligados a confiar el uno en el otro. Aliados con Noel, una agente del MI6, intenta frustrar una conspiración que amenaza al mundo libre.",
+                "anio": "2025",
+                "genero": "Acción, Suspense, Comedia",
+                "duracion": "113 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Kraven the Hunter",
+                "url": "http://ptccloud.lsdwedsfsc.site/vod/F5FC730263094D58A2F3AAD03664E908_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/ytmJ11n9gm34D1v56myjTxMaEDJ.jpg",
+                "type": "PELICULA",
+                "descripcion": "Kraven, un hombre cuya compleja relación con su despiadado padre, Nikolai Kravinoff, le hace emprender un camino de venganza con brutales consecuencias, motivándole a convertirse no sólo en el mejor cazador del mundo, sino también en uno de los más temidos.",
+                "anio": "2024",
+                "duracion": "126 min",
+                "genero": "Acción, Aventura, Suspense",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/v9Du2HC3hlknAvGlWhquRbeifwW.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/hnN9tJ2wsevdGdr0QQh3lyfvPej.png"
+            },
+            {
+                "name": "F1 la película",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/443660.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/yKIG63pXN89EfbTA7yKpwxAU1rf.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/lSbblLngbeZIn6G4WXDcyQ6SLhw.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/aRdiaF4QQWN2mDeDwZuLzszwSdv.png",
+                "descripcion": "El mítico piloto Sonny Hayes vuelve de su retiro, persuadido para liderar un equipo de Fórmula 1 en apuros y guiar a su joven promesa, en busca de una nueva oportunidad de éxito.",
+                "anio": "2025",
+                "genero": "Acción, Drama",
+                "duracion": "156 min",
+                "type": "PELICULA"
             }
         ]
     },
@@ -7424,6 +7616,102 @@
                 "genero": "Animación, Familia, Historia",
                 "duracion": "82 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Enredados otra vez",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/434671.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/dP8nQe6jG1blGFNZS0U5N8LZWJK.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/bAHwlrxTvC37wU86kl4D2QJkMfj.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/hXC8Hh0J9LGN7MIukNu736AsyOA.png",
+                "descripcion": "¡Mientras Rapunzel se prepara para su coronación como Princesa de Corona, una noche inolvidable cambiará su pelo otra vez!",
+                "anio": "2017",
+                "genero": "Aventura, Animación, Comedia, Familia, Fantasía, Película de TV",
+                "duracion": "90 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Enredados",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/434398.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/z5kvXWek4smCyeWBDJQkT5sLc9T.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/cWczNud8Y8i8ab0Z4bxos4myWYO.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/dHkN6MBT9WnmahgHPGKXWvucDkE.png",
+                "descripcion": "Flynn Rider, el más buscado -y encantador- bandido del reino, se esconde en una misteriosa torre y allí se encuentra con Rapunzel, una bella y avispada adolescente con una cabellera dorada de 21 metros de largo, que vive encerrada allí desde hace años. Ambos sellan un pacto y a partir de ese momento la pareja vivirá emocionantes aventuras en compañía de un caballo superpolicía, un camaleón sobreprotector y una ruda pandilla de matones",
+                "anio": "2010",
+                "genero": "Animación, Familia, Aventura",
+                "duracion": "101 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Blancanieves",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432667.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/7FZhpH4YasGdvY4FUGQJhCusLeg.jpg",
+                "type": "PELICULA",
+                "descripcion": "Tras la desaparición del benévolo Rey, la Reina Malvada dominó la otrora bella tierra con una vena cruel. La princesa Blancanieves huye del castillo cuando la Reina, celosa de su belleza interior, intenta matarla. En lo profundo del oscuro bosque, se topa con siete enanos mágicos y un joven bandido llamado Jonathan. Juntos, luchan por sobrevivir a la implacable persecución de la Reina y aspiran a recuperar el reino en el proceso.",
+                "anio": "2025",
+                "duracion": "99 min",
+                "genero": "Familia, Fantasía",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/tyfO9jHgkhypUFizRVYD0bytPjP.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/lN9xTlEZhDuuu4WprTO4v2Ue3e0.png"
+            },
+            {
+                "name": "Dora en busca del Sol Dorado",
+                "url": "http://ptccloud.lsdwedsfsc.site/vod/5CE22AA36D0E439DB809897976A9702B_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/sVLSOnGfNXj7VVGBgOz5cNa0lDz.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/tn1NAzCgVLI3GE5zlSYEvnPsyyK.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/6FEQLsNRoHXdhTIPL0SJmdpf2rK.png",
+                "descripcion": "Dora, Diego y Botas se unen a Naiya y Sonny en una emocionante búsqueda para encontrar el antiguo tesoro inca: el Sol Dorado.",
+                "anio": "2025",
+                "genero": "Aventura, Comedia, Familia",
+                "duracion": "96 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Sonic 3: La película",
+                "url": "http://ptccloud.lsdwedsfsc.site/vod/46ADCE1FB8BD42C3B868D4EA8B2A346F_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/3aDWCRXLYOCuxjrjiPfLd79tcI6.jpg",
+                "type": "PELICULA",
+                "descripcion": "Sonic, Knuckles y Tails se reúnen para enfrentarse a un nuevo y poderoso adversario, Shadow, un misterioso villano cuyos poderes no se parecen a nada de lo que nuestros héroes han conocido hasta ahora. Con sus facultades superadas en todos los sentidos, el Equipo Sonic tendrá que establecer una insólita alianza con la esperanza de detener a Shadow y proteger el planeta.",
+                "anio": "2024",
+                "duracion": "110 min",
+                "genero": "Acción, Ciencia ficción, Comedia, Familia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/sGeSOPC8QppZtD29PyujCmyIXdA.png"
+            },
+            {
+                "name": "Moana 2",
+                "url": "http://ptccloud.lsdwedsfsc.site/vod/FD6C26C5AEF94EF78651CE614EDCB1DB_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/b1WsCRfomw7tRi12NuseKsAJxYK.jpg",
+                "type": "PELICULA",
+                "descripcion": "Tras recibir una inesperada llamada de sus antepasados, Vaiana debe viajar a los lejanos mares de Oceanía y adentrarse en peligrosas aguas perdidas para vivir una aventura sin precedentes.",
+                "anio": "2024",
+                "duracion": "100 min",
+                "genero": "Animación, Aventura, Familia, Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/zo8CIjJ2nfNOevqNajwMRO6Hwka.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/6y1b2fmGr4ZoIxMcQRBF0PQ6Sw.png"
+            },
+            {
+                "name": "Mufasa: El rey león",
+                "url": "http://ptccloud.lsdwedsfsc.site/vod/4CA808166E654BE1A7A3507A440BD9D7_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/dmw74cWIEKaEgl5Dv3kUTcCob6D.jpg",
+                "type": "PELICULA",
+                "descripcion": "Rafiki debe transmitir la leyenda de Mufasa a la joven cachorro de león Kiara, hija de Simba y Nala, y con Timón y Pumba prestando su estilo característico. Mufasa, un cachorro huérfano, perdido y solo, conoce a un simpático león llamado Taka, heredero de un linaje real. Este encuentro casual pone en marcha un viaje de un extraordinario grupo de inadaptados que buscan su destino.",
+                "anio": "2024",
+                "duracion": "118 min",
+                "genero": "Aventura, Familia, Animación",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/oHPoF0Gzu8xwK4CtdXDaWdcuZxZ.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/dA8P5sURCCNGNucmnrCRN6zSvij.png"
+            },
+            {
+                "name": "Estado eléctrico",
+                "url": "http://ptccloud.lsdwedsfsc.site/vod/476E37CBEF6042DEB9A9083FCCCC232D_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/nCuSMDWhWGJAPdp9rSDIogG5X82.jpg",
+                "type": "PELICULA",
+                "descripcion": "Una adolescente huérfana emprende un viaje para encontrar a su hermano desaparecido junto con un misterioso robot, un cínico contrabandista y su ocurrente compañero.",
+                "anio": "2025",
+                "duracion": "125 min",
+                "genero": "Ciencia ficción, Aventura, Acción",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/2n7lYEeIbucsEQCswRcVB6ZYmMP.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/bFJK4dK4eLJYnUWLjE2HmUTB63N.png"
             }
         ]
     },
@@ -8520,6 +8808,30 @@
                 "genero": "Acción, Suspense, Crimen",
                 "duracion": "125 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Tierra de nadie",
+                "url": "http://ptccloud.lsdwedsfsc.site/vod/D49713DB3D9D4FC08B593942DDBE1B8D_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/yulevI6A7GHGzkmtVgioStOq9cK.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/h0HMzt2uFBsgXRUvC5cMNBT70Ll.jpg",
+                "iconpng": "",
+                "descripcion": "Esta es la historia de tres amigos. Mateo el Gallego, un heroico -a su pesar- guardia civil, Juan El Antxale, un pescador convertido en narco por la mala suerte y en el paro, y Benito el Yeye, un resignado e inteligente depositario judicial siempre a medio camino entre la ley y la delincuencia. Tres amigos separados por un lugar, Cádiz y un momento, el presente. Atrapados los tres entre el abandono de las instituciones, el violento e imparable ascenso del narco en la provincia y el peligroso aumento del descontento social. Tres amigos atrapados en un polvorín que pondrá a prueba su amistad.",
+                "anio": "2025",
+                "genero": "Suspense, Crimen",
+                "duracion": "99 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "El Mono",
+                "url": "http://ptccloud.lsdwedsfsc.site/vod/B2E4BA52437E4812859073C31BF5BAD6_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/z15wy8YqFG8aCAkDQJKR63nxSmd.jpg",
+                "type": "PELICULA",
+                "descripcion": "Cuando dos hermanos gemelos encuentran un misterioso mono de cuerda, una serie de muertes atroces separan a su familia. Veinticinco años después, el mono comienza una nueva matanza que obliga a los hermanos a enfrentarse al juguete maldito.",
+                "anio": "2025",
+                "duracion": "97 min",
+                "genero": "Terror, Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/6dC7ULfiutxwEAs7LjWHL2Tc7Zv.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/87ZmZT3mnp2m0FQMkLUVHOJTLqP.png"
             }
         ]
     },
@@ -9442,6 +9754,30 @@
                 "genero": "Animación, Drama, Historia",
                 "duracion": "81 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Enredados otra vez",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/434671.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/dP8nQe6jG1blGFNZS0U5N8LZWJK.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/bAHwlrxTvC37wU86kl4D2QJkMfj.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/hXC8Hh0J9LGN7MIukNu736AsyOA.png",
+                "descripcion": "¡Mientras Rapunzel se prepara para su coronación como Princesa de Corona, una noche inolvidable cambiará su pelo otra vez!",
+                "anio": "2017",
+                "genero": "Aventura, Animación, Comedia, Familia, Fantasía, Película de TV",
+                "duracion": "90 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Enredados",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/434398.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/z5kvXWek4smCyeWBDJQkT5sLc9T.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/cWczNud8Y8i8ab0Z4bxos4myWYO.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/dHkN6MBT9WnmahgHPGKXWvucDkE.png",
+                "descripcion": "Flynn Rider, el más buscado -y encantador- bandido del reino, se esconde en una misteriosa torre y allí se encuentra con Rapunzel, una bella y avispada adolescente con una cabellera dorada de 21 metros de largo, que vive encerrada allí desde hace años. Ambos sellan un pacto y a partir de ese momento la pareja vivirá emocionantes aventuras en compañía de un caballo superpolicía, un camaleón sobreprotector y una ruda pandilla de matones",
+                "anio": "2010",
+                "genero": "Animación, Familia, Aventura",
+                "duracion": "101 min",
+                "type": "PELICULA"
             }
         ]
     },
@@ -9638,6 +9974,18 @@
                 "anio": "2025",
                 "genero": "Crimen, Drama, Suspense",
                 "duracion": "139 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Tierra de nadie",
+                "url": "http://ptccloud.lsdwedsfsc.site/vod/D49713DB3D9D4FC08B593942DDBE1B8D_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/yulevI6A7GHGzkmtVgioStOq9cK.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/h0HMzt2uFBsgXRUvC5cMNBT70Ll.jpg",
+                "iconpng": "",
+                "descripcion": "Esta es la historia de tres amigos. Mateo el Gallego, un heroico -a su pesar- guardia civil, Juan El Antxale, un pescador convertido en narco por la mala suerte y en el paro, y Benito el Yeye, un resignado e inteligente depositario judicial siempre a medio camino entre la ley y la delincuencia. Tres amigos separados por un lugar, Cádiz y un momento, el presente. Atrapados los tres entre el abandono de las instituciones, el violento e imparable ascenso del narco en la provincia y el peligroso aumento del descontento social. Tres amigos atrapados en un polvorín que pondrá a prueba su amistad.",
+                "anio": "2025",
+                "genero": "Suspense, Crimen",
+                "duracion": "99 min",
                 "type": "PELICULA"
             }
         ]
@@ -9919,6 +10267,42 @@
                 "anio": "2025",
                 "genero": "Acción, Ciencia ficción, Aventura",
                 "duracion": "127 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Crown of Shadows",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/466730.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/oK8Po4rbIWnZ5cNmBuutOvRrhcz.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/eX5EdYeRX1GReFQlfxp7DJUzYxW.jpg",
+                "iconpng": "",
+                "descripcion": "Tras asesinar al Rey, la Reina Ginnarra sume a Aberon en tinieblas. El Príncipe Elderon, exiliado, une fuerzas con rebeldes e invoca un dragón contra ella y sus Dioses Oscuros.",
+                "anio": "2025",
+                "genero": "Fantasía, Aventura",
+                "duracion": "144 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Dora en busca del Sol Dorado",
+                "url": "http://ptccloud.lsdwedsfsc.site/vod/5CE22AA36D0E439DB809897976A9702B_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/sVLSOnGfNXj7VVGBgOz5cNa0lDz.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/tn1NAzCgVLI3GE5zlSYEvnPsyyK.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/6FEQLsNRoHXdhTIPL0SJmdpf2rK.png",
+                "descripcion": "Dora, Diego y Botas se unen a Naiya y Sonny en una emocionante búsqueda para encontrar el antiguo tesoro inca: el Sol Dorado.",
+                "anio": "2025",
+                "genero": "Aventura, Comedia, Familia",
+                "duracion": "96 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "La trama fenicia",
+                "url": "http://ptccloud.lsdwedsfsc.site/vod/0D2BF6F3738F4F86BB14D262787F0408_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/uy3ojOX8Ppp4ZFtBZobYxbvIiyn.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/w3RDV3pSpxN0C2DZ4Xpw4o5LWpI.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/wmgwKcaUSSc7JNd14aTpGBbEXxx.png",
+                "descripcion": "El magnate Zsa-zsa Korda es un rico empresario europeo que se ve envuelto en una trama de espionaje junto a su hija Liesl, una monja con la que mantiene una relación difícil y a la quiere dejar el negocio familiar.",
+                "anio": "2025",
+                "genero": "Aventura, Comedia",
+                "duracion": "102 min",
                 "type": "PELICULA"
             }
         ]
@@ -10572,6 +10956,18 @@
                 "anio": "2025",
                 "genero": "Terror",
                 "duracion": "102 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Marshmallow",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/466731.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/oxCJDzkFahBxRaeKoCBJwQkJZUE.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/4W28zYCwqRhrNuYy5G7EB8ZamHj.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/buuovNgwRDGGuhl8Xi07utqmWlk.png",
+                "descripcion": "",
+                "anio": "2025",
+                "genero": "Terror, Ciencia ficción",
+                "duracion": "93 min",
                 "type": "PELICULA"
             }
         ]
@@ -11333,6 +11729,18 @@
                 "genero": "Crimen, Drama, Suspense",
                 "duracion": "139 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Sus hijos después de ellos",
+                "url": "http://ptccloud.lsdwedsfsc.site/vod/EA3419C4A5C344C59B5905C164FF7421_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/57S1ZUx6f5hvw1tVtY47mExtKhf.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/r3xfgPr2eUyYTTVcwjYqn6lDzRL.jpg",
+                "iconpng": "",
+                "descripcion": "En el este de Francia, dos primos adolescentes pasan el verano de sus vidas cuando reman en una canoa robada hasta la orilla más lejana de un lago.",
+                "anio": "2024",
+                "genero": "Drama",
+                "duracion": "146 min",
+                "type": "PELICULA"
             }
         ]
     },
@@ -11703,6 +12111,18 @@
                 "anio": "2025",
                 "genero": "Documental",
                 "duracion": "96 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Mi mamá Jayne",
+                "url": "http://ptccloud.lsdwedsfsc.site/vod/FD3BFE04C69743D5BB82434037C249D6_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/6KpfMouMavYr1UwTz6612YhYjbs.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/k4MZdogt1DZX0b2tlkr17EFUvP5.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/teQPeI0AgHTKUAMCYsr7UYkYoeO.png",
+                "descripcion": "A través de entrevistas profundamente personales con sus hermanos y un examen de las fotografías, cartas y pertenencias dejadas atrás, Mariska arma un nuevo retrato de su madre Jayne Mansfield, una mujer extraordinaria y compleja.",
+                "anio": "2025",
+                "genero": "Documental",
+                "duracion": "106 min",
                 "type": "PELICULA"
             }
         ]
@@ -12458,6 +12878,18 @@
                 "anio": "2024",
                 "genero": "Comedia",
                 "duracion": "90 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Jefes de Estado",
+                "url": "http://ptccloud.lsdwedsfsc.site/vod/33388727F7EE4D9C820FB04A2DDE3525_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/2CSdwqOUMH23cEBodqAJynMFz7c.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/xABhldZaMb6wfCH5oigV333OYnb.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/2VLbTs11eF3Ecw7coArU1oEGj1G.png",
+                "descripcion": "El primer ministro del Reino Unido y el presidente de EE. UU. tienen una rivalidad pública que pone en riesgo la alianza entre sus países. Pero cuando se convierten en el blanco de un poderoso enemigo, se ven obligados a confiar el uno en el otro. Aliados con Noel, una agente del MI6, intenta frustrar una conspiración que amenaza al mundo libre.",
+                "anio": "2025",
+                "genero": "Acción, Suspense, Comedia",
+                "duracion": "113 min",
                 "type": "PELICULA"
             }
         ]
