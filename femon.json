@@ -914,14 +914,14 @@
             },
             {
                 "name": "INTERMEDIA 1",
-                "url": "https://live.enhdtv.com:8081/8150/index.m3u8",
+                "url": "https://live.enhdtv.com:8081/8212/index.m3u8",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
                 "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg"
             },
             {
-                "name": "INTERMEDIA 2",
-                "url": "https://live.enhdtv.com:8081/8162/index.m3u8",
+                "name": "TIGO COPA PARAGUAY",
+                "url": "https://live.enhdtv.com:8081/8210/index.m3u8",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
                 "icono": "https://i.postimg.cc/LXxb2BcY/tigo-appfff.jpg"
