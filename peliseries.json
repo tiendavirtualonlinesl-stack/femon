@@ -738,6 +738,18 @@
                 "genero": "Comedia, Romance",
                 "duracion": "107 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Mujer bonita",
+                "url": "http://goovdme.967sd1f.homes/vod/48B5B93C1ACB488AB74D8EC0A8FC3BAB_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/iKaKr8aUqOy1aojENu5XuwBI8Uj.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/sGEqHTylawwS6hwKultk1mKUjdB.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/original/mBtQtgdiT2bxM3GxP3LDy31w5l9.png",
+                "descripcion": "Un acaudalado y frío hombre de negocios conoce en Hollywood Boulevard a una joven y atractiva prostituta a la que alquila durante una semana para que sea su acompañante en sus cenas con los clientes. Para ello la chica se verá sometida a todo un cambio de look tras el que nadie podrá ver, a simple vista, que es una chica de la calle.",
+                "anio": "1990",
+                "genero": "Romance, Comedia",
+                "duracion": "119 min",
+                "type": "PELICULA"
             }
         ]
     },
@@ -2007,6 +2019,30 @@
                 "anio": "2025",
                 "genero": "Documental",
                 "duracion": "109 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "La Salsa Vive",
+                "url": "http://goovdme.967sd1f.homes/vod/2D5DFBC2E2E740BD82D06808D8B94E14_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/l8WylOklP1Kt7IALnzh8VblCGWV.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/c8NhCAirYp5tWvmmuA22E4B0HsB.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/jfglNQR1KTVMS2GMAnKZBO20iz1.png",
+                "descripcion": "La Salsa Vive es una vibrante exploración cinematográfica de la historia de la música afrocubana, que rastrea sus raíces desde las animadas calles de Nueva York hasta Cali, Colombia, ahora la capital mundial de la salsa.",
+                "anio": "2025",
+                "genero": "Documental, Música",
+                "duracion": "104 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Mi vida como Roger Moore",
+                "url": "http://goovdme.967sd1f.homes/vod/1A4A665ABF104FC28B7802AD03F36A0C_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/pHtqrltEcEir9Q2u75Tnt98Gomm.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/bWEB2VnleUGhIKpfOHeWtLp2g3E.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/gCZsDGMk7XuKFt1lyYbTVCvWuyI.png",
+                "descripcion": "Mientras el mundo se pregunta quién será el próximo espía británico, la actuación de uno sigue siendo inolvidable. Con un estilo divertido y elegante, este Bond trajo a la vida un nuevo tipo de masculinidad, respaldado por testimonios de quienes lo conocieron y material personal inédito de su familia.",
+                "anio": "2024",
+                "genero": "Documental",
+                "duracion": "79 min",
                 "type": "PELICULA"
             }
         ]
@@ -3528,6 +3564,30 @@
                 "genero": "Crimen, Suspense, Acción",
                 "duracion": "96 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Fargo",
+                "url": "http://goovdme.967sd1f.homes/vod/71481A100B3649EBAFF3918A2041A752_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/cbRbmr645Be2ndpo9IYwxI2hJcy.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/747dgDfL5d8esobk7h4odaOFhUq.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/33niNRK7JDLcaGy2pcJsYkVTeq7.png",
+                "descripcion": "Un hombre apocado y tímido, casado con la hija de un millonario que le impide disfrutar de su fortuna, decide contratar a dos delincuentes para que secuestren a su mujer con el fin de montar un negocio propio con el dinero del rescate. Pero, por una serie de azarosas circunstancias, al secuestro se suman tres brutales asesinatos, lo que obliga a la policía a intervenir.",
+                "anio": "1996",
+                "genero": "Crimen, Drama, Suspense",
+                "duracion": "98 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "La cueva de Barron",
+                "url": "http://goovdme.967sd1f.homes/vod/C68D3C83B79C4A0BBBC16ADB987F5F23_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/sl3j13iOPuduX1BWYqgoIBzFS94.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/jdaCuQvmhwxZVDFENOG9Fm7BU5I.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/7GKGhb62CRt4VAwv9iy5g8lpZsO.png",
+                "descripcion": "Un padre afligido y con historial violento secuestra al niño que asesinó a su hijo pequeño, iniciando con ello una frenética persecución impulsada por el padre del niño secuestrado, un poderoso político.",
+                "anio": "2025",
+                "genero": "Crimen, Suspense, Drama",
+                "duracion": "116 min",
+                "type": "PELICULA"
             }
         ]
     },
@@ -5021,6 +5081,30 @@
                 "genero": "Comedia, Romance, Drama, Música",
                 "duracion": "99 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Un funeral de locos",
+                "url": "http://goovdme.967sd1f.homes/vod/62C144DA8AAF49ADA62D6A5F293508E9_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/4yeF9HzLAGvIM2wU3ENZLqvCkiZ.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/oXfSTPDBsSoXsUxv7GLA7d76Mh.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/dAL8tugukH1nQg7bgbybOarnUnC.png",
+                "descripcion": "Los miembros de una familia acuden a despedir al patriarca, recién fallecido. Pero lo que debería ser un sentido velatorio se convierte en una reunión enloquecida cuando uno de los asistentes saca a la luz el secreto mejor guardado del difunto. El chantaje, las alucinaciones y las relaciones desquiciadas se dan cita en este funeral de locos, donde el caos está servido.",
+                "anio": "2025",
+                "genero": "Comedia",
+                "duracion": "97 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Happy gilmore 2",
+                "url": "http://goovdme.967sd1f.homes/vod/621E9D7172044BCFBA496A44E43D0C29_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/ynT06XivgBDkg7AtbDbX1dJeBGY.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/m7vBHmPQSokvN4hMQDxdJBdqAtJ.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/5DguNrKy6unRrCTiJ6Xjs8vzaaM.png",
+                "descripcion": "Happy, ya retirado del golf profesional, regresa al circuito no por gloria sino para financiar la escuela de danza de su hija, Viena.",
+                "anio": "2025",
+                "genero": "Comedia",
+                "duracion": "114 min",
+                "type": "PELICULA"
             }
         ]
     },
@@ -6230,6 +6314,18 @@
                 "anio": "2020",
                 "genero": "Acción, Suspense, Terror",
                 "duracion": "90 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Una mujer normal",
+                "url": "http://goovdme.967sd1f.homes/vod/8F4A034C4F1B46A5A39CDFB54155D711_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/p8QqvttODrPYdJLjAUvcUsJtDTD.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/lCKRTbMKlXlwSydZpIqPu6hP0n0.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/9vEPxqlIMTlWovOB7Fkrdj8NMmG.png",
+                "descripcion": "Cuando una enfermedad desconocida empieza a afectar a su vida, una mujer de la 'jet set' debe desentrañar el misterio tras esta dolencia antes de perderse por completo a sí misma.",
+                "anio": "2025",
+                "genero": "Drama, Suspense, Terror",
+                "duracion": "110 min",
                 "type": "PELICULA"
             }
         ]
@@ -8155,6 +8251,18 @@
                 "anio": "1991",
                 "genero": "Ciencia ficción, Acción, Suspense",
                 "duracion": "96 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "F1 la película",
+                "url": "http://192.168.100.37:30001/file/STXCtYno/video.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/yKIG63pXN89EfbTA7yKpwxAU1rf.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/lSbblLngbeZIn6G4WXDcyQ6SLhw.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/aRdiaF4QQWN2mDeDwZuLzszwSdv.png",
+                "descripcion": "El mítico piloto Sonny Hayes vuelve de su retiro, persuadido para liderar un equipo de Fórmula 1 en apuros y guiar a su joven promesa, en busca de una nueva oportunidad de éxito.",
+                "anio": "2025",
+                "genero": "Acción, Drama",
+                "duracion": "156 min",
                 "type": "PELICULA"
             }
         ]
@@ -11742,6 +11850,30 @@
                 "genero": "Drama",
                 "duracion": "126 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Drazen",
+                "url": "http://goovdme.967sd1f.homes/vod/8CC25D9EC3644FDBA15E1C77D2F22275_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/nkAYs3V17CDzzBW2KTpCvrQobWR.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/y8CT1dCWgJ5zL9ivVnHwM5RfvQK.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/sC0HF1ZkJku8QOJkssLxcwItkZh.png",
+                "descripcion": "Biopic sobre Drazen Petrovic, legendaria estrella del Real Madrid de baloncesto, la NBA y la selección croata, trágicamente fallecido en accidente de tráfico cuando se encontraba en el mejor momento de su carrera.",
+                "anio": "2024",
+                "genero": "Drama",
+                "duracion": "100 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "El tren de los niños",
+                "url": "http://goovdme.967sd1f.homes/vod/062DC86B913C4F0CB0CB4635FD326D6D_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/3E0rGo5oUPjwcJkyiaPaLh6PiJo.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/iAvPwfBZFF4WuR4RPHAxfJEm97y.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/4iJyztYbELKdXmuAJCAHWNlTtwn.png",
+                "descripcion": "En la Italia de finales de los cuarenta, una madre toma la difícil decisión de enviar a su hijo al norte, donde este vislumbra una nueva vida alejada de la pobreza.",
+                "anio": "2024",
+                "genero": "Drama",
+                "duracion": "106 min",
+                "type": "PELICULA"
             }
         ]
     },
@@ -13616,6 +13748,18 @@
                 "anio": "2025",
                 "genero": "Terror, Misterio, Suspense",
                 "duracion": "96 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Un cuento de pescadores",
+                "url": "http://goovdme.967sd1f.homes/vod/230B9C862DB5466BBB99F426C9BD4757_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/1HKDF6HEuJsnvTgvypphpVN3OSF.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/j7FgBbovXVmm9pyv11dgBR2ILPQ.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/4GSMPS0GLfYYWF1iWHTC7GpACJw.png",
+                "descripcion": "Una historia de terror que entrelaza cuatro relatos en una isla pesquera del lago de Pátzcuaro, Michoacán, donde un malvado espíritu lacustre acecha a los habitantes, proyectando una oscura sombra sobre sus vidas.",
+                "anio": "2025",
+                "genero": "Terror, Fantasía",
+                "duracion": "103 min",
                 "type": "PELICULA"
             }
         ]
