@@ -1,6 +1,6 @@
 [
     {
-       "name": "🇦🇷CANALES ARGENTINA",
+       "name": "🇦🇷CANALES DE ARGENTINA",
     "samples": [
 
     {
@@ -879,7 +879,7 @@
         "url": "https://abe6mek8.s3.eu-west-1.amazonaws.com/hls/stream6/index.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/wbw3yya7vk1f3ivn650ug/tigo4.txt?rlkey=ozbktawdgz3ir2ydtm4qez3om&st=8nrn8w9m&dl=0",
-        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg",
+        "icono": "https://i.ibb.co/G3bDy9N/images-1.jpg",
         "headers": {
     "Origin": "https://elverruca.tech",
     "Referer": "https://elverruca.tech/",
@@ -891,14 +891,14 @@
         "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
-        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
+        "icono": "https://i.ibb.co/G3bDy9N/images-1.jpg"
       },
       {
         "name": "EVENTOS 2 TIGO FULL HD",
         "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/wbw3yya7vk1f3ivn650ug/tigo4.txt?rlkey=ozbktawdgz3ir2ydtm4qez3om&st=8nrn8w9m&dl=0",
-        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg",
+        "icono": "https://i.ibb.co/G3bDy9N/images-1.jpg",
         "headers": {
           "Origin": "https://www.tigosports.com.py",
           "Referer": "https://www.tigosports.com.py/",
@@ -910,31 +910,31 @@
         "url": "https://sam-py-edge01.tigo.com.py/ccur-session/9e8d69f04f904a319af9b6d7dddd4e3d1754244540104b87d2b1934dc4e158a55a1a3a839e7b5Th52ggZXbcLIV4gCdTHqeN6R/out/v1/925422874f0d4d2ebd4cda12b751a484/index.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/kg654aptb3wmdvhw1e06i/tigo3.json?rlkey=lz1ve7n2e77c4xylazzpn4qgz&st=vef4p50k&dl=0",
-        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
+        "icono": "https://i.ibb.co/G3bDy9N/images-1.jpg"
       },
       {
         "name": "TIGO FULL",
         "url": "http://190.128.129.83:8000/play/a03m/index.m3u8",
         "type": "HLS",
-        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
+        "icono": "https://i.ibb.co/G3bDy9N/images-1.jpg"
       },
 {
         "name": "TIGO +",
         "url": "http://190.128.129.83:8000/play/a03n/index.m3u8",
         "type": "HLS",
-        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
+        "icono": "https://i.ibb.co/G3bDy9N/images-1.jpg"
       },
       {
         "name": "TIGO COPA PY",
         "url": "https://live.enhdtv.com:8081/8210/index.m3u8",
         "type": "HLS",
-        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
+        "icono": "https://i.ibb.co/G3bDy9N/images-1.jpg"
       },
       {
         "name": "TIGO INTERMEDIAS",
         "url": "https://live.enhdtv.com:8081/8212/index.m3u8",
         "type": "HLS",
-        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
+        "icono": "https://i.ibb.co/G3bDy9N/images-1.jpg"
       }
       ]
   },
