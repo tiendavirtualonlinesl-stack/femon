@@ -203,30 +203,30 @@
     "samples": [
 
     {
-                "name": "TN Noticias OPCION-1-",
-                "url": "https://cdn-py.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_C/TodoNoticias.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://i.ibb.co/dsvcQTLn/todo-noticias-logo-png-seeklogo-462511.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7ceb1cd0622cd7e88fcdc99fe3a55de6&key=951637093d41c7388a1ef3f620cfea21",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.ar",
-                    "Referer": "https://portal.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"				
-                }
-            },
-            {
-                "name": "TN Noticias OPCION-2-",
-                "url": "https://edge02-fdo-py.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU0NTYxNDc3Iiwic2lwIjoiMTAuMTMwLjE2MS4xOTUiLCJwYXRoIjoiL2xpdmUvYzRlZHMvU05UX0M0L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4NjdmOTU0NmVjNzdhMTkxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsInVybCI6Imh0dHBzOi8vMTkwLjEwNC4xODEuMTk4Iiwic291cmNlcyI6WzIzLDI0LDMwLDMzXX0=.XTP93Z3Bctc6r1RBMrGY0TuD8xnrmUQIKX8Ccg4i3u00geJybtSuT_ftXtbY4ILjH3pVOBNIwjJTyrYRgHO9Sg==/live/c7eds/TodoNoticias/SA_Live_dash_enc_C/TodoNoticias.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://i.ibb.co/dsvcQTLn/todo-noticias-logo-png-seeklogo-462511.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7ceb1cd0622cd7e88fcdc99fe3a55de6&key=951637093d41c7388a1ef3f620cfea21",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.ar",
-                    "Referer": "https://portal.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"	
-                }
-            },
-            {			
+        "name": "TN NOTICIAS",
+        "url": "https://cdn-py.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_C/TodoNoticias.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7ceb1cd0622cd7e88fcdc99fe3a55de6&key=951637093d41c7388a1ef3f620cfea21",
+        "icono": "https://i.ibb.co/dsvcQTLn/todo-noticias-logo-png-seeklogo-462511.png",
+        "headers": {
+          "Origin": "https://web.app.flow.com.py",
+          "Referer": "https://web.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "TN NOTICIAS",
+        "url": "https://edge02-fdo-py.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU0NTYxNDc3Iiwic2lwIjoiMTAuMTMwLjE2MS4xOTUiLCJwYXRoIjoiL2xpdmUvYzRlZHMvU05UX0M0L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4NjdmOTU0NmVjNzdhMTkxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsInVybCI6Imh0dHBzOi8vMTkwLjEwNC4xODEuMTk4Iiwic291cmNlcyI6WzIzLDI0LDMwLDMzXX0=.XTP93Z3Bctc6r1RBMrGY0TuD8xnrmUQIKX8Ccg4i3u00geJybtSuT_ftXtbY4ILjH3pVOBNIwjJTyrYRgHO9Sg==/live/c7eds/TodoNoticias/SA_Live_dash_enc_C/TodoNoticias.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7ceb1cd0622cd7e88fcdc99fe3a55de6&key=951637093d41c7388a1ef3f620cfea21",
+        "icono": "https://i.ibb.co/dsvcQTLn/todo-noticias-logo-png-seeklogo-462511.png",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"	  
+        }
+    },
+    {
         "name": "C5N",
         "url": "https://cdn-py.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc_C/C5N.mpd",
         "type": "CLEARKEY",
@@ -945,6 +945,122 @@
         ]
     },
     {
+        "name": "🇧🇷CANALES DE BRASIL",
+        "samples": [
+ {
+        "name": "BAND",
+        "url": "https://lb1.embmaxtv.online/bandsp/index.m3u8",
+        "type": "HLS",
+        "icono": "https://embedcanaistv.com/wp-content/uploads/2025/06/band.png",
+        "headers": {
+          "Referer": "https://embedcanaistv.com/",
+          "Origin": "https://embedcanaistv.com",		
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
+        }
+    },
+    {
+        "name": "GLOBO",
+        "url": "https://lb1.embmaxtv.online/globosp/index.m3u8",
+        "type": "HLS",
+        "icono": "https://embedcanaistv.com/wp-content/uploads/2025/06/TVGlobo2025.webp",
+        "headers": {
+          "Referer": "https://embedcanaistv.com/",
+          "Origin": "https://embedcanaistv.com",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
+        }
+    },
+    {
+        "name": "RECORD",
+        "url": "https://lb1.embmaxtv.online/recordsp/index.m3u8",
+        "type": "HLS",
+        "icono": "https://embedcanaistv.com/wp-content/uploads/2025/06/record.png",
+        "headers": {
+          "Referer": "https://embedcanaistv.com/",
+          "Origin": "https://embedcanaistv.com",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
+        }
+    },
+    {
+        "name": "SBT",
+        "url": "https://lb1.embmaxtv.online/sbtsp/index.m3u8",
+        "type": "HLS",
+        "icono": "https://embedcanaistv.com/wp-content/uploads/2025/06/sbt.png",
+        "headers": {
+          "Referer": "https://embedcanaistv.com/",
+          "Origin": "https://embedcanaistv.com",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
+        }
+    },
+    {
+        "name": "REDE TV",
+        "url": "https://lb1.embmaxtv.online/redetv/index.m3u8",
+        "type": "HLS",
+        "icono": "https://embedcanaistv.com/wp-content/uploads/2025/06/redetv.png",
+        "headers": {
+          "Referer": "https://embedcanaistv.com/",
+          "Origin": "https://embedcanaistv.com",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
+        }
+    },
+    {
+        "name": "REDEVIDA",
+        "url": "https://lb1.embmaxtv.online/redevida/index.m3u8",
+        "type": "HLS",
+        "icono": "https://embedcanaistv.com/wp-content/uploads/2025/06/mP1qfp2.png",
+        "headers": {
+          "Referer": "https://embedcanaistv.com/",
+          "Origin": "https://embedcanaistv.com",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
+        }
+    },
+    {
+        "name": "BAND NEWS",
+        "url": "https://lb1.embmaxtv.online/bandnews/index.m3u8",
+        "type": "HLS",
+        "icono": "https://embedcanaistv.com/wp-content/uploads/2025/06/3YlJsCL.png",
+        "headers": {
+          "Referer": "https://embedcanaistv.com/",
+          "Origin": "https://embedcanaistv.com",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
+        }
+    },
+    {
+        "name": "GLOBO NEWS",
+        "url": "https://lb1.embmaxtv.online/globonews/index.m3u8",
+        "type": "HLS",
+        "icono": "https://embedcanaistv.com/wp-content/uploads/2025/06/3yZyaCm.png",
+        "headers": {
+          "Referer": "https://embedcanaistv.com/",
+          "Origin": "https://embedcanaistv.com",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
+        }
+    },
+    {
+        "name": "CNN BRASIL",
+        "url": "https://lb1.embmaxtv.online/cnnbrasil/index.m3u8",
+        "type": "HLS",
+        "icono": "https://embedcanaistv.com/wp-content/uploads/2025/06/CNN_Brasil.svg_.png",
+        "headers": {
+          "Referer": "https://embedcanaistv.com/",
+          "Origin": "https://embedcanaistv.com",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
+        }
+    },
+    {
+        "name": "RECORD NEWS",
+        "url": "https://lb1.embmaxtv.online/recordnews/index.m3u8",
+        "type": "HLS",
+        "icono": "https://embedcanaistv.com/wp-content/uploads/2025/06/HZDRG0K.png",
+        "headers": {
+          "Referer": "https://embedcanaistv.com/",
+          "Origin": "https://embedcanaistv.com",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
+        }
+    }
+	]
+
+    },
+    {
     "name": "⚽DEPORTES ESPN",
     "samples":  [
 
@@ -1452,6 +1568,133 @@
         ]
     },
     {
+        "name": "⚽DEPORTES BRASIL",
+        "samples": [
+ {
+        "name": "PREMIER 1",
+        "url": "https://embmaxtv.online/premiereclubes/index.m3u8",
+        "type": "HLS",
+        "icono": "https://embedtv.digital/assets/images/premiere.png",
+        "headers": {
+          "Referer": "https://embedcanaistv.com/",
+          "Origin": "https://embedcanaistv.com",		
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
+        }
+    },
+    {
+        "name": "PREMIER 2",
+        "url": "https://embmaxtv.online/premiere2/index.m3u8",
+        "type": "HLS",
+        "icono": "https://embedtv.digital/assets/images/premiere.png",
+        "headers": {
+          "Referer": "https://embedcanaistv.com/",
+          "Origin": "https://embedcanaistv.com",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
+        }
+    },
+    {
+        "name": "PREMIER 3",
+        "url": "https://embmaxtv.online/premiere3/index.m3u8",
+        "type": "HLS",
+        "icono": "https://embedtv.digital/assets/images/premiere.png",
+        "headers": {
+          "Referer": "https://embedcanaistv.com/",
+          "Origin": "https://embedcanaistv.com",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
+        }
+    },
+    {
+        "name": "PREMIER 4",
+        "url": "https://embmaxtv.online/premiere4/index.m3u8",
+        "type": "HLS",
+        "icono": "https://embedtv.digital/assets/images/premiere.png",
+        "headers": {
+          "Referer": "https://embedcanaistv.com/",
+          "Origin": "https://embedcanaistv.com",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
+        }
+    },
+    {
+        "name": "PREMIER 5",
+        "url": "https://embmaxtv.online/premiere5/index.m3u8",
+        "type": "HLS",
+        "icono": "https://embedtv.digital/assets/images/premiere.png",
+        "headers": {
+          "Referer": "https://embedcanaistv.com/",
+          "Origin": "https://embedcanaistv.com",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
+        }
+    },
+    {
+        "name": "PREMIER 6",
+        "url": "https://embmaxtv.online/premiere6/index.m3u8",
+        "type": "HLS",
+        "icono": "https://embedtv.digital/assets/images/premiere.png",
+        "headers": {
+          "Referer": "https://embedcanaistv.com/",
+          "Origin": "https://embedcanaistv.com",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
+        }
+    },
+    {
+        "name": "PREMIER 7",
+        "url": "https://embmaxtv.online/premiere7/index.m3u8",
+        "type": "HLS",
+        "icono": "https://embedtv.digital/assets/images/premiere.png",
+        "headers": {
+          "Referer": "https://embedcanaistv.com/",
+          "Origin": "https://embedcanaistv.com",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
+        }
+    },
+    {
+        "name": "SPORT TV 1",
+        "url": "https://embmaxtv.online/sportv/index.m3u8",
+        "type": "HLS",
+        "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg",
+        "headers": {
+          "Referer": "https://embedcanaistv.com/",
+          "Origin": "https://embedcanaistv.com",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
+        }
+    },
+    {
+        "name": "SPORT TV 2",
+        "url": "https://embmaxtv.online/sportv2/index.m3u8",
+        "type": "HLS",
+        "icono": "https://embedcanaistv.com/wp-content/uploads/2025/07/SporTV2.png",
+        "headers": {
+          "Referer": "https://embedcanaistv.com/",
+          "Origin": "https://embedcanaistv.com",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
+        }
+    },
+    {
+        "name": "SPORT TV 3",
+        "url": "https://embmaxtv.online/sportv3/index.m3u8",
+        "type": "HLS",
+        "icono": "https://embedcanaistv.com/wp-content/uploads/2025/07/SporTV3.png",
+        "headers": {
+          "Referer": "https://embedcanaistv.com/",
+          "Origin": "https://embedcanaistv.com",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
+        }
+    },
+    {
+        "name": "NOSSO FUTEBOL",
+        "url": "https://embmaxtv.online/nossofutebol/index.m3u8",
+        "type": "HLS",
+        "icono": "https://embedcanaistv.com/wp-content/uploads/2025/07/nossofutebol.png",
+        "headers": {
+          "Referer": "https://embedcanaistv.com/",
+          "Origin": "https://embedcanaistv.com",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
+        }
+    }
+	]
+
+    },
+    {
         "name": "⚽DEPORTES VARIADOS",
         "samples": [
             {
@@ -1703,7 +1946,7 @@
     },
     {
         "name": "UNIVERSAL CHANNEL opcion 2",
-        "url": "https://edge02-fdo-py.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU0NTYxNDc3Iiwic2lwIjoiMTAuMTMwLjE2MS4xOTUiLCJwYXRoIjoiL2xpdmUvYzRlZHMvU05UX0M0L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4NjdmOTU0NmVjNzdhMTkxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsInVybCI6Imh0dHBzOi8vMTkwLjEwNC4xODEuMTk4Iiwic291cmNlcyI6WzIzLDI0LDMwLDMzXX0=.XTP93Z3Bctc6r1RBMrGY0TuD8xnrmUQIKX8Ccg4i3u00geJybtSuT_ftXtbY4ILjH3pVOBNIwjJTyrYRgHO9Sg==/live/c4eds/Universal_Channel_HD/SA_Live_dash_enc_C/Universal_Channel_HD.mpd",
+        "url": "https://edge02-fdo-py.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU0NTYxNDc3Iiwic2lwIjoiMTAuMTMwLjE2MS4xOTUiLCJwYXRoIjoiL2xpdmUvYzRlZHMvU05UX0M0L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4NjdmOTU0NmVjNzdhMTkxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsInVybCI6Imh0dHBzOi8vMTkwLjEwNC4xODEuMTk4Iiwic291cmNlcyI6WzIzLDI0LDMwLDMzXX0=.XTP93Z3Bctc6r1RBMrGY0TuD8xnrmUQIKX8Ccg4i3u00geJybtSuT_ftXtbY4ILjH3pVOBNIwjJTyrYRgHO9Sg==/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc_C/Universal_Channel_HD.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/tg3zfnztkc0yu2k74smpe/universal.json?rlkey=8l2azm48jv1gxqgcp401o6o9e&st=r3e97znf&dl=0",
         "icono": "https://i.ibb.co/1qksDfg/Universal-Channel-Brasil-svg.png",
@@ -1727,7 +1970,7 @@
     },
     {
         "name": "TCM opcion 2",
-        "url": "https://edge02-fdo-py.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU0NTYxNDc3Iiwic2lwIjoiMTAuMTMwLjE2MS4xOTUiLCJwYXRoIjoiL2xpdmUvYzRlZHMvU05UX0M0L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4NjdmOTU0NmVjNzdhMTkxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsInVybCI6Imh0dHBzOi8vMTkwLjEwNC4xODEuMTk4Iiwic291cmNlcyI6WzIzLDI0LDMwLDMzXX0=.XTP93Z3Bctc6r1RBMrGY0TuD8xnrmUQIKX8Ccg4i3u00geJybtSuT_ftXtbY4ILjH3pVOBNIwjJTyrYRgHO9Sg==/live/c4eds/TCM/SA_Live_dash_enc_C/TCM.mpd",
+        "url": "https://edge02-fdo-py.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU0NTYxNDc3Iiwic2lwIjoiMTAuMTMwLjE2MS4xOTUiLCJwYXRoIjoiL2xpdmUvYzRlZHMvU05UX0M0L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4NjdmOTU0NmVjNzdhMTkxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsInVybCI6Imh0dHBzOi8vMTkwLjEwNC4xODEuMTk4Iiwic291cmNlcyI6WzIzLDI0LDMwLDMzXX0=.XTP93Z3Bctc6r1RBMrGY0TuD8xnrmUQIKX8Ccg4i3u00geJybtSuT_ftXtbY4ILjH3pVOBNIwjJTyrYRgHO9Sg==/live/c6eds/TCM/SA_Live_dash_enc_C/TCM.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/e4lmnu0git8a93nut6y82/tcm.json?rlkey=77o513oumk744low0i09ki7ly&st=tsa98pzf&dl=0",
         "icono": "https://i.ibb.co/Z6qftsS/TCM-Latam-logo-svg.png",
@@ -1751,7 +1994,7 @@
     },
     {
         "name": "STUDIO UNIVERSAL opcion 2",
-        "url": "https://edge02-fdo-py.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU0NTYxNDc3Iiwic2lwIjoiMTAuMTMwLjE2MS4xOTUiLCJwYXRoIjoiL2xpdmUvYzRlZHMvU05UX0M0L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4NjdmOTU0NmVjNzdhMTkxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsInVybCI6Imh0dHBzOi8vMTkwLjEwNC4xODEuMTk4Iiwic291cmNlcyI6WzIzLDI0LDMwLDMzXX0=.XTP93Z3Bctc6r1RBMrGY0TuD8xnrmUQIKX8Ccg4i3u00geJybtSuT_ftXtbY4ILjH3pVOBNIwjJTyrYRgHO9Sg==/live/c4eds/Studio_Universal/SA_Live_dash_enc_C/Studio_Universal.mpd",
+        "url": "https://edge02-fdo-py.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU0NTYxNDc3Iiwic2lwIjoiMTAuMTMwLjE2MS4xOTUiLCJwYXRoIjoiL2xpdmUvYzRlZHMvU05UX0M0L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4NjdmOTU0NmVjNzdhMTkxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsInVybCI6Imh0dHBzOi8vMTkwLjEwNC4xODEuMTk4Iiwic291cmNlcyI6WzIzLDI0LDMwLDMzXX0=.XTP93Z3Bctc6r1RBMrGY0TuD8xnrmUQIKX8Ccg4i3u00geJybtSuT_ftXtbY4ILjH3pVOBNIwjJTyrYRgHO9Sg==/live/c6eds/Studio_Universal/SA_Live_dash_enc_C/Studio_Universal.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/vaags2sms02ehi6veyijo/studio.json?rlkey=q33llpgieu83rrph1uh0hoqzr&st=l704gomk&dl=0",
         "icono": "https://i.ibb.co/s9JprFc/unnamed-7.jpg",
@@ -1847,7 +2090,7 @@
     },
     {
         "name": "CINEMAX opcion 2",
-        "url": "https://edge02-fdo-py.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU0NTYxNDc3Iiwic2lwIjoiMTAuMTMwLjE2MS4xOTUiLCJwYXRoIjoiL2xpdmUvYzRlZHMvU05UX0M0L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4NjdmOTU0NmVjNzdhMTkxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsInVybCI6Imh0dHBzOi8vMTkwLjEwNC4xODEuMTk4Iiwic291cmNlcyI6WzIzLDI0LDMwLDMzXX0=.XTP93Z3Bctc6r1RBMrGY0TuD8xnrmUQIKX8Ccg4i3u00geJybtSuT_ftXtbY4ILjH3pVOBNIwjJTyrYRgHO9Sg==/live/c4eds/Cinemax/SA_Live_dash_enc_C/Cinemax.mpd",
+        "url": "https://edge02-fdo-py.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU0NTYxNDc3Iiwic2lwIjoiMTAuMTMwLjE2MS4xOTUiLCJwYXRoIjoiL2xpdmUvYzRlZHMvU05UX0M0L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4NjdmOTU0NmVjNzdhMTkxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsInVybCI6Imh0dHBzOi8vMTkwLjEwNC4xODEuMTk4Iiwic291cmNlcyI6WzIzLDI0LDMwLDMzXX0=.XTP93Z3Bctc6r1RBMrGY0TuD8xnrmUQIKX8Ccg4i3u00geJybtSuT_ftXtbY4ILjH3pVOBNIwjJTyrYRgHO9Sg==/live/c6eds/Cinemax/SA_Live_dash_enc_C/Cinemax.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/gza8rlmfiar71jxxy9uvf/cinemax.json?rlkey=xxlj0h0agj5up375fzqhfi7un&st=uvuykku0&dl=0",
         "icono": "https://i.ibb.co/dmgX2Ww/Cinemax-LA.png",
@@ -2015,7 +2258,7 @@
     },
     {
         "name": "TBS opcion 2",
-        "url": "https://edge02-fdo-py.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU0NTYxNDc3Iiwic2lwIjoiMTAuMTMwLjE2MS4xOTUiLCJwYXRoIjoiL2xpdmUvYzRlZHMvU05UX0M0L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4NjdmOTU0NmVjNzdhMTkxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsInVybCI6Imh0dHBzOi8vMTkwLjEwNC4xODEuMTk4Iiwic291cmNlcyI6WzIzLDI0LDMwLDMzXX0=.XTP93Z3Bctc6r1RBMrGY0TuD8xnrmUQIKX8Ccg4i3u00geJybtSuT_ftXtbY4ILjH3pVOBNIwjJTyrYRgHO9Sg==/live/c4eds/TBS/SA_Live_dash_enc_C/TBS.mpd",
+        "url": "https://edge02-fdo-py.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU0NTYxNDc3Iiwic2lwIjoiMTAuMTMwLjE2MS4xOTUiLCJwYXRoIjoiL2xpdmUvYzRlZHMvU05UX0M0L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4NjdmOTU0NmVjNzdhMTkxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsInVybCI6Imh0dHBzOi8vMTkwLjEwNC4xODEuMTk4Iiwic291cmNlcyI6WzIzLDI0LDMwLDMzXX0=.XTP93Z3Bctc6r1RBMrGY0TuD8xnrmUQIKX8Ccg4i3u00geJybtSuT_ftXtbY4ILjH3pVOBNIwjJTyrYRgHO9Sg==/live/c6eds/TBS/SA_Live_dash_enc_C/TBS.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/v049nl6gp8njp14s61xqz/tbs.json?rlkey=q9seofkzal1jd7b7oy6nomucl&st=r1p7tmam&dl=0",
         "icono": "https://i.ibb.co/dKMvJGY/tbs-tv1490.jpg",
@@ -2143,25 +2386,11 @@
             "Origin": "https://web.app.flow.com.py",
              "Referer": "https://web.app.flow.com.py/",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36"
-        }
+                }
+            }
+        ]
     },
     {
-        "name": "MOVISTAR SERIES",
-        "url": "http://magmaplayer.com/stream/m3u8/AGDjKmL2BI8kAQthZwD2YwR4ZP40A18kAmDmZGp/hls/669.m3u8",
-        "icono": "https://i.ibb.co/DfGZGLPT/logo-movistar-clipart-1.png",
-        "headers": {
-            "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-            "X-Did": "704b97090ad1fb5e",
-            "X-Version": "8/1.0.7",
-            "User-Agent": "Magma Player/8",
-            "Accept-Encoding": "gzip",
-            "Connection": "Keep-Alive"
-        }
-    }
-]
-
-  },    	
-       	 {
      "name": "🎥PACK PREMIUM HBO",
         "samples": [
            
@@ -2191,7 +2420,7 @@
             },
 	
             {
-                "name": "HBO 2 FLOW",
+                "name": "HBO 2 OPCION 1",
                 "url": "https://cdn-py.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_enc_C/HBO_2.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/8qz7g0yfn1qim2vr2358b/hbo2.json?rlkey=wmxlc9q1ion3s3uleyo913ns1&st=4f36f0ou&dl=0",
@@ -2203,8 +2432,8 @@
                 }
             },
             {
-                "name": "HBO 2 FLOW opcion 2",
-                "url": "https://edge02-fdo-py.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU0NTYxNDc3Iiwic2lwIjoiMTAuMTMwLjE2MS4xOTUiLCJwYXRoIjoiL2xpdmUvYzRlZHMvU05UX0M0L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4NjdmOTU0NmVjNzdhMTkxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsInVybCI6Imh0dHBzOi8vMTkwLjEwNC4xODEuMTk4Iiwic291cmNlcyI6WzIzLDI0LDMwLDMzXX0=.XTP93Z3Bctc6r1RBMrGY0TuD8xnrmUQIKX8Ccg4i3u00geJybtSuT_ftXtbY4ILjH3pVOBNIwjJTyrYRgHO9Sg==/live/c4eds/HBO_2/SA_Live_dash_enc_C/HBO_2.mpd",
+                "name": "HBO 2 opcion 2",
+                "url": "https://edge02-fdo-py.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU0NTYxNDc3Iiwic2lwIjoiMTAuMTMwLjE2MS4xOTUiLCJwYXRoIjoiL2xpdmUvYzRlZHMvU05UX0M0L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4NjdmOTU0NmVjNzdhMTkxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsInVybCI6Imh0dHBzOi8vMTkwLjEwNC4xODEuMTk4Iiwic291cmNlcyI6WzIzLDI0LDMwLDMzXX0=.XTP93Z3Bctc6r1RBMrGY0TuD8xnrmUQIKX8Ccg4i3u00geJybtSuT_ftXtbY4ILjH3pVOBNIwjJTyrYRgHO9Sg==/live/c6eds/HBO_2/SA_Live_dash_enc_C/HBO_2.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/8qz7g0yfn1qim2vr2358b/hbo2.json?rlkey=wmxlc9q1ion3s3uleyo913ns1&st=4f36f0ou&dl=0",
                 "icono": "https://i.ibb.co/3W8bTfN/f94c94499c9807fa63343feb1623a250.jpg",
@@ -2228,7 +2457,7 @@
             },
             {
                 "name": "HBO XTREME opcion 2",
-                "url": "https://edge02-fdo-py.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU0NTYxNDc3Iiwic2lwIjoiMTAuMTMwLjE2MS4xOTUiLCJwYXRoIjoiL2xpdmUvYzRlZHMvU05UX0M0L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4NjdmOTU0NmVjNzdhMTkxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsInVybCI6Imh0dHBzOi8vMTkwLjEwNC4xODEuMTk4Iiwic291cmNlcyI6WzIzLDI0LDMwLDMzXX0=.XTP93Z3Bctc6r1RBMrGY0TuD8xnrmUQIKX8Ccg4i3u00geJybtSuT_ftXtbY4ILjH3pVOBNIwjJTyrYRgHO9Sg==/live/c4eds/HBO_Extreme/SA_Live_dash_enc_C/HBO_Extreme.mpd",
+                "url": "https://edge02-fdo-py.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU0NTYxNDc3Iiwic2lwIjoiMTAuMTMwLjE2MS4xOTUiLCJwYXRoIjoiL2xpdmUvYzRlZHMvU05UX0M0L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4NjdmOTU0NmVjNzdhMTkxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsInVybCI6Imh0dHBzOi8vMTkwLjEwNC4xODEuMTk4Iiwic291cmNlcyI6WzIzLDI0LDMwLDMzXX0=.XTP93Z3Bctc6r1RBMrGY0TuD8xnrmUQIKX8Ccg4i3u00geJybtSuT_ftXtbY4ILjH3pVOBNIwjJTyrYRgHO9Sg==/live/c6eds/HBO_Extreme/SA_Live_dash_enc_C/HBO_Extreme.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/4d1rl72v4repqt3pymuxv/hboextreme.json?rlkey=pfvr66em9njnmdd7wd1qz4ahp&st=iffldnx6&dl=0",
                 "icono": "https://i.ibb.co/xG6HY4G/30.jpg",
@@ -2239,7 +2468,7 @@
                 }
             },
             {
-                "name": "HBO FAMILY FLOW",
+                "name": "HBO FAMILY OPCION 1",
                 "url": "https://cdn-py.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc_C/HBO_Family.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/6p3am132pvuvaxg17hu97/hbofamily.json?rlkey=93fj78otn63q25wunfc1x2gn7&st=hm3fefgt&dl=0",
@@ -2251,8 +2480,8 @@
                 }
             },
             {
-                "name": "HBO FAMILY FLOW opcion 2",
-                "url": "https://edge02-fdo-py.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU0NTYxNDc3Iiwic2lwIjoiMTAuMTMwLjE2MS4xOTUiLCJwYXRoIjoiL2xpdmUvYzRlZHMvU05UX0M0L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4NjdmOTU0NmVjNzdhMTkxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsInVybCI6Imh0dHBzOi8vMTkwLjEwNC4xODEuMTk4Iiwic291cmNlcyI6WzIzLDI0LDMwLDMzXX0=.XTP93Z3Bctc6r1RBMrGY0TuD8xnrmUQIKX8Ccg4i3u00geJybtSuT_ftXtbY4ILjH3pVOBNIwjJTyrYRgHO9Sg==/live/c4eds/HBO_Family/SA_Live_dash_enc_C/HBO_Family.mpd",
+                "name": "HBO FAMILY opcion 2",
+                "url": "https://edge02-fdo-py.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU0NTYxNDc3Iiwic2lwIjoiMTAuMTMwLjE2MS4xOTUiLCJwYXRoIjoiL2xpdmUvYzRlZHMvU05UX0M0L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4NjdmOTU0NmVjNzdhMTkxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsInVybCI6Imh0dHBzOi8vMTkwLjEwNC4xODEuMTk4Iiwic291cmNlcyI6WzIzLDI0LDMwLDMzXX0=.XTP93Z3Bctc6r1RBMrGY0TuD8xnrmUQIKX8Ccg4i3u00geJybtSuT_ftXtbY4ILjH3pVOBNIwjJTyrYRgHO9Sg==/live/c6eds/HBO_Family/SA_Live_dash_enc_C/HBO_Family.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/6p3am132pvuvaxg17hu97/hbofamily.json?rlkey=93fj78otn63q25wunfc1x2gn7&st=hm3fefgt&dl=0",
                 "icono": "https://i.ibb.co/ynkwLW3/hbofam.webp",
@@ -2276,7 +2505,7 @@
             },
             {
                 "name": "HBO SIGNATURE opcion 2",
-                "url": "https://edge02-fdo-py.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU0NTYxNDc3Iiwic2lwIjoiMTAuMTMwLjE2MS4xOTUiLCJwYXRoIjoiL2xpdmUvYzRlZHMvU05UX0M0L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4NjdmOTU0NmVjNzdhMTkxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsInVybCI6Imh0dHBzOi8vMTkwLjEwNC4xODEuMTk4Iiwic291cmNlcyI6WzIzLDI0LDMwLDMzXX0=.XTP93Z3Bctc6r1RBMrGY0TuD8xnrmUQIKX8Ccg4i3u00geJybtSuT_ftXtbY4ILjH3pVOBNIwjJTyrYRgHO9Sg==/live/c4eds/HBO_Signature/SA_Live_dash_enc_C/HBO_Signature.mpd",
+                "url": "https://edge02-fdo-py.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU0NTYxNDc3Iiwic2lwIjoiMTAuMTMwLjE2MS4xOTUiLCJwYXRoIjoiL2xpdmUvYzRlZHMvU05UX0M0L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4NjdmOTU0NmVjNzdhMTkxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsInVybCI6Imh0dHBzOi8vMTkwLjEwNC4xODEuMTk4Iiwic291cmNlcyI6WzIzLDI0LDMwLDMzXX0=.XTP93Z3Bctc6r1RBMrGY0TuD8xnrmUQIKX8Ccg4i3u00geJybtSuT_ftXtbY4ILjH3pVOBNIwjJTyrYRgHO9Sg==/live/c6eds/HBO_Signature/SA_Live_dash_enc_C/HBO_Signature.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/zwc1zkwhghg0l5zovo8z9/hbosignature.json?rlkey=az5o0xgi8psuh4zotrnugw9im&st=12i64ros&dl=0",
                 "icono": "https://i.ibb.co/kJVwNbQ/hbosig.webp",
@@ -2300,7 +2529,7 @@
             },
             {
                 "name": "HBO MUNDI opcion 2",
-                "url": "https://edge02-fdo-py.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU0NTYxNDc3Iiwic2lwIjoiMTAuMTMwLjE2MS4xOTUiLCJwYXRoIjoiL2xpdmUvYzRlZHMvU05UX0M0L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4NjdmOTU0NmVjNzdhMTkxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsInVybCI6Imh0dHBzOi8vMTkwLjEwNC4xODEuMTk4Iiwic291cmNlcyI6WzIzLDI0LDMwLDMzXX0=.XTP93Z3Bctc6r1RBMrGY0TuD8xnrmUQIKX8Ccg4i3u00geJybtSuT_ftXtbY4ILjH3pVOBNIwjJTyrYRgHO9Sg==/live/c4eds/HBO_Mundi/SA_Live_dash_enc_C/HBO_Mundi.mpd",
+                "url": "https://edge02-fdo-py.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU0NTYxNDc3Iiwic2lwIjoiMTAuMTMwLjE2MS4xOTUiLCJwYXRoIjoiL2xpdmUvYzRlZHMvU05UX0M0L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4NjdmOTU0NmVjNzdhMTkxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsInVybCI6Imh0dHBzOi8vMTkwLjEwNC4xODEuMTk4Iiwic291cmNlcyI6WzIzLDI0LDMwLDMzXX0=.XTP93Z3Bctc6r1RBMrGY0TuD8xnrmUQIKX8Ccg4i3u00geJybtSuT_ftXtbY4ILjH3pVOBNIwjJTyrYRgHO9Sg==/live/c6eds/HBO_Mundi/SA_Live_dash_enc_C/HBO_Mundi.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/17ti0ndndqzl5d0zvhe1c/hbomundi.json?rlkey=yshhz1e4xagupfwv70z3fago5&st=fmhrdxq4&dl=0",
                 "icono": "https://i.ibb.co/9sFvgPb/HBO-MUNDI.png",
@@ -2332,7 +2561,7 @@
                 "icono": "https://geo.mnedge.cvattv.com.ar:9002/images/9618/CH_LOGO/512/512/0/0/72952746076947.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f6ae2e17173055e4ca69dc18963406ae&key=5a955c29eb88a0b4c9a2538cc4b3aea2",
-                   "url": "https://edge02-fdo-py.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU0NTYxNDc3Iiwic2lwIjoiMTAuMTMwLjE2MS4xOTUiLCJwYXRoIjoiL2xpdmUvYzRlZHMvU05UX0M0L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4NjdmOTU0NmVjNzdhMTkxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsInVybCI6Imh0dHBzOi8vMTkwLjEwNC4xODEuMTk4Iiwic291cmNlcyI6WzIzLDI0LDMwLDMzXX0=.XTP93Z3Bctc6r1RBMrGY0TuD8xnrmUQIKX8Ccg4i3u00geJybtSuT_ftXtbY4ILjH3pVOBNIwjJTyrYRgHO9Sg==/live/c4eds/Universal_Cinema/SA_Live_dash_enc_C/Universal_Cinema.mpd",
+                   "url": "https://edge02-fdo-py.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU0NTYxNDc3Iiwic2lwIjoiMTAuMTMwLjE2MS4xOTUiLCJwYXRoIjoiL2xpdmUvYzRlZHMvU05UX0M0L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4NjdmOTU0NmVjNzdhMTkxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsInVybCI6Imh0dHBzOi8vMTkwLjEwNC4xODEuMTk4Iiwic291cmNlcyI6WzIzLDI0LDMwLDMzXX0=.XTP93Z3Bctc6r1RBMrGY0TuD8xnrmUQIKX8Ccg4i3u00geJybtSuT_ftXtbY4ILjH3pVOBNIwjJTyrYRgHO9Sg==/live/c6eds/Universal_Cinema/SA_Live_dash_enc_C/Universal_Cinema.mpd",
                 "headers": {
                     "Origin": "https://web.app.flow.com.py",
                      "Referer": "https://web.app.flow.com.py/",
@@ -2356,7 +2585,7 @@
                 "icono": "https://i.ibb.co/bR7xSJJv/1684337272706-universal-crime.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1efd7edf60e1514f775dd13d046ae708&key=c2ef1abbd945c62c11b1375eaaa50f0d",
-                   "url": "https://edge02-fdo-py.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU0NTYxNDc3Iiwic2lwIjoiMTAuMTMwLjE2MS4xOTUiLCJwYXRoIjoiL2xpdmUvYzRlZHMvU05UX0M0L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4NjdmOTU0NmVjNzdhMTkxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsInVybCI6Imh0dHBzOi8vMTkwLjEwNC4xODEuMTk4Iiwic291cmNlcyI6WzIzLDI0LDMwLDMzXX0=.XTP93Z3Bctc6r1RBMrGY0TuD8xnrmUQIKX8Ccg4i3u00geJybtSuT_ftXtbY4ILjH3pVOBNIwjJTyrYRgHO9Sg==/live/c4eds/universal_Crime/SA_Live_dash_enc_C/universal_Crime.mpd",
+                   "url": "https://edge02-fdo-py.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU0NTYxNDc3Iiwic2lwIjoiMTAuMTMwLjE2MS4xOTUiLCJwYXRoIjoiL2xpdmUvYzRlZHMvU05UX0M0L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4NjdmOTU0NmVjNzdhMTkxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsInVybCI6Imh0dHBzOi8vMTkwLjEwNC4xODEuMTk4Iiwic291cmNlcyI6WzIzLDI0LDMwLDMzXX0=.XTP93Z3Bctc6r1RBMrGY0TuD8xnrmUQIKX8Ccg4i3u00geJybtSuT_ftXtbY4ILjH3pVOBNIwjJTyrYRgHO9Sg==/live/c6eds/universal_Crime/SA_Live_dash_enc_C/universal_Crime.mpd",
                 "headers": {
                     "Origin": "https://web.app.flow.com.py",
                      "Referer": "https://web.app.flow.com.py/",
@@ -2364,7 +2593,7 @@
                 }
             },
             {
-                "name": "UNIVERSAL",
+                "name": "UNIVERSAL OPCION 1",
                 "icono": "https://i.ibb.co/14z62h2/Universal-Premiere-2021.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0eb20b51ad13b58ad417f11318e588b3&key=ad5d29a33d73d21187157802de8e6097",
@@ -2380,7 +2609,7 @@
                 "icono": "https://i.ibb.co/14z62h2/Universal-Premiere-2021.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0eb20b51ad13b58ad417f11318e588b3&key=ad5d29a33d73d21187157802de8e6097",
-                  "url": "https://edge02-fdo-py.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU0NTYxNDc3Iiwic2lwIjoiMTAuMTMwLjE2MS4xOTUiLCJwYXRoIjoiL2xpdmUvYzRlZHMvU05UX0M0L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4NjdmOTU0NmVjNzdhMTkxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsInVybCI6Imh0dHBzOi8vMTkwLjEwNC4xODEuMTk4Iiwic291cmNlcyI6WzIzLDI0LDMwLDMzXX0=.XTP93Z3Bctc6r1RBMrGY0TuD8xnrmUQIKX8Ccg4i3u00geJybtSuT_ftXtbY4ILjH3pVOBNIwjJTyrYRgHO9Sg==/live/c4eds/Universal_Premiere/SA_Live_dash_enc_C/Universal_Premiere.mpd",
+                  "url": "https://edge02-fdo-py.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU0NTYxNDc3Iiwic2lwIjoiMTAuMTMwLjE2MS4xOTUiLCJwYXRoIjoiL2xpdmUvYzRlZHMvU05UX0M0L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4NjdmOTU0NmVjNzdhMTkxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsInVybCI6Imh0dHBzOi8vMTkwLjEwNC4xODEuMTk4Iiwic291cmNlcyI6WzIzLDI0LDMwLDMzXX0=.XTP93Z3Bctc6r1RBMrGY0TuD8xnrmUQIKX8Ccg4i3u00geJybtSuT_ftXtbY4ILjH3pVOBNIwjJTyrYRgHO9Sg==/live/c6eds/Universal_Premiere/SA_Live_dash_enc_C/Universal_Premiere.mpd",
                 "headers": {
                     "Origin": "https://web.app.flow.com.py",
                      "Referer": "https://web.app.flow.com.py/",
@@ -2404,7 +2633,7 @@
                 "icono": "https://i.ibb.co/LGyMZY7/universal-reality-logo-png-seeklogo-527123.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cedd9c1a5c2ae43f80ee3197212016d6&key=bf47a3c39e164a97ea6adc4c8dd57435",
-                   "url": "https://edge02-fdo-py.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU0NTYxNDc3Iiwic2lwIjoiMTAuMTMwLjE2MS4xOTUiLCJwYXRoIjoiL2xpdmUvYzRlZHMvU05UX0M0L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4NjdmOTU0NmVjNzdhMTkxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsInVybCI6Imh0dHBzOi8vMTkwLjEwNC4xODEuMTk4Iiwic291cmNlcyI6WzIzLDI0LDMwLDMzXX0=.XTP93Z3Bctc6r1RBMrGY0TuD8xnrmUQIKX8Ccg4i3u00geJybtSuT_ftXtbY4ILjH3pVOBNIwjJTyrYRgHO9Sg==/live/c4eds/Universal_Reality/SA_Live_dash_enc_C/Universal_Reality.mpd",
+                   "url": "https://edge02-fdo-py.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU0NTYxNDc3Iiwic2lwIjoiMTAuMTMwLjE2MS4xOTUiLCJwYXRoIjoiL2xpdmUvYzRlZHMvU05UX0M0L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4NjdmOTU0NmVjNzdhMTkxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsInVybCI6Imh0dHBzOi8vMTkwLjEwNC4xODEuMTk4Iiwic291cmNlcyI6WzIzLDI0LDMwLDMzXX0=.XTP93Z3Bctc6r1RBMrGY0TuD8xnrmUQIKX8Ccg4i3u00geJybtSuT_ftXtbY4ILjH3pVOBNIwjJTyrYRgHO9Sg==/live/c6eds/Universal_Reality/SA_Live_dash_enc_C/Universal_Reality.mpd",
                 "headers": {
                     "Origin": "https://web.app.flow.com.py",
                      "Referer": "https://web.app.flow.com.py/",
@@ -2444,7 +2673,7 @@
                 "name": "TELEMUNDO OPCION 1",
                 "url": "https://cdn-py.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_Live_dash_enc_C/Telemundo_HD.mpd",
                 "type": "CLEARKEY",
-                "icono": "https://static.flow.com.ar/images/7117/CH_LOGO/60/40/0/0/48165703074301.png",
+                "icono": "https://cdn.worldvectorlogo.com/logos/telemundo-2.svg",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=53d752e4649dadd808d913985f86ee77&key=d1fd24db1b61d634cabfc44538ce9b0e",
                 "headers": {
             "Origin": "https://web.app.flow.com.py",
@@ -2456,7 +2685,7 @@
                 "name": "TELEMUNDO OPCION 2",
                 "url": "https://edge02-fdo-py.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU0NTYxNDc3Iiwic2lwIjoiMTAuMTMwLjE2MS4xOTUiLCJwYXRoIjoiL2xpdmUvYzRlZHMvU05UX0M0L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4NjdmOTU0NmVjNzdhMTkxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsInVybCI6Imh0dHBzOi8vMTkwLjEwNC4xODEuMTk4Iiwic291cmNlcyI6WzIzLDI0LDMwLDMzXX0=.XTP93Z3Bctc6r1RBMrGY0TuD8xnrmUQIKX8Ccg4i3u00geJybtSuT_ftXtbY4ILjH3pVOBNIwjJTyrYRgHO9Sg==/live/c7eds/Telemundo_HD/SA_Live_dash_enc_C/Telemundo_HD.mpd",
                 "type": "CLEARKEY",
-                "icono": "https://static.flow.com.ar/images/7117/CH_LOGO/60/40/0/0/48165703074301.png",
+                "icono": "https://cdn.worldvectorlogo.com/logos/telemundo-2.svg",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=53d752e4649dadd808d913985f86ee77&key=d1fd24db1b61d634cabfc44538ce9b0e",
                 "headers": {
             "Origin": "https://web.app.flow.com.py",
@@ -3465,250 +3694,6 @@
 	    
 
         ]
-    },
-    {
-        "name": "🇧🇷CANALES DE BRASIL",
-        "samples": [
- {
-        "name": "BAND",
-        "url": "https://lb1.embmaxtv.online/bandsp/index.m3u8",
-        "type": "HLS",
-        "icono": "https://embedcanaistv.com/wp-content/uploads/2025/06/band.png",
-        "headers": {
-          "Referer": "https://embedcanaistv.com/",
-          "Origin": "https://embedcanaistv.com",		
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
-        }
-    },
-    {
-        "name": "GLOBO",
-        "url": "https://lb1.embmaxtv.online/globosp/index.m3u8",
-        "type": "HLS",
-        "icono": "https://embedcanaistv.com/wp-content/uploads/2025/06/TVGlobo2025.webp",
-        "headers": {
-          "Referer": "https://embedcanaistv.com/",
-          "Origin": "https://embedcanaistv.com",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
-        }
-    },
-    {
-        "name": "RECORD",
-        "url": "https://lb1.embmaxtv.online/recordsp/index.m3u8",
-        "type": "HLS",
-        "icono": "https://embedcanaistv.com/wp-content/uploads/2025/06/record.png",
-        "headers": {
-          "Referer": "https://embedcanaistv.com/",
-          "Origin": "https://embedcanaistv.com",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
-        }
-    },
-    {
-        "name": "SBT",
-        "url": "https://lb1.embmaxtv.online/sbtsp/index.m3u8",
-        "type": "HLS",
-        "icono": "https://embedcanaistv.com/wp-content/uploads/2025/06/sbt.png",
-        "headers": {
-          "Referer": "https://embedcanaistv.com/",
-          "Origin": "https://embedcanaistv.com",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
-        }
-    },
-    {
-        "name": "REDE TV",
-        "url": "https://lb1.embmaxtv.online/redetv/index.m3u8",
-        "type": "HLS",
-        "icono": "https://embedcanaistv.com/wp-content/uploads/2025/06/redetv.png",
-        "headers": {
-          "Referer": "https://embedcanaistv.com/",
-          "Origin": "https://embedcanaistv.com",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
-        }
-    },
-    {
-        "name": "REDEVIDA",
-        "url": "https://lb1.embmaxtv.online/redevida/index.m3u8",
-        "type": "HLS",
-        "icono": "https://embedcanaistv.com/wp-content/uploads/2025/06/mP1qfp2.png",
-        "headers": {
-          "Referer": "https://embedcanaistv.com/",
-          "Origin": "https://embedcanaistv.com",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
-        }
-    },
-    {
-        "name": "BAND NEWS",
-        "url": "https://lb1.embmaxtv.online/bandnews/index.m3u8",
-        "type": "HLS",
-        "icono": "https://embedcanaistv.com/wp-content/uploads/2025/06/3YlJsCL.png",
-        "headers": {
-          "Referer": "https://embedcanaistv.com/",
-          "Origin": "https://embedcanaistv.com",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
-        }
-    },
-    {
-        "name": "GLOBO NEWS",
-        "url": "https://lb1.embmaxtv.online/globonews/index.m3u8",
-        "type": "HLS",
-        "icono": "https://embedcanaistv.com/wp-content/uploads/2025/06/3yZyaCm.png",
-        "headers": {
-          "Referer": "https://embedcanaistv.com/",
-          "Origin": "https://embedcanaistv.com",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
-        }
-    },
-    {
-        "name": "CNN BRASIL",
-        "url": "https://lb1.embmaxtv.online/cnnbrasil/index.m3u8",
-        "type": "HLS",
-        "icono": "https://embedcanaistv.com/wp-content/uploads/2025/06/CNN_Brasil.svg_.png",
-        "headers": {
-          "Referer": "https://embedcanaistv.com/",
-          "Origin": "https://embedcanaistv.com",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
-        }
-    },
-    {
-        "name": "RECORD NEWS",
-        "url": "https://lb1.embmaxtv.online/recordnews/index.m3u8",
-        "type": "HLS",
-        "icono": "https://embedcanaistv.com/wp-content/uploads/2025/06/HZDRG0K.png",
-        "headers": {
-          "Referer": "https://embedcanaistv.com/",
-          "Origin": "https://embedcanaistv.com",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
-        }
-    }
-	]
-
-    },
-    {
-	
-        "name": "⚽DEPORTES BRASIL",
-        "samples": [
- {
-        "name": "PREMIER 1",
-        "url": "https://embmaxtv.online/premiereclubes/index.m3u8",
-        "type": "HLS",
-        "icono": "https://embedtv.digital/assets/images/premiere.png",
-        "headers": {
-          "Referer": "https://embedcanaistv.com/",
-          "Origin": "https://embedcanaistv.com",		
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
-        }
-    },
-    {
-        "name": "PREMIER 2",
-        "url": "https://embmaxtv.online/premiere2/index.m3u8",
-        "type": "HLS",
-        "icono": "https://embedtv.digital/assets/images/premiere.png",
-        "headers": {
-          "Referer": "https://embedcanaistv.com/",
-          "Origin": "https://embedcanaistv.com",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
-        }
-    },
-    {
-        "name": "PREMIER 3",
-        "url": "https://embmaxtv.online/premiere3/index.m3u8",
-        "type": "HLS",
-        "icono": "https://embedtv.digital/assets/images/premiere.png",
-        "headers": {
-          "Referer": "https://embedcanaistv.com/",
-          "Origin": "https://embedcanaistv.com",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
-        }
-    },
-    {
-        "name": "PREMIER 4",
-        "url": "https://embmaxtv.online/premiere4/index.m3u8",
-        "type": "HLS",
-        "icono": "https://embedtv.digital/assets/images/premiere.png",
-        "headers": {
-          "Referer": "https://embedcanaistv.com/",
-          "Origin": "https://embedcanaistv.com",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
-        }
-    },
-    {
-        "name": "PREMIER 5",
-        "url": "https://embmaxtv.online/premiere5/index.m3u8",
-        "type": "HLS",
-        "icono": "https://embedtv.digital/assets/images/premiere.png",
-        "headers": {
-          "Referer": "https://embedcanaistv.com/",
-          "Origin": "https://embedcanaistv.com",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
-        }
-    },
-    {
-        "name": "PREMIER 6",
-        "url": "https://embmaxtv.online/premiere6/index.m3u8",
-        "type": "HLS",
-        "icono": "https://embedtv.digital/assets/images/premiere.png",
-        "headers": {
-          "Referer": "https://embedcanaistv.com/",
-          "Origin": "https://embedcanaistv.com",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
-        }
-    },
-    {
-        "name": "PREMIER 7",
-        "url": "https://embmaxtv.online/premiere7/index.m3u8",
-        "type": "HLS",
-        "icono": "https://embedtv.digital/assets/images/premiere.png",
-        "headers": {
-          "Referer": "https://embedcanaistv.com/",
-          "Origin": "https://embedcanaistv.com",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
-        }
-    },
-    {
-        "name": "SPORT TV 1",
-        "url": "https://embmaxtv.online/sportv/index.m3u8",
-        "type": "HLS",
-        "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg",
-        "headers": {
-          "Referer": "https://embedcanaistv.com/",
-          "Origin": "https://embedcanaistv.com",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
-        }
-    },
-    {
-        "name": "SPORT TV 2",
-        "url": "https://embmaxtv.online/sportv2/index.m3u8",
-        "type": "HLS",
-        "icono": "https://embedcanaistv.com/wp-content/uploads/2025/07/SporTV2.png",
-        "headers": {
-          "Referer": "https://embedcanaistv.com/",
-          "Origin": "https://embedcanaistv.com",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
-        }
-    },
-    {
-        "name": "SPORT TV 3",
-        "url": "https://embmaxtv.online/sportv3/index.m3u8",
-        "type": "HLS",
-        "icono": "https://embedcanaistv.com/wp-content/uploads/2025/07/SporTV3.png",
-        "headers": {
-          "Referer": "https://embedcanaistv.com/",
-          "Origin": "https://embedcanaistv.com",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
-        }
-    },
-    {
-        "name": "NOSSO FUTEBOL",
-        "url": "https://embmaxtv.online/nossofutebol/index.m3u8",
-        "type": "HLS",
-        "icono": "https://embedcanaistv.com/wp-content/uploads/2025/07/nossofutebol.png",
-        "headers": {
-          "Referer": "https://embedcanaistv.com/",
-          "Origin": "https://embedcanaistv.com",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
-        }
-    }
-	]
-
     },
     {
         "name": "🇵🇪CANALES DE PERÙ",
