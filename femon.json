@@ -1,6 +1,6 @@
 [
     {
-       "name": "🇦🇷CANALES ARGENTINA",
+       "name": "🇦🇷CANALES DE ARGENTINA",
     "samples": [
 
     {
@@ -939,23 +939,12 @@
         "name": "TIGO INTERMEDIAS",
         "url": "https://live.enhdtv.com:8081/8212/index.m3u8",
         "type": "HLS",
-        "icono": "https://github.com/luisoddone/femon/blob/main/oso1.png?raw=true"
-		
-      },
-      {
-        "name": "PREMIER CLUBES OPC 2",
-        "url": "https://embmaxtv.online/premiereclubes/index.m3u8",
-        "type": "HLS",
-        "icono": "https://embedtv.digital/assets/images/premiere.png",
-        "headers": {
-          "Referer": "https://embedcanaistv.com/",
-          "Origin": "https://embedcanaistv.com",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
-        }
-    }
-]
-},
-       	 {
+        "icono": "https://github.com/luisoddone/femon/blob/main/oso1.png?raw=true"	
+  }	
+ 
+        ]
+    },
+    {
     "name": "⚽DEPORTES ESPN",
     "samples":  [
 
@@ -1461,144 +1450,6 @@
   }	
  
         ]
-    },
-    {
-        "name": "⚽DEPORTES BRASIL",
-        "samples": [
- {
-        "name": "PREMIER 1",
-        "url": "https://embmaxtv.online/premiereclubes/index.m3u8",
-        "type": "HLS",
-        "icono": "https://embedtv.digital/assets/images/premiere.png",
-        "headers": {
-          "Referer": "https://embedcanaistv.com/",
-          "Origin": "https://embedcanaistv.com",		
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
-        }
-    },
-    {
-        "name": "PREMIER 2",
-        "url": "https://embmaxtv.online/premiere2/index.m3u8",
-        "type": "HLS",
-        "icono": "https://embedtv.digital/assets/images/premiere.png",
-        "headers": {
-          "Referer": "https://embedcanaistv.com/",
-          "Origin": "https://embedcanaistv.com",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
-        }
-    },
-    {
-        "name": "PREMIER 3",
-        "url": "https://embmaxtv.online/premiere3/index.m3u8",
-        "type": "HLS",
-        "icono": "https://embedtv.digital/assets/images/premiere.png",
-        "headers": {
-          "Referer": "https://embedcanaistv.com/",
-          "Origin": "https://embedcanaistv.com",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
-        }
-    },
-    {
-        "name": "PREMIER 4",
-        "url": "https://embmaxtv.online/premiere4/index.m3u8",
-        "type": "HLS",
-        "icono": "https://embedtv.digital/assets/images/premiere.png",
-        "headers": {
-          "Referer": "https://embedcanaistv.com/",
-          "Origin": "https://embedcanaistv.com",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
-        }
-    },
-    {
-        "name": "PREMIER 5",
-        "url": "https://embmaxtv.online/premiere5/index.m3u8",
-        "type": "HLS",
-        "icono": "https://embedtv.digital/assets/images/premiere.png",
-        "headers": {
-          "Referer": "https://embedcanaistv.com/",
-          "Origin": "https://embedcanaistv.com",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
-        }
-    },
-    {
-        "name": "PREMIER 6",
-        "url": "https://embmaxtv.online/premiere6/index.m3u8",
-        "type": "HLS",
-        "icono": "https://embedtv.digital/assets/images/premiere.png",
-        "headers": {
-          "Referer": "https://embedcanaistv.com/",
-          "Origin": "https://embedcanaistv.com",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
-        }
-    },
-    {
-        "name": "PREMIER 7",
-        "url": "https://embmaxtv.online/premiere7/index.m3u8",
-        "type": "HLS",
-        "icono": "https://embedtv.digital/assets/images/premiere.png",
-        "headers": {
-          "Referer": "https://embedcanaistv.com/",
-          "Origin": "https://embedcanaistv.com",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
-        }
-    },
-    {
-        "name": "SPORT TV 1",
-        "url": "https://embmaxtv.online/sportv/index.m3u8",
-        "type": "HLS",
-        "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg",
-        "headers": {
-          "Referer": "https://embedcanaistv.com/",
-          "Origin": "https://embedcanaistv.com",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
-        }
-    },
-    {
-        "name": "SPORT TV 2",
-        "url": "https://embmaxtv.online/sportv2/index.m3u8",
-        "type": "HLS",
-        "icono": "https://embedcanaistv.com/wp-content/uploads/2025/07/SporTV2.png",
-        "headers": {
-          "Referer": "https://embedcanaistv.com/",
-          "Origin": "https://embedcanaistv.com",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
-        }
-    },
-    {
-        "name": "SPORT TV 3",
-        "url": "https://embmaxtv.online/sportv3/index.m3u8",
-        "type": "HLS",
-        "icono": "https://embedcanaistv.com/wp-content/uploads/2025/07/SporTV3.png",
-        "headers": {
-          "Referer": "https://embedcanaistv.com/",
-          "Origin": "https://embedcanaistv.com",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
-        }
-    },
-    {
-        "name": "NOSSO FUTEBOL",
-        "url": "https://embmaxtv.online/nossofutebol/index.m3u8",
-        "type": "HLS",
-        "icono": "https://embedcanaistv.com/wp-content/uploads/2025/07/nossofutebol.png",
-        "headers": {
-          "Referer": "https://embedcanaistv.com/",
-          "Origin": "https://embedcanaistv.com",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
-        }
-    },
-    {
-        "name": "DISNEY PLUS",
-        "url": "https://embedcanaistv.com/wp-content/uploads/2025/06/logo-disneyplus-1024.png",
-        "type": "HLS",
-        "icono": "https://embedcanaistv.com/wp-content/uploads/2025/07/nossofutebol.png",
-        "headers": {
-          "Referer": "https://embedcanaistv.com/",
-          "Origin": "https://embedcanaistv.com",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
-        }
-    }
-	]
-
     },
     {
         "name": "⚽DEPORTES VARIADOS",
@@ -2753,7 +2604,7 @@
                 "url": "https://cdn-py.cvattv.com.ar/live/c6eds/Lifetime/SA_Live_dash_enc_C/Lifetime.mpd",
                 "type": "CLEARKEY",
                 "icono": "https://static.flow.com.ar/images/692/CH_LOGO/60/40/0/0/20412471072788.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=eae51b1d67ff47adac7b6bd3a4b1120ac&key=b4d6bb47193f33ffc12379cdc447455d",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=eae51b1d67ff47adac7b6bd3a4b1120a&key=b4d6bb47193f33ffc12379cdc447455d",
                 "headers": {
             "Origin": "https://web.app.flow.com.py",
              "Referer": "https://web.app.flow.com.py/",
@@ -2765,7 +2616,7 @@
                 "url": "https://edge02-fdo-py.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU0NTYxNDc3Iiwic2lwIjoiMTAuMTMwLjE2MS4xOTUiLCJwYXRoIjoiL2xpdmUvYzRlZHMvU05UX0M0L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4NjdmOTU0NmVjNzdhMTkxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsInVybCI6Imh0dHBzOi8vMTkwLjEwNC4xODEuMTk4Iiwic291cmNlcyI6WzIzLDI0LDMwLDMzXX0=.XTP93Z3Bctc6r1RBMrGY0TuD8xnrmUQIKX8Ccg4i3u00geJybtSuT_ftXtbY4ILjH3pVOBNIwjJTyrYRgHO9Sg==/live/c6eds/Lifetime/SA_Live_dash_enc_C/Lifetime.mpd",
                 "type": "CLEARKEY",
                 "icono": "https://static.flow.com.ar/images/692/CH_LOGO/60/40/0/0/20412471072788.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=eae51b1d67ff47adac7b6bd3a4b1120ac&key=b4d6bb47193f33ffc12379cdc447455d",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=eae51b1d67ff47adac7b6bd3a4b1120a&key=b4d6bb47193f33ffc12379cdc447455d",
                 "headers": {
             "Origin": "https://web.app.flow.com.py",
              "Referer": "https://web.app.flow.com.py/",
@@ -2803,202 +2654,6 @@
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dfde9d35d7438bfd61da5dfac0557c1c&key=acb13370c03a7254e2bb9cc9d2125017",
                 "icono": "https://images.squarespace-cdn.com/content/v1/5bca2c44e66669782ad17f48/105a2b78-17e3-41e1-813a-b7fe30b86d11/image-asset.png"
             }
-        ]
-    },
-    {
-    "name": "PLUTO TV",
-    "samples": [
-
-	    {
-                "name": "ARCHIVOS FORENSE",
-                "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efb8c19b2678b000780d032/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
-                "icono": "https://i.postimg.cc/PrHHZ2cZ/images-11.jpg"
-            },
-	        {
-                "name": "CAZADOR DE HOMICIDAS",
-                "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
-                "icono": "https://i.postimg.cc/nhTmrF2j/thumbnail.jpg"
-            },
-	    {
-                "name": "CAZADOR DE RECOMPENSAS",
-                "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9992c685a2a80007fa414a/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
-                "icono": "https://i.postimg.cc/yNnKW7Yd/thumbnail-1.jpg"
-            },
-	{
-                "name": "EMPEÑO A LO BESTIA",
-                "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f23102d5e239d00074b092a/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
-                "icono": "https://i.postimg.cc/fLQfJS57/tile.jpg"
-            },
-	 {
-                "name": "CAZADOR DE HOMICIDAS",
-                "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
-                "icono": "https://i.postimg.cc/nhTmrF2j/thumbnail.jpg"
-            },
-	{
-                "name": "CAZADOR DE HOMICIDAS",
-                "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
-                "icono": "https://i.postimg.cc/nhTmrF2j/thumbnail.jpg"
-            },
-	{
-                "name": "CAZADOR DE HOMICIDAS",
-                "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
-                "icono": "https://i.postimg.cc/nhTmrF2j/thumbnail.jpg"
-            },
-	  {
-                "name": "CAZADOR DE HOMICIDAS",
-                "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
-                "icono": "https://i.postimg.cc/nhTmrF2j/thumbnail.jpg"
-            },
-	{
-                "name": "CAZADOR DE HOMICIDAS",
-                "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
-                "icono": "https://i.postimg.cc/nhTmrF2j/thumbnail.jpg"
-            },
-	 {
-                "name": "CAZADOR DE HOMICIDAS",
-                "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
-                "icono": "https://i.postimg.cc/nhTmrF2j/thumbnail.jpg"
-            },
-	 {
-                "name": "CAZADOR DE HOMICIDAS",
-                "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
-                "icono": "https://i.postimg.cc/nhTmrF2j/thumbnail.jpg"
-            },
-	{
-                "name": "CAZADOR DE HOMICIDAS",
-                "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
-                "icono": "https://i.postimg.cc/nhTmrF2j/thumbnail.jpg"
-            },
-	{
-                "name": "CAZADOR DE HOMICIDAS",
-                "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
-                "icono": "https://i.postimg.cc/nhTmrF2j/thumbnail.jpg"
-            },
-	 {
-                "name": "CAZADOR DE HOMICIDAS",
-                "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
-                "icono": "https://i.postimg.cc/nhTmrF2j/thumbnail.jpg"
-            },
-	{
-                "name": "CAZADOR DE HOMICIDAS",
-                "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
-                "icono": "https://i.postimg.cc/nhTmrF2j/thumbnail.jpg"
-            },
-	{
-                "name": "CAZADOR DE HOMICIDAS",
-                "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
-                "icono": "https://i.postimg.cc/nhTmrF2j/thumbnail.jpg"
-            },
-	 {
-                "name": "CAZADOR DE HOMICIDAS",
-                "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
-                "icono": "https://i.postimg.cc/nhTmrF2j/thumbnail.jpg"
-            },
-	 {
-                "name": "CAZADOR DE HOMICIDAS",
-                "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
-                "icono": "https://i.postimg.cc/nhTmrF2j/thumbnail.jpg"
-            },
-	{
-                "name": "CAZADOR DE HOMICIDAS",
-                "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
-                "icono": "https://i.postimg.cc/nhTmrF2j/thumbnail.jpg"
-            } 
-	    ]
-    },
-      	 {
-    "name": "RUNTIME",
-    "samples": [
-
-	    {
-                "name": "RUNTIME FAMILIA",
-                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4647",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
-                "icono": "https://i.postimg.cc/BQKTs8kj/descarga-24.jpg"
-            },
-	        {
-                "name": "RUNTIME COMEDIA",
-                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4647",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6131",
-                "icono": "https://i.postimg.cc/BQKTs8kj/descarga-24.jpg"
-            },
-	      {
-                "name": "RUNTIME FAMILIA",
-                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4647",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
-                "icono": "https://i.postimg.cc/BQKTs8kj/descarga-24.jpg"
-            },  
-	   {
-                "name": "RUNTIME FAMILIA",
-                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4647",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
-                "icono": "https://i.postimg.cc/BQKTs8kj/descarga-24.jpg"
-            }, 
-{
-                "name": "RUNTIME FAMILIA",
-                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4647",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
-                "icono": "https://i.postimg.cc/BQKTs8kj/descarga-24.jpg"
-            },
-	{
-                "name": "RUNTIME FAMILIA",
-                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4647",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
-                "icono": "https://i.postimg.cc/BQKTs8kj/descarga-24.jpg"
-            },
-{
-                "name": "RUNTIME FAMILIA",
-                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4647",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
-                "icono": "https://i.postimg.cc/BQKTs8kj/descarga-24.jpg"
-            }
-	    
-
         ]
     },
     {
@@ -3296,7 +2951,7 @@
                 "name": "E-Entertaiment OPCION 1",
                 "url": "https://cdn-py.cvattv.com.ar/live/c6eds/E_Entertainment_Television/SA_Live_dash_enc_C/E_Entertainment_Television.mpd",
                 "type": "CLEARKEY",
-                "icono": "https://static.flow.com.ar/images/684/CH_LOGO/60/40/0/0/73202714074292.png",
+                "icono": "https://genterosarevista.wordpress.com/wp-content/uploads/2011/05/e_entertainment_tv.jpg",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5883553207f13e3dc8cecd1113d5ba68&key=45434d40636dfa0e5312b93218e02185",
                 "headers": {
             "Origin": "https://web.app.flow.com.py",
@@ -3308,7 +2963,7 @@
                 "name": "E-Entertaiment OPCION 2",
                 "url": "https://edge02-fdo-py.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU0NTYxNDc3Iiwic2lwIjoiMTAuMTMwLjE2MS4xOTUiLCJwYXRoIjoiL2xpdmUvYzRlZHMvU05UX0M0L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4NjdmOTU0NmVjNzdhMTkxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsInVybCI6Imh0dHBzOi8vMTkwLjEwNC4xODEuMTk4Iiwic291cmNlcyI6WzIzLDI0LDMwLDMzXX0=.XTP93Z3Bctc6r1RBMrGY0TuD8xnrmUQIKX8Ccg4i3u00geJybtSuT_ftXtbY4ILjH3pVOBNIwjJTyrYRgHO9Sg==/live/c6eds/E_Entertainment_Television/SA_Live_dash_enc_C/E_Entertainment_Television.mpd",
                 "type": "CLEARKEY",
-                "icono": "https://static.flow.com.ar/images/684/CH_LOGO/60/40/0/0/73202714074292.png",
+                "icono": "https://genterosarevista.wordpress.com/wp-content/uploads/2011/05/e_entertainment_tv.jpg",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5883553207f13e3dc8cecd1113d5ba68&key=45434d40636dfa0e5312b93218e02185",
                 "headers": {
             "Origin": "https://web.app.flow.com.py",
@@ -3614,6 +3269,446 @@
         }
     }
 ]
+    },
+    {
+	 "name": "PLUTO TV",
+    "samples": [
+
+	    {
+                "name": "ARCHIVOS FORENSE",
+                "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efb8c19b2678b000780d032/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
+                "icono": "https://i.postimg.cc/PrHHZ2cZ/images-11.jpg"
+            },
+	        {
+                "name": "CAZADOR DE HOMICIDAS",
+                "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
+                "icono": "https://i.postimg.cc/nhTmrF2j/thumbnail.jpg"
+            },
+	    {
+                "name": "CAZADOR DE RECOMPENSAS",
+                "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9992c685a2a80007fa414a/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
+                "icono": "https://i.postimg.cc/yNnKW7Yd/thumbnail-1.jpg"
+            },
+	{
+                "name": "EMPEÑO A LO BESTIA",
+                "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f23102d5e239d00074b092a/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
+                "icono": "https://i.postimg.cc/fLQfJS57/tile.jpg"
+            },
+	 {
+                "name": "CAZADOR DE HOMICIDAS",
+                "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
+                "icono": "https://i.postimg.cc/nhTmrF2j/thumbnail.jpg"
+            },
+	{
+                "name": "CAZADOR DE HOMICIDAS",
+                "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
+                "icono": "https://i.postimg.cc/nhTmrF2j/thumbnail.jpg"
+            },
+	{
+                "name": "CAZADOR DE HOMICIDAS",
+                "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
+                "icono": "https://i.postimg.cc/nhTmrF2j/thumbnail.jpg"
+            },
+	  {
+                "name": "CAZADOR DE HOMICIDAS",
+                "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
+                "icono": "https://i.postimg.cc/nhTmrF2j/thumbnail.jpg"
+            },
+	{
+                "name": "CAZADOR DE HOMICIDAS",
+                "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
+                "icono": "https://i.postimg.cc/nhTmrF2j/thumbnail.jpg"
+            },
+	 {
+                "name": "CAZADOR DE HOMICIDAS",
+                "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
+                "icono": "https://i.postimg.cc/nhTmrF2j/thumbnail.jpg"
+            },
+	 {
+                "name": "CAZADOR DE HOMICIDAS",
+                "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
+                "icono": "https://i.postimg.cc/nhTmrF2j/thumbnail.jpg"
+            },
+	{
+                "name": "CAZADOR DE HOMICIDAS",
+                "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
+                "icono": "https://i.postimg.cc/nhTmrF2j/thumbnail.jpg"
+            },
+	{
+                "name": "CAZADOR DE HOMICIDAS",
+                "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
+                "icono": "https://i.postimg.cc/nhTmrF2j/thumbnail.jpg"
+            },
+	 {
+                "name": "CAZADOR DE HOMICIDAS",
+                "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
+                "icono": "https://i.postimg.cc/nhTmrF2j/thumbnail.jpg"
+            },
+	{
+                "name": "CAZADOR DE HOMICIDAS",
+                "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
+                "icono": "https://i.postimg.cc/nhTmrF2j/thumbnail.jpg"
+            },
+	{
+                "name": "CAZADOR DE HOMICIDAS",
+                "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
+                "icono": "https://i.postimg.cc/nhTmrF2j/thumbnail.jpg"
+            },
+	 {
+                "name": "CAZADOR DE HOMICIDAS",
+                "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
+                "icono": "https://i.postimg.cc/nhTmrF2j/thumbnail.jpg"
+            },
+	 {
+                "name": "CAZADOR DE HOMICIDAS",
+                "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
+                "icono": "https://i.postimg.cc/nhTmrF2j/thumbnail.jpg"
+            },
+	{
+                "name": "CAZADOR DE HOMICIDAS",
+                "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
+                "icono": "https://i.postimg.cc/nhTmrF2j/thumbnail.jpg"
+            } 
+	    ]
+    },
+      	 {
+    "name": "RUNTIME",
+    "samples": [
+
+	    {
+                "name": "RUNTIME FAMILIA",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4647",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
+                "icono": "https://i.postimg.cc/BQKTs8kj/descarga-24.jpg"
+            },
+	        {
+                "name": "RUNTIME COMEDIA",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4647",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6131",
+                "icono": "https://i.postimg.cc/BQKTs8kj/descarga-24.jpg"
+            },
+	      {
+                "name": "RUNTIME FAMILIA",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4647",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
+                "icono": "https://i.postimg.cc/BQKTs8kj/descarga-24.jpg"
+            },  
+	   {
+                "name": "RUNTIME FAMILIA",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4647",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
+                "icono": "https://i.postimg.cc/BQKTs8kj/descarga-24.jpg"
+            }, 
+{
+                "name": "RUNTIME FAMILIA",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4647",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
+                "icono": "https://i.postimg.cc/BQKTs8kj/descarga-24.jpg"
+            },
+	{
+                "name": "RUNTIME FAMILIA",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4647",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
+                "icono": "https://i.postimg.cc/BQKTs8kj/descarga-24.jpg"
+            },
+{
+                "name": "RUNTIME FAMILIA",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4647",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
+                "icono": "https://i.postimg.cc/BQKTs8kj/descarga-24.jpg"
+            }
+	    
+
+        ]
+    },
+    {
+        "name": "🇧🇷CANALES DE BRASIL",
+        "samples": [
+ {
+        "name": "BAND",
+        "url": "https://lb1.embmaxtv.online/bandsp/index.m3u8",
+        "type": "HLS",
+        "icono": "https://embedcanaistv.com/wp-content/uploads/2025/06/band.png",
+        "headers": {
+          "Referer": "https://embedcanaistv.com/",
+          "Origin": "https://embedcanaistv.com",		
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
+        }
+    },
+    {
+        "name": "GLOBO",
+        "url": "https://lb1.embmaxtv.online/globosp/index.m3u8",
+        "type": "HLS",
+        "icono": "https://embedcanaistv.com/wp-content/uploads/2025/06/TVGlobo2025.webp",
+        "headers": {
+          "Referer": "https://embedcanaistv.com/",
+          "Origin": "https://embedcanaistv.com",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
+        }
+    },
+    {
+        "name": "RECORD",
+        "url": "https://lb1.embmaxtv.online/recordsp/index.m3u8",
+        "type": "HLS",
+        "icono": "https://embedcanaistv.com/wp-content/uploads/2025/06/record.png",
+        "headers": {
+          "Referer": "https://embedcanaistv.com/",
+          "Origin": "https://embedcanaistv.com",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
+        }
+    },
+    {
+        "name": "SBT",
+        "url": "https://lb1.embmaxtv.online/sbtsp/index.m3u8",
+        "type": "HLS",
+        "icono": "https://embedcanaistv.com/wp-content/uploads/2025/06/sbt.png",
+        "headers": {
+          "Referer": "https://embedcanaistv.com/",
+          "Origin": "https://embedcanaistv.com",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
+        }
+    },
+    {
+        "name": "REDE TV",
+        "url": "https://lb1.embmaxtv.online/redetv/index.m3u8",
+        "type": "HLS",
+        "icono": "https://embedcanaistv.com/wp-content/uploads/2025/06/redetv.png",
+        "headers": {
+          "Referer": "https://embedcanaistv.com/",
+          "Origin": "https://embedcanaistv.com",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
+        }
+    },
+    {
+        "name": "REDEVIDA",
+        "url": "https://lb1.embmaxtv.online/redevida/index.m3u8",
+        "type": "HLS",
+        "icono": "https://embedcanaistv.com/wp-content/uploads/2025/06/mP1qfp2.png",
+        "headers": {
+          "Referer": "https://embedcanaistv.com/",
+          "Origin": "https://embedcanaistv.com",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
+        }
+    },
+    {
+        "name": "BAND NEWS",
+        "url": "https://lb1.embmaxtv.online/bandnews/index.m3u8",
+        "type": "HLS",
+        "icono": "https://embedcanaistv.com/wp-content/uploads/2025/06/3YlJsCL.png",
+        "headers": {
+          "Referer": "https://embedcanaistv.com/",
+          "Origin": "https://embedcanaistv.com",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
+        }
+    },
+    {
+        "name": "GLOBO NEWS",
+        "url": "https://lb1.embmaxtv.online/globonews/index.m3u8",
+        "type": "HLS",
+        "icono": "https://embedcanaistv.com/wp-content/uploads/2025/06/3yZyaCm.png",
+        "headers": {
+          "Referer": "https://embedcanaistv.com/",
+          "Origin": "https://embedcanaistv.com",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
+        }
+    },
+    {
+        "name": "CNN BRASIL",
+        "url": "https://lb1.embmaxtv.online/cnnbrasil/index.m3u8",
+        "type": "HLS",
+        "icono": "https://embedcanaistv.com/wp-content/uploads/2025/06/CNN_Brasil.svg_.png",
+        "headers": {
+          "Referer": "https://embedcanaistv.com/",
+          "Origin": "https://embedcanaistv.com",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
+        }
+    },
+    {
+        "name": "RECORD NEWS",
+        "url": "https://lb1.embmaxtv.online/recordnews/index.m3u8",
+        "type": "HLS",
+        "icono": "https://embedcanaistv.com/wp-content/uploads/2025/06/HZDRG0K.png",
+        "headers": {
+          "Referer": "https://embedcanaistv.com/",
+          "Origin": "https://embedcanaistv.com",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
+        }
+    }
+	]
+
+    },
+    {
+	
+        "name": "⚽DEPORTES BRASIL",
+        "samples": [
+ {
+        "name": "PREMIER 1",
+        "url": "https://embmaxtv.online/premiereclubes/index.m3u8",
+        "type": "HLS",
+        "icono": "https://embedtv.digital/assets/images/premiere.png",
+        "headers": {
+          "Referer": "https://embedcanaistv.com/",
+          "Origin": "https://embedcanaistv.com",		
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
+        }
+    },
+    {
+        "name": "PREMIER 2",
+        "url": "https://embmaxtv.online/premiere2/index.m3u8",
+        "type": "HLS",
+        "icono": "https://embedtv.digital/assets/images/premiere.png",
+        "headers": {
+          "Referer": "https://embedcanaistv.com/",
+          "Origin": "https://embedcanaistv.com",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
+        }
+    },
+    {
+        "name": "PREMIER 3",
+        "url": "https://embmaxtv.online/premiere3/index.m3u8",
+        "type": "HLS",
+        "icono": "https://embedtv.digital/assets/images/premiere.png",
+        "headers": {
+          "Referer": "https://embedcanaistv.com/",
+          "Origin": "https://embedcanaistv.com",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
+        }
+    },
+    {
+        "name": "PREMIER 4",
+        "url": "https://embmaxtv.online/premiere4/index.m3u8",
+        "type": "HLS",
+        "icono": "https://embedtv.digital/assets/images/premiere.png",
+        "headers": {
+          "Referer": "https://embedcanaistv.com/",
+          "Origin": "https://embedcanaistv.com",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
+        }
+    },
+    {
+        "name": "PREMIER 5",
+        "url": "https://embmaxtv.online/premiere5/index.m3u8",
+        "type": "HLS",
+        "icono": "https://embedtv.digital/assets/images/premiere.png",
+        "headers": {
+          "Referer": "https://embedcanaistv.com/",
+          "Origin": "https://embedcanaistv.com",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
+        }
+    },
+    {
+        "name": "PREMIER 6",
+        "url": "https://embmaxtv.online/premiere6/index.m3u8",
+        "type": "HLS",
+        "icono": "https://embedtv.digital/assets/images/premiere.png",
+        "headers": {
+          "Referer": "https://embedcanaistv.com/",
+          "Origin": "https://embedcanaistv.com",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
+        }
+    },
+    {
+        "name": "PREMIER 7",
+        "url": "https://embmaxtv.online/premiere7/index.m3u8",
+        "type": "HLS",
+        "icono": "https://embedtv.digital/assets/images/premiere.png",
+        "headers": {
+          "Referer": "https://embedcanaistv.com/",
+          "Origin": "https://embedcanaistv.com",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
+        }
+    },
+    {
+        "name": "SPORT TV 1",
+        "url": "https://embmaxtv.online/sportv/index.m3u8",
+        "type": "HLS",
+        "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg",
+        "headers": {
+          "Referer": "https://embedcanaistv.com/",
+          "Origin": "https://embedcanaistv.com",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
+        }
+    },
+    {
+        "name": "SPORT TV 2",
+        "url": "https://embmaxtv.online/sportv2/index.m3u8",
+        "type": "HLS",
+        "icono": "https://embedcanaistv.com/wp-content/uploads/2025/07/SporTV2.png",
+        "headers": {
+          "Referer": "https://embedcanaistv.com/",
+          "Origin": "https://embedcanaistv.com",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
+        }
+    },
+    {
+        "name": "SPORT TV 3",
+        "url": "https://embmaxtv.online/sportv3/index.m3u8",
+        "type": "HLS",
+        "icono": "https://embedcanaistv.com/wp-content/uploads/2025/07/SporTV3.png",
+        "headers": {
+          "Referer": "https://embedcanaistv.com/",
+          "Origin": "https://embedcanaistv.com",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
+        }
+    },
+    {
+        "name": "NOSSO FUTEBOL",
+        "url": "https://embmaxtv.online/nossofutebol/index.m3u8",
+        "type": "HLS",
+        "icono": "https://embedcanaistv.com/wp-content/uploads/2025/07/nossofutebol.png",
+        "headers": {
+          "Referer": "https://embedcanaistv.com/",
+          "Origin": "https://embedcanaistv.com",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
+        }
+    }
+	]
+
     },
     {
         "name": "🇵🇪CANALES DE PERÙ",
@@ -3922,122 +4017,6 @@
         ]
     },
 	 {
-        "name": "🇧🇷CANALES DE BRASIL",
-        "samples": [
- {
-        "name": "BAND",
-        "url": "https://lb1.embmaxtv.online/bandsp/index.m3u88",
-        "type": "HLS",
-        "icono": "https://embedcanaistv.com/wp-content/uploads/2025/06/band.png",
-        "headers": {
-          "Referer": "https://embedcanaistv.com/",
-          "Origin": "https://embedcanaistv.com",		
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
-        }
-    },
-    {
-        "name": "GLOBO",
-        "url": "https://lb1.embmaxtv.online/globosp/index.m3u8",
-        "type": "HLS",
-        "icono": "https://embedcanaistv.com/wp-content/uploads/2025/06/TVGlobo2025.webp",
-        "headers": {
-          "Referer": "https://embedcanaistv.com/",
-          "Origin": "https://embedcanaistv.com",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
-        }
-    },
-    {
-        "name": "RECORD",
-        "url": "https://lb1.embmaxtv.online/recordsp/index.m3u8",
-        "type": "HLS",
-        "icono": "https://embedcanaistv.com/wp-content/uploads/2025/06/record.png",
-        "headers": {
-          "Referer": "https://embedcanaistv.com/",
-          "Origin": "https://embedcanaistv.com",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
-        }
-    },
-    {
-        "name": "SBT",
-        "url": "https://lb1.embmaxtv.online/sbtsp/index.m3u8",
-        "type": "HLS",
-        "icono": "https://embedcanaistv.com/wp-content/uploads/2025/06/sbt.png",
-        "headers": {
-          "Referer": "https://embedcanaistv.com/",
-          "Origin": "https://embedcanaistv.com",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
-        }
-    },
-    {
-        "name": "REDE TV",
-        "url": "https://lb1.embmaxtv.online/redetv/index.m3u8",
-        "type": "HLS",
-        "icono": "https://embedcanaistv.com/wp-content/uploads/2025/06/redetv.png",
-        "headers": {
-          "Referer": "https://embedcanaistv.com/",
-          "Origin": "https://embedcanaistv.com",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
-        }
-    },
-    {
-        "name": "REDEVIDA",
-        "url": "https://lb1.embmaxtv.online/redevida/index.m3u8",
-        "type": "HLS",
-        "icono": "https://embedcanaistv.com/wp-content/uploads/2025/06/mP1qfp2.png",
-        "headers": {
-          "Referer": "https://embedcanaistv.com/",
-          "Origin": "https://embedcanaistv.com",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
-        }
-    },
-    {
-        "name": "BAND NEWS",
-        "url": "https://lb1.embmaxtv.online/bandnews/index.m3u8",
-        "type": "HLS",
-        "icono": "https://embedcanaistv.com/wp-content/uploads/2025/06/3YlJsCL.png",
-        "headers": {
-          "Referer": "https://embedcanaistv.com/",
-          "Origin": "https://embedcanaistv.com",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
-        }
-    },
-    {
-        "name": "GLOBO NEWS",
-        "url": "https://lb1.embmaxtv.online/globonews/index.m3u8",
-        "type": "HLS",
-        "icono": "https://embedcanaistv.com/wp-content/uploads/2025/06/3yZyaCm.png",
-        "headers": {
-          "Referer": "https://embedcanaistv.com/",
-          "Origin": "https://embedcanaistv.com",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
-        }
-    },
-    {
-        "name": "CNN BRASIL",
-        "url": "https://lb1.embmaxtv.online/cnnbrasil/index.m3u8",
-        "type": "HLS",
-        "icono": "https://embedcanaistv.com/wp-content/uploads/2025/06/CNN_Brasil.svg_.png",
-        "headers": {
-          "Referer": "https://embedcanaistv.com/",
-          "Origin": "https://embedcanaistv.com",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
-        }
-    },
-    {
-        "name": "RECORD NEWS",
-        "url": "https://lb1.embmaxtv.online/recordnews/index.m3u8",
-        "type": "HLS",
-        "icono": "https://embedcanaistv.com/wp-content/uploads/2025/06/HZDRG0K.png",
-        "headers": {
-          "Referer": "https://embedcanaistv.com/",
-          "Origin": "https://embedcanaistv.com",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
-        }
-    }
-	]
-
-    },
-    {
         "name": "🇪🇨CANALES DE ECUADOR",
         "samples": [
             {
