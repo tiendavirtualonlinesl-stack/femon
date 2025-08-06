@@ -3,18 +3,6 @@
         "name": "RECOMENDADOS",
         "samples": [
             {
-                "name": "El payaso del maizal",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/478B719323574876857F68DDC407B2EF_media.ts",
-                "icono": "https://image.tmdb.org/t/p/original/uj9bcqKBRhUGvYcbUKEAS7uI61f.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/gIwG9UWJLsiSBfaG5GJWGj9ghXD.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/9vFcqEAwun4NUWnpqZQXsApnsV2.png",
-                "descripcion": "Quinn y su padre acaban de mudarse al tranquilo pueblo de Kettle Springs con la esperanza de empezar de cero. En cambio, descubre una comunidad fracturada que atraviesa momentos difíciles tras el incendio de la preciada fábrica de jarabe de maíz Baypen. Mientras los lugareños discuten entre sí y la tensión se intensifica, una figura siniestra y sonriente emerge de los maizales para liberar al pueblo de sus cargas, una víctima sangrienta a la vez.",
-                "anio": "2025",
-                "genero": "Terror, Misterio, Suspense",
-                "duracion": "96 min",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Mis 84 m²",
                 "url": "http://goovdme.967sd1f.homes/vod/D8814A56A29649849ABCBA878A650E28_media.ts",
                 "icono": "https://image.tmdb.org/t/p/original/wUdyz4lYoyCR906SRJoL7GeN2rc.jpg",
@@ -24,6 +12,18 @@
                 "anio": "2025",
                 "genero": "Suspense, Drama",
                 "duracion": "118 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Mi año en Oxford",
+                "url": "http://goovdme.967sd1f.homes/vod/F65B57A5DF7C4F76A3DC7ABF0BA9F451_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/iKT49ApsXGKYY3wdZ0THYhhgOBe.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/A466i5iATrpbVjX30clP1Zyfp31.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/aTlIRMdElHSe2d4WAPsHsD6HUfn.png",
+                "descripcion": "La historia sigue a Anna, una joven estadounidense ambiciosa que, después de partir hacia la Universidad de Oxford para cumplir un sueño de infancia, tiene su vida completamente encaminada hasta que conoce a un lugareño encantador e inteligente que altera profundamente la vida de ambos.",
+                "anio": "2025",
+                "genero": "Romance, Comedia, Drama",
+                "duracion": "112 min",
                 "type": "PELICULA"
             },
             {
@@ -76,7 +76,7 @@
             },
             {
                 "name": "Como entrenar a tu dragón",
-                "url": "http://uyjj.xmqkychtb.com:80/vod/2EF47BC6AD0F421B84BBC44CD5662320_media.mp4",
+                "url": "http://goovdme.967sd1f.homes/vod/5F9F984F826B43389EB8543B59BE21D6_media.ts",
                 "icono": "https://image.tmdb.org/t/p/original/sGFO6VshDEQ9vX4tOSobLJpkNhq.jpg",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/7HqLLVjdjhXS0Qoz1SgZofhkIpE.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/sQiQw5CDqxBr7SRT53FMHELm9yp.png",
@@ -96,30 +96,6 @@
                 "anio": "2025",
                 "genero": "Acción, Aventura, Drama",
                 "duracion": "94 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "La vieja guardia 2",
-                "url": "http://ptccloud.lsdwedsfsc.site/vod/DC16D3E87436498A9F551C1A686EA664_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/6eGyuK8bHMAB34AIIQOL3wZw8sn.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/x58Gk2ZGU5AEBp25MQe2nhZhd5z.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/jixYTOHUPDr4zHPHS8qVXc4osz7.png",
-                "descripcion": "Andy y su equipo de guerreros inmortales luchan con un propósito renovado y se enfrentan a un nuevo y poderoso enemigo que amenaza su misión de proteger a la humanidad.",
-                "anio": "2025",
-                "genero": "Acción, Fantasía",
-                "duracion": "104 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Jefes de Estado",
-                "url": "http://ptccloud.lsdwedsfsc.site/vod/33388727F7EE4D9C820FB04A2DDE3525_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/2CSdwqOUMH23cEBodqAJynMFz7c.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/xABhldZaMb6wfCH5oigV333OYnb.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/2VLbTs11eF3Ecw7coArU1oEGj1G.png",
-                "descripcion": "El primer ministro del Reino Unido y el presidente de EE. UU. tienen una rivalidad pública que pone en riesgo la alianza entre sus países. Pero cuando se convierten en el blanco de un poderoso enemigo, se ven obligados a confiar el uno en el otro. Aliados con Noel, una agente del MI6, intenta frustrar una conspiración que amenaza al mundo libre.",
-                "anio": "2025",
-                "genero": "Acción, Suspense, Comedia",
-                "duracion": "113 min",
                 "type": "PELICULA"
             },
             {
@@ -156,6 +132,42 @@
                 "anio": "2025",
                 "genero": "Acción, Suspense, Crimen",
                 "duracion": "125 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Exterminio: La evolucion (28 años despues)",
+                "url": "http://goovdme.967sd1f.homes/vod/D25E58E6A2384E7E8B31AD9B95B3BBA4_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/wnHUip9oKvDJEJUEk62L4rFSYGa.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/6WqqEjiycNvDLjbEClM1zCwIbDD.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/tR9M3kLyQmWyyyhLhZPftaiwcPq.png",
+                "descripcion": "Años transcurridos tras los sucesos de \"28 semanas después\", el virus de la ira ha regresado y un grupo de supervivientes debe sobrevivir en un mundo asolado por hordas de infectados. Realizada con un iPhone 15 Pro Max y con la ayuda de numerosos accesorios especializados.",
+                "anio": "2025",
+                "genero": "Terror, Suspense, Ciencia ficción",
+                "duracion": "115 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "La guerra de los mundos: Revival",
+                "url": "http://goovdme.967sd1f.homes/vod/245D4B441F5249AEB3E22236A140FF02_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/yvirUYrva23IudARHn3mMGVxWqM.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/4U3NQ3KvqjofySTwoDbffawb00h.png",
+                "descripcion": "Will Radford, un destacado analista de ciberseguridad, pasa sus días rastreando posibles amenazas a la seguridad nacional a través de un programa de vigilancia masiva. Un ataque de una entidad desconocida le lleva a cuestionarse si el gobierno le está ocultando algo a él... y al resto del mundo.",
+                "anio": "2025",
+                "genero": "Ciencia ficción, Suspense",
+                "duracion": "90 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Jurassic World: El renacer",
+                "url": "http://goovdme.967sd1f.homes/vod/098DC1A9CD9840788183B9DE364BED00_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/Aw1FSO4gWk2Zjr2sfuyQ4lnK3Gc.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/fQOV47FHTJdaSuSUNlzP3zXUZWE.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/bMathNQ0Gnpra5Ac7IKIS9b2czm.png",
+                "descripcion": "Cinco años después de los eventos de \"Dominion\", la ecología del planeta ha demostrado ser insoportable para los dinosaurios, donde los pocos que quedan viven aislados en las regiones ecuatoriales. Zora Bennett es contratada para dirigir a un equipo de especialistas cuyo objetivo es conseguir el material genético de las tres criaturas más grandes, las cuales tienen en su ADN la clave para fabricar un medicamento que aportará grandes beneficios a la humanidad. Pero la operación se cruzará con una familia cuyo barco volcó y todos acabarán en una isla prohibida ocupada por dinosaurios de numerosas especies, donde tendrán que hacer lo imposible para sobrevivir.",
+                "anio": "2025",
+                "genero": "Ciencia ficción, Aventura, Acción",
+                "duracion": "133 min",
                 "type": "PELICULA"
             }
         ]
@@ -749,6 +761,282 @@
                 "anio": "1990",
                 "genero": "Romance, Comedia",
                 "duracion": "119 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Tin Cup",
+                "url": "http://goovdme.967sd1f.homes/vod/84A7375EEC21492DAC3C215E63BFC891_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/3KMIwaoeTFmkojqwojJ9E6eJTGa.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/amO7B3fSXhnIP51NDXBXPVcZRe.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/5sFmdrBjs9nVycgpZrj28tXEqhP.png",
+                "descripcion": "Roy McAvoy (Kevin Costner), una antigua gloria del golf que sobrevive en una caravana bebiendo cerveza y dando clases de golf, recibe en poco tiempo dos propuestas: enseñar a jugar a una atractiva mujer, Molly Griswold (Rene Russo), y ganar algo de dinero como caddy de su novio David Simms (Don Johnson), un famoso golfista con el que rivalizó en el pasado.",
+                "anio": "1996",
+                "genero": "Drama, Romance, Comedia",
+                "duracion": "135 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Mi año en Oxford",
+                "url": "http://goovdme.967sd1f.homes/vod/F65B57A5DF7C4F76A3DC7ABF0BA9F451_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/iKT49ApsXGKYY3wdZ0THYhhgOBe.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/A466i5iATrpbVjX30clP1Zyfp31.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/aTlIRMdElHSe2d4WAPsHsD6HUfn.png",
+                "descripcion": "La historia sigue a Anna, una joven estadounidense ambiciosa que, después de partir hacia la Universidad de Oxford para cumplir un sueño de infancia, tiene su vida completamente encaminada hasta que conoce a un lugareño encantador e inteligente que altera profundamente la vida de ambos.",
+                "anio": "2025",
+                "genero": "Romance, Comedia, Drama",
+                "duracion": "112 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "10 cosas que odio de ti",
+                "url": "http://goovdme.967sd1f.homes/vod/894DBCF38ABD4634902545DFBA31A3ED_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/ugSquUOt4U0a6xsgWUiOZcr5plz.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/yvPbncYhMu9FfTjDhq0N5lgnVkO.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/hAZgiJM9MyGT2RFAMdzj4uRlcVf.png",
+                "descripcion": "Las hermanas Stratford son muy distintas. La guapa y popular Bianca nunca ha salido con un chico, y Kat, su hermana mayor, es una bruja con muy mal genio, y algo arisca, que se ha propuesto rechazar a cualquier chico que demuestre el más mínimo interés por ella. Desgraciadamente, el estricto reglamento que rige el hogar de los Stratford prohibe a Blanca tener novio hasta que su insoportable hermana tenga uno; situación que parece más que improbable teniendo en cuenta que Kat lleva una vida social desastrosa. Blanca está desesperada por ir al baile de fin de curso. Pero su pretendiente, Cameron, guarda una sorpresa...",
+                "anio": "1999",
+                "genero": "Comedia, Romance, Drama",
+                "duracion": "97 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "27 bodas",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/7A78AB83898C4778A7CC944837759F8A_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/4u1KKBa7kQzxPgl51rGWSPlT1Ws.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/gE1GAqWsQwxNCUkzBfDqc6BNuUG.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/xAZFJga220CQp3TiDDdxzqccgsD.png",
+                "descripcion": "Jane, la eterna dama de honor –lo ha sido hasta 27 veces– pero nunca la novia, debe hacer frente a su peor pesadilla cuando su hermana se compromete con el hombre de sus sueños. A Jane le encanta acudir a bodas y ayudar a la novia en su día más especial. Está enamorada de su jefe, pero el día que se decide a confesarle su amor, su atractiva y caprichosa hermana, a la que siempre ha cuidado, entra en escena.",
+                "anio": "2008",
+                "genero": "Comedia, Romance",
+                "duracion": "111 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Si tuviera 30",
+                "url": "http://goovdme.967sd1f.homes/vod/1C51C0DE60954036BE127F71C75726E6_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/sgiY4CxDEFDcCfsLWLqLr4ezs6n.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/snwkqb23cuMd0qY1MPffXWWBoZV.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/i7FApTdQPOK9qNVf793bdBGclOc.png",
+                "descripcion": "Lo único que desea Jenna Rink en su décimotercer cumpleaños es ser guapa y popular. Tras una experiencia humillante delante del chico más guay de la escuela, Jenna desea fervientemente tener una nueva vida. Milagrosamente su deseo se hace realidad: de la noche a la mañana pasan 17 años y ella despierta convertida en una mujer de treinta.",
+                "anio": "2004",
+                "genero": "Comedia, Fantasía, Romance",
+                "duracion": "98 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Una chica en apuros",
+                "url": "http://goovdme.967sd1f.homes/vod/FE9991BAFF0340C49B94D3635D378F78_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/zNhoqeEEJaDT5Xrv83wf8uuOYnA.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/1tqFPSCXcpQhozWiVFasq5AudQz.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/n879yNLRWGjLbgBL1L0XhrHCcVR.png",
+                "descripcion": "Viola se ha enamorado locamente de su compañero de piso Duke, que ama a la bella Olivia, que a su vez se ha enamorado de Sebastian, su hermano gemelo, por el que se quiere hacer pasar Viola... Adaptación moderna y juvenil basada en la obra de Shakespeare \"Twelfth Night\" -Noche de reyes-.",
+                "anio": "2006",
+                "genero": "Comedia, Romance",
+                "duracion": "100 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Novia fugitiva",
+                "url": "http://goovdme.967sd1f.homes/vod/568AC7379740447480360172C9F8D528_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/m17TIVjWvscaI8lp4EPKpwxayk2.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/wKx7mmKJPEAV5bPiOEakoXVccmL.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/4eHTEwYzFfAlZ7IdfQUMEQoCLOd.png",
+                "descripcion": "Ike Graham, redactor de un periódico de Nueva York, abrumado por diversos problemas, decide aislarse en su refugio favorito a fin de encontrar ideas para escribir. Allí se entera del caso de Maggie, una joven que vive en una zona rural del estado de Maryland, a la que le encantan los compromisos matrimoniales, pero le horroriza el matrimonio. Intrigado, Ike escribe una columna sobre el caso de la joven, sin prever el enfado de Maggie y la cadena de enredos que acabará desatando.",
+                "anio": "1999",
+                "genero": "Comedia, Romance",
+                "duracion": "112 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "El diario de Bridget Jones",
+                "url": "http://goovdme.967sd1f.homes/vod/4BC3711C63C74B2AA3E82CCEF1469F0A_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/747EDazOLVIALUnflQcGf8lNwNA.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/imvV078HyWsa9jgDVLi4APgskrJ.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/nroCU8IrbjbFzL2mjzibHWax5bV.png",
+                "descripcion": "Bridget Jones está decidida a superarse a sí misma al mismo tiempo que busca al amor de su vida dejando constancia de todo ello en su diario personal.",
+                "anio": "2001",
+                "genero": "Comedia, Romance, Drama",
+                "duracion": "100 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Bridget Jones: Sobreviviré",
+                "url": "http://goovdme.967sd1f.homes/vod/FB66C1BC02B24C389458BD5AAC146F92_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/ihtl1iygkMJ0K8QwzcW9P5hXVoW.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/hNE0LvMfeiX6vS95VcLo9AUA6PR.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/f0FF0b15XK12hhMORH55RVa1Cer.png",
+                "descripcion": "Bridget Jones ya es feliz: vive con el apuesto Mark Darcy y ha dejado al cretino de su ex-jefe Daniel. Lo malo es que Rebeca, estropea su relación con Mark. Tampoco le van bien las cosas en el trabajo, pero lo peor de todo es lo que le ocurre durante un viaje a Tailandia. No obstante, como siempre, sigue contando con el apoyo de sus amigos que la animan a conocer gente nueva. Pero, ¿quién sabe si Bridget no estará pensando en volver con Daniel?",
+                "anio": "2004",
+                "genero": "Comedia, Romance",
+                "duracion": "108 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "El bebe de Bridget Jones",
+                "url": "http://goovdme.967sd1f.homes/vod/81C5372BCA024A80A568F8E8166EED73_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/3hGXGll9kJthFjzI0luZnOmhGYJ.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/hTReEn9kCeZLxgQmC46hQszLKSq.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/tVJuzsqqYRJUWlctlRqTXJUp7MZ.png",
+                "descripcion": "Después de romper con Mark Darcy, Bridget Jones, con los cuarenta recién cumplidos y soltera de nuevo, decide centrarse en su trabajo y rodearse de antiguos y nuevos amigos. Por una vez en su vida, Bridget parece tenerlo todo bajo control. Pero su vida amorosa toma una nueva dirección cuando conoce a un elegante estadounidense llamado Jack, un galán que tiene todo lo que no tiene el Sr. Darcy y descubre que está embarazada, pero no sabe a ciencia cierta quién es el padre.",
+                "anio": "2016",
+                "genero": "Drama, Comedia, Romance",
+                "duracion": "122 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "La nueva cenicienta",
+                "url": "http://goovdme.967sd1f.homes/vod/95821F0955024B729C38B7AE762868EA_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/uNUvr2hPN6ZXvo8N7Cljqna7PmM.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/fYvuNvY6ZJyap7hIKiJbhuKWxeG.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/v3eXb00pMEhLIOVCamD3D1p2LHj.png",
+                "descripcion": "Adaptación moderna del famoso cuento de \"Cenicienta\". La adolescente Sam Montgomery vive a disposición de su egocéntrica madrastra Fiona y de sus odiosas hermanastras, quienes la tratan más como una sirvienta que como un miembro de la familia. Sam sueña con ingresar en Princeton, pero de pronto su vida social se complica cuando conoce a su Príncipe Azul en Internet. Pero cuando su amigo de la red termina siendo el chico más popular de la escuela, Austin Ames, Sam despierta a la realidad olvidando su móvil cuando suena la medianoche. Temiendo ser rechazada si él supiera quien es ella en realidad, Sam hace todo lo posible para que Austin no descubra quién es su princesa. Aunque Austin tiene un plan para encontrarla...",
+                "anio": "2004",
+                "genero": "Comedia, Familia, Romance",
+                "duracion": "96 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "La boda de mi novia",
+                "url": "http://goovdme.967sd1f.homes/vod/411355EB6B754A7D9F0DF0A9E4FB3623_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/wzpwCQF9et6ltaw21tSI2gl9wXa.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/vmuQxo4PSdBRRuxBTTe2jCUhobQ.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/original/rRWtazP7YnjYFZ6kBJruDbZbW7E.png",
+                "descripcion": "Para Tom (Patrick Dempsey) la vida es maravillosa: es un triunfador, tiene éxito con las mujeres y sabe que siempre podrá confiar en su mejor amiga, la encantadora Hannah (Michelle Monaghan). Todo va bien hasta que Hannah se va seis semanas a Escocia por razones de trabajo; entonces Tom se da cuenta de que sin ella su vida está tan vacía que está decidido a pedirle que se case con él en cuanto vuelva. El problema es que cuando Hannah regresa está prometida y le pide a Tom que sea su \"dama de honor\"...",
+                "anio": "2008",
+                "genero": "Comedia, Romance",
+                "duracion": "101 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Solo amigos",
+                "url": "http://goovdme.967sd1f.homes/vod/C517E889C1AA410DA0C1ABFE7C16D768_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/mqtnBoIHRmCyNdgx24DaUhaK0Wu.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/oAfxQnTlfTKmr61RjE3NM2DlzUN.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/fne7sSmrpnzoFERRIqHNSv72JMk.png",
+                "descripcion": "Chris (Ryan Reynolds) es un buen chico, divertido... gordo y pardillo. El día de la graduación del Instituto decide armarse de valor y confesarle su amor a Jamie (Amy Smart). Pero Jaime le va a partir el corazón: ella le quiere... sólo como amigo. Diez años más tarde, y a muchos kilómetros de distancia de su pueblo natal, Chris se ha convertido en un atractivo y prometedor productor musical. Su éxito con las mujeres le ha hecho olvidar su fracaso con Jamie. O al menos, eso es lo que él cree. Una tormenta invernal en un viaje de negocios con su nueva estrella musical, la ardiente Samantha James (Anna Faris), le obliga a hacer escala en su antiguo pueblo de New Jersey. Muy a su pesar, va a reencontrarse con su familia, sus amigos... y con Jamie.",
+                "anio": "2005",
+                "genero": "Comedia, Romance",
+                "duracion": "94 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Penelope",
+                "url": "http://goovdme.967sd1f.homes/vod/F7E3EF1CE0D04C809FC23FDDC4171580_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/stsGbgMhDo3VjLLsrbeiz0fuj8d.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/kbD1di34NzIJAhorYxUob1PR7cR.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/j93t82UGaQcKw0f7elzN3vp3lsl.png",
+                "descripcion": "Penélope (Ricci) pertenece a una acaudalada familia sobre la que pesa una maldición: su nariz, igual al hocico de un cerdo, es una prueba de ello. La única esperanza de que la maldición se rompa consiste en que alguien se enamore de ella, aceptándola tal como es. Pero Penelope está harta de esperar, recluida en la mansión de sus padres. Cuando consigue salir al mundo exterior, su foto es publicada en los periódicos y se convierte en un espectáculo, lo que la lleva a reflexionar sobre lo que significa sentirse diferente y lo que significa ser amada.",
+                "anio": "2006",
+                "genero": "Fantasía, Comedia, Romance",
+                "duracion": "89 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Novia por contrato",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F163ABE6F6154E0AB22951BDE3C34A7D_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/f5YAzMCDc4tLXXnTnHKvYMgbzXT.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/fjulf6oGQfN0QPbpltg3EVFPtop.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/original/3OE1Q51mxUprtx8TFzzVk3EwWU4.png",
+                "descripcion": "Tripp (McConaughey) es un atractivo soltero que, a sus 35 años, todavía vive con sus padres (Kathy Bates y Terry Bradshaw). Hartos de la situación, éstos deciden contratar los servicios de una joven motivadora profesional (Sarah Jessica Parker) que debe convencerlo de que ya es hora de que se independice.",
+                "anio": "2006",
+                "genero": "Romance, Comedia",
+                "duracion": "94 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Como perder a un chico en 10 dias",
+                "url": "http://goovdme.967sd1f.homes/vod/E5C0C57B861449E4B9C7A961B2A75DAC_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/xvfNVkpL7SJPt2WNyDp3Xoh3BTK.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/cdYj6HFpKp5NTmLiHHbNEGSmDT4.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/gthvO2YdL9rdl4tCWDft8quPlmh.png",
+                "descripcion": "Andie Anderson es una periodista que debe terminar un reportaje poco usual y dispone tan sólo de diez días. Se trata de escribir, basándose en experiencias de primera mano, sobre las cosas que las mujeres hacen sin querer y que provocan el alejamiento de los hombres. Para ello tiene que conseguir que un chico se enamore de ella y luego cometer todos los errores posibles para que la deje. El hombre elegido es el cotizado soltero Benjamin Barry, que precisamente acaba de apostar con el director de la agencia de publicidad en la que trabaja que es capaz de hacer que una mujer se enamore de él en diez días.",
+                "anio": "2003",
+                "genero": "Comedia, Romance",
+                "duracion": "115 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "La cruda verdad",
+                "url": "http://goovdme.967sd1f.homes/vod/229431BCE238491881DBF831C3DA9F71_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/fDEH5GsnG774zTS4nhGAki2kUT5.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5etQ5b9reaWiSJtc9cZK5ULVADp.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/dJv5jLrbfNQg5N0WQiWkBUUnqWD.png",
+                "descripcion": "Abby Ritcher es una joven productora de un programa matutino de TV de Sacramento que tiene problemas para el amor. Su búsqueda de \"el hombre perfecto\" la ha dejado soltera y sin esperanzas, y está llegando a pensar que está incapacitada para el romance. A Abby le espera una buena cuando sus jefes deciden que forme equipo con Mike Chadway, un rudo personaje televisivo que promete desvelar la cruda realidad del por qué los hombres y las mujeres son como son. Sorprendentemente, Abby contará con la ayuda de su desagradable presentador, que la asesorará en sus citas haciéndola pasar por una serie de sonrojantes pruebas para demostrar sus teorías sobre las relaciones. Pero las tretas del hombre les conducirán a un resultado inesperado.",
+                "anio": "2009",
+                "genero": "Comedia, Romance",
+                "duracion": "96 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "El hombre perfecto",
+                "url": "http://goovdme.967sd1f.homes/vod/E8A65BE82814449493FCD614E0850231_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/4gPtEAJten738rMVSfCRfSjHrjG.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/cVJl7Cinopco6fkjEDzqefxQQUh.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/etS9d7ME5LhMEc70cvN5BbApKEo.png",
+                "descripcion": "La adolescente Holly Hamilton (Hilary Duff) está cansada de tener que cambiar de casa cada vez que Jean (Heather Locklear), su madre soltera, tiene otro fracaso sentimental con otro novio de segunda categoría. Para animarla tras su último desengaño, Holly concibe el plan perfecto para brindarle el hombre perfecto: un ficticio admirador secreto que cortejará a Jean y rehará su maltrecha autoestima...",
+                "anio": "2005",
+                "genero": "Comedia, Drama, Familia, Romance",
+                "duracion": "100 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Posdata: Te amo",
+                "url": "http://goovdme.967sd1f.homes/vod/A7D2468E3C7B4E89B553CE0868A4F456_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/9EAzEm99P9TxueZscEe9JRx0K2K.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/7JrXKA5vkyqITySzbx8iZB89ivk.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/4DVON3i2mUzBfpYZv67rMtuaWcR.png",
+                "descripcion": "Holly Kennedy es una joven viuda que trata de encauzar nuevamente su vida tras la muerte de su amado marido Gerry, fallecido de una enfermedad. Entonces descubre que éste le ha dejado escritas varias cartas...",
+                "anio": "2007",
+                "genero": "Drama, Romance",
+                "duracion": "126 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Recuerdame",
+                "url": "http://goovdme.967sd1f.homes/vod/C1E1D435383B4394BEE42EB38CA6C0CC_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/4uQJWBix81zvOnhnf1e4LyJv4fY.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/bSYnRf7nzKLtJ3RIKAVCl9ttuls.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/5IXmNcBM9bcbh6F2nJyEiFoiIQQ.png",
+                "descripcion": "Tyler Roth (Robert Pattinson) es un joven afectado por el suicidio de su hermano, situación que desencadenará el divorcio de sus padres (Pierce Brosnan y Lena Olin), incapaces de superar la traumática pérdida. Totalmente solo, y con una familia rota, conoce a una chica (Emile De Ravin) que hará que su vida vuelva a tener sentido.",
+                "anio": "2010",
+                "genero": "Drama, Romance",
+                "duracion": "113 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Noviembre dulce",
+                "url": "http://goovdme.967sd1f.homes/vod/C320D04212174749AA5645B925222383_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/etZBiCuTbCsAPbdLzLMBfdGik61.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/6KfQTuw4X3LQN11sDA18eYy9HJY.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/5s2b0z8e44H9mbsWDACR92sxSO6.png",
+                "descripcion": "El ejecutivo de publicidad Nelson Moss es un hombre absorto en sí mismo y emocionalmente aislado, que está centrado en su futuro, huyendo de su pasado y ajeno al presente. Hasta el día que conoce a Sara, una mujer encantadora e intrépida, cuya pasión por la vida trastoca la actitud segura y decidida de Nelson. Sara sabe realmente lo que quiere de la vida y cómo vivirla a tope, y considera fundamental compartir ese conocimiento con otras personas. Intrigados el uno por el otro, pero no lo bastante dispuestos a comprometerse, se deciden por un noviazgo bastante poco convencional: un mes de prueba, tras el cual seguirán caminos diferentes. Sin expectativas, sin presión, sin ataduras, lo que ninguno de los dos espera es enamorarse.",
+                "anio": "2001",
+                "genero": "Drama, Romance",
+                "duracion": "119 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Votos de amor",
+                "url": "http://goovdme.967sd1f.homes/vod/697B89A419EF40B38A1DF82959215F83_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/kbTtU8LXhH8MLB7EF7hBZy3WUYC.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/a8IFeO1BMn4QEfLsf41Ml7LodyC.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/maOt79WGCo5cAqvh2gc6wdCoSGB.png",
+                "descripcion": "Un accidente de coche deja a Paige en coma. Cuando se despierta ha perdido la memoria, y ni siquiera reconoce a su marido Leo, con el que llevaba poco tiempo casada. Leo tendrá entonces que trabajar para ganarse de nuevo el corazón de su amada esposa.",
+                "anio": "2012",
+                "genero": "Drama, Romance",
+                "duracion": "104 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "El amor está en el aire",
+                "url": "http://goovdme.967sd1f.homes/vod/97928C6D9ECF4FC6A84FADBCBB992382_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/bmTnqJaaL4tipNCGpywoDooRdYJ.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/kZvYVhYYVL4MxLbDeBo9QJd0LRh.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/7O9BPOd4xmhJnETd5pXWIAIJpj4.png",
+                "descripcion": "Una piloto de hidroavión que vuela en los trópicos se enamora del hombre al que han enviado para hundir su negocio.",
+                "anio": "2023",
+                "genero": "Romance, Comedia",
+                "duracion": "88 min",
                 "type": "PELICULA"
             }
         ]
@@ -2044,6 +2332,18 @@
                 "genero": "Documental",
                 "duracion": "79 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Yo soy Joe Frazier",
+                "url": "http://goovdme.967sd1f.homes/vod/D12C763A34B14252B717666E1F605725_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/sMlrATVO2Z5zldgREuS8V3BPPeQ.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5SzhvZjm3Zfb5BsrE1LtgS6AZdC.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/1mlgHnJ2RIP2BZAaEkHJUhlcIy4.png",
+                "descripcion": "Este documental retrata la vida de Joe Frazier, el campeón de boxeo que deslumbró al mundo entre 1970 y 1973. Con un enfoque en sus inicios humildes y su feroz determinación, la película incluye entrevistas emotivas y relatos de conocidos boxeadores que lo recuerdan con admiración.",
+                "anio": "2025",
+                "genero": "Documental",
+                "duracion": "85 min",
+                "type": "PELICULA"
             }
         ]
     },
@@ -2649,6 +2949,30 @@
                 "genero": "Aventura, Comedia",
                 "duracion": "100 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Rio salvaje",
+                "url": "http://goovdme.967sd1f.homes/vod/22B2115B9A8E4732BEC16C601FE4AAAC_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/obXfrcnYvjPoBGw8thSyPAZOxCy.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/tx0OOALA0yDNOtoyITxT1xwgYdl.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/j1xlWsgoWw0sbfkIawHGuxsJhPI.png",
+                "descripcion": "Con motivo del cumpleaños de su hijo Roarke (Joseph Mazello), sus padres Gail (Streep) y Tom (Strathairn), cuyo matrimonio no pasa por un buen momento, deciden organizar una excursión familiar a las montañas, lejos de la civilización. El plan incluye un emocionante descenso de rafting por un río.",
+                "anio": "1994",
+                "genero": "Aventura, Suspense, Drama",
+                "duracion": "111 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Jurassic World: El renacer",
+                "url": "http://goovdme.967sd1f.homes/vod/098DC1A9CD9840788183B9DE364BED00_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/Aw1FSO4gWk2Zjr2sfuyQ4lnK3Gc.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/fQOV47FHTJdaSuSUNlzP3zXUZWE.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/bMathNQ0Gnpra5Ac7IKIS9b2czm.png",
+                "descripcion": "Cinco años después de los eventos de \"Dominion\", la ecología del planeta ha demostrado ser insoportable para los dinosaurios, donde los pocos que quedan viven aislados en las regiones ecuatoriales. Zora Bennett es contratada para dirigir a un equipo de especialistas cuyo objetivo es conseguir el material genético de las tres criaturas más grandes, las cuales tienen en su ADN la clave para fabricar un medicamento que aportará grandes beneficios a la humanidad. Pero la operación se cruzará con una familia cuyo barco volcó y todos acabarán en una isla prohibida ocupada por dinosaurios de numerosas especies, donde tendrán que hacer lo imposible para sobrevivir.",
+                "anio": "2025",
+                "genero": "Ciencia ficción, Aventura, Acción",
+                "duracion": "133 min",
+                "type": "PELICULA"
             }
         ]
     },
@@ -3050,6 +3374,18 @@
                 "genero": "Drama, Suspense, Bélica",
                 "duracion": "102 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Tolkien",
+                "url": "http://goovdme.967sd1f.homes/vod/AACB06AE1304401E96308845D1F452E6_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/xTiDdpC655nMDT1AncfSIbZI57b.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/4HXiEsWUEMzJNFwjJv6oUaocqJU.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/f3POb4q9WTVOy7miAhGwfyLYLbc.png",
+                "descripcion": "Inglaterra, principios del siglo XX. El futuro escritor y filólogo John Ronald Reuel Tolkien (1892-1973) y tres de sus compañeros de escuela crean un fuerte vínculo entre ellos al compartir la misma pasión por la literatura y el arte, una verdadera hermandad que se fortalece a medida que crecen; pero el estallido de la Primera Guerra Mundial amenaza con destruirla.",
+                "anio": "2019",
+                "genero": "Bélica, Drama, Romance",
+                "duracion": "112 min",
+                "type": "PELICULA"
             }
         ]
     },
@@ -3187,6 +3523,18 @@
                 "anio": "2019",
                 "genero": "Drama, Acción, Sports",
                 "duracion": "153 min"
+            },
+            {
+                "name": "Juego de honor",
+                "url": "http://goovdme.967sd1f.homes/vod/8D636E4892E048EB905DD2927B88E7DD_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/zv8adNlsTTOkcyrRwODlHREXaPU.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/adoq3oYUcVYHsV8ccoWq9gHTFAf.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/urwIY0o8xLMs0yWW0Cz8fu4EIIy.png",
+                "descripcion": "El joven jugador amateur Francis Quimet tiene un talento innato para el golf y un gran sueño: llegar a competir con los mejores jugadores del mundo en un gran torneo. Para un chico de clase humilde, esto es prácticamente imposible. Pero, a fuerza de voluntad, coraje y talento, Quimet intentará vencer todas las barreras para convertirse en campeón del Open de Estados Unidos...",
+                "anio": "2005",
+                "genero": "Deporte",
+                "duracion": "120 min",
+                "type": "PELICULA"
             }
         ]
     },
@@ -5117,6 +5465,126 @@
                 "genero": "Acción, Comedia",
                 "duracion": "105 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Armados",
+                "url": "http://goovdme.967sd1f.homes/vod/B6DC76B01C464C3A9F2184293B152453_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/9FvlYYlvx8wElqt5Lai4wIIfwTg.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/1KwliRKTw61fRGmbG4Sf8eWOHP.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/lhDkkDcCNiHwe07dnTuZQeZAuuz.png",
+                "descripcion": "Cuando un trabajo sale terriblemente mal, un ex policía y hombre de familia que trabaja como secuaz de la mafia tiene una noche para sacar a su familia de la ciudad.",
+                "anio": "2025",
+                "genero": "Acción, Comedia, Crimen",
+                "duracion": "92 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Dime con cuantos",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/20D6A98946814EA888DAD061C92F0249_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/fxZUEk791MeoXlC6eCOKcZaRQl6.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/uQznQfz6G99rZ8KydP59UndIPZ.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/47W4Jk3jpk7G1TnLUB2rUmoqxKC.png",
+                "descripcion": "Ally es inteligente, atractiva, divertida y romántica pero se halla en un momento vital en el que no tiene el marido, el trabajo o el tipo de vida que se había imaginado. Tras leer un artículo en una revista que advierte que las personas que han tenido 20 o más relaciones amorosas han perdido la oportunidad de encontrar el amor verdadero, Ally decide emprender la búsqueda del mejor “ex” de su vida, utilizando todos los medios necesarios.",
+                "anio": "2011",
+                "genero": "Comedia, Romance",
+                "duracion": "106 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Guerra de novias",
+                "url": "http://goovdme.967sd1f.homes/vod/39072192ED8C49E9B06422941C16FF52_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/cCavFmyHmVBdRcg5gBqGMv6KV5X.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/bDYeMDIKeetY6J3ZM6POwnf1xc7.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/nPZ1eonmFBfj9e6NTdX9WGdkkYV.png",
+                "descripcion": "Emma y Liv han sido desde siempre muy buenas amigas (de aquellas que se apoyan en todo, a las buenas y a las malas) y, desde su infancia, han soñado con casarse en junio en el Hotel Plaza de Nueva York. Una ilusión que van a poder compartir y planificar juntas, ya que sus peticiones de mano ocurren con poco tiempo de diferencia y sus bodas van a ser el mismo fin de semana. Un error administrativo, sin embargo, agrieta esta felicidad: las bodas han sido reservadas para el mismo día, y una de las dos va a tener que cambiar la fecha. Sin estar dispuestas a renunciar a su sueño, y utilizando todas las armas que tienen a su alcance, empezará entonces una feroz competición entre Liv y Emma para conseguir la reserva del Hotel Plaza.",
+                "anio": "2009",
+                "genero": "Comedia, Romance",
+                "duracion": "90 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Algo pasa en Las Vegas",
+                "url": "http://goovdme.967sd1f.homes/vod/B747C5EDE2774394B20752E5FAC51525_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/asQQdmkKQ2Jz5RlQX3a1hfcuS3G.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/rCxs7yZ7lhfdi2IFZuXxZvvBeJN.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/cAhDpO67CqegGqBvIes0mYbqTTB.png",
+                "descripcion": "Al juerguista Jack Fuller le acaba de despedir de la empresa su propio padre. Por otro lado a la atractiva Joy McNally, su novio le ha dejado plantada. Ambos deciden irse a Las Vegas, y allí se conocen en una equivocación de habitaciones de su hotel. Tras irse de fiesta, a la mañana siguiente se despiertan... y descubren que se han casado tras una noche de locura y descontrol. Justo en su primera discusión, Jack gana un jackpot de 3 millones de dólares en una máquina del casino jugando con una moneda de Joy. Ambos intentarán quedarse con el dinero, aunque el amor quizá aparezca en el camino...",
+                "anio": "2008",
+                "genero": "Comedia, Romance",
+                "duracion": "99 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "El diario de una princesa",
+                "url": "http://goovdme.967sd1f.homes/vod/EF381342DF1B4F26B0D8877EF975DDD1_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/s4DYhsEnziYlJy91bbxv1ZhTJFG.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/n63e6JvKST0Gm222zolmhGb2ww6.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/sYMGnX3YARDrk5z9W7bmACZyGOD.png",
+                "descripcion": "La vida de Mia Thermopolis, una tímida adolescente que vive en San Francisco, da un vuelco cuando averigua que es la heredera del trono del diminuto principado europeo de Genovia. Su estricta y sabia abuela, la Reina Clarisse Renaldi, irrumpe entonces en su vida con la intención de prepararla para ser princesa, pero Mia no tiene la menor intención de dejar su vida para gobernar un país tan lejano. La reticente princesa se enfrenta al dilema más importante de su vida: seguir con su familia o aceptar sus responsabilidades como princesa.",
+                "anio": "2001",
+                "genero": "Comedia, Familia, Romance",
+                "duracion": "111 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Pequeñas grandes amigas",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/59C8F5228A98495D9188CAD260E45647_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/nTsy9QHBUZmbSc82nLPMtD8G3I4.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/7TvehiVjzE9hMvnq94mOYjP8kGT.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/msAfQYEcuv05XuYaq67sX92DhOe.png",
+                "descripcion": "Molly Gunn -Brittany Murphy- es la despreocupada hija de una vieja leyenda del rock, y una chica siempre presente en la escena social de Manhattan. Pero cuando su abogado huye robándole toda la herencia y dejándola sin dinero, Molly tiene que dedicarse a algo que nunca pensó que tendría que hacer: conseguir un trabajo. Así, Molly se convierte en la niñera de Ray -Dakota Fanning-, una precoz y madura niña de 8 años emocionalmente distanciada de su madre Roma -Heather Locklear-, una ejecutiva muy ocupada. Molly y Ray no tendrán unos inicios muy cordiales, pero juntas aprenderán mucho la una de la otra y descubrirán la amistad que sólo surge entre almas solitarias.",
+                "anio": "2003",
+                "genero": "Comedia, Drama",
+                "duracion": "92 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Un viernes de locos",
+                "url": "http://goovdme.967sd1f.homes/vod/2A421BAD5E5E427E92E4D55348744C16_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/sJMcDqDkFxJHcntXcIMthpUCrs8.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/aH4MrSu8fwjRiEMGfdRwpsYu2PW.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/jw3H23TuIz2FP8Y7tARCzykuV3P.png",
+                "descripcion": "La doctora Tess Coleman y Anna, su hija de quince años, tienen gustos muy distintos. Mientras que Anna no entiende por qué su madre no apoya sus aspiraciones musicales, Tess, una viuda a punto de casarse de nuevo, se pregunta por qué su hija no es más amable con su prometido. Un día, dos galletitas chinas de la Fortuna provocan un gran cambio en sus vidas. A la mañana siguiente, Tess y Anna se encuentran con sus cuerpos intercambiados. Poco a poco, cada una empieza a comprender el punto de vista de la otra, pero tienen que encontrar la manera más rápida de recuperar su ser porque la boda de Tess se celebra dos días después.",
+                "anio": "2003",
+                "genero": "Familia, Fantasía, Comedia",
+                "duracion": "97 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Juego de gemelas",
+                "url": "http://goovdme.967sd1f.homes/vod/89890834E13B4C9997290E48F654D661_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/3JyIUavN6byTNKjWXupCCvRljRF.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/y3zUOMWRoI2vC4ck2GBJyFWhzyA.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/original/1FuHswsrNTaBFZOSIUmABkDKikq.png",
+                "descripcion": "Hallie y Annie, dos gemelas que se parecen como dos gotas de agua, fueron separadas poco después de nacer, a causa del divorcio de sus padres. Hallie vive en Napa Valley con su padre, que es viticultor. Por su parte, Annie vive en Londres con su madre, una famosa diseñadora de trajes de novia. Ninguna de las dos conoce la existencia de la otra, pero el destino hace que se encuentren por casualidad en Maine, en un campamento de verano. Antes de volver a casa, las niñas urden un plan para conseguir reunir a sus padres, pero hay un inconveniente con el que no contaban: su padre proyecta casarse con otra mujer.",
+                "anio": "1998",
+                "genero": "Comedia, Familia, Romance",
+                "duracion": "128 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Imaginatelo",
+                "url": "http://goovdme.967sd1f.homes/vod/3461168217B34A8EA268A12937BDD26A_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/f0Mc2OzARakkTmnm8sihEQSoVaI.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/hzBLtqQs1jdclPu71xlNcyiXOBD.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/x8HNcT1fLsBKlNvdUuGZu4VaHCq.png",
+                "descripcion": "El chico más popular del instituto celebra una fiesta e invita a Mandy, pero ella está castigada. Su padre la deja ir a estudiar con sus amigas, pero quiere comprobar dónde se encuentra a través del móvil cada media hora. Atrapada por la tecnología, Mandy y sus amigas tendrán que usar todo su ingenio e imaginación para poder disfrutar de la fiesta sin ser descubiertas.",
+                "anio": "2008",
+                "genero": "Comedia, Película de TV",
+                "duracion": "92 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Secretos compartidos (Prime)",
+                "url": "http://goovdme.967sd1f.homes/vod/78621A0FC1854973AB1FDD5E944B4778_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/tHtVlL9616NFcxntpKUVHZAOOe7.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/4JNo2oemP4KRIt2tEdpVPYgc0KO.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/sdT8HOLjMGmIg43dqzc0tCXlbk6.png",
+                "descripcion": "La vida de Rafi (Uma Thurman), una divorciada de 37 años de Manhattan, da un vuelco cuando empieza a salir con un pintor mucho más joven que ella. A pesar de la atracción que siente por él, la diferencia de edad le plantea dudas que la llevan a buscar el consejo de su psicoanalista (Meryl Streep). Ésta, al principio, la escucha con gran naturalidad y la anima a seguir adelante; pero, cuando descubre que el novio de su paciente es su hijo Dave (Bryan Greensberg), su actitud cambiará radicalmente.",
+                "anio": "2005",
+                "genero": "Comedia, Drama, Romance",
+                "duracion": "102 min",
+                "type": "PELICULA"
             }
         ]
     },
@@ -5753,7 +6221,7 @@
                 "duracion": "137 min"
             },
             {
-                "name": "El código Da Vinci",
+                "name": "El codigo Da Vinci",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C2DFABEE117B40E5BEF0807D9D261E66_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/vOGikJku5HDxcdHvnH4SqqWibO0.jpg",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/vlnSG1EQi0ez2A6MkFfjovPfkES.jpg",
@@ -6350,6 +6818,42 @@
                 "anio": "2025",
                 "genero": "Terror, Suspense, Ciencia ficción",
                 "duracion": "115 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Destino final",
+                "url": "http://goovdme.967sd1f.homes/vod/1EAE461A4FDF408A9C3A04326A6200E7_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/6F3MEcGHeMAMxledi7vQfqkZRkc.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/7isarjYDEKZ5t1CgcvbuqEUby8P.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/vaOFGS7yqHlOP0v0SBxjQuU4C2j.png",
+                "descripcion": "Al subir a un avión con destino a Paris, junto con sus compañeros de clase, Alex tiene una premonición, por lo que desembarca justo antes de despegar junto a seis de sus amigos y una profesora. Poco después el aparato explota en el aire. El grupo de supervivientes se verá perseguido por la dama de la guadaña, la propia muerte, que no se dará por vencida. Acosado por el FBI que considera a Alex responsable del accidente y perseguido por sus propios miedos, el joven deberá descubrir que las coincidencias y los accidentes no son algo casual.",
+                "anio": "2000",
+                "genero": "Terror",
+                "duracion": "98 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Premonicion: 7 dias",
+                "url": "http://goovdme.967sd1f.homes/vod/81C70C476EC3417AAC692566E99B0623_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/4moBOPqMFXP3n78YobuJ9c4IokH.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/esXYvlivZ8j0HGqob949CIjqnGi.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/vBPaNGUrIwjxZfOuVWqmfYwCJwW.png",
+                "descripcion": "Linda Hanson (Sandra Bullock) tiene una casa preciosa, un marido que la quiere y dos hijas adorables. Su vida es perfecta, hasta que recibe una devastadora noticia: su esposo Jim (Julian McMahon) ha fallecido en un accidente de coche. Al despertarse a la mañana siguiente, Linda descubre que su marido sigue vivo. En un principio, Linda cree que el accidente ha debido de ser una pesadilla... hasta que ocurre de nuevo. Algunos días Jim sigue a su lado cuando se despierta, pero otros debe enfrentarse a la realidad de haberse quedado viuda. Por alguna razón inexplicable, los días están desordenados. La traumática premonición de Linda desencadena una serie de extraños sucesos que alteran el tiempo. En un intento desesperado por salvar a su familia, Linda lucha furiosamente contra el tiempo y el destino para intentar conservar todo lo que ella y Jim han construido juntos.",
+                "anio": "2007",
+                "genero": "Suspense, Drama, Misterio",
+                "duracion": "110 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Plan de vuelo: Desaparecida",
+                "url": "http://goovdme.967sd1f.homes/vod/64D4EEE6EB034EBF879C94EAA9815C31_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/xwcDq647KXWuLph8CN2FEneWR2v.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/59vrJSluVcM4bs9nnGMYnXX569o.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/bKYwfCN07S8sNJGXP4V8xOydUyt.png",
+                "descripcion": "Kyle Pratt es una americana que, tras perder a su marido, decide regresar a casa con su hija de seis años. Pero, cuando la niña desaparece misteriosamente durante el vuelo, nadie de la tripulación o del pasaje recuerda haberla visto a bordo. A 12.000 metros de altura, Kyle se enfrentará a la peor pesadilla de su vida: su hija Julia ha desaparecido sin dejar rastro en medio de un vuelo Berlín-Nueva York. Kyle, que todavía no se ha recuperado de la inesperada muerte de su marido, intentará por todos los medios demostrar su cordura a la incrédula tripulación y a los pasajeros, pero también deberá afrontar la posibilidad de haber perdido la razón. A pesar de que tanto Rich, el capitán, como Gene Carson, el policía oficial de a bordo, querrían creer a la afligida viuda, todo parece indicar que su hija nunca subió al avión. Desesperadamente sola, Kyle sólo podrá contar con sus convicciones para resolver este misterio",
+                "anio": "2005",
+                "genero": "Suspense, Drama, Misterio",
+                "duracion": "98 min",
                 "type": "PELICULA"
             }
         ]
@@ -8278,15 +8782,87 @@
                 "type": "PELICULA"
             },
             {
-                "name": "F1 la película",
-                "url": "http://192.168.100.37:30001/file/STXCtYno/video.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/yKIG63pXN89EfbTA7yKpwxAU1rf.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/lSbblLngbeZIn6G4WXDcyQ6SLhw.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/aRdiaF4QQWN2mDeDwZuLzszwSdv.png",
-                "descripcion": "El mítico piloto Sonny Hayes vuelve de su retiro, persuadido para liderar un equipo de Fórmula 1 en apuros y guiar a su joven promesa, en busca de una nueva oportunidad de éxito.",
+                "name": "Need for Speed",
+                "url": "http://goovdme.967sd1f.homes/vod/37E7582530BB4A0487D7FE9FEDD7B4EF_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/mbVd0dXD21BxVGlmW4GyeGIR01l.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5LcKXTpaxxC5fKvChF9vS3qVsH3.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/kLgoC5Jm6gTq1UP6gtAkkzX01Q3.png",
+                "descripcion": "El más famoso de los videojuegos de carreras llega a la gran pantalla para dejar a los más fanáticos boquiabiertos. Need for Speed cuenta la historia de un experto en automovilismo (Aaron Paul), el cual tiene un garage en dónde transforma coches para hacerlos más rápidos de lo que son para poder competir en carreras ilegales. Entró en la cárcel por un delito que no había cometido, justo cuando su mejor amigo muere en una carrera, y ahora sale de allí para vengarse.",
+                "anio": "2014",
+                "genero": "Acción, Crimen, Drama, Suspense",
+                "duracion": "130 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "El vidente",
+                "url": "http://goovdme.967sd1f.homes/vod/2A273B480C4E4A259EE53F9B5F3CFAF4_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/yNeoZYQ93Mkl6NxdEGuoBKJz1G8.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/8OAuQm5Bxg4k4HIYfmcga5rYSzU.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/vHikm4xBKISLIDFS1BAGtvR01jO.png",
+                "descripcion": "Cris Johnson es un mago de Las Vegas bendecido con un don que también es una maldición: cuenta con la sobrenatural capacidad de saber qué va a ocurrir a continuación. Johnson puede ver el futuro unos cuantos minutos más allá del momento presente, un talento extrasensorial que, sin duda, le viene muy bien para su trabajo como mago y mentalista en un sórdido club de Las Vegas donde actúa cada noche. Por otra parte, la agente antiterrorista Callie Ferris, quiere sacar partido al talento de Johnson con objeto de impedir el ataque que unos terroristas planean ejecutar contra Los Angeles mediante un arma de destrucción masiva. La cuenta atrás de la bomba prosigue y Johnson sería un elemento clave a la hora de impedir un holocausto nuclear. Si no recurre a sus poderes para canalizar su visión a través de los portales temporales correctos para así poder modificar el presente, su futuro – y el de cientos de miles de personas – podría ser una cosa del pasado.",
+                "anio": "2007",
+                "genero": "Acción, Ciencia ficción, Suspense",
+                "duracion": "96 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Soldado Universal: Regeneración",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1E43B6A4FCDC4F46855DEF61FDBA61A6_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/mS6nV0tWZTa8pqCfchomQw3ai42.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/ffRq48IlOKcAMeM7rGpJRPzRsSh.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/qfiHtGE7R54GRlEsQLH25QQ8NK3.png",
+                "descripcion": "Un enloquecido nacionalista Checheno, Basayev, toma control de Chernobyl, lugar de la infame catástrofe nuclear, y amenaza con soltar una nube radiactiva a menos que sus demandas nacionalistas sean cumplidas. Luc Deveraux se une a un equipo estadounidense de UniSols revividos que permanecían guardados en secreto. Su misión: tomar Chernobyl y desactivar los explosivos que desatarían las nubes radiactivas. Luc se sorprende cuando se da cuenta de que uno de los UniSols es un clon de su antiguo Sargento, Andrew Scott. Pero el clonado Andrew no recuerda a Luc. Mientras que el equipo lucha furiosamente en su camino hacia la planta de Chernobyl, son sorprendidos con la guarda bajada. Usando un chip que puede controlar la mente, Basayev vuelve a Andrew contra sus camaradas. Ahora rodeado, herido y en desventaja, Luc debe luchar contra Andrew, y salvar el mundo.",
+                "anio": "2009",
+                "genero": "Aventura, Acción, Ciencia ficción, Suspense",
+                "duracion": "97 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Soldado universal",
+                "url": "http://goovdme.967sd1f.homes/vod/F1897BF9A245499B9AEEEBBDA3404ADF_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/f0Z5q8HMksgmNkAtNEaY7h7c1lx.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/78pA17BW4BbcNlB2yBrOzQY1FrE.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/o7aPbQemj1oI6jcSQOyIlO01gYh.png",
+                "descripcion": "Siguiendo un programa altamente secreto, el ejército está trabajando con cadáveres a los que transforma en soldados invencibles. Una pareja de reporteros se aproxima a la base en la que se realiza el experimento y toma fotografías del lugar.",
+                "anio": "1992",
+                "genero": "Suspense, Acción, Ciencia ficción, Crimen",
+                "duracion": "103 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Soldado Universal: El Retorno",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D766EE4CE82F442D9748CCA5C925CD63_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/m9snWHsV6Sb6NZAUQJCOunxKGQX.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/7mTsm6R2LAOxOsQ1BooJ27WwzAl.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/rvAX2YERCZpcxvHJxqkhxOjgg1C.png",
+                "descripcion": "Seth, un poderoso guerrero controlado por ordenador, se quiere vengar de sus creadores asesinándolos. El único que puede detenerle es Luc Deveraux, un heroico soldado.",
+                "anio": "1999",
+                "genero": "Acción, Ciencia ficción",
+                "duracion": "82 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Soldado Universal (El día del juicio final)",
+                "url": "http://goovdme.967sd1f.homes/vod/8E9C2260450E43E59B8A62BA7E188A11_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/qhK63SEjB9YVCKh42vJj2ANwXUt.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5wxjd6D6jX8XlhQRw3rUiwl4HwK.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/lorXR80sIC0urOdCfu8Bm4aAuwz.png",
+                "descripcion": "John (Scott Adkins) despierta después de un coma para descubrir que su esposa y su hija pequeña, han asesinadas en un brutal asesinato en su propia casa. Atormentado por las imágenes del asesinato, jura matar al responsable de dicha matanza, Luc Deveraux (Jean-Claude Van Damme). Mientras que John trata de reconstruir su propia realidad, las cosas empiezan a complicarse cuando empieza a ser perseguido por un UniSol de última generación llamado Magnus (Andrei Arlovski). Pero una vez se acerca a Deveraux y al ejército de soldados digidos por el \"resucitado\" Andrew Scott (Dolph Lundgren) descubrirá que hay cosas que jamás habría imaginado sobre sí mismo y pondrá en duda su propia verdad.",
+                "anio": "2012",
+                "genero": "Acción, Ciencia ficción, Suspense",
+                "duracion": "114 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "El último encargo",
+                "url": "http://goovdme.967sd1f.homes/vod/47B13021CB5441CA809F68DF7B5482A8_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/lbpyI9nwzSVDjS7OnE0uC41UciP.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/xvP4WFn7TZvkCeZA4IhD6H9XjRa.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/38jqTp6UaPpnyoD74b4hfzbtfBX.png",
+                "descripcion": "Una rutinaria recogida de dinero da un giro salvaje cuando dos incompatibles conductores de camión, Russell y Travis, son asaltados por despiadados criminales a las órdenes de la hábil mente maestra Zoe, cuyos planes van mucho más allá del cargamento de dinero en efectivo. Mientras el caos se desata a su alrededor, este improbable dúo tiene que enfrentarse en situaciones de alto riesgo, con personalidades que chocan continuamente y un muy mal día que no deja de empeorar.",
                 "anio": "2025",
-                "genero": "Acción, Drama",
-                "duracion": "156 min",
+                "genero": "Comedia, Acción, Crimen",
+                "duracion": "94 min",
                 "type": "PELICULA"
             }
         ]
@@ -8619,7 +9195,7 @@
                 "duracion": "132 min"
             },
             {
-                "name": "La guerra de los mundos",
+                "name": "La guerra de los mundos.",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/18AF479293364EDD8B843F0F4184D7E0_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/ahcOViJGgwGojoncRVDMq5R7WDN.jpg",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/nH6hPhJq3EEv9CnBZgXU3IQnpJo.jpg",
@@ -9529,6 +10105,54 @@
                 "genero": "Acción, Misterio, Ciencia ficción, Suspense",
                 "duracion": "113 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "La guerra de los mundos: Revival",
+                "url": "http://goovdme.967sd1f.homes/vod/245D4B441F5249AEB3E22236A140FF02_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/yvirUYrva23IudARHn3mMGVxWqM.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/4U3NQ3KvqjofySTwoDbffawb00h.png",
+                "descripcion": "Will Radford, un destacado analista de ciberseguridad, pasa sus días rastreando posibles amenazas a la seguridad nacional a través de un programa de vigilancia masiva. Un ataque de una entidad desconocida le lleva a cuestionarse si el gobierno le está ocultando algo a él... y al resto del mundo.",
+                "anio": "2025",
+                "genero": "Ciencia ficción, Suspense",
+                "duracion": "90 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Monsters of Man",
+                "url": "http://goovdme.967sd1f.homes/vod/92E615BAA974483DBDAAA089E929CBAC_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/qaGINC5DI5tkV8NYb2KTWVwxEd6.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/z15NpieRw7jL7bKoICwLO5j7FgZ.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/t6hyT5FBbUlBBC9JAyoElMAtg3u.png",
+                "descripcion": "Una empresa de robótica que compite para ganar un lucrativo contrato militar se une a un agente corrupto de la CIA para realizar una prueba de campo en vivo ilegal. Desplegan cuatro prototipos de robots armados en un supuesto campo de fabricación de drogas en el Triángulo Dorado, asumiendo que estarían matando a traficantes de drogas que nadie se perdería. Seis médicos en misión humanitaria son testigos de la brutal matanza y se convierten en objetivos principales.",
+                "anio": "2020",
+                "genero": "Ciencia ficción, Acción",
+                "duracion": "132 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "El efecto mariposa",
+                "url": "http://goovdme.967sd1f.homes/vod/85E430084A244559A2ECA86119C2CB6D_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/vtqJkVTvrxbk2BehGO6e6izsUBa.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/yriYPLqyFqPW0QXaegT1KmWXk9a.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/bAHFjf4YJ4M7DNttmUMC0Kqwe3E.png",
+                "descripcion": "Evan Treborn, un joven que se está esforzando por superar unos dolorosos recuerdos de su infancia, descubre una técnica que le permite viajar atrás en el tiempo y ocupar su cuerpo de niño para poder cambiar el curso de su dolorosa historia. Sin embargo también descubre que cualquier mínimo cambio en el pasado altera enormemente su futuro.",
+                "anio": "2004",
+                "genero": "Ciencia ficción, Suspense",
+                "duracion": "113 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Minority Report: Sentencia previa",
+                "url": "http://goovdme.967sd1f.homes/vod/866BE431E0AF4DDBA549CED8501EFD14_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/pnzJEfXpRc1bknR5ASFG0MZcTvo.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/r1gLQFbpkWWLrOEPmpqzzMIUxxj.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/pVXdpAHVg1kTS4nuUxHtkXEDyzx.png",
+                "descripcion": "Washington DC, año 2054. La policía utiliza tecnología psíquica para arrestar y enjuiciar a los asesinos antes de que cometan un crimen. El futuro se puede predecir y los culpables son detenidos por la unidad de élite Precrime antes de que puedan delinquir. Las pruebas se basan en los \"precogs\", tres seres psíquicos cuyas visiones sobre los asesinatos nunca han fallado.",
+                "anio": "2002",
+                "genero": "Ciencia ficción, Acción, Suspense",
+                "duracion": "145 min",
+                "type": "PELICULA"
             }
         ]
     },
@@ -10292,7 +10916,7 @@
                 "duracion": "131 min"
             },
             {
-                "name": "Cómo ser millonario antes que muera la abuela",
+                "name": "Como ser millonario antes que muera la abuela",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B926685579F241ABB3915FE47B487EBC_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/vYHtssH7aYrzQZafC4EsmyR4uB6.jpg",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/3kvS6Ws5usxSk1wIbKZ7YPug2V2.jpg",
@@ -11898,6 +12522,54 @@
                 "genero": "Drama",
                 "duracion": "106 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "La leyenda de Bagger Vance",
+                "url": "http://goovdme.967sd1f.homes/vod/0A831D811EB1450C8BEF3C579C216946_meta.torrent",
+                "icono": "https://image.tmdb.org/t/p/original/koQzTXmBccZFZM9Jf5IvuUz7XnB.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/bwS2YrIMJp7yAb8RhuLkNVMLeyY.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/pJLjGTqMLkQ9hMJDDqbEULinHhP.png",
+                "descripcion": "Tras su heroico comportamiento en la Primera Guerra Mundial (1914-1918), Rannulph Junuh (Matt Damon) se hace muy popular. En 1931, lo invitan a enfrentarse a dos famosos jugadores en un torneo de golf, cuyo fin es inaugurar un nuevo campo y atraer la atención del público gracias a su presencia. Pero como Junuh no está al nivel de sus adversarios, decide contratar a un caddie muy especial, Bagger Vance (Will Smith), un misterioso joven negro que parece esconder más de un as en la manga.",
+                "anio": "2000",
+                "genero": "Drama, Romance, Fantasía",
+                "duracion": "126 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "La red social",
+                "url": "http://goovdme.967sd1f.homes/vod/192978F4570F46BA89418CBFD8984A00_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/2GtDmIdxkJ5NZG97yhJQtM8Wn1H.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/cq9N64ucEtfIc3eMxNr1VzY9LH9.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/gj8G3F5Tc3I93hbcEZxzkdXUCTH.png",
+                "descripcion": "Mark Zuckerberg, alumno de Harvard y genio de la programación, se sienta a su ordenador y con empeño y entusiasmo comienza a desarrollar una nueva idea. En un furor de blogging y programación, lo que comenzó en la habitación de su colegio mayor pronto se convirtió en una red social global y una revolución en la comunicación. Seis años y 500 millones de amigos después, Mark Zuckerberg es el billonario más joven de la historia. Pero para este emprendedor, el éxito ha supuesto complicaciones personales y legales...",
+                "anio": "2010",
+                "genero": "Drama",
+                "duracion": "120 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Una vida honrada",
+                "url": "http://goovdme.967sd1f.homes/vod/C65656E83C2C4617AED349245AE4B6ED_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/w6Xdq2juOSaK6QlOQhuYNltmWUU.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/A5V1RIXR277KuLFEa5fdu5wbiEp.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/wlc1Ghim7kWaenlBNXjo81JhlMH.png",
+                "descripcion": "Cuando un insolente estudiante de Derecho en busca de inspiración se une a un grupo de anarquistas, acaba atrapado en una red criminal donde es solo un peón más.",
+                "anio": "2025",
+                "genero": "Suspense, Drama",
+                "duracion": "114 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "The Last Rodeo",
+                "url": "http://goovdme.967sd1f.homes/vod/4760FFB21DC949C5AA8DCBF6843D4978_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/cpATW9o83IwYqPkiT7WLqL2jxlF.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/lyOSmvb6mT78mi1Oi9NqFNrBAgo.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/jKHinAJcpLuslAXBXRowL5PztDb.png",
+                "descripcion": "Una leyenda del rodeo jubilada lo arriesga todo para salvar a su nieto. Enfrentando su doloroso pasado y los temores de su familia, participa en una competencia de monta de toros de alto riesgo como el concursante de mayor edad de la historia. En el camino, reconcilia viejas heridas con su hija distanciada y demuestra que el verdadero coraje reside en la lucha por la familia.",
+                "anio": "2025",
+                "genero": "Drama",
+                "duracion": "118 min",
+                "type": "PELICULA"
             }
         ]
     },
@@ -12167,6 +12839,30 @@
                 "genero": "Comedia, Familia, Ciencia ficción, Película de TV",
                 "duracion": "95 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Jack and the Beanstalk: After Ever After",
+                "url": "http://goovdme.967sd1f.homes/vod/13A162F6979A4676803108DE541C84FC_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/ywe6RwmAEy9XozCrmeNBxaqgVXp.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/lI3RTzxa6ltSZM7djYobiez0Nkg.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/xGWM5j9pACHkvK35oPIINxKYTIP.png",
+                "descripcion": "David Walliams ha co-creado una nueva versión de un cuento de hadas clásico, protagonizada por el gigante en Jack and the Beanstalk: Ever After. En la versión de Walliams, el Gigante no murió después de caerse del tallo de judías, sino que escapó con una conmoción cerebral y no había camino de regreso a su casa. Atrapado en una aldea humana, se ve obligado a buscar ayuda de las fuentes más improbables, mientras intenta burlar a los aldeanos.",
+                "anio": "2020",
+                "genero": "Comedia, Familia",
+                "duracion": "44 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Sueños sobre hielo",
+                "url": "http://goovdme.967sd1f.homes/vod/942294BCC3974652AFC2D50712C63093_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/dTH6whROoMRkP3Ax6vFJwwyqDwj.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/k7dNmXtZeJVpvdoljSFRwpcCYPZ.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/zg9ytoMvxSKqbYmkSZFF4ZJwuVO.png",
+                "descripcion": "La empollona Casey Carlyle siempre se ha sentido un bicho raro. Mientras se debate entre su fantasía de convertirse en una estrella del patinaje artístico y el atosigante carácter de su madre, que ha planeado un futuro para ella en Harvard, Casey sólo sueña con parecerse a Nikki, Tiffany y Gen, tres prodigios del patinaje de élite dispuestos a dejarse la piel en el Circuito Nacional de Estados Unidos (y con posibilidades de ganar). Casey tiene la oportunidad de entrenar junto a Gen y su preparadora, una antigua campeona de patinaje venida a menos que resulta ser la madre de Gen.",
+                "anio": "2005",
+                "genero": "Familia, Drama, Comedia",
+                "duracion": "98 min",
+                "type": "PELICULA"
             }
         ]
     },
@@ -12331,7 +13027,7 @@
             },
             {
                 "name": "Como entrenar a tu dragón 2",
-                "url": "http://uyjj.xmqkychtb.com:80/vod/2EF47BC6AD0F421B84BBC44CD5662320_media.mp4",
+                "url": "http://vedo.wvdbozpfc.com/vod/A34D421F31D948C0AA755B9A0EF875C0_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/bXcRw7FL8QzUZOvY2fZdwDv5ymQ.jpg",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/5MnP0h7RcUCeX7gpxMYoMScmfq7.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/h7GNN2OHNIQDNoD5oChjCBJcRku.png",
@@ -12511,7 +13207,7 @@
             },
             {
                 "name": "Como entrenar a tu dragón",
-                "url": "http://uyjj.xmqkychtb.com:80/vod/2EF47BC6AD0F421B84BBC44CD5662320_media.mp4",
+                "url": "http://goovdme.967sd1f.homes/vod/5F9F984F826B43389EB8543B59BE21D6_media.ts",
                 "icono": "https://image.tmdb.org/t/p/original/sGFO6VshDEQ9vX4tOSobLJpkNhq.jpg",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/7HqLLVjdjhXS0Qoz1SgZofhkIpE.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/sQiQw5CDqxBr7SRT53FMHELm9yp.png",
@@ -12531,6 +13227,18 @@
                 "anio": "2025",
                 "genero": "Terror, Fantasía, Comedia",
                 "duracion": "107 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Donnie Darko",
+                "url": "http://goovdme.967sd1f.homes/vod/55EF3B727C3243D09E32649F95051148_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/1YjDHBC4v2O7IQDKYAiM8fOxzf3.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/msCHK5Kh1YbdZ0zPJ2nzPUhhSN9.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/pNvOhQXSl0qrhzIMZjT7r02kpdV.png",
+                "descripcion": "Donnie es un chico americano dotado de gran inteligencia e imaginación. Tras escapar milagrosamente de una muerte casi segura, comienza a sufrir alucinaciones que lo llevan a actuar como nunca hubiera imaginado y a descubrir un mundo insólito a su alrededor, pues en sus visiones un gran conejito lo manipula para cometer una serie de crímenes.",
+                "anio": "2001",
+                "genero": "Fantasía, Drama, Misterio",
+                "duracion": "113 min",
                 "type": "PELICULA"
             }
         ]
@@ -13795,6 +14503,66 @@
                 "descripcion": "Una historia de terror que entrelaza cuatro relatos en una isla pesquera del lago de Pátzcuaro, Michoacán, donde un malvado espíritu lacustre acecha a los habitantes, proyectando una oscura sombra sobre sus vidas.",
                 "anio": "2025",
                 "genero": "Terror, Fantasía",
+                "duracion": "103 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Triangulo",
+                "url": "http://goovdme.967sd1f.homes/vod/B6C810CFB4AB4DA3B6E3A7E023B010F9_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/rXfbBfZsj8QOsLEszXN0iURWht.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/2F3R4LNKkD1thDxE2SyjGXwWmtR.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/pI6byHch3TEihTMzEzCrVSG9Q8w.png",
+                "descripcion": "Cuando Jess, de camino al puerto, atropella a una gaviota, no se imagina que se trata de un mal presagio. Cuando llega al yate, donde lo espera un grupo de amigos, nota que algo va mal, pero no acierta a saber por qué. Sus temores se acrecientan cuando se desencadena una tormenta que obliga al grupo a abandonar el yate para subir a otro barco, en el que Jess tiene la sensación de haber estado antes. El barco parece desierto, pero no están solos. Alguien los está cazando uno a uno. Y Jess, sin saberlo, tiene la llave que puede acabar ese horror.",
+                "anio": "2009",
+                "genero": "Terror",
+                "duracion": "99 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "1408",
+                "url": "http://goovdme.967sd1f.homes/vod/C8295F968EF4458FBEB474C8DA2BBC25_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/uSU6L34qLpn1Vx4MUkkfs0mCrQ8.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/e6GXJOyRSFsGOwGHnG1TmLuqN9N.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/zGYUhNtRcNESk4PvgJ6403G0M6n.png",
+                "descripcion": "Basada en un relato de Stephen King, cuenta la historia de un novelista de terror que sólo cree en aquello que ven sus ojos. Tras dedicarse a desacreditar fenomenos paranormales ocurridos en supuestas casas fantasmas, él no tiene prueba alguna de la existencia de vida más allá de la muerte. Sin embargo, todo cambiará cuando entre en la habitación 1408 del Hotel Dolphin.",
+                "anio": "2007",
+                "genero": "Terror, Misterio",
+                "duracion": "103 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Invacion zombie 2: Peninsula",
+                "url": "http://goovdme.967sd1f.homes/vod/AC387679374346AF90610D56ADF1A578_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/nrGIZEhaTt5GrIYRvFW4cMWY8du.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/gEjNlhZhyHeto6Fy5wWy5Uk3A9D.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/fKS3lZkZGuj88YUh95CmPb9E37Z.png",
+                "descripcion": "Cuatro años después de la epidemia zombie, Corea sigue infestada de monstruos y el soldado Jung-seok, que escapó del país, se ve obligado a regresar a Seúl para recuperar un objeto valioso. Allí descubre que hay, todavía, personas sanas en la ciudad. Continuación de la aclamada película de zombis \"Train to Busan\".",
+                "anio": "2020",
+                "genero": "Terror, Acción, Suspense, Aventura",
+                "duracion": "116 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Invacion zombie",
+                "url": "http://goovdme.967sd1f.homes/vod/0C1FD8D3E62E4C8FBB0CCFF0D86C27BA_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/anomz7b3GQtHPFH34SODDBBIUad.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/fVpFOcQyHJM2di9upgSIwWD5wac.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/wzOwOGAXLUQwwXwCAHS2x0Wc35B.png",
+                "descripcion": "Un virus letal se expande por Corea del Sur, provocando violentos altercados. Los pasajeros de un tren KTX que viaja de Seúl a Busan tendrán que luchar por su supervivencia.",
+                "anio": "2016",
+                "genero": "Terror, Suspense, Acción, Aventura",
+                "duracion": "118 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Frewaka",
+                "url": "http://goovdme.967sd1f.homes/vod/BC8BA60B0C384681BAFEFF647EFE24ED_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/pfLylbmY0uxQm6Sh63j6bpb7XB3.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/qj0GN10AC65FcJchKLTDmOFE15X.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/3FEiWtTJ6Krjly2jsm1fUFjowOY.png",
+                "descripcion": "Shoo es enviada a una apartada aldea para cuidar a una mujer agorafóbica que vive obsesionada con que Na Sídhe, un ser de la mitología irlandesa similar a las hadas, la secuestró durante su noche de bodas.",
+                "anio": "2025",
+                "genero": "Terror",
                 "duracion": "103 min",
                 "type": "PELICULA"
             }
