@@ -1,7 +1,7 @@
 
 [
     {
-       "name": "🇦🇷CANALES DE ARGENTINA",
+       "name": "🇦🇷CANALES ARGENTINA",
     "samples": [
 
     {
@@ -1055,7 +1055,18 @@
         "headers": {
           "Referer": "https://embedcanaistv.com/",
           "Origin": "https://embedcanaistv.com",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"  
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        }
+    },
+    {
+        "name": "PRUEBA",
+        "url": "https://live-sacl.streann.tech/live_abr/panam2/live/panam2_480p/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTQ4NTM4NzIsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGJkOWU0YjA5YjhmNDA0ZTJlZDIifQ.i8Fp4o7veFIGssxwQxo7wRatBzWuw3eIoSznqTpOO5c",
+        "type": "HLS",
+        "icono": "https://embedcanaistv.com/wp-content/uploads/2025/06/HZDRG0K.png",
+        "headers": {
+          "Referer": "https://www.panamsportschannel.org/",
+          "Origin": "https://www.panamsportschannel.org",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"		
         }
     }
 	]
