@@ -2,7 +2,7 @@
 [
     {
 		
-        "name": "⚽JUEGOS PANAMERICANOS ASUNCION",
+        "name": "⚽JUEGOS PANAMERICANOS ASUNCION 2025",
         "samples": [
  {
         "name": "EVENTO 1",
@@ -1171,12 +1171,12 @@
         "samples": [
  {
         "name": "MLS 1",
-        "url": "https://14c51.crackstreamslivehd.com/global/mls1es/index.m3u8?token=4bce6d3cf452d0b710eadd1e7eafd1f4bc2dda36-37-1754921552-1754867552&ip=181.94.225.151",
+        "url": "https://24a1.crackstreamslivehd.com/mls1es/index.m3u8?token=378a387de1681820a12328f214117a772e48d01c-53-1754922233-1754868233",
         "type": "HLS",
         "icono": "https://github.com/fogertycapiata/femon/blob/main/MLS.png?raw=true",
         "headers": {
-          "Referer": "https://streamtpglobal.com/",
-          "Origin": "https://streamtpglobal.com",
+		"Origin": "https://streamtpglobal.com",
+        "Referer": "https://streamtpglobal.com/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"	
         }
     }
