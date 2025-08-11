@@ -2,11 +2,11 @@
 [
     {
 		
-        "name": "⚽JUEGOS PANAMERICANOS ASUNCION 2025",
+        "name": "⚽JUEGOS PANAMERICANOS ASUNCION",
         "samples": [
  {
         "name": "EVENTO 1",
-        "url": "https://live-sacl.streann.tech/live_abr/panam2/live/panam2_480p/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTQ4NTM4NzIsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGJkOWU0YjA5YjhmNDA0ZTJlZDIifQ.i8Fp4o7veFIGssxwQxo7wRatBzWuw3eIoSznqTpOO5c",
+        "url": "https://live-sacl.streann.tech/live_abr/panam2/live/panam2_240p/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTQ5Mzc2OTUsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGJkOWU0YjA5YjhmNDA0ZTJlZDIifQ.W_1JoWDdG0katRdRPRs4R4uF83LTreVN5hT2f7Ibws8",
         "type": "HLS",
         "icono": "https://github.com/luisoddone/femon/blob/main/PANAME.png?raw=true",
         "headers": {
@@ -17,7 +17,7 @@
     },
     {
         "name": "EVENTO 2",
-        "url": "https://live-sacl.streann.tech/live_abr/panam4/live/panam4_480p/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTQ4NTYwNTUsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGM1Y2U0YjA5YjhmNDA0ZTJlZmYifQ.7WDnUsEDZAjA45bMHSKRRdA2upUuh6I0Fv_XEFSN9F0",
+        "url": "https://live-sacl.streann.tech/live_abr/panam4/live/panam4_source/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTQ5Mzc3ODgsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGM1Y2U0YjA5YjhmNDA0ZTJlZmYifQ.4UzU3LeqVdV9DROF31lCd4MWANbZmooyKpwCDJcNjUU",
         "type": "HLS",
         "icono": "https://github.com/luisoddone/femon/blob/main/PANAME.png?raw=true",
         "headers": {
@@ -28,7 +28,7 @@
     },
     {
         "name": "EVENTO 3",
-        "url": "https://live-sacl.streann.tech/live_abr/panam6/live/panam6_source/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTQ4NTQ5NzQsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGNhZWU0YjA5YjhmNDA0ZTJmNmYifQ.27_E_eCM9443rCl2C1347Eo8p2rUE1l13wwoc38lY9g",
+        "url": "https://live-sacl.streann.tech/live_abr/panam6/live/panam6_480p/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTQ5Mzc4MjgsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGNhZWU0YjA5YjhmNDA0ZTJmNmYifQ.XTxcxSeKjPrzwusEJxKXwK-6BhP2tma-5C8XkLl9YBA",
         "type": "HLS",
         "icono": "https://github.com/luisoddone/femon/blob/main/PANAME.png?raw=true",
         "headers": {
@@ -39,7 +39,7 @@
     },
     {
         "name": "EVENTO 4",
-        "url": "https://live-sacl.streann.tech/live_abr/panam8/live/panam8_source/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTQ4NTUwMzEsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGNlMmU0YjA5YjhmNDA0ZTJmNzEifQ.ynuGSDaXDk5Ay5g6o_RGvf-Ftw8toPlZFkVk4NspDHg",
+        "url": "https://live-sacl.streann.tech/live_abr/panam8/live/panam8_source/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTQ5Mzc5MDAsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGNlMmU0YjA5YjhmNDA0ZTJmNzEifQ.1szNCke7lfphg5uNVRDEIb-VuPnjaGxhlGHTcvnD4Dc",
         "type": "HLS",
         "icono": "https://github.com/luisoddone/femon/blob/main/PANAME.png?raw=true",
         "headers": {
@@ -50,7 +50,7 @@
     },
     {
         "name": "EVENTO 5",
-        "url": "https://live-sacl.streann.tech/live_abr/panam10/live/panam10_source/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTQ4NTUxMTYsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGQ0ZGU0YjA5YjhmNDA0ZTJmN2EifQ.igfIIb9VIY0GwW8U7EZjYBOjD11IMwsoCVvOKBA89cw",
+        "url": "https://live-sacl.streann.tech/live_abr/panam10/live/panam10_240p/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTQ5Mzc5NDMsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGQ0ZGU0YjA5YjhmNDA0ZTJmN2EifQ.9eY6CZiHqqwZeVAZrGZiIeILQ8dkNNwY6TW-ZdvkgDU",
         "type": "HLS",
         "icono": "https://github.com/luisoddone/femon/blob/main/PANAME.png?raw=true",
         "headers": {
@@ -61,7 +61,7 @@
     },
     {
         "name": "EVENTO 6",
-        "url": "https://live-sacl.streann.tech/live_abr/panam12/live/panam12_480p/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTQ4NTUxNjMsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGRhMGU0YjA5YjhmNDA0ZTJmY2MifQ.hilm0ym83Rh9VKfQKrVzpXC2PybLMgb7KOwJd3W7Ri4",
+        "url": "https://live-sacl.streann.tech/live_abr/panam2/live/panam2_480p/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTQ5Mzc5ODcsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGJkOWU0YjA5YjhmNDA0ZTJlZDIifQ.haAM8ixfd0VgN2KLFr4k3DfOAtUHq_P0An6gSVUXEAI",
         "type": "HLS",
         "icono": "https://github.com/luisoddone/femon/blob/main/PANAME.png?raw=true",
         "headers": {
@@ -72,7 +72,7 @@
     },
     {
         "name": "EVENTO 7",
-        "url": "https://live-sacl.streann.tech/live_abr/panam14/live/panam14_source/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTQ4NTUyMjQsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGY2MWU0YjBlNmQ1ZDJjYTg2ODEifQ.DkkQGWmitDxNp0t3sK6hCqSI7_xHk6O74VecujcfO_s",
+        "url": "https://live-sacl.streann.tech/live_abr/panam14/live/panam14_480p/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTQ5MzgwMjMsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGY2MWU0YjBlNmQ1ZDJjYTg2ODEifQ.oZbRPCl96diA89H67rYntV3Dtlu_BiOuxRcbhf8eKJk",
         "type": "HLS",
         "icono": "https://github.com/luisoddone/femon/blob/main/PANAME.png?raw=true",
         "headers": {
@@ -83,7 +83,7 @@
     },
     {
         "name": "EVENTO 8",
-        "url": "https://live-sacl.streann.tech/live_abr/panam16/live/panam16_source/l_3709_387360793_20321.ts?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTQ4NTUzMjYsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGZhOGU0YjBlNmQ1ZDJjYTg2ODUifQ.TCOsO48GQuFQ2LU7cE01rEVagcfFEN5wDagdKv33s2w",
+        "url": "https://live-sacl.streann.tech/live_abr/panam2/live/panam2_480p/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTQ5MzgwNjksInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGJkOWU0YjA5YjhmNDA0ZTJlZDIifQ.hXNaV2abEWMhBQYM4UQKPkU4cytWBb5nPqEQH-R_kxQ",
         "type": "HLS",
         "icono": "https://github.com/luisoddone/femon/blob/main/PANAME.png?raw=true",
         "headers": {
@@ -94,7 +94,7 @@
     },
     {
         "name": "EVENTO 9",
-        "url": "https://live-sacl.streann.tech/live_abr/panam18/live/panam18_source/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTQ4NTUzODAsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGZmNmU0YjBlNmQ1ZDJjYTg2OGIifQ.QlBKXEC7-_mzf6AE9J5lM9ioHgPrWpbdBUZ1ivetlbE",
+        "url": "https://live-sacl.streann.tech/live_abr/panam18/live/panam18_source/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTQ5MzgxMjksInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGZmNmU0YjBlNmQ1ZDJjYTg2OGIifQ.p_jljJtAfbxLUF8m-z133VnJt9D6nE7sJZ4uqEfFfmw",
         "type": "HLS",
         "icono": "https://github.com/luisoddone/femon/blob/main/PANAME.png?raw=true",
         "headers": {
