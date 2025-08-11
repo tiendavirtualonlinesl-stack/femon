@@ -2,11 +2,11 @@
 [
     {
 		
-        "name": "⚽JUEGOS PANAMERICANOS ASUNCION",
+        "name": "⚽JUEGOS PANAMERICANOS ASUNCION 2025",
         "samples": [
  {
         "name": "EVENTO 1",
-        "url": "https://live-sacl.streann.tech/live_abr/panam2/live/panam2_240p/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTQ5Mzc2OTUsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGJkOWU0YjA5YjhmNDA0ZTJlZDIifQ.W_1JoWDdG0katRdRPRs4R4uF83LTreVN5hT2f7Ibws8",
+        "url": "https://live-sacl.streann.tech/live_abr/panam2/live/panam2_480p/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTQ5Mzg0MDMsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGJkOWU0YjA5YjhmNDA0ZTJlZDIifQ.-HQeRySk8sbXiCOtPd0748wNVx1kMsPJWSYj5CtM8L0",
         "type": "HLS",
         "icono": "https://github.com/luisoddone/femon/blob/main/PANAME.png?raw=true",
         "headers": {
@@ -50,7 +50,7 @@
     },
     {
         "name": "EVENTO 5",
-        "url": "https://live-sacl.streann.tech/live_abr/panam10/live/panam10_240p/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTQ5Mzc5NDMsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGQ0ZGU0YjA5YjhmNDA0ZTJmN2EifQ.9eY6CZiHqqwZeVAZrGZiIeILQ8dkNNwY6TW-ZdvkgDU",
+        "url": "https://live-sacl.streann.tech/live_abr/panam10/live/panam10_source/l_6247_1333578142_5056.ts?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTQ5Mzg1MTQsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGQ0ZGU0YjA5YjhmNDA0ZTJmN2EifQ.VcUSUlmGpuVrNLR4QtKVb4Y-OXzj4bHtMmHAYi96YdA",
         "type": "HLS",
         "icono": "https://github.com/luisoddone/femon/blob/main/PANAME.png?raw=true",
         "headers": {
@@ -61,7 +61,7 @@
     },
     {
         "name": "EVENTO 6",
-        "url": "https://live-sacl.streann.tech/live_abr/panam2/live/panam2_480p/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTQ5Mzc5ODcsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGJkOWU0YjA5YjhmNDA0ZTJlZDIifQ.haAM8ixfd0VgN2KLFr4k3DfOAtUHq_P0An6gSVUXEAI",
+        "url": "https://live-sacl.streann.tech/live_abr/panam2/live/panam2_480p/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTQ5Mzg1NzIsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGJkOWU0YjA5YjhmNDA0ZTJlZDIifQ.kwbYDsFuIoPVEqYtGPEGjMM3fRHIRK55qWiCzuPOuVY",
         "type": "HLS",
         "icono": "https://github.com/luisoddone/femon/blob/main/PANAME.png?raw=true",
         "headers": {
