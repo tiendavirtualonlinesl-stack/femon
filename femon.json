@@ -2,7 +2,7 @@
 [
     {
 		
-        "name": "⚽JUEGOS PANAMERICANOS ASUNCION 2025",
+        "name": "⚽JUEGOS PANAMERICANOS ASUNCION",
         "samples": [
  {
         "name": "EVENTO 1",
@@ -1170,14 +1170,18 @@
 	    "name": "⚽MLS SEASSON PASS",
         "samples": [
  {
-        "name": "MLS 1",
-        "url": "https://24a1.crackstreamslivehd.com/mls1es/tracks-v1a1/2025/08/11/01/53/23-09267.ts?token=378a387de1681820a12328f214117a772e48d01c-53-1754922233-1754868233",
-        "type": "HLS",
-        "icono": "https://github.com/fogertycapiata/femon/blob/main/MLS.png?raw=true",
-        "headers": {
-		"Origin": "https://streamtpglobal.com",
-        "Referer": "https://streamtpglobal.com/",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"	
+  "name": "21.00hs Orlando City vs Inter Miami",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/250px-MLS_crest_logo_RGB_gradient.svg.png",
+  "url": "http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsportssupercanal&token=3576520243",
+  "drm_scheme": "clearkey",
+  "drm_license": {
+    "32a676e28a33590b94a6e498ad83b486": "e74d3a490e83035ba4fb62d90f78d30a",
+    "6fc46152f5f95fbd9b5cd86ca70ec8cc": "9215c3144ef88413f858196d9b79198f",
+    "20977c2237e3511793cb731c41f513ad": "e6fa8f27b510bef16d0c6c0c43eb112e"
+  },
+  "headers": {
+    "origin": "https://www.mio.tv",
+    "referer": "https://www.mio.tv/"
         }
     }
 	]
