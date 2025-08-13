@@ -2,11 +2,11 @@
 [
     {
 		
-        "name": "⚽JUEGOS PANAMERICANOS ASUNCION 2025",
+        "name": "⚽JUEGOS PANAMERICANOS ASUNCION",
         "samples": [
  {
-        "name": "SENAL INTEGRADA",
-        "url": "https://live-sacl.streann.tech/live_abr/panam2/live/panam2_480p/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTUwMjQ5MjcsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGJkOWU0YjA5YjhmNDA0ZTJlZDIifQ.ktCpyig0RwWw8NcWjG_eHM3xk9JZ8BebMQDPIVIfWwE",
+        "name": "ACUATICOS NATACION",
+        "url": "https://live-us.streann.tech/live_abr/panam2/live/panam2_source/l_12240512_2042.ts?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTUxMTE1ODAsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGJkOWU0YjA5YjhmNDA0ZTJlZDIifQ.AlmEbljAMmpRpG-93Y27p5IsHcDQ8K71ZvE0UKjd4r4",
         "type": "HLS",
         "icono": "https://github.com/luisoddone/femon/blob/main/PANAME.png?raw=true",
         "headers": {
@@ -16,8 +16,8 @@
         }
     },
     {
-        "name": "GIMNASIA RITMICA TRAMPOLIN",
-        "url": "https://live-sacl.streann.tech/live_abr/panam4/live/panam4_240p/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTUwMjUwOTksInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGM1Y2U0YjA5YjhmNDA0ZTJlZmYifQ.-YJQsDorjJx2i4XDal7rhNeCn8S-kmkb73Keiw9-zyw",
+        "name": "GIMNASIA RITMICA",
+        "url": "https://live-us.streann.tech/live_abr/panam4/live/panam4_source/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTUxMTE2NDQsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGM1Y2U0YjA5YjhmNDA0ZTJlZmYifQ.p3xlYuc2pIrP4PSt4PbD4HCAE6ym2eY-Kzfb3Zx52aE",
         "type": "HLS",
         "icono": "https://github.com/luisoddone/femon/blob/main/PANAME.png?raw=true",
         "headers": {
@@ -28,62 +28,7 @@
     },
     {
         "name": "11HS AM CICLISMO PISTA",
-        "url": "https://live-sacl.streann.tech/live_abr/panam6/live/panam6_480p/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTUwMjUxNzQsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGNhZWU0YjA5YjhmNDA0ZTJmNmYifQ.7h_I9YneGMliY46BWS96w6b8yBOLjP_0HIV0PDA7AB",
-        "type": "HLS",
-        "icono": "https://github.com/luisoddone/femon/blob/main/PANAME.png?raw=true",
-        "headers": {
-          "Referer": "https://www.panamsportschannel.org/",
-          "Origin": "https://www.panamsportschannel.org",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"	
-        }
-    },
-    {
-        "name": "NATACION",
-        "url": "https://live-sacl.streann.tech/live_abr/panam8/live/panam8_source/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTUwMjUyNTgsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGNlMmU0YjA5YjhmNDA0ZTJmNzEifQ.C4soxpI0zgReTETN4dp-5n0eUnVQkib4kOLflb23ExA",
-        "type": "HLS",
-        "icono": "https://github.com/luisoddone/femon/blob/main/PANAME.png?raw=true",
-        "headers": {
-          "Referer": "https://www.panamsportschannel.org/",
-          "Origin": "https://www.panamsportschannel.org",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"	
-        }
-    },
-    {
-        "name": "HAMDBALL",
-        "url": "https://live-sacl.streann.tech/live_abr/panam12/live/panam12_480p/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTUwMjUzNzUsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGRhMGU0YjA5YjhmNDA0ZTJmY2MifQ.C7R6s_3yBo_XgW_flg_RLdKusnXO4nG_rjpfPEV8P-Q",
-        "type": "HLS",
-        "icono": "https://github.com/luisoddone/femon/blob/main/PANAME.png?raw=true",
-        "headers": {
-          "Referer": "https://www.panamsportschannel.org/",
-          "Origin": "https://www.panamsportschannel.org",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"	
-        }
-    },
-    {
-        "name": "REMO",
-        "url": "https://live-sacl.streann.tech/live_abr/panam14/live/panam14_source/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTUwMjU0NTQsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGY2MWU0YjBlNmQ1ZDJjYTg2ODEifQ.zWijot-VzZ_p2q625vLupkusqWOIquYijQAchAkrQb8",
-        "type": "HLS",
-        "icono": "https://github.com/luisoddone/femon/blob/main/PANAME.png?raw=true",
-        "headers": {
-          "Referer": "https://www.panamsportschannel.org/",
-          "Origin": "https://www.panamsportschannel.org",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"	
-        }
-    },
-    {
-        "name": "10Y30 AM JUDO",
-        "url": "https://live-sacl.streann.tech/live_abr/panam16/live/panam16_480p/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTUwMjU1MjIsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGZhOGU0YjBlNmQ1ZDJjYTg2ODUifQ.PmcewO-JW4JOJcnA_dF1ZHnn5Xp-Ujcsq8hJps-tlLs",
-        "type": "HLS",
-        "icono": "https://github.com/luisoddone/femon/blob/main/PANAME.png?raw=true",
-        "headers": {
-          "Referer": "https://www.panamsportschannel.org/",
-          "Origin": "https://www.panamsportschannel.org",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"	
-        }
-    },
-    {
-        "name": "FENCING",
-        "url": "https://live-us.streann.tech/live_abr/panam18/live/panam18_source/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTUwMjU1NjUsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGZmNmU0YjBlNmQ1ZDJjYTg2OGIifQ.-tePlySnmrYBFqZVYdDF8t7V0DofQsQ9Qbi5gOm0ptY",
+        "url": "https://live-us.streann.tech/live_abr/panam6/live/panam6_480p/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTUxMTE3MzcsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGNhZWU0YjA5YjhmNDA0ZTJmNmYifQ.SGbrw-8753qlhoqznxzDSGa8vY4QJftqwDQahcCChoM",
         "type": "HLS",
         "icono": "https://github.com/luisoddone/femon/blob/main/PANAME.png?raw=true",
         "headers": {
@@ -94,7 +39,62 @@
     },
     {
         "name": "HOCKEY CESPED",
-        "url": "https://live-sacl.streann.tech/live_abr/panam10/live/panam10_480p/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTUwMjU2NjIsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGQ0ZGU0YjA5YjhmNDA0ZTJmN2EifQ.c2Be9lEBLcaaeLiArJbLCfk5cI0Y8KIHDdR4h89L1cM",
+        "url": "https://live-sa.streann.tech/live_abr/panam8/live/panam8_source/l_71265_77917612_12988.ts?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTUxMTE3NzUsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGNlMmU0YjA5YjhmNDA0ZTJmNzEifQ.dmQ9qsbBFey5bfaqTFyBlos15unTIXLwDAd47laeI4g",
+        "type": "HLS",
+        "icono": "https://github.com/luisoddone/femon/blob/main/PANAME.png?raw=true",
+        "headers": {
+          "Referer": "https://www.panamsportschannel.org/",
+          "Origin": "https://www.panamsportschannel.org",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"	
+        }
+    },
+    {
+        "name": "TENIS",
+        "url": "https://live-sa.streann.tech/live_abr/panam10/live/panam10_480p/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTUxMTE4MjUsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGQ0ZGU0YjA5YjhmNDA0ZTJmN2EifQ.yRUYOigNJ_7iEcmyzijp8vTEusA7UCU3ZtDSRHITV50",
+        "type": "HLS",
+        "icono": "https://github.com/luisoddone/femon/blob/main/PANAME.png?raw=true",
+        "headers": {
+          "Referer": "https://www.panamsportschannel.org/",
+          "Origin": "https://www.panamsportschannel.org",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"	
+        }
+    },
+    {
+        "name": "REMO",
+        "url": "https://live-us.streann.tech/live_abr/panam12/live/panam12_source/l_83124470_13849.ts?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTUxMTE4ODQsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGRhMGU0YjA5YjhmNDA0ZTJmY2MifQ.1oH_4Di-xq1SJnTxJHr57GMutQDvdromhUWmV3JCesE",
+        "type": "HLS",
+        "icono": "https://github.com/luisoddone/femon/blob/main/PANAME.png?raw=true",
+        "headers": {
+          "Referer": "https://www.panamsportschannel.org/",
+          "Origin": "https://www.panamsportschannel.org",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"	
+        }
+    },
+    {
+        "name": "JUDO",
+        "url": "https://live-us.streann.tech/live_abr/panam14/live/panam14_source/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTUxMTE5MjEsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGY2MWU0YjBlNmQ1ZDJjYTg2ODEifQ.OI7Wj35VPNp5xC4QGNspCBGE6Jg413Itb3IrIIAhqFY",
+        "type": "HLS",
+        "icono": "https://github.com/luisoddone/femon/blob/main/PANAME.png?raw=true",
+        "headers": {
+          "Referer": "https://www.panamsportschannel.org/",
+          "Origin": "https://www.panamsportschannel.org",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"	
+        }
+    },
+    {
+        "name": "EVENTO",
+        "url": "https://live-us.streann.tech/live_abr/panam16/live/panam16_480p/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTUxMTIwNDMsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGZhOGU0YjBlNmQ1ZDJjYTg2ODUifQ.at9WDQFuU3kDq7DuGjQPXmKIOdpehpD6RrQA6aGSX28",
+        "type": "HLS",
+        "icono": "https://github.com/luisoddone/femon/blob/main/PANAME.png?raw=true",
+        "headers": {
+          "Referer": "https://www.panamsportschannel.org/",
+          "Origin": "https://www.panamsportschannel.org",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"	
+        }
+    },
+    {
+        "name": "EVENTO 2",
+        "url": "https://live-us.streann.tech/live_abr/panam16/live/panam16_480p/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTUxMTIwNDMsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGZhOGU0YjBlNmQ1ZDJjYTg2ODUifQ.at9WDQFuU3kDq7DuGjQPXmKIOdpehpD6RrQA6aGSX28",
         "type": "HLS",
         "icono": "https://github.com/luisoddone/femon/blob/main/PANAME.png?raw=true",
         "headers": {
