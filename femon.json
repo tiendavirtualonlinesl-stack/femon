@@ -895,7 +895,7 @@
             },
             {
                 "name": "GEN_TV 🇵🇾 opción 2",
-                "url": "https://cdn-py.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc_C/GEN_TV.mpd",
+                "url": "https://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU1MzA4NDQ1Iiwic2lwIjoiNDUuMjM3LjIyMi43IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0M1Ti9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNWE0MTY3NGVlZTU0ZmFjMSIsInNlc3Npb25faWQiOiI4MjQ1NTc3NS0xNzU1MTM1NjQ1LTUwMCIsImNsaWVudF9pZCI6IjEzMjI1NzM3IiwiZGV2aWNlX2lkIjoiODI0NTU3NzUiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiI3OCIsInNvdXJjZXMiOls4NSw4Niw4OF19.DWNeX4-hHPk7niaeEQk9W2nX1X5bdN4qDmPqDTbOof8aoQS7CWLbnCPlIqGURnjlWif_YUQysNEGic-BxU2b4A==//live/c7eds/GEN_TV/SA_Live_dash_enc_C/GEN_TV.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/y66sigfrf2md3jc8yud6u/gentv.json?rlkey=017rpiwa48ehik6b5etaig3ee&st=4krm46c3&dl=0",
                 "icono": "https://i0.wp.com/television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg?fit=620%2C350&ssl=1",
@@ -919,7 +919,7 @@
             },
             {
                 "name": "LA_TELE 🇵🇾 opción 2",
-                "url": "https://cdn-py.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc_C/LA_TELE_C4.mpd",
+                "url": "https://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU1MzA4NDQ1Iiwic2lwIjoiNDUuMjM3LjIyMi43IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0M1Ti9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNWE0MTY3NGVlZTU0ZmFjMSIsInNlc3Npb25faWQiOiI4MjQ1NTc3NS0xNzU1MTM1NjQ1LTUwMCIsImNsaWVudF9pZCI6IjEzMjI1NzM3IiwiZGV2aWNlX2lkIjoiODI0NTU3NzUiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiI3OCIsInNvdXJjZXMiOls4NSw4Niw4OF19.DWNeX4-hHPk7niaeEQk9W2nX1X5bdN4qDmPqDTbOof8aoQS7CWLbnCPlIqGURnjlWif_YUQysNEGic-BxU2b4A==//live/c4eds/LA_TELE_C4/SA_Live_dash_enc_C/LA_TELE_C4.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/4re2kjcs0qf0ej7mi8wub/latele.json?rlkey=4sfqceya57qqonxz1t0xkjbh9&st=agb952f8&dl=0",
                 "icono": "https://i.ibb.co/R7c5mZN/latele-1.jpg",
