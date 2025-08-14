@@ -2,7 +2,7 @@
 [
     {
 		
-        "name": "⚽JUEGOS PANAMERICANOS ASUNCION",
+        "name": "⚽JUEGOS PANAMERICANOS ASUNCION 2025",
         "samples": [
  {
         "name": "ACUATICOS NATACION",
@@ -103,7 +103,19 @@
         "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1"	
         }
     },
-    {	
+    {
+        "name": "ESPN PRUEBA SIN TOKEN",
+        "url": "https://edge-live31-hr.cvattv.com.ar//live/c3eds/ESPN2HD/SA_Live_dash_enc_C/ESPN2HD.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/1lh2bppd9ch61z29cc9mb/espn1.json?rlkey=urq70uvge80wenomj54kb2ec1&st=q6gmos0w&dl=0",
+        "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png",
+        "headers": {
+            "Origin": "https://web.app.flow.com.ar",
+            "Referer": "https://web.app.flow.com.ar/guia-de-tv",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"	
+        }
+    },
+    {			
         "name": "EVENTO 2",
         "url": "https://live-us.streann.tech/live_abr/panam16/live/panam16_480p/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTUxMTIwNDMsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGZhOGU0YjBlNmQ1ZDJjYTg2ODUifQ.at9WDQFuU3kDq7DuGjQPXmKIOdpehpD6RrQA6aGSX28",
         "type": "HLS",
