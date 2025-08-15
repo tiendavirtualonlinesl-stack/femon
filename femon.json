@@ -25,8 +25,8 @@
                 }
             },
             {
-                "name": "11HS AM CICLISMO PISTA",
-                "url": "https://live-us.streann.tech/live_abr/panam6/live/panam6_480p/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTUxMTE3MzcsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGNhZWU0YjA5YjhmNDA0ZTJmNmYifQ.SGbrw-8753qlhoqznxzDSGa8vY4QJftqwDQahcCChoM",
+                "name": "BALONCESTO",
+                "url": "https://live-us.streann.tech/live_abr/panam6/live/panam6_240p/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTUyODAwMjUsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGNhZWU0YjA5YjhmNDA0ZTJmNmYifQ.k2Bwbul-n5pysMnIGToTf4-mMfuoMHzYnhaAtNkxeq8",
                 "type": "HLS",
                 "icono": "https://github.com/luisoddone/femon/blob/main/PANAME.png?raw=true",
                 "headers": {
