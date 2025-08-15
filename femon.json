@@ -14,8 +14,8 @@
                 }
             },
             {
-                "name": "GIMNASIA RITMICA",
-                "url": "https://live-us.streann.tech/live_abr/panam4/live/panam4_source/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTUxMTE2NDQsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGM1Y2U0YjA5YjhmNDA0ZTJlZmYifQ.p3xlYuc2pIrP4PSt4PbD4HCAE6ym2eY-Kzfb3Zx52aE",
+                "name": "VOLIBOL",
+                "url": "https://live-us.streann.tech/live_abr/panam4/live/panam4_480p/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTUyNzk5NTcsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGM1Y2U0YjA5YjhmNDA0ZTJlZmYifQ.gXhCQYU76w5KMsjaIcvOftYdqYbezvLPtmLz8tCqrI4",
                 "type": "HLS",
                 "icono": "https://github.com/luisoddone/femon/blob/main/PANAME.png?raw=true",
                 "headers": {
