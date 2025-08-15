@@ -26,7 +26,7 @@
             },
             {
                 "name": "BALONCESTO",
-                "url": "https://live-us.streann.tech/live_abr/panam6/live/panam6_240p/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTUyODAwMjUsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGNhZWU0YjA5YjhmNDA0ZTJmNmYifQ.k2Bwbul-n5pysMnIGToTf4-mMfuoMHzYnhaAtNkxeq8",
+                "url": "https://live-us.streann.tech/live_abr/panam6/live/panam6_480p/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTUyODA1ODksInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGNhZWU0YjA5YjhmNDA0ZTJmNmYifQ.33vy62cG__P15Scwlx6rGftAbAFHuLJZHfb8TPqSVo4",
                 "type": "HLS",
                 "icono": "https://github.com/luisoddone/femon/blob/main/PANAME.png?raw=true",
                 "headers": {
