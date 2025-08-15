@@ -36,8 +36,8 @@
                 }
             },
             {
-                "name": "HOCKEY CESPED",
-                "url": "https://live-sa.streann.tech/live_abr/panam8/live/panam8_source/l_71265_77917612_12988.ts?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTUxMTE3NzUsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGNlMmU0YjA5YjhmNDA0ZTJmNzEifQ.dmQ9qsbBFey5bfaqTFyBlos15unTIXLwDAd47laeI4g",
+                "name": "HOCKEY CESPED PRELIMINARES",
+                "url": "https://live-sa.streann.tech/live_abr/panam8/live/panam8_480p/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTUyODAwOTQsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGNlMmU0YjA5YjhmNDA0ZTJmNzEifQ.F9wWDzqzSaFduhC1CqWNylpxplWvHZPRmwKpTTI8B0U",
                 "type": "HLS",
                 "icono": "https://github.com/luisoddone/femon/blob/main/PANAME.png?raw=true",
                 "headers": {
