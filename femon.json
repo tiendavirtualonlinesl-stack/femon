@@ -91,17 +91,6 @@
                 }
             },
             {
-                "name": "ESPN",
-                "url": "https://51a1.crackstreamslivehd.com/espn/index.m3u8?token=8727f03103146170125cb950eeee22970b7d105a-60-1755172556-1755118556",
-                "type": "hls",
-                "icono": "https://github.com/luisoddone/femon/blob/main/PANAME.png?raw=true",
-                "headers": {
-                    "Referer": "https://streamtpglobal.com/",
-                    "Origin": "https://streamtpglobal.com",
-                    "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1"
-                }
-            },
-            {
                 "name": "ESPN PRUEBA SIN TOKEN",
                 "url": "https://edge-live31-hr.cvattv.com.ar//live/c3eds/ESPN2HD/SA_Live_dash_enc_C/ESPN2HD.mpd",
                 "type": "CLEARKEY",
