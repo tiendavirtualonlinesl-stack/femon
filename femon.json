@@ -91,8 +91,8 @@
                 }
             },
             {
-                "name": "EVENTO 2",
-                "url": "https://live-us.streann.tech/live_abr/panam16/live/panam16_480p/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTUxMTIwNDMsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGZhOGU0YjBlNmQ1ZDJjYTg2ODUifQ.at9WDQFuU3kDq7DuGjQPXmKIOdpehpD6RrQA6aGSX28",
+                "name": "VOLEY",
+                "url": "https://live-us.streann.tech/live_abr/panam18/live/panam18_source/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTUyODAzNzYsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGZmNmU0YjBlNmQ1ZDJjYTg2OGIifQ.8duh4al4-kZlXUtmDaHd8LpMV1qgpGy1zueMNUo1rwI",
                 "type": "HLS",
                 "icono": "https://github.com/luisoddone/femon/blob/main/PANAME.png?raw=true",
                 "headers": {
