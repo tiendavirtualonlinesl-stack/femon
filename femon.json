@@ -58,8 +58,8 @@
                 }
             },
             {
-                "name": "REMO",
-                "url": "https://live-us.streann.tech/live_abr/panam12/live/panam12_source/l_83124470_13849.ts?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTUxMTE4ODQsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGRhMGU0YjA5YjhmNDA0ZTJmY2MifQ.1oH_4Di-xq1SJnTxJHr57GMutQDvdromhUWmV3JCesE",
+                "name": "TAEKWONDO",
+                "url": "https://live-us.streann.tech/live_abr/panam12/live/panam12_source/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTUyODAxOTEsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGRhMGU0YjA5YjhmNDA0ZTJmY2MifQ.035g2ddufs3nVCmShKhFxPc1-pdrU7eOFWspeKTj1eU",
                 "type": "HLS",
                 "icono": "https://github.com/luisoddone/femon/blob/main/PANAME.png?raw=true",
                 "headers": {
