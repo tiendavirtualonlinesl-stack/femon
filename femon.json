@@ -69,8 +69,8 @@
                 }
             },
             {
-                "name": "JUDO",
-                "url": "https://live-us.streann.tech/live_abr/panam14/live/panam14_source/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTUxMTE5MjEsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGY2MWU0YjBlNmQ1ZDJjYTg2ODEifQ.OI7Wj35VPNp5xC4QGNspCBGE6Jg413Itb3IrIIAhqFY",
+                "name": "SQUASH",
+                "url": "https://live-us.streann.tech/live_abr/panam14/live/panam14_source/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODk4OWQzMTYwYjI4MjExMmQ3YTQzOGQiLCJleHAiOjE3NTUyODAyNjQsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGY2MWU0YjBlNmQ1ZDJjYTg2ODEifQ.HKmTKAqsAramB8flBch8NbqIXqn4f9JGu0JVd0WS8rs",
                 "type": "HLS",
                 "icono": "https://github.com/luisoddone/femon/blob/main/PANAME.png?raw=true",
                 "headers": {
