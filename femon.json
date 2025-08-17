@@ -1384,6 +1384,23 @@
         ]
     },
     {
+        "name": "🇵🇾 CANALES DE PARAGUAY (Pack 2)",
+        "samples": [
+            {
+                "name": "PARAVISION 🇵🇾",
+                "url": "https://cdn-py.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc_C/PARAVISION_C4.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://github.com/fogertycapiata/tvpataguaya/blob/main/Paravision_logo.png?raw=true",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            }
+        ]
+    },
+    {
         "name": "🇵🇾​CANALES INTERIOR PARAGUAY",
         "samples": [
             {
@@ -5442,23 +5459,6 @@
                 "type": "CLEARKEY",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/9/91/Logo_Canal_de_la_Ciudad.png",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5ee7842b3cf24d1dba088365fa5d0543&key=69cec006409823c06fbf2866a231b4f7",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            }
-        ]
-    },
-    {
-        "name": "🇵🇾 CANALES DE PARAGUAY (Pack 2)",
-        "samples": [
-            {
-                "name": "PARAVISION 🇵🇾",
-                "url": "https://cdn-py.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc_C/PARAVISION_C4.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://github.com/fogertycapiata/tvpataguaya/blob/main/Paravision_logo.png?raw=true",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
                 "headers": {
                     "Origin": "https://web.app.flow.com.ar",
                     "Referer": "https://web.app.flow.com.ar/guia-de-tv",
