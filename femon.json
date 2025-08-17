@@ -849,6 +849,18 @@
                     "Referer": "https://portal.app.flow.com.ar/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
+            },
+            {
+                "name": "Somos El Valle",
+                "url": "https://edge-mix02-coe.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU1MjcyMDUyIiwic2lwIjoiNDUuMTc4LjIuMjQ5IiwicGF0aCI6Ii9saXZlL2MzZWRzL0FtZXJpY2FUVi9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYmYwM2RiOWMzZWU4M2E2NSIsInNlc3Npb25faWQiOiI4MTM5MzUyNC0xNzU1MDk5MjUyLTIxNyIsImNsaWVudF9pZCI6IjEzMTIxODg0IiwiZGV2aWNlX2lkIjoiODEzOTM1MjQiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIxMjAiLCJzb3VyY2VzIjpbNzMsODUsMTQ0LDg2LDg4XX0=.ESwGQ0XHQb0dhlnAE8PIq2qi8w81x4PckQBEvRy6QWRoYHP2C714HVYsgtoWJRG4jTE2dboOspjWqmhy61vbFA==/live/c4eds/Somos_El_Valle/SA_Live_dash_enc_C/Somos_El_Valle.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://static.wikia.nocookie.net/logopedia/images/5/55/Somoselvalle.jpg/revision/latest?cb=20160903125456&path-prefix=es",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=513f2056bf40d9123918fd7939fbf065&key=075ee6dd9b67d88be5642eaa510e91cb",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
             }
         ]
     },
