@@ -495,7 +495,7 @@
                 "name": "Canal 9 Mendoza",
                 "url": "https://stream.arcast.live/canal9litoral/ngrp:canal9litoral_all/playlist.m3u8",
                 "type": "HLS",
-                "icono": "https://www.parana.com.ar/util/prestadores/imagenes/14837.jpg"
+                "icono": "http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png"
             }
         ]
     },
