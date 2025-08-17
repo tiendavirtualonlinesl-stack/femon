@@ -397,12 +397,6 @@
             },
             {
                 "name": "Canal 4 San Juan",
-                "url": "https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8",
-                "icono": "https://iili.io/3L9yLdb.th.jpg",
-                "type": "HLS"
-            },
-            {
-                "name": "Canal 4 San Juan",
                 "url": "http://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8",
                 "type": "HLS",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Channel_4_logo_%28San_Juan%2C_Argentina%29_.png/133px-Channel_4_logo_%28San_Juan%2C_Argentina%29_.png"
