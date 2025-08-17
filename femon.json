@@ -396,9 +396,10 @@
                 "type": "HLS"
             },
             {
-                "name": "CANAL 4 SAN JUAN",
+                "name": "Canal 4 San Juan",
                 "url": "https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8",
-                "icono": "https://iili.io/3L9yLdb.th.jpg"
+                "icono": "https://iili.io/3L9yLdb.th.jpg",
+                "type": "HLS"
             },
             {
                 "name": "CANAL 7 NEUQUÉN",
