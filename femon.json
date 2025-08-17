@@ -1,5 +1,22 @@
 [
     {
+        "name": "⚽ EVENTO EN VIVO (Solo Exclusividad)",
+        "samples": [
+            {
+                "name": "MLS",
+                "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/83770",
+                "type": "HLS",
+                "icono": ""
+            },
+            {
+                "name": "MLS",
+                "url": "http://serviciosvisuales.net:80/Mdprime/XWDJKHMQBG/804172",
+                "type": "HLS",
+                "icono": ""
+            }
+        ]
+    },
+    {
         "name": "⚽JUEGOS PANAMERICANOS ASUNCION 2025",
         "samples": [
             {
@@ -4274,23 +4291,6 @@
                     "Origin": "https://envivo1.com",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
                 }
-            }
-        ]
-    },
-    {
-        "name": "⚽ EVENTO EN VIVO (Solo Exclusividad)",
-        "samples": [
-            {
-                "name": "MLS",
-                "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/83770",
-                "type": "HLS",
-                "icono": ""
-            },
-            {
-                "name": "MLS",
-                "url": "http://serviciosvisuales.net:80/Mdprime/XWDJKHMQBG/804172",
-                "type": "HLS",
-                "icono": ""
             }
         ]
     }
