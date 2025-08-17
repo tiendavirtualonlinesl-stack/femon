@@ -8,7 +8,9 @@
                 "type": "HLS",
                 "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitLpWDHKEwYWUffSPWRqdasXQTl-WPhNASL4nmfhFVTdAYDKY41lRJgpRtPQandxSx2I1p-on2u9vzBC1Hamm45-0mPrmw4W7sdBMtcl6NuptTfNLJqLI4qI3TQtpXjreyOsLnzyfcu6j06Tdod61ZBGXNUuu3EBQs4vVn0G-gIpCmFrcGFFEPagqLIqM/w438-h242-p-k-no-nu/River%20Plate%20X%20Godoy%20Cruz.png=w72-h72-p-k-no-nu",
                 "headers": {
-                    "https://elverruca.tech": ""
+                    "Origin": "https://elverruca.tech",
+                    "Referer": "https://elverruca.tech/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
                 }
             }
         ]
