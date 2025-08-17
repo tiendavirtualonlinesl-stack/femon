@@ -16,7 +16,7 @@
             },
             {
                 "name": "MLS",
-                "url": "https://bb.jeinzmacias.pe/2025/08/inter-miami-vs-la-galaxy-en-vivo.m3u8",
+                "url": "https://qhnui7p0.s3.eu-west-1.amazonaws.com/hls/stream15/index.m3u8",
                 "type": "HLS",
                 "icono": "https://github.com/luisoddone/femon/blob/main/MLS.png?raw=true"
             }
