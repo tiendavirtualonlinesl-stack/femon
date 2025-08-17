@@ -586,6 +586,12 @@
                 "url": "http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/chunklist_w247540946.m3u8",
                 "type": "HLS",
                 "icono": "https://static.tvar.io/imagenes/13maxdigital.png"
+            },
+            {
+                "name": "Canal 22 Buenos Aires",
+                "url": "https://5f700d5b2c46f.streamlock.net:443/canal22/canal22/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfx5yyhaE24x9sdH6IA6q6S685kENeqwqaBg&s"
             }
         ]
     },
