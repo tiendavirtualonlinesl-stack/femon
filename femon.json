@@ -316,6 +316,132 @@
         ]
     },
     {
+        "name": "🇦🇷 CANALES DE ARGENTINA (Pack 2)",
+        "samples": [
+            {
+                "name": "America TV",
+                "url": "https://cdn.trimi.com.ar/live/sm-live/AMERICA_BACKUP/sa_live_dash/AMERICA_BACKUP.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/m5L7rSqf/Am-rica-TV-Nuevo-logo-Junio-2020.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=737a88876b64489ab46cf69f8c5dfe5a&key=bf0ae0a5210cb0604e465690c201eec4",
+                "headers": {
+                    "Origin": "https://www.trimi.com.ar",
+                    "Referer": "https://www.trimi.com.ar/"
+                }
+            },
+            {
+                "name": "El Nueve",
+                "url": "https://cdn.trimi.com.ar/live/sm-live/C4N4L_NU3V3/sa_live_dash/C4N4L_NU3V3.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/6RrJVHmX/345-3453836-ar-canal-9-el-nueve-el-nueve-logo.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9f1527881baf4166865452f046d8f445&key=d192df40da8a2c752a8a921f827c325f",
+                "headers": {
+                    "Origin": "https://www.trimi.com.ar",
+                    "Referer": "https://www.trimi.com.ar/"
+                }
+            },
+            {
+                "name": "Telefe",
+                "url": "https://cdn.trimi.com.ar/live/sm-live/TELEFE_BACKUP_9-6/sa_live_dash_ll/TELEFE_BACKUP_9-6.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/spF87Ccr/Telefe-nuevo-logo.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=93f2e70d452d4fc2ae0c477ca66b29be&key=b204d146d7f369bc3c5a87acfcfb6532",
+                "headers": {
+                    "Origin": "https://www.trimi.com.ar",
+                    "Referer": "https://www.trimi.com.ar/"
+                }
+            },
+            {
+                "name": "El Trece",
+                "url": "https://cdn.trimi.com.ar/live/sm-live/C4N4L_TR3C3/sa_live_dash/C4N4L_TR3C3.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTUyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1710400201780",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6e88815a08b44c73a191161d3c15d890&key=9193a6d29f77bd651b9277f8f70b61b5",
+                "headers": {
+                    "Origin": "https://www.trimi.com.ar",
+                    "Referer": "https://www.trimi.com.ar/"
+                }
+            },
+            {
+                "name": "TV Publica",
+                "url": "https://cdn.trimi.com.ar/live/sm-live/TV_PUBLICA_BACKUP/sa_live_dash_ll/TV_PUBLICA_BACKUP.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/6cvkTygb/Televisi-n-P-blica-Argentina-2021.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9825d6a017d5406e8bc50bb2bc7857c9&key=26196b3593c359c226bb7637cb188ce4",
+                "headers": {
+                    "Origin": "https://www.trimi.com.ar",
+                    "Referer": "https://www.trimi.com.ar/"
+                }
+            },
+            {
+                "name": "La Nacion+",
+                "url": "https://cdn.trimi.com.ar/live/sm-live/L4_NACION_M45/sa_live_dash/L4_NACION_M45.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/xSv4MBKr/NXKF436-PYFDRLJJB77-LJU7-JVQA.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9ca7e4a4a0314d15bad3b2066b4f1b30&key=bc77f956816ee72f9e02f8d43fee43c5",
+                "headers": {
+                    "Origin": "https://www.trimi.com.ar",
+                    "Referer": "https://www.trimi.com.ar/"
+                }
+            },
+            {
+                "name": "Cronica TV",
+                "url": "https://cdn.trimi.com.ar/live/sm-live/CR0N1C4_TV/sa_live_dash/CR0N1C4_TV.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://play-lh.googleusercontent.com/kgXOWT_-1jV1MJhBIBtUkvbhFBgBLPD_TkXNW1gYpqq8Uwhsgqw2BT5zhrjL9cb64d49",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f37298e504974d279d241a77fd872620&key=866fcb859136415b83960cda9863d445",
+                "headers": {
+                    "Origin": "https://www.trimi.com.ar",
+                    "Referer": "https://www.trimi.com.ar/"
+                }
+            },
+            {
+                "name": "A24",
+                "url": "https://cdn.trimi.com.ar/live/sm-live/A_24_BACKUP/sa_live_dash/A_24_BACKUP.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/WWfTn7M9/LnXQkIU.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=aaa33fd380564479b57ab8296570aa3a&key=a89018f86f4402ad626bec3803bf3194",
+                "headers": {
+                    "Origin": "https://www.trimi.com.ar",
+                    "Referer": "https://www.trimi.com.ar/"
+                }
+            },
+            {
+                "name": "Canal 26",
+                "url": "https://cdn.trimi.com.ar/live/sm-live/26TV_BACKUP/sa_live_dash/26TV_BACKUP.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0b835e5cb05e431cb57a3dcc775e4d0f&key=21e9e0ab74fc12306a2624a1ee80eef2",
+                "headers": {
+                    "Origin": "https://www.trimi.com.ar",
+                    "Referer": "https://www.trimi.com.ar/"
+                }
+            },
+            {
+                "name": "Canal IP",
+                "url": "https://cdn.trimi.com.ar/live/sm-live/IPTV_BACKUP/sa_live_dash/IPTV_BACKUP.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/NKxWFcF/IP-removebg-preview.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b423130cc75a4ebea18f41ad46c03d0f&key=f87bccf9c8dbf7226c6863ed631aaa0b",
+                "headers": {
+                    "Origin": "https://www.trimi.com.ar",
+                    "Referer": "https://www.trimi.com.ar/"
+                }
+            },
+            {
+                "name": "Net TV",
+                "url": "https://cdn.trimi.com.ar/live/sm-live/NET_TV_BACKUP/sa_live_dash/NET_TV_BACKUP.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://media.canalnet.tv/2018/08/N-600x720.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f519a4181806429bb2a998d77a937f32&key=6dbf5c8f0c50938cebc35fdf095833e1",
+                "headers": {
+                    "Origin": "https://www.trimi.com.ar",
+                    "Referer": "https://www.trimi.com.ar/"
+                }
+            }
+        ]
+    },
+    {
         "name": "🇦🇷CANALES INTERIOR ARGENTINA",
         "samples": [
             {
@@ -4831,132 +4957,6 @@
                     "Referer": "https://www.panamsportschannel.org/",
                     "Origin": "https://www.panamsportschannel.org",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
-                }
-            }
-        ]
-    },
-    {
-        "name": "🇦🇷 CANALES DE ARGENTINA (Pack 2)",
-        "samples": [
-            {
-                "name": "America TV",
-                "url": "https://cdn.trimi.com.ar/live/sm-live/AMERICA_BACKUP/sa_live_dash/AMERICA_BACKUP.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://i.ibb.co/m5L7rSqf/Am-rica-TV-Nuevo-logo-Junio-2020.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=737a88876b64489ab46cf69f8c5dfe5a&key=bf0ae0a5210cb0604e465690c201eec4",
-                "headers": {
-                    "Origin": "https://www.trimi.com.ar",
-                    "Referer": "https://www.trimi.com.ar/"
-                }
-            },
-            {
-                "name": "El Nueve",
-                "url": "https://cdn.trimi.com.ar/live/sm-live/C4N4L_NU3V3/sa_live_dash/C4N4L_NU3V3.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://i.ibb.co/6RrJVHmX/345-3453836-ar-canal-9-el-nueve-el-nueve-logo.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9f1527881baf4166865452f046d8f445&key=d192df40da8a2c752a8a921f827c325f",
-                "headers": {
-                    "Origin": "https://www.trimi.com.ar",
-                    "Referer": "https://www.trimi.com.ar/"
-                }
-            },
-            {
-                "name": "Telefe",
-                "url": "https://cdn.trimi.com.ar/live/sm-live/TELEFE_BACKUP_9-6/sa_live_dash_ll/TELEFE_BACKUP_9-6.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://i.ibb.co/spF87Ccr/Telefe-nuevo-logo.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=93f2e70d452d4fc2ae0c477ca66b29be&key=b204d146d7f369bc3c5a87acfcfb6532",
-                "headers": {
-                    "Origin": "https://www.trimi.com.ar",
-                    "Referer": "https://www.trimi.com.ar/"
-                }
-            },
-            {
-                "name": "El Trece",
-                "url": "https://cdn.trimi.com.ar/live/sm-live/C4N4L_TR3C3/sa_live_dash/C4N4L_TR3C3.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTUyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1710400201780",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6e88815a08b44c73a191161d3c15d890&key=9193a6d29f77bd651b9277f8f70b61b5",
-                "headers": {
-                    "Origin": "https://www.trimi.com.ar",
-                    "Referer": "https://www.trimi.com.ar/"
-                }
-            },
-            {
-                "name": "TV Publica",
-                "url": "https://cdn.trimi.com.ar/live/sm-live/TV_PUBLICA_BACKUP/sa_live_dash_ll/TV_PUBLICA_BACKUP.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://i.ibb.co/6cvkTygb/Televisi-n-P-blica-Argentina-2021.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9825d6a017d5406e8bc50bb2bc7857c9&key=26196b3593c359c226bb7637cb188ce4",
-                "headers": {
-                    "Origin": "https://www.trimi.com.ar",
-                    "Referer": "https://www.trimi.com.ar/"
-                }
-            },
-            {
-                "name": "La Nacion+",
-                "url": "https://cdn.trimi.com.ar/live/sm-live/L4_NACION_M45/sa_live_dash/L4_NACION_M45.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://i.ibb.co/xSv4MBKr/NXKF436-PYFDRLJJB77-LJU7-JVQA.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9ca7e4a4a0314d15bad3b2066b4f1b30&key=bc77f956816ee72f9e02f8d43fee43c5",
-                "headers": {
-                    "Origin": "https://www.trimi.com.ar",
-                    "Referer": "https://www.trimi.com.ar/"
-                }
-            },
-            {
-                "name": "Cronica TV",
-                "url": "https://cdn.trimi.com.ar/live/sm-live/CR0N1C4_TV/sa_live_dash/CR0N1C4_TV.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://play-lh.googleusercontent.com/kgXOWT_-1jV1MJhBIBtUkvbhFBgBLPD_TkXNW1gYpqq8Uwhsgqw2BT5zhrjL9cb64d49",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f37298e504974d279d241a77fd872620&key=866fcb859136415b83960cda9863d445",
-                "headers": {
-                    "Origin": "https://www.trimi.com.ar",
-                    "Referer": "https://www.trimi.com.ar/"
-                }
-            },
-            {
-                "name": "A24",
-                "url": "https://cdn.trimi.com.ar/live/sm-live/A_24_BACKUP/sa_live_dash/A_24_BACKUP.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://i.ibb.co/WWfTn7M9/LnXQkIU.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=aaa33fd380564479b57ab8296570aa3a&key=a89018f86f4402ad626bec3803bf3194",
-                "headers": {
-                    "Origin": "https://www.trimi.com.ar",
-                    "Referer": "https://www.trimi.com.ar/"
-                }
-            },
-            {
-                "name": "Canal 26",
-                "url": "https://cdn.trimi.com.ar/live/sm-live/26TV_BACKUP/sa_live_dash/26TV_BACKUP.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0b835e5cb05e431cb57a3dcc775e4d0f&key=21e9e0ab74fc12306a2624a1ee80eef2",
-                "headers": {
-                    "Origin": "https://www.trimi.com.ar",
-                    "Referer": "https://www.trimi.com.ar/"
-                }
-            },
-            {
-                "name": "Canal IP",
-                "url": "https://cdn.trimi.com.ar/live/sm-live/IPTV_BACKUP/sa_live_dash/IPTV_BACKUP.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://i.ibb.co/NKxWFcF/IP-removebg-preview.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b423130cc75a4ebea18f41ad46c03d0f&key=f87bccf9c8dbf7226c6863ed631aaa0b",
-                "headers": {
-                    "Origin": "https://www.trimi.com.ar",
-                    "Referer": "https://www.trimi.com.ar/"
-                }
-            },
-            {
-                "name": "Net TV",
-                "url": "https://cdn.trimi.com.ar/live/sm-live/NET_TV_BACKUP/sa_live_dash/NET_TV_BACKUP.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://media.canalnet.tv/2018/08/N-600x720.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f519a4181806429bb2a998d77a937f32&key=6dbf5c8f0c50938cebc35fdf095833e1",
-                "headers": {
-                    "Origin": "https://www.trimi.com.ar",
-                    "Referer": "https://www.trimi.com.ar/"
                 }
             }
         ]
