@@ -4280,6 +4280,13 @@
     },
     {
         "name": "⚽ EVENTOS PREMIUM EN VIVO (Funcionan cuando hay transmisiones exclusivas).",
-        "samples": []
+        "samples": [
+            {
+                "name": "Evento Premium 1",
+                "url": "",
+                "type": "HLS",
+                "icono": ""
+            }
+        ]
     }
 ]
