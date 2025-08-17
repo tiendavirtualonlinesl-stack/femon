@@ -598,6 +598,12 @@
                 "url": "http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8",
                 "type": "HLS",
                 "icono": "https://static.tvar.io/imagenes/34sanjuan.png"
+            },
+            {
+                "name": "Canal 50 Morteros",
+                "url": "https://online.coopmorteros.coop/canal50/vivo.m3u8",
+                "type": "HLS",
+                "icono": "https://canal50.tv/public/images/logos/CANAL50_HD"
             }
         ]
     },
