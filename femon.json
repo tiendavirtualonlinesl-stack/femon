@@ -354,6 +354,12 @@
         "name": "🇦🇷CANALES INTERIOR ARGENTINA",
         "samples": [
             {
+                "name": "Canal 2 Misiones",
+                "url": "https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8",
+                "icono": "https://i.postimg.cc/MZfVwZ45/descarga-25.jpg",
+                "type": "HLS"
+            },
+            {
                 "name": "Canal 4 San Juan",
                 "url": "https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8",
                 "icono": "https://iili.io/3L9yLdb.th.jpg",
@@ -382,12 +388,6 @@
                     "Referer": "https://portal.app.flow.com.ar",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
-            },
-            {
-                "name": "Canal 2 Misiones",
-                "url": "https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8",
-                "icono": "https://i.postimg.cc/MZfVwZ45/descarga-25.jpg",
-                "type": "HLS"
             },
             {
                 "name": "Canal 4 Jujuy",
