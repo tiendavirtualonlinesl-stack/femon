@@ -16,7 +16,7 @@
             },
             {
                 "name": "MLS",
-                "url": "https://qhnui7p0.s3.eu-west-1.amazonaws.com/hls/stream15/index.m3u8",
+                "url": "https://csi.gstatic.com/csi?v=2&s=ima&dmc=4&puid=c~mef0lg8p&c=2064767694636&slotId=1032383847318&met.4=ima_lvp_ncs.mef0lg8q~ima_lvp_yvs.mef0lg8q",
                 "type": "HLS",
                 "icono": "https://github.com/luisoddone/femon/blob/main/MLS.png?raw=true"
             }
