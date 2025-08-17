@@ -668,6 +668,12 @@
                 "url": "https://srv2.zcast.com.br/chamame/chamame/playlist.m3u8",
                 "type": "HLS",
                 "icono": "https://static-cdn.jtvnw.net/jtv_user_pictures/c14e9545-b484-473a-b31d-680b95e4de4c-profile_image-70x70.png"
+            },
+            {
+                "name": "Chilecito TV",
+                "url": "https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8",
+                "type": "HLS",
+                "icono": "https://diariochilecito.com/wp-content/uploads/2022/09/Chilecito-TV.jpg"
             }
         ]
     },
