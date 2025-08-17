@@ -749,12 +749,6 @@
                     "Referer": "https://portal.app.flow.com.ar/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
                 }
-            },
-            {
-                "name": "El Siete TV",
-                "url": "https://m.mtd.llc/iptv-query.m3u8",
-                "type": "HLS",
-                "icono": "https://www.elsietetv.com.ar/wp-content/uploads/2017/08/canal-7-vivo.jpg"
             }
         ]
     },
