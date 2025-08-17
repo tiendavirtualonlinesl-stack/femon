@@ -702,6 +702,17 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "El Destape",
+                "url": "https://cdn.sensa.com.ar/bpk-tv/ElDestape/default/index.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/yFbrg0L/eldestape.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=af0566c50e733c311bdfa6736a95ce50&key=e4dfd12993097b3c35ad47562d61b4ce",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },
