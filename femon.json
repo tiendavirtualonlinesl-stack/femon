@@ -4360,6 +4360,18 @@
                 }
             },
             {
+                "name": "Cronica TV",
+                "url": "https://edge-mix02-coe.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU1NTY4Nzg1Iiwic2lwIjoiNDUuMTc4LjIuMjQ5IiwicGF0aCI6Ii9saXZlL2MzZWRzL0FtZXJpY2FUVi9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiMWM5ZTFlNWNhM2MzZDFmZSIsInNlc3Npb25faWQiOiI4MjUyNDc2NS0xNzU1Mzk1OTg1LTYwMCIsImNsaWVudF9pZCI6IjEzMTIxODg0IiwiZGV2aWNlX2lkIjoiODI1MjQ3NjUiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIxMjAiLCJzb3VyY2VzIjpbNzMsODUsMTQ0LDg2LDg4XX0=.TtUO907y5oS7hgCTgOFUlPb_Y89Sz-6amldTM-CTYZZYBAbsn7R9fwKl5luXqkBrD1tQEhfM12SqlMGAvTaU4A==//live/c7eds/CronicaTV/SA_Live_dash_enc_C/CronicaTV.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/DHhzqNrr/unnamed.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=745e7abcc90d41ab706b2ac2f4371da3&key=50acd9d19d1361cb4a8a13a867bdc352",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
                 "name": "Argentinisima",
                 "url": "https://edge-mix02-coe.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU1NTY4Nzg1Iiwic2lwIjoiNDUuMTc4LjIuMjQ5IiwicGF0aCI6Ii9saXZlL2MzZWRzL0FtZXJpY2FUVi9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiMWM5ZTFlNWNhM2MzZDFmZSIsInNlc3Npb25faWQiOiI4MjUyNDc2NS0xNzU1Mzk1OTg1LTYwMCIsImNsaWVudF9pZCI6IjEzMTIxODg0IiwiZGV2aWNlX2lkIjoiODI1MjQ3NjUiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIxMjAiLCJzb3VyY2VzIjpbNzMsODUsMTQ0LDg2LDg4XX0=.TtUO907y5oS7hgCTgOFUlPb_Y89Sz-6amldTM-CTYZZYBAbsn7R9fwKl5luXqkBrD1tQEhfM12SqlMGAvTaU4A==//live/c6eds/Argentinisima/SA_Live_dash_enc_C/Argentinisima.mpd",
                 "type": "CLEARKEY",
@@ -4413,18 +4425,6 @@
                 "type": "CLEARKEY",
                 "icono": "https://i.ibb.co/p6GQ3L3m/68747470733a2f2f692e696d6775722e636f6d2f453370616d41352e706e67.png",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=050df5c6e78c774e78c3e99eef8a1b29&key=0e4141d6ab21a36cbc4da777ab3096d4",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "Cronica TV",
-                "url": "https://edge-mix02-coe.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU1NTY4Nzg1Iiwic2lwIjoiNDUuMTc4LjIuMjQ5IiwicGF0aCI6Ii9saXZlL2MzZWRzL0FtZXJpY2FUVi9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiMWM5ZTFlNWNhM2MzZDFmZSIsInNlc3Npb25faWQiOiI4MjUyNDc2NS0xNzU1Mzk1OTg1LTYwMCIsImNsaWVudF9pZCI6IjEzMTIxODg0IiwiZGV2aWNlX2lkIjoiODI1MjQ3NjUiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIxMjAiLCJzb3VyY2VzIjpbNzMsODUsMTQ0LDg2LDg4XX0=.TtUO907y5oS7hgCTgOFUlPb_Y89Sz-6amldTM-CTYZZYBAbsn7R9fwKl5luXqkBrD1tQEhfM12SqlMGAvTaU4A==//live/c7eds/CronicaTV/SA_Live_dash_enc_C/CronicaTV.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://i.ibb.co/DHhzqNrr/unnamed.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=745e7abcc90d41ab706b2ac2f4371da3&key=50acd9d19d1361cb4a8a13a867bdc352",
                 "headers": {
                     "Origin": "https://web.app.flow.com.ar",
                     "Referer": "https://web.app.flow.com.ar/guia-de-tv",
