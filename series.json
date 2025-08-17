@@ -4,536 +4,6 @@
             "nombre": "RECOMENDADOS",
             "series": [
                 {
-                    "nombre": "Tierra de mafia",
-                    "genero": "Crimen, Drama",
-                    "descripcion": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
-                    "anio": "2025",
-                    "iconPng": "https://image.tmdb.org/t/p/original/eEupFv8QIGVB7Z7a2QvECrlsvzu.png",
-                    "icono": "https://image.tmdb.org/t/p/original/s7ye2BFq4HjGMi0dGkzGu5c2fyz.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/tQqbbxBAdW2ql8vbOqMOJbtSQ7O.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Pegar o torcer",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/B6301BDD817D4A6D87130E63F1FEFAA6_media.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Rompecabezas",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/8500768965D547799A875E2B63965B27_media.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Episodio 3",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/4484F0529EA24E59B62DD15BA8E728E8_media.mp4"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Episodio 4",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/E3D46016A640410A869D4758862095D3_media.mp4"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "Episodio 5",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/5288740EE3814A9BA6AA05FF324F7D56_media.mp4"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "Episodio 6",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/DCB43303F46245D9B6F4CF8F0A5152FF_media.mp4"
-                                },
-                                {
-                                    "numero": 7,
-                                    "titulo": "Episodio 7",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/D58E4FC57BB548BC988E98338608167E_media.mp4"
-                                },
-                                {
-                                    "numero": 8,
-                                    "titulo": "Episodio 8",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/7DD12CE3B890419EABA26A51CE37D780_media.mp4"
-                                },
-                                {
-                                    "numero": 9,
-                                    "titulo": "Episodio 9",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/A4313B23991A4455BF2055DD73B9DF03_media.mp4"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 247718,
-                    "total_seasons": 1
-                },
-                {
-                    "nombre": "Ironheart",
-                    "genero": "Sci-Fi & Fantasy, Crimen",
-                    "descripcion": "La brillante inventora Riri Williams vuelve a Chicago, donde conoce a Parker Robins, el Encapuchado.",
-                    "anio": "2025",
-                    "iconPng": "https://image.tmdb.org/t/p/original/6DHtWG4tmGoAmEExgXjmcn1qzY6.png",
-                    "icono": "https://image.tmdb.org/t/p/original/AmzGVKlLvpraNAXxPYUROiN2Ulj.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/vno2LrEQr3lTOk3U1G1ihZsy64b.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Llévame a casa",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/44005A516FA249AEAEC56041259F1FA4_media.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Episodio 2",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/6D9DC28F960D4811B5A527856882B7AC_media.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Corremos peligro, tía",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/31106ED1328B45D8BADDFC26735D3C6A_media.mp4"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Magia mala",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/ECD99C4068844EED8BDFF6E723A1E995_media.mp4"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "El karma es un fallo",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/28DF9F52423747289687A117E6C792D6_media.mp4"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "El pasado es el pasado",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/CE8E144DA4B444628D737344D65C9910_media.mp4"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 114471,
-                    "total_seasons": 1
-                },
-                {
-                    "nombre": "The Chosen (Los elegidos)",
-                    "genero": "Drama, Familia",
-                    "descripcion": "Por primera vez, la historia más grande jamás contada se presenta en una serie de varias temporadas. Enfocada en los personajes y el contexto histórico de los Evangelios, la primera temporada del mayor proyecto audiovisual producido mediante crowdfunding nos muestra a personas como Pedro, Nicodemo, María Magdalena, Mateo y, por supuesto, Jesús, de una manera nunca vista antes en pantalla. La serie muestra la parte más auténtica e íntima de la vida y el ministerio de una de las figuras más importantes e influyentes de la Historia de la humanidad.",
-                    "anio": "2019",
-                    "iconPng": "https://image.tmdb.org/t/p/original/mYvxHGbDE4aWzG4CDIjStI5jIQS.png",
-                    "icono": "https://image.tmdb.org/t/p/original/9HDsb3zEw7notQLXpJpN3kDMMl0.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/hh9jYH0kvbHFV3Z5GH9Sp4HMIhL.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Te he llamado por tu nombre",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D41C8BFD85D144AC9D06ABBE8A2EFB76_media.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Sabbat",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/935715FC606A4285BF03D8165F623383_media.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Jesús ama a los niños",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0D8B52166C674B0E8F4C571D4411BB27_media.mp4"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "La roca sobre la que se edificó",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/02756B2894EE4FC68D91EB2400376E34_media.mp4"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "Regalo de bodas",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4196C56353EA4D3B90E09C09E17B8C1E_media.mp4"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "Compasión indescriptible",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/60F6F98FFA0F40D2BCA4ABBE2834E31C_media.mp4"
-                                },
-                                {
-                                    "numero": 7,
-                                    "titulo": "Invitaciones",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1D753500AF6A4B23AB57EE5FB74C2EA8_media.mp4"
-                                },
-                                {
-                                    "numero": 8,
-                                    "titulo": "Yo soy Él",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B099DDAE49CD4AF89AB107B26C6A9DD0_media.mp4"
-                                }
-                            ]
-                        },
-                        {
-                            "nombre": "Temporada 2",
-                            "numero_temporada": 2,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Trueno",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/706606DC2A6F4439B23FC6C4211EA23B_media.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Te vi",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B669BB32533C411CAACB6C9FE43D7F5A_media.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Mateo 4:24",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D178A24764AE4959AF933438165563E5_media.mp4"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "La ocasión perfecta",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/FF63E91D98FB4AE39F44C5AA67E8BAF6_media.mp4"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "Espíritu",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C7DE3B4BE0B84E8B85963E8758E460BB_media.mp4"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "Ilícito",
-                                    "url": "http://lmvdgloall01.hhf123dcd.com/vod/D8BF5798F285436E89200E33FF4D6116_media.mp4"
-                                },
-                                {
-                                    "numero": 7,
-                                    "titulo": "Ajuste de cuentas",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/99C0C4C7641544C4B0C36878CD0DA39D_media.mp4"
-                                },
-                                {
-                                    "numero": 8,
-                                    "titulo": "Más allá de las montañas",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/85AA10282D6E43B89408751696BB6682_media.mp4"
-                                }
-                            ]
-                        },
-                        {
-                            "nombre": "Temporada 3",
-                            "numero_temporada": 3,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Regreso a casa",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/CE04604F9CD04C90B4C640D37DFDCC52_media.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "De dos en dos",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F2C95E07E98C49419ACF588869C63702_media.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Médico, cúrate a ti mismo",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4E8ED978AA264CD788F172D126A524A6_media.mp4"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Limpieza, parte 1",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B156837C120D4FFF994A13A7CBB1C463_media.mp4"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "Tensión en el campamento",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/3D7FB49B65514DC7A654F8A7F3C0A469_media.mp4"
-                                },
-                                {
-                                    "numero": 7,
-                                    "titulo": "Oídos para oír",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F423E3B8C0104AD0AE1485F99A4B7957_media.mp4"
-                                }
-                            ]
-                        },
-                        {
-                            "nombre": "Temporada 4",
-                            "numero_temporada": 4,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Promesas",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/CF26924BB0BC4949801ECAE49D913318_media.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Confesiones",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/7C7B2825872746D7B27DA5E061CA9CEA_media.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Luna de sangre",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/BDB4A44C340642BDA964E85C3CFD22E4_media.mp4"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Calma que precede",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0217FA77119E42C8A19E8127D8104097_media.mp4"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "Sentarse, servir, maquinar",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/5BF2F1F2AD6E4BC49CC572961DFD16F7_media.mp4"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "Dedicación",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/DF405786ABF24F769ACA6AA29AC30CD0_media.mp4"
-                                },
-                                {
-                                    "numero": 7,
-                                    "titulo": "La última señal",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E91F20D9702B47D19F7204C9364FB8E5_media.mp4"
-                                },
-                                {
-                                    "numero": 8,
-                                    "titulo": "Humilde",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B18FC0ABF1AC4A319FD227DC2D035026_media.mp4"
-                                }
-                            ]
-                        },
-                        {
-                            "nombre": "Temporada 5",
-                            "numero_temporada": 5,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Episodio 1",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/6264C13E86814DFFA4F4160AE202695D_media.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Episodio 2",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/A36FC4208A1D4F2E94EC8C491556D243_media.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Episodio 3",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/7A28A098A3EE490E8C2083A57A908E5A_media.mp4"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Episodio 4",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/E2BE987624D64DDDA46F262AEC1D9169_media.mp4"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "Episodio 5",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/B440463C01E34D79BF0D6281B5267FEC_media.mp4"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "Episodio 6",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/B10433FB253F4EABBDFE41CBF771FA5C_media.mp4"
-                                },
-                                {
-                                    "numero": 7,
-                                    "titulo": "Episodio 7",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/0570D53BF3B54B4EAFEE9E492B19F72E_media.mp4"
-                                },
-                                {
-                                    "numero": 8,
-                                    "titulo": "Episodio 8",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/5F9DDE387C694FF49427AD38C8A1265D_media.mp4"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 85077,
-                    "total_seasons": 5
-                },
-                {
-                    "nombre": "Sandman",
-                    "genero": "Sci-Fi & Fantasy, Drama, Action & Adventure",
-                    "descripcion": "Después de pasar años encarcelado, Morfeo (el Rey de los Sueños) emprende un viaje por diferentes mundos para encontrar lo que le fue arrebatado y recuperar su poder.",
-                    "anio": "2022",
-                    "iconPng": "https://image.tmdb.org/t/p/original/gzps6OMJAL9Hz1tVlLs4oi4Q4Qt.png",
-                    "icono": "https://image.tmdb.org/t/p/original/b7EIwmXtQBEyrLHcUEyuJxPoARk.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/wX3twEPd6RCkQly9JVEkw4a6Qbi.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "El sueño de los justos",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/DD66B0EA5D8345C69F99020E86BBFC39_media.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Anfitriones imperfectos",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/4E2FD8D27958445C830B1B62668BE3EA_media.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "... Sueña conmigo",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/8407003B0F8B4B9EB206579B9F30843F_media.mp4"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Una esperanza en el infierno",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/3268C87341EB41B0AFC3E9DF06B091AD_media.mp4"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "24 horas",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/ED6714A051D244D98F4D14126B3C7B70_media.mp4"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "El sonido de sus alas",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/73B1B9A704AE42049CC93847BA5653D6_media.mp4"
-                                },
-                                {
-                                    "numero": 7,
-                                    "titulo": "La casa de muñecas",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/6CF8A02F709746B1A94B9F39F2B8B3D9_media.mp4"
-                                },
-                                {
-                                    "numero": 8,
-                                    "titulo": "Jugar a papás y mamás",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/11D2644CE1C041C89B3EFB27292F5668_media.mp4"
-                                },
-                                {
-                                    "numero": 9,
-                                    "titulo": "Coleccionistas",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/B13027345115493EAF8302337E910498_media.mp4"
-                                },
-                                {
-                                    "numero": 10,
-                                    "titulo": "Corazones perdidos",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/B3669D72A000456EAD133036C8920251_media.mp4"
-                                },
-                                {
-                                    "numero": 11,
-                                    "titulo": "Un Sueño de Mil Gatos/Calíope",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/F4E8C6717F6A43B78745F69CF36B3E85_media.mp4"
-                                }
-                            ]
-                        },
-                        {
-                            "nombre": "Temporada 2",
-                            "numero_temporada": 2,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Estación de nieblas",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/809BAE9ED05F43CE9476DB7232F7E143_media.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "El Señor del Infierno",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/2D36814C07724A528AF5277936F227C6_media.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Más demonios de los que el vasto Infierno puede contener",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/2F5054267DDA4793A2230BC151555A10_media.mp4"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Vidas breves",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/0423969543A44CDDB35B295CA2563CCD_media.mp4"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "La canción de Orfeo",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/43BFB8749F024CFE98D9696DAA7BBAC0_media.mp4"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "Sangre propia",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/167F7F0DD3E441FF9DAE516B04D51A3D_media.mp4"
-                                },
-                                {
-                                    "numero": 7,
-                                    "titulo": "Episodio 7",
-                                    "url": "http://goovdme.967sd1f.homes/vod/D3265C88E6234B0EB3C1E1DC64E14DD3_media.ts"
-                                },
-                                {
-                                    "numero": 8,
-                                    "titulo": "Episodio 8",
-                                    "url": "http://goovdme.967sd1f.homes/vod/B2E0793EC3D84A1AB25EA06E3D721571_media.ts"
-                                },
-                                {
-                                    "numero": 9,
-                                    "titulo": "Episodio 9",
-                                    "url": "http://goovdme.967sd1f.homes/vod/307250E613BB488EB9F39179FB752327_media.ts"
-                                },
-                                {
-                                    "numero": 10,
-                                    "titulo": "Episodio 10",
-                                    "url": "http://goovdme.967sd1f.homes/vod/1B206BEEE68645929BFA89ACA74A652D_media.ts"
-                                },
-                                {
-                                    "numero": 11,
-                                    "titulo": "Episodio 11",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E3CFF9F4156649A3BA731DA6A7EB8CA8_media.ts"
-                                },
-                                {
-                                    "numero": 12,
-                                    "titulo": "Episodio especial. Muerte: el alto coste de la vida",
-                                    "url": "http://goovdme.967sd1f.homes/vod/09C45CC499B84CF6BC435EDCA4265985_media.ts"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 90802,
-                    "total_seasons": 2
-                },
-                {
-                    "nombre": "Dexter: Resurrección",
-                    "genero": "Crimen, Drama",
-                    "descripcion": "Dexter Morgan despierta de un coma de diez semanas y, mientras comienza una dolorosa recuperación, se entera de que su hijo Harrison Morgan ha huido a Nueva York. Tanto el padre como el hijo se sienten más cerca de enfrentarse a la oscuridad de la que han intentado escapar.",
-                    "anio": "2025",
-                    "iconPng": "https://image.tmdb.org/t/p/original/t6XuW8n3wM8coN5QLvIbLx1Ayl7.png",
-                    "icono": "https://image.tmdb.org/t/p/original/fORqf1CdugrD5oHnGYL24VZktFQ.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/UI2S7dJdGylqp9xK3GwRt7zz68.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Un corazón que late",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/D6BC578F471A48789974E877266448A5_media.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Tímido ante la cámara",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/C1489A6A2C02412780EB34E41058DA21_media.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Episodio 3",
-                                    "url": "http://goovdme.967sd1f.homes/vod/33276BE9A3EC4915B32B14D78416B3AD_media.ts"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Episodio 4",
-                                    "url": "http://goovdme.967sd1f.homes/vod/E17F88953BB144B98CDAB7C7DA4793AB_media.ts"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "Episodio 5",
-                                    "url": "http://goovdme.967sd1f.homes/vod/5FD04BA6279B41BD930F09AC42FB5111_media.ts"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 259909,
-                    "total_seasons": 1
-                },
-                {
                     "nombre": "Indomable",
                     "genero": "Misterio, Drama",
                     "descripcion": "Kyle Turner es un agente especial que trabaja como investigador del Servicio de Parques Nacionales. Cuando se descubre un brutal asesinato en un lugar remoto del parque nacional de Yosemite, Turner se ve envuelto en una tensa investigación que indaga en los secretos ocultos del parque y le obliga a enfrentarse a los fantasmas de su propio pasado. Para resolver el caso, se une a Naya Vasquez (Lily Santiago), una joven guardabosques recientemente llegada de Los Ángeles. Juntos intentarán descubrir la verdad detrás del crimen. A medida que la investigación avanza, emergen secretos oscuros que pondrán a prueba su confianza mutua, su temple… y su propia supervivencia.",
@@ -642,208 +112,6 @@
                     "total_seasons": 1
                 },
                 {
-                    "nombre": "Acapulco",
-                    "genero": "Comedia, Drama",
-                    "descripcion": "En 1984, Máximo Gallardo cumple el sueño de su vida cuando empieza a trabajar en Las Colinas, el mejor resort de Acapulco. Pronto descubrirá que las cosas van a ser mucho más complicadas de lo que imaginaba.",
-                    "anio": "2021",
-                    "iconPng": "https://image.tmdb.org/t/p/original/1godUwReHupW25VCdF7rzY0tKyT.png",
-                    "icono": "https://image.tmdb.org/t/p/original/462Nyyeyl3E2aiyU1pCCHqxAgH1.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/1zWgb5owPiYWmoJ5SEpv6XJb8CQ.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Piloto",
-                                    "url": "http://goovdme.967sd1f.homes/vod/79BA62DFDC29406DB24183D806E9E3A2_media.ts"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "La chica de Jessie",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E77FBCF58075456DAD1EB49261ACDDB7_media.ts"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Toque invisible",
-                                    "url": "http://goovdme.967sd1f.homes/vod/1FB953262A534EBAAD6EA95808FCDAE3_media.ts"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Nomás contigo",
-                                    "url": "http://goovdme.967sd1f.homes/vod/07AB0ABD0CE947FE9F272DCE36CD0856_media.ts"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "Toda la noche",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/9BC40F35E3EC4342B38CA8FC670ACE86_media.ts"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "Niña bien",
-                                    "url": "http://goovdme.967sd1f.homes/vod/1EC0D933433649918E1644D36A056658_media.ts"
-                                },
-                                {
-                                    "numero": 7,
-                                    "titulo": "Solo para tus ojos",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A32BEEBF2E8C49FDA96F720C665E54A3_media.ts"
-                                },
-                                {
-                                    "numero": 8,
-                                    "titulo": "Años tras año",
-                                    "url": "http://goovdme.967sd1f.homes/vod/14A77C20E21E4725846E1E0683CF98BE_media.ts"
-                                },
-                                {
-                                    "numero": 9,
-                                    "titulo": "La época más maravillosa del año",
-                                    "url": "http://goovdme.967sd1f.homes/vod/74B7F9056C58494C8066B5CE46A6265F_media.ts"
-                                },
-                                {
-                                    "numero": 10,
-                                    "titulo": "Deberías oír cómo habla de ti",
-                                    "url": "http://goovdme.967sd1f.homes/vod/5A6C4458BD4D453F878239E0F565534C_media.ts"
-                                }
-                            ]
-                        },
-                        {
-                            "nombre": "Temporada 2",
-                            "numero_temporada": 2,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "No te preocupes",
-                                    "url": "http://goovdme.967sd1f.homes/vod/6BA768F5B26E4A149AF09960C14EE309_media.ts"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Dame lo mejor que tengas",
-                                    "url": "http://goovdme.967sd1f.homes/vod/D3CABA833A2F43BFAD7F1180748BED4C_media.ts"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Días de gloria",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/EFC696A55CF1444F899908E45CFEC3F8_media.ts"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "El amor es un campo de batalla",
-                                    "url": "http://goovdme.967sd1f.homes/vod/4E702D6DA8E643E794C01DB8B606780C_media.ts"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "No necesitamos otro héroe",
-                                    "url": "http://goovdme.967sd1f.homes/vod/AF177887156E4459B81D13BCEB7414F6_media.ts"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "Noches de Hollywood",
-                                    "url": "http://goovdme.967sd1f.homes/vod/B99F01A3BEC6400880C0161479FE755E_media.ts"
-                                },
-                                {
-                                    "numero": 7,
-                                    "titulo": "Siempre hay algo para recordarme",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/6FFBF782D25440D3B464A4015735CE76_media.ts"
-                                },
-                                {
-                                    "numero": 8,
-                                    "titulo": "El dinero lo cambia todo",
-                                    "url": "http://goovdme.967sd1f.homes/vod/3B498E2969FD4713A8A646A1445F4191_media.ts"
-                                },
-                                {
-                                    "numero": 9,
-                                    "titulo": "El poder del amor",
-                                    "url": "http://goovdme.967sd1f.homes/vod/6199CF85585A40C1B3E3828A52E870BA_media.ts"
-                                },
-                                {
-                                    "numero": 10,
-                                    "titulo": "Contra todo pronóstico",
-                                    "url": "http://goovdme.967sd1f.homes/vod/38FB1C12E48F46D4AB66A2452DDE72BF_media.ts"
-                                }
-                            ]
-                        },
-                        {
-                            "nombre": "Temporada 3",
-                            "numero_temporada": 3,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Solo nosotros dos",
-                                    "url": "http://goovdme.967sd1f.homes/vod/2A2959DD0FCC4B319E97A0746178E71B_media.ts"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Mamma Mia",
-                                    "url": "http://goovdme.967sd1f.homes/vod/53621DBAD35C46818C31E3E68CC5F3F4_media.ts"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "La fiesta del hombre muerto",
-                                    "url": "http://goovdme.967sd1f.homes/vod/EFB029E8DE634CB9BEBED9A807F4B9BF_media.ts"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Bailarín privado",
-                                    "url": "http://goovdme.967sd1f.homes/vod/4B7DD265DB0248428EF12E48829D1965_media.ts"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "De esto están hechos los dulces sueños",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/CCEDFC94A2D14652AA85B46600DD7FBF_media.ts"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "Arriésgate conmigo",
-                                    "url": "http://goovdme.967sd1f.homes/vod/9FFE25D94E0F4A6EB1F52B3B2CF0F333_media.ts"
-                                },
-                                {
-                                    "numero": 7,
-                                    "titulo": "El vídeo mató a la estrella de la radio",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/3B5AC1F7EF3C4F8BA4E2C2F81FC96400_media.ts"
-                                },
-                                {
-                                    "numero": 8,
-                                    "titulo": "Amor Eterno",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/92BD0AD071FC4EAA8B1CEDC113867BE2_media.ts"
-                                },
-                                {
-                                    "numero": 9,
-                                    "titulo": "Arrasa como un huracán",
-                                    "url": "http://goovdme.967sd1f.homes/vod/FC08DCE8C38A463DB8887C44F85D584D_media.ts"
-                                },
-                                {
-                                    "numero": 10,
-                                    "titulo": "Quemar la casa",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/9F292F59343A4C3A8E3424056C11D0A2_media.ts"
-                                }
-                            ]
-                        },
-                        {
-                            "nombre": "Temporada 4",
-                            "numero_temporada": 4,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Cascadas",
-                                    "url": "http://goovdme.967sd1f.homes/vod/B5BB9E2A14E34D30954865B0ABDEF1A9_media.ts"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Roma, si quieres",
-                                    "url": "http://goovdme.967sd1f.homes/vod/BC05FD1F3ABF4472AC9FFFC64411C66B_media.ts"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Hablando de revolución",
-                                    "url": "http://goovdme.967sd1f.homes/vod/DF3FAA49EC6F47AA88120AA49F97243A_media.ts"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 133727,
-                    "total_seasons": 4
-                },
-                {
                     "nombre": "El gran guerrero",
                     "genero": "Drama",
                     "descripcion": "Con los cuatro reinos de Hawái divididos por la guerra, el gran guerrero Ka’iana emprende la monumental misión de unir a su pueblo, a la vez que se acerca una amenaza existencial.",
@@ -865,6 +133,11 @@
                                     "numero": 2,
                                     "titulo": "Marea cambiante",
                                     "url": "http://goovdme.967sd1f.homes/vod/FC11123ED968492B92DAF354D16FCC6D_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "La ciudad de las flores",
+                                    "url": "http://goovdme.967sd1f.homes/vod/7C9A88B02F884F5FAA3B84127F6F610A_media.ts"
                                 }
                             ]
                         }
@@ -1100,12 +373,383 @@
                                     "numero": 4,
                                     "titulo": "Última resistencia",
                                     "url": "http://goovdme.967sd1f.homes/vod/E1E5CBB397D445CBB5505F06AC688528_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "El último baile",
+                                    "url": "http://goovdme.967sd1f.homes/vod/BEB8A0C7AE814F74B99B07640370669C_media.ts"
                                 }
                             ]
                         }
                     ],
                     "tmdb_id": 194766,
                     "total_seasons": 3
+                },
+                {
+                    "nombre": "Beyond the bar",
+                    "genero": "Drama",
+                    "descripcion": "Un abogado joven y novato con un fuerte sentido de la justicia se une a una firma de abogados de primer nivel y navega por el complejo mundo legal bajo la tutela de un mentor frío y exigente.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/xV8qwkkJFSsToqmAeVTYmsIaue2.png",
+                    "icono": "https://image.tmdb.org/t/p/original/y9SDvLKABqz0FWymCz6IGhpYoFs.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/wdFkh5q3dMoAXQxKlefuWOwaJA5.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/7B4EE7542E974F79B3ECF53719935B0F_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/393EDFB9188B488184ED4F65E5A68C7C_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://goovdme.967sd1f.homes/vod/C6514E567A904B949D6D7C6E1F53F24C_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/22BBD524E0A64CA998F60A913D7E9017_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 281004,
+                    "total_seasons": 1
+                },
+                {
+                    "nombre": "Outlander: Sangre de mi sangre",
+                    "genero": "Drama",
+                    "descripcion": "Desde los campos de batalla de la Primera Guerra Mundial hasta las escarpadas Tierras Altas de la Escocia del siglo XVIII, dos parejas predestinadas deben desafiar las fuerzas que buscan separarlas, desarrollándose de maneras sorprendentes e imprevistas en esta saga romántica que se desarrolla a través del tiempo.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/3WqbicAKsH65x4nA02cTegs82ra.png",
+                    "icono": "https://image.tmdb.org/t/p/original/2vEp7mniHlKcK6LKJxCu4hOr56V.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/woz7IYtEDj2aYvuh9p9fnqMa0Lv.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Providencia",
+                                    "url": "http://goovdme.967sd1f.homes/vod/EC30DF6DF0AE41D08A0A51C7445FA8C4_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Sellado con un beso",
+                                    "url": "http://goovdme.967sd1f.homes/vod/9A86CCEAFD594BE7A29B41AFCB002347_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 207484,
+                    "total_seasons": 1
+                },
+                {
+                    "nombre": "Perdidamente enamorada",
+                    "genero": "Sci-Fi & Fantasy, Drama",
+                    "descripcion": "Seong-A, alumna de día y chamana de noche, es despreciada por ver fantasmas y hablar con ellos, pero sonríe y sigue adelante. Está acostumbrada a ser distinta. El bello Gyeon-U es asediado por el infortunio como una vela en medio del viento, y Seong-A decide protegerle desde que entra en su templo andando boca abajo. Esta es una historia sobre el primer amor, y sobre cómo el amor todo lo puede.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/c2BvT9QB9GZIbMJULw6YwHgE85x.png",
+                    "icono": "https://image.tmdb.org/t/p/original/85Yr6Sk3xnhm9pQYypOfLjyxj2S.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/pLiZkzEGc4jvCQYTHJ8ailiKrZv.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/5D6B1F82097945368AE038652E0D4359_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/E1AD44E613124846A82B91CC1B9B9C2D_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://goovdme.967sd1f.homes/vod/0FBC61BD26FB4B8AAC29272F3A72C553_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://goovdme.967sd1f.homes/vod/7A034A887C29445680CEC6C12B587865_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://goovdme.967sd1f.homes/vod/C188B9F85E1E4CEABC67646E4D8AA42C_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://goovdme.967sd1f.homes/vod/6D21BF92309543B49A7A95EB482A90FA_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/AE33E4A01311430E99D8DB59398B6731_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://goovdme.967sd1f.homes/vod/3594BF1E4CF44AC181797E46A1843170_media.ts"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Episodio 9",
+                                    "url": "http://goovdme.967sd1f.homes/vod/DCBF9092E20F40B688DB15C065CF594D_media.ts"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Episodio 10",
+                                    "url": "http://goovdme.967sd1f.homes/vod/17CFC69EC0814D758BBE59C4DF5933C5_media.ts"
+                                },
+                                {
+                                    "numero": 11,
+                                    "titulo": "Episodio 11",
+                                    "url": "http://goovdme.967sd1f.homes/vod/0170228F1C8C4A1C971299CA926070BC_media.ts"
+                                },
+                                {
+                                    "numero": 12,
+                                    "titulo": "Episodio 12",
+                                    "url": "http://goovdme.967sd1f.homes/vod/5544898ACC9D45E6BE5972476FE8CF71_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 258025,
+                    "total_seasons": 1
+                },
+                {
+                    "nombre": "Agente Butterfly",
+                    "genero": "Action & Adventure, Drama",
+                    "descripcion": "David Jung, un misterioso agente de inteligencia de Estados Unidos que se esconde en Corea del Sur, ve como su vida se desmorona cuando una terrible decisión de su pasado resurge para atormentarlo y se convierte en el objetivo de Rebecca, una joven asesina, y de Caddis, la siniestra organización para la que esta trabaja.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/hL8PZymiT1PgvfWopE4fjDDJHgw.png",
+                    "icono": "https://image.tmdb.org/t/p/original/zb3zxvbdUYrP0SS7Fl4cXnJ3yJK.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/czT23DqZFIVKNkgCZVbJ0PoGVGK.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Piloto",
+                                    "url": "http://goovdme.967sd1f.homes/vod/0EAF4FFF78DC4B6E90FFE47C0CFB8DC1_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Daegu",
+                                    "url": "http://goovdme.967sd1f.homes/vod/6660CB52C5E3442C8E297B0CDB1B808F_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Busan",
+                                    "url": "http://goovdme.967sd1f.homes/vod/2A4857D8B7CC467BB32258F1875E7517_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Pohang",
+                                    "url": "http://goovdme.967sd1f.homes/vod/9FAD9A7B650049DEB6EDDBDA48518CE7_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Seúl",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/88D0A10327D04B75AD531F432BED13C0_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Annyeong",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/8A29FD5BA9A4404D81E0204B1217AF2A_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 227114,
+                    "total_seasons": 1
+                },
+                {
+                    "nombre": "Betty la fea, la historia continúa",
+                    "genero": "Soap, Comedia, Drama",
+                    "descripcion": "Mientras una Betty más empoderada y sabia trabaja duro para reconstruir su relación con su hija adolescente Mila, su relación con Armando comienza a deteriorarse, haciéndola preguntarse si tomó la decisión correcta hace 20 años.",
+                    "anio": "2024",
+                    "iconPng": "https://image.tmdb.org/t/p/original/vJQUdyYdcGpWN3tISDeN05ytVn0.png",
+                    "icono": "https://image.tmdb.org/t/p/original/3rs80Tqc1QJbSjBmAQzxUPyu5pY.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/wiKWTM2DTrkEIxbTWCv4XRXckBf.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Reuniones",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A813215AF09049B298C46A90E5A3B9DD_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Betty Toma el poder",
+                                    "url": "http://goovdme.967sd1f.homes/vod/C4C997E5F4B048DB8DBED92541DB79C0_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Betty, presidenta",
+                                    "url": "http://goovdme.967sd1f.homes/vod/19EC0E7400B14BDD9EFBF45028419711_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Des-Armando",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/604E7A6BA65E4B8ABD6778337D279312_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Tu cárcel",
+                                    "url": "http://goovdme.967sd1f.homes/vod/F9C00571833D4B08B16151BF782A10F8_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Sueño de una larga noche de verano",
+                                    "url": "http://goovdme.967sd1f.homes/vod/20655B9B4DA9453ABABC07E2A017ACCB_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "La caja de los recuerdos",
+                                    "url": "http://goovdme.967sd1f.homes/vod/7ADDE40CF7DD40D995EC8F3E775A47DA_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "La noche menos pensada",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/86AE80D5584D44359FC18FAA143DA955_media.ts"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Borró cassette",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/7213804798FA4CA6ACF942293EFA8E08_media.ts"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "No culpes a la playa",
+                                    "url": "http://goovdme.967sd1f.homes/vod/EABE1470E2FA41B788B8ADF92810E5E0_media.ts"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 2",
+                            "numero_temporada": 2,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/D8DEB88B611C47B3B58854C84A59C6FE_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/21D17DA4F768429690F136D0A233BB17_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 230424,
+                    "total_seasons": 2
+                },
+                {
+                    "nombre": "Merlina",
+                    "genero": "Sci-Fi & Fantasy, Misterio, Comedia",
+                    "descripcion": "Miércoles Addams, lista, sarcástica y un poco muerta por dentro, investiga una oleada de asesinatos mientras hace amigos —y enemigos— en la Academia Nunca Más.",
+                    "anio": "2022",
+                    "iconPng": "https://image.tmdb.org/t/p/original/zTX88mQdeaHIgVTT08rrM7pICqF.png",
+                    "icono": "https://image.tmdb.org/t/p/original/q6j9Dn3iiXoCjpVitDppNNZXwVq.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/iHSwvRVsRyxpX7FE7GbviaDvgGZ.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Los miércoles son tristes",
+                                    "url": "http://goovdme.967sd1f.homes/vod/210527A9278642B9B10FCEBA768C5F86_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "La tristeza es solitaria",
+                                    "url": "http://goovdme.967sd1f.homes/vod/72FD4C69C5BE4B8CAA4940A8985A1C95_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Tristemente amiga o enemiga",
+                                    "url": "http://goovdme.967sd1f.homes/vod/90B2B0A9A910414297AC8C79051C6978_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Qué noche la de ese día",
+                                    "url": "http://goovdme.967sd1f.homes/vod/E9BEB65E8AED4CD989DE0C181E25029A_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Quien siembra vientos recoge tristeza",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/3E45E1D2C7F74C1586241413867D2703_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Hoy por mí, mañana por mí",
+                                    "url": "http://goovdme.967sd1f.homes/vod/0D5984E43EA84FDE862F0E13A6AE9A0A_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Qué triste que todavía no me conozcas",
+                                    "url": "http://goovdme.967sd1f.homes/vod/7326B49D03B7430DB8942410A7DA28F9_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Una bandada de tristeza",
+                                    "url": "http://goovdme.967sd1f.homes/vod/C74F95C391854CD3A1FDDCC81D813473_media.ts"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 2",
+                            "numero_temporada": 2,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "La vuelta a la tristeza",
+                                    "url": "http://goovdme.967sd1f.homes/vod/189447A2052543D7BCB91E2E2D9384CA_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Más vale diablo triste que conocido",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/38C8616A818045D89D0F4291EC76376A_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "La llamada de la tristeza",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/6F02028F645348CFB7170771DA5F06DB_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Si las tristezas hablaran",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/40B5636A98E04A80976E7C16E9A6A42A_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 119051,
+                    "total_seasons": 2
                 }
             ]
         },
@@ -3164,6 +2808,65 @@
                     ],
                     "tmdb_id": 247831,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "En el barro",
+                    "genero": "Crimen, Drama",
+                    "descripcion": "Cinco presas forjan un vínculo único tras un accidente mortal, pero la corrupción y las luchas de poder de la cárcel amenazan con separarlas.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/kSNKCviNfWcSkQQp1G18P2NzCgr.png",
+                    "icono": "https://image.tmdb.org/t/p/original/xJCzIdSHV0d5lwbhaCWldlikKdU.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/bxPELhUZNgbFUN31EZTBC99wOHD.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/A8C69CC0AF284DCE9E02D02CE0B83855_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/CF1B9CE6AA934E0A8ECE27FF10105693_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://goovdme.967sd1f.homes/vod/F1C16AB43F084A82AF3B5B6871E05404_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B7E5B7F5C60A4C278D44CCCFA8735437_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/178BDDFCCD6D4C2F949C466A7EADBA72_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://goovdme.967sd1f.homes/vod/864480CCDBE64ACFA033F5BE7E5117FC_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D0F2FA815FC9479EAFB39A380DF7D00A_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://goovdme.967sd1f.homes/vod/BD6E05E0EE4846F8B815C58074FEB229_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 258462,
+                    "total_seasons": 1
                 }
             ]
         },
@@ -4507,6 +4210,45 @@
                     ],
                     "tmdb_id": 213249,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "Los ojos de Wakanda",
+                    "genero": "Animación, Action & Adventure, Sci-Fi & Fantasy",
+                    "descripcion": "A lo largo de la historia de Wakanda, valientes guerreros han recibido la misión de viajar por el mundo para recuperar peligrosos artefactos de vibranium. La serie explorará diferentes épocas en el tiempo y representará la historia de aquellos que hicieron que Wakanda se mantuviera en secreto durante siglos.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/rlghnsYQpsx2UbSmAj5TFDsWGI8.png",
+                    "icono": "https://image.tmdb.org/t/p/original/xkMPhwoj0W5Db8EnMnoj1CbmY1W.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/toQjmDgQvZJWRQPOYQYNFLTqkLL.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "La guarida del león",
+                                    "url": "http://goovdme.967sd1f.homes/vod/7145D7E524EC4A888A4607D159942A43_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Leyendas y mentiras",
+                                    "url": "http://goovdme.967sd1f.homes/vod/4C01DE9E37E344ABAEE8B48E480C5143_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Perdido y encontrado",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/FF99E85B037B43BAB886C5A699A43EA4_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "La última Pantera",
+                                    "url": "http://goovdme.967sd1f.homes/vod/3E6F2315BB3B426FB43D79E4C15FC08B_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 241388,
+                    "total_seasons": 1
                 }
             ]
         },
@@ -7170,208 +6912,6 @@
                     "total_seasons": 1
                 },
                 {
-                    "nombre": "Acapulco",
-                    "genero": "Comedia, Drama",
-                    "descripcion": "En 1984, Máximo Gallardo cumple el sueño de su vida cuando empieza a trabajar en Las Colinas, el mejor resort de Acapulco. Pronto descubrirá que las cosas van a ser mucho más complicadas de lo que imaginaba.",
-                    "anio": "2021",
-                    "iconPng": "https://image.tmdb.org/t/p/original/1godUwReHupW25VCdF7rzY0tKyT.png",
-                    "icono": "https://image.tmdb.org/t/p/original/462Nyyeyl3E2aiyU1pCCHqxAgH1.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/1zWgb5owPiYWmoJ5SEpv6XJb8CQ.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Piloto",
-                                    "url": "http://goovdme.967sd1f.homes/vod/79BA62DFDC29406DB24183D806E9E3A2_media.ts"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "La chica de Jessie",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E77FBCF58075456DAD1EB49261ACDDB7_media.ts"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Toque invisible",
-                                    "url": "http://goovdme.967sd1f.homes/vod/1FB953262A534EBAAD6EA95808FCDAE3_media.ts"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Nomás contigo",
-                                    "url": "http://goovdme.967sd1f.homes/vod/07AB0ABD0CE947FE9F272DCE36CD0856_media.ts"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "Toda la noche",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/9BC40F35E3EC4342B38CA8FC670ACE86_media.ts"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "Niña bien",
-                                    "url": "http://goovdme.967sd1f.homes/vod/1EC0D933433649918E1644D36A056658_media.ts"
-                                },
-                                {
-                                    "numero": 7,
-                                    "titulo": "Solo para tus ojos",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A32BEEBF2E8C49FDA96F720C665E54A3_media.ts"
-                                },
-                                {
-                                    "numero": 8,
-                                    "titulo": "Años tras año",
-                                    "url": "http://goovdme.967sd1f.homes/vod/14A77C20E21E4725846E1E0683CF98BE_media.ts"
-                                },
-                                {
-                                    "numero": 9,
-                                    "titulo": "La época más maravillosa del año",
-                                    "url": "http://goovdme.967sd1f.homes/vod/74B7F9056C58494C8066B5CE46A6265F_media.ts"
-                                },
-                                {
-                                    "numero": 10,
-                                    "titulo": "Deberías oír cómo habla de ti",
-                                    "url": "http://goovdme.967sd1f.homes/vod/5A6C4458BD4D453F878239E0F565534C_media.ts"
-                                }
-                            ]
-                        },
-                        {
-                            "nombre": "Temporada 2",
-                            "numero_temporada": 2,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "No te preocupes",
-                                    "url": "http://goovdme.967sd1f.homes/vod/6BA768F5B26E4A149AF09960C14EE309_media.ts"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Dame lo mejor que tengas",
-                                    "url": "http://goovdme.967sd1f.homes/vod/D3CABA833A2F43BFAD7F1180748BED4C_media.ts"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Días de gloria",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/EFC696A55CF1444F899908E45CFEC3F8_media.ts"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "El amor es un campo de batalla",
-                                    "url": "http://goovdme.967sd1f.homes/vod/4E702D6DA8E643E794C01DB8B606780C_media.ts"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "No necesitamos otro héroe",
-                                    "url": "http://goovdme.967sd1f.homes/vod/AF177887156E4459B81D13BCEB7414F6_media.ts"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "Noches de Hollywood",
-                                    "url": "http://goovdme.967sd1f.homes/vod/B99F01A3BEC6400880C0161479FE755E_media.ts"
-                                },
-                                {
-                                    "numero": 7,
-                                    "titulo": "Siempre hay algo para recordarme",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/6FFBF782D25440D3B464A4015735CE76_media.ts"
-                                },
-                                {
-                                    "numero": 8,
-                                    "titulo": "El dinero lo cambia todo",
-                                    "url": "http://goovdme.967sd1f.homes/vod/3B498E2969FD4713A8A646A1445F4191_media.ts"
-                                },
-                                {
-                                    "numero": 9,
-                                    "titulo": "El poder del amor",
-                                    "url": "http://goovdme.967sd1f.homes/vod/6199CF85585A40C1B3E3828A52E870BA_media.ts"
-                                },
-                                {
-                                    "numero": 10,
-                                    "titulo": "Contra todo pronóstico",
-                                    "url": "http://goovdme.967sd1f.homes/vod/38FB1C12E48F46D4AB66A2452DDE72BF_media.ts"
-                                }
-                            ]
-                        },
-                        {
-                            "nombre": "Temporada 3",
-                            "numero_temporada": 3,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Solo nosotros dos",
-                                    "url": "http://goovdme.967sd1f.homes/vod/2A2959DD0FCC4B319E97A0746178E71B_media.ts"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Mamma Mia",
-                                    "url": "http://goovdme.967sd1f.homes/vod/53621DBAD35C46818C31E3E68CC5F3F4_media.ts"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "La fiesta del hombre muerto",
-                                    "url": "http://goovdme.967sd1f.homes/vod/EFB029E8DE634CB9BEBED9A807F4B9BF_media.ts"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Bailarín privado",
-                                    "url": "http://goovdme.967sd1f.homes/vod/4B7DD265DB0248428EF12E48829D1965_media.ts"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "De esto están hechos los dulces sueños",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/CCEDFC94A2D14652AA85B46600DD7FBF_media.ts"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "Arriésgate conmigo",
-                                    "url": "http://goovdme.967sd1f.homes/vod/9FFE25D94E0F4A6EB1F52B3B2CF0F333_media.ts"
-                                },
-                                {
-                                    "numero": 7,
-                                    "titulo": "El vídeo mató a la estrella de la radio",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/3B5AC1F7EF3C4F8BA4E2C2F81FC96400_media.ts"
-                                },
-                                {
-                                    "numero": 8,
-                                    "titulo": "Amor Eterno",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/92BD0AD071FC4EAA8B1CEDC113867BE2_media.ts"
-                                },
-                                {
-                                    "numero": 9,
-                                    "titulo": "Arrasa como un huracán",
-                                    "url": "http://goovdme.967sd1f.homes/vod/FC08DCE8C38A463DB8887C44F85D584D_media.ts"
-                                },
-                                {
-                                    "numero": 10,
-                                    "titulo": "Quemar la casa",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/9F292F59343A4C3A8E3424056C11D0A2_media.ts"
-                                }
-                            ]
-                        },
-                        {
-                            "nombre": "Temporada 4",
-                            "numero_temporada": 4,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Cascadas",
-                                    "url": "http://goovdme.967sd1f.homes/vod/B5BB9E2A14E34D30954865B0ABDEF1A9_media.ts"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Roma, si quieres",
-                                    "url": "http://goovdme.967sd1f.homes/vod/BC05FD1F3ABF4472AC9FFFC64411C66B_media.ts"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Hablando de revolución",
-                                    "url": "http://goovdme.967sd1f.homes/vod/DF3FAA49EC6F47AA88120AA49F97243A_media.ts"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 133727,
-                    "total_seasons": 4
-                },
-                {
                     "nombre": "Dos hombres y medio",
                     "genero": "Comedia",
                     "descripcion": "Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.",
@@ -7737,6 +7277,233 @@
                                     "url": "http://vddgcoud02.gd34fdldh.xyz/vod/8C02C6FE300E474F9586ACBC98483A91_media.ts"
                                 }
                             ]
+                        },
+                        {
+                            "nombre": "Temporada 4",
+                            "numero_temporada": 4,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Trabajar para Caligula",
+                                    "url": "http://goovdme.967sd1f.homes/vod/4DF034C3DA8F49E898E1C802E9E9D316_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "¿Quien es Vod Katetas?",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/BC33DFCB244B425EB52BB281FDE11780_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "La mar es una estricta gobernanta",
+                                    "url": "http://goovdme.967sd1f.homes/vod/219475D781A54F0785BEF8F719C1CE10_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Un mono emporrado",
+                                    "url": "http://goovdme.967sd1f.homes/vod/D77D6B2DA28F481D9173F5FEBFC6BC97_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Una mujer viva de fertilidad probada",
+                                    "url": "http://goovdme.967sd1f.homes/vod/B213C89B951B408991EECC7910C9AC25_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Disculpas por la frivolidad",
+                                    "url": "http://goovdme.967sd1f.homes/vod/B39EE2B9273543B192E5FEBD7EDDC9AF_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Repetidos golpes en una cabeza sin formar",
+                                    "url": "http://goovdme.967sd1f.homes/vod/9F61371D23A64A639BE2F38C39FCAE9E_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Suelta a los perros",
+                                    "url": "http://goovdme.967sd1f.homes/vod/7E06A8F9BC6046DCAA9CF5828E44A891_media.ts"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Corey lleva muerto una hora",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/498D4DDEAE874F0FAE0285781B8E42D7_media.ts"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Besar a Abraham Lincoln",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B5EEB5B31EDC4793AFE646CBE87B0888_media.ts"
+                                },
+                                {
+                                    "numero": 11,
+                                    "titulo": "Nueces y demerol",
+                                    "url": "http://goovdme.967sd1f.homes/vod/0C2F942222F448C2AFA83DA8053550C6_media.ts"
+                                },
+                                {
+                                    "numero": 12,
+                                    "titulo": "Castrando borregos en montana",
+                                    "url": "http://goovdme.967sd1f.homes/vod/94D932E3145B424DB434F011389388D9_media.ts"
+                                },
+                                {
+                                    "numero": 13,
+                                    "titulo": "Tranquilo, meteoro",
+                                    "url": "http://goovdme.967sd1f.homes/vod/FB059959B1B64D7B81436198B0517B6C_media.ts"
+                                },
+                                {
+                                    "numero": 14,
+                                    "titulo": "Es salchichon, no salami",
+                                    "url": "http://goovdme.967sd1f.homes/vod/FDEC563761C64402A1CCFD9C88FC4BD8_media.ts"
+                                },
+                                {
+                                    "numero": 15,
+                                    "titulo": "Mi condenada acosadora",
+                                    "url": "http://goovdme.967sd1f.homes/vod/39594F706B3D462D84323F00961CDA91_media.ts"
+                                },
+                                {
+                                    "numero": 16,
+                                    "titulo": "Los jovenes tambien tienen flemas",
+                                    "url": "http://goovdme.967sd1f.homes/vod/3AC6F53F485E4C04A09D46E452E39567_media.ts"
+                                },
+                                {
+                                    "numero": 17,
+                                    "titulo": "Solo me acoste con un comunista",
+                                    "url": "http://goovdme.967sd1f.homes/vod/D1C7FF6565D8432CBF4EB824689D075D_media.ts"
+                                },
+                                {
+                                    "numero": 18,
+                                    "titulo": "Nunca llueve en Tetalandia",
+                                    "url": "http://goovdme.967sd1f.homes/vod/C98472AA43154411A57C647255580DA1_media.ts"
+                                },
+                                {
+                                    "numero": 19,
+                                    "titulo": "Suave como un Ken",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/565CBD60623242DEAA254E9522C62717_media.ts"
+                                },
+                                {
+                                    "numero": 20,
+                                    "titulo": "La tia Myra no hace mucho pis",
+                                    "url": "http://goovdme.967sd1f.homes/vod/1D4652EFCBD54B24B90FB1E0D29B03FB_media.ts"
+                                },
+                                {
+                                    "numero": 21,
+                                    "titulo": "Escondido, grabado y magnífico",
+                                    "url": "http://goovdme.967sd1f.homes/vod/A02084F1D0FA4886894FE637F437A236_media.ts"
+                                },
+                                {
+                                    "numero": 22,
+                                    "titulo": "El pienso de Mr. Mcglue",
+                                    "url": "http://goovdme.967sd1f.homes/vod/200DC88D86134BF5A36927D27B22DAC0_media.ts"
+                                },
+                                {
+                                    "numero": 23,
+                                    "titulo": "El oso hormiguero tiene cara de loco",
+                                    "url": "http://goovdme.967sd1f.homes/vod/753D0C3C42124A5BAA9BF2A95D6548B7_media.ts"
+                                },
+                                {
+                                    "numero": 24,
+                                    "titulo": "Prostitutas y helado",
+                                    "url": "http://goovdme.967sd1f.homes/vod/950C0C829789420B8C8E0735D049CB02_media.ts"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 5",
+                            "numero_temporada": 5,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Pájaros Grandes, Arañas y Mamá",
+                                    "url": "http://goovdme.967sd1f.homes/vod/68DFF7C4365C4035BB8ED0ABB6CEAE54_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Mazmorra de Cuchillada de Medios de comunicación",
+                                    "url": "http://goovdme.967sd1f.homes/vod/947C177A8CDE424FB1FABE67AD965956_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Dum Diddy Dum Diddy Doo",
+                                    "url": "http://goovdme.967sd1f.homes/vod/8B7AC957DA9946E7B0BE5E0F092FC223_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Ciudad de Grandes Estantes",
+                                    "url": "http://goovdme.967sd1f.homes/vod/1EBA197BABEC4A2D9BE38D7D71B199B5_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Poniendo Aletas para nadar sobre un Gato",
+                                    "url": "http://goovdme.967sd1f.homes/vod/14BFF2B16E364F1CB6D105918D604E8C_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Ayuda a papá a encontrar su uña",
+                                    "url": "http://goovdme.967sd1f.homes/vod/2B3F94AB13C24AFF88C3CB713A1ED8E3_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "El Engranaje De cuero Está en el Cuarto de huéspedes",
+                                    "url": "http://goovdme.967sd1f.homes/vod/263FF3B6FEA1411A84CCCACEC1D44140_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Hay una Sra. Waffles?",
+                                    "url": "http://goovdme.967sd1f.homes/vod/F0DD83C2F8444EAFB392A8E7495B234D_media.ts"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Zapatos, Sombreros, las Tapas de Tarro de Escabeche",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/944CE44CD28947E9B91EE61B280170A7_media.ts"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Kandi Como la Necrofilia",
+                                    "url": "http://goovdme.967sd1f.homes/vod/D2E0D4E52EEE4BF1AC8FAEE882747FB9_media.ts"
+                                },
+                                {
+                                    "numero": 11,
+                                    "titulo": "El Meandro a Su Caspa",
+                                    "url": "http://goovdme.967sd1f.homes/vod/560132E7B3ED4E168D19494F0BB0D833_media.ts"
+                                },
+                                {
+                                    "numero": 12,
+                                    "titulo": "Un poco húmedo y no tan fresco",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/91BCD025F9F24972A178568C29347C3F_media.ts"
+                                },
+                                {
+                                    "numero": 13,
+                                    "titulo": "El Suelo Es Húmedo",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B03DC043D3DD4529A42F2659C3ECF47A_media.ts"
+                                },
+                                {
+                                    "numero": 14,
+                                    "titulo": "Maestro del Tiempo",
+                                    "url": "http://goovdme.967sd1f.homes/vod/EB4C7A40F7404FA4A107DE23F1001684_media.ts"
+                                },
+                                {
+                                    "numero": 15,
+                                    "titulo": "La Noche Áspera en la Unión de Joroba",
+                                    "url": "http://goovdme.967sd1f.homes/vod/787712F87FA54EB9B9C834BA1C888C41_media.ts"
+                                },
+                                {
+                                    "numero": 16,
+                                    "titulo": "Mira Mami, soy Bonito",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/56B0934D2BE64A1881E0FA352238ED10_media.ts"
+                                },
+                                {
+                                    "numero": 17,
+                                    "titulo": "El Pescado en un Cajón",
+                                    "url": "http://goovdme.967sd1f.homes/vod/5C24FFCCBD9045E9B3A3F5B4EB8E75CC_media.ts"
+                                },
+                                {
+                                    "numero": 18,
+                                    "titulo": "Si Mi Agujero Pudiera Hablar",
+                                    "url": "http://goovdme.967sd1f.homes/vod/440FDAF489D348A7A94DEA16FF40F55D_media.ts"
+                                },
+                                {
+                                    "numero": 19,
+                                    "titulo": "Esperando por el mordedor correcto",
+                                    "url": "http://goovdme.967sd1f.homes/vod/3C71382F75BB46839F8FFA662382BB50_media.ts"
+                                }
+                            ]
                         }
                     ],
                     "tmdb_id": 2691,
@@ -7896,6 +7663,383 @@
                         }
                     ],
                     "tmdb_id": 86248,
+                    "total_seasons": 4
+                },
+                {
+                    "nombre": "Platonico",
+                    "genero": "Comedia",
+                    "descripcion": "Después de un largo paréntesis en su amistad, unos viejos amigos con una conexión platónica vuelven a encontrarse en la mediana edad. Su amistad se vuelve más obsesiva y desestabiliza sus vidas de una manera muy divertida.",
+                    "anio": "2023",
+                    "iconPng": "https://image.tmdb.org/t/p/original/iGdPxmapf3g86IWbZHfOH7fFiOD.png",
+                    "icono": "https://image.tmdb.org/t/p/original/eqSWtzuRQepKMWlYKeU76hxVoli.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/aZerXLRyZMuGjQXI61f2CmSig7o.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Piloto",
+                                    "url": "http://goovdme.967sd1f.homes/vod/447583B4C2AA4BFF9697BA7AA0490BE6_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Gandalf, el lagarto",
+                                    "url": "http://goovdme.967sd1f.homes/vod/CDF33E994D3049B8B47A7AB4698213DF_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "El retiro de socios",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/8A22FD13240C4B68869F4776ECDB3983_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "La fiesta del divorcio",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/36204D45DCA04FF6B89E43EAB1514F8E_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "El novio de mi mujer",
+                                    "url": "http://goovdme.967sd1f.homes/vod/A52BB6CF1C344CE4B357E7DFFA4CA214_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Los grandes 26",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/801CDFEABBA940499EF29DEE868F6878_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Deja que el río fluya",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/BDFC473E182C43288B48C81EF3F72CE8_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "San Diego",
+                                    "url": "http://goovdme.967sd1f.homes/vod/790A9C4409914D7F855CD7816E855FA1_media.ts"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "La fiesta del pijama",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/DB0ED270498C44588B7ED4BA481D16F5_media.ts"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Cuando Will conoció a Sylvia",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/ABBC26A260F84C0DBD4716E9279F3189_media.ts"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 2",
+                            "numero_temporada": 2,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "La fiesta de compromiso",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/7D780536B34047CD8045CF489B1AB3AB_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "La cena",
+                                    "url": "http://goovdme.967sd1f.homes/vod/D868FF18CB1444B39F58BC540BFAC028_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 112211,
+                    "total_seasons": 2
+                },
+                {
+                    "nombre": "Betty la fea, la historia continúa",
+                    "genero": "Soap, Comedia, Drama",
+                    "descripcion": "Mientras una Betty más empoderada y sabia trabaja duro para reconstruir su relación con su hija adolescente Mila, su relación con Armando comienza a deteriorarse, haciéndola preguntarse si tomó la decisión correcta hace 20 años.",
+                    "anio": "2024",
+                    "iconPng": "https://image.tmdb.org/t/p/original/vJQUdyYdcGpWN3tISDeN05ytVn0.png",
+                    "icono": "https://image.tmdb.org/t/p/original/3rs80Tqc1QJbSjBmAQzxUPyu5pY.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/wiKWTM2DTrkEIxbTWCv4XRXckBf.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Reuniones",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A813215AF09049B298C46A90E5A3B9DD_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Betty Toma el poder",
+                                    "url": "http://goovdme.967sd1f.homes/vod/C4C997E5F4B048DB8DBED92541DB79C0_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Betty, presidenta",
+                                    "url": "http://goovdme.967sd1f.homes/vod/19EC0E7400B14BDD9EFBF45028419711_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Des-Armando",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/604E7A6BA65E4B8ABD6778337D279312_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Tu cárcel",
+                                    "url": "http://goovdme.967sd1f.homes/vod/F9C00571833D4B08B16151BF782A10F8_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Sueño de una larga noche de verano",
+                                    "url": "http://goovdme.967sd1f.homes/vod/20655B9B4DA9453ABABC07E2A017ACCB_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "La caja de los recuerdos",
+                                    "url": "http://goovdme.967sd1f.homes/vod/7ADDE40CF7DD40D995EC8F3E775A47DA_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "La noche menos pensada",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/86AE80D5584D44359FC18FAA143DA955_media.ts"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Borró cassette",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/7213804798FA4CA6ACF942293EFA8E08_media.ts"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "No culpes a la playa",
+                                    "url": "http://goovdme.967sd1f.homes/vod/EABE1470E2FA41B788B8ADF92810E5E0_media.ts"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 2",
+                            "numero_temporada": 2,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/D8DEB88B611C47B3B58854C84A59C6FE_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/21D17DA4F768429690F136D0A233BB17_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 230424,
+                    "total_seasons": 2
+                },
+                {
+                    "nombre": "Acapulco",
+                    "genero": "Comedia, Drama",
+                    "descripcion": "En 1984, Máximo Gallardo cumple el sueño de su vida cuando empieza a trabajar en Las Colinas, el mejor resort de Acapulco. Pronto descubrirá que las cosas van a ser mucho más complicadas de lo que imaginaba.",
+                    "anio": "2021",
+                    "iconPng": "https://image.tmdb.org/t/p/original/1godUwReHupW25VCdF7rzY0tKyT.png",
+                    "icono": "https://image.tmdb.org/t/p/original/462Nyyeyl3E2aiyU1pCCHqxAgH1.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/1zWgb5owPiYWmoJ5SEpv6XJb8CQ.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Piloto",
+                                    "url": "http://goovdme.967sd1f.homes/vod/79BA62DFDC29406DB24183D806E9E3A2_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "La chica de Jessie",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E77FBCF58075456DAD1EB49261ACDDB7_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Toque invisible",
+                                    "url": "http://goovdme.967sd1f.homes/vod/1FB953262A534EBAAD6EA95808FCDAE3_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Nomás contigo",
+                                    "url": "http://goovdme.967sd1f.homes/vod/07AB0ABD0CE947FE9F272DCE36CD0856_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Toda la noche",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/9BC40F35E3EC4342B38CA8FC670ACE86_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Niña bien",
+                                    "url": "http://goovdme.967sd1f.homes/vod/1EC0D933433649918E1644D36A056658_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Solo para tus ojos",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A32BEEBF2E8C49FDA96F720C665E54A3_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Años tras año",
+                                    "url": "http://goovdme.967sd1f.homes/vod/14A77C20E21E4725846E1E0683CF98BE_media.ts"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "La época más maravillosa del año",
+                                    "url": "http://goovdme.967sd1f.homes/vod/74B7F9056C58494C8066B5CE46A6265F_media.ts"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Deberías oír cómo habla de ti",
+                                    "url": "http://goovdme.967sd1f.homes/vod/5A6C4458BD4D453F878239E0F565534C_media.ts"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 2",
+                            "numero_temporada": 2,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "No te preocupes",
+                                    "url": "http://goovdme.967sd1f.homes/vod/6BA768F5B26E4A149AF09960C14EE309_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Dame lo mejor que tengas",
+                                    "url": "http://goovdme.967sd1f.homes/vod/D3CABA833A2F43BFAD7F1180748BED4C_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Días de gloria",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/EFC696A55CF1444F899908E45CFEC3F8_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "El amor es un campo de batalla",
+                                    "url": "http://goovdme.967sd1f.homes/vod/4E702D6DA8E643E794C01DB8B606780C_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "No necesitamos otro héroe",
+                                    "url": "http://goovdme.967sd1f.homes/vod/AF177887156E4459B81D13BCEB7414F6_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Noches de Hollywood",
+                                    "url": "http://goovdme.967sd1f.homes/vod/B99F01A3BEC6400880C0161479FE755E_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Siempre hay algo para recordarme",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/6FFBF782D25440D3B464A4015735CE76_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "El dinero lo cambia todo",
+                                    "url": "http://goovdme.967sd1f.homes/vod/3B498E2969FD4713A8A646A1445F4191_media.ts"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "El poder del amor",
+                                    "url": "http://goovdme.967sd1f.homes/vod/6199CF85585A40C1B3E3828A52E870BA_media.ts"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Contra todo pronóstico",
+                                    "url": "http://goovdme.967sd1f.homes/vod/38FB1C12E48F46D4AB66A2452DDE72BF_media.ts"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 3",
+                            "numero_temporada": 3,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Solo nosotros dos",
+                                    "url": "http://goovdme.967sd1f.homes/vod/2A2959DD0FCC4B319E97A0746178E71B_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Mamma Mia",
+                                    "url": "http://goovdme.967sd1f.homes/vod/53621DBAD35C46818C31E3E68CC5F3F4_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "La fiesta del hombre muerto",
+                                    "url": "http://goovdme.967sd1f.homes/vod/EFB029E8DE634CB9BEBED9A807F4B9BF_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Bailarín privado",
+                                    "url": "http://goovdme.967sd1f.homes/vod/4B7DD265DB0248428EF12E48829D1965_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "De esto están hechos los dulces sueños",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/CCEDFC94A2D14652AA85B46600DD7FBF_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Arriésgate conmigo",
+                                    "url": "http://goovdme.967sd1f.homes/vod/9FFE25D94E0F4A6EB1F52B3B2CF0F333_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "El vídeo mató a la estrella de la radio",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/3B5AC1F7EF3C4F8BA4E2C2F81FC96400_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Amor Eterno",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/92BD0AD071FC4EAA8B1CEDC113867BE2_media.ts"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Arrasa como un huracán",
+                                    "url": "http://goovdme.967sd1f.homes/vod/FC08DCE8C38A463DB8887C44F85D584D_media.ts"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Quemar la casa",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/9F292F59343A4C3A8E3424056C11D0A2_media.ts"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 4",
+                            "numero_temporada": 4,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Cascadas",
+                                    "url": "http://goovdme.967sd1f.homes/vod/B5BB9E2A14E34D30954865B0ABDEF1A9_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Roma, si quieres",
+                                    "url": "http://goovdme.967sd1f.homes/vod/BC05FD1F3ABF4472AC9FFFC64411C66B_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Hablando de revolución",
+                                    "url": "http://goovdme.967sd1f.homes/vod/DF3FAA49EC6F47AA88120AA49F97243A_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Amor superior",
+                                    "url": "http://goovdme.967sd1f.homes/vod/B35A796A812F4AC8A04C8F084018721C_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 133727,
                     "total_seasons": 4
                 }
             ]
@@ -9112,6 +9256,11 @@
                                     "numero": 4,
                                     "titulo": "Episodio 4",
                                     "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1840234FD4B84B39B8889860522C27C2_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://goovdme.967sd1f.homes/vod/EA892750804640B4AAC5D58A1DC59F38_media.ts"
                                 }
                             ]
                         }
@@ -9607,6 +9756,249 @@
                                     "url": "http://goovdme.967sd1f.homes/vod/35BFDE382A844AA6B11916A01F3441BF_media.ts"
                                 }
                             ]
+                        },
+                        {
+                            "nombre": "Temporada 2",
+                            "numero_temporada": 2,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Los 48",
+                                    "url": "http://goovdme.967sd1f.homes/vod/2B9839EF3A56401B8FEC83573ECDDAAE_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Inclemencias",
+                                    "url": "http://goovdme.967sd1f.homes/vod/64C2C40107BC4EF489B996A34BE9BECF_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Siega y cosecha",
+                                    "url": "http://goovdme.967sd1f.homes/vod/68B7620E1413454E895281F44124AD8E_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Felices reencuentros",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/262EEF237CB84DD2A9A1D6E077B4878B_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Pruebas con humanos",
+                                    "url": "http://goovdme.967sd1f.homes/vod/0DED79A6FDDB47429F2363EA7F4EB0B7_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Niebla de guerra",
+                                    "url": "http://goovdme.967sd1f.homes/vod/D1F50AEE708F404FB3FA83F13998B877_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Largo tiempo a un abismo",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/5FC8093E016342B49D03DC5B05E02FBC_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "El caminante espacial",
+                                    "url": "http://goovdme.967sd1f.homes/vod/79EA8596C8D64CECA9C4F3F4BC5849EB_media.ts"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Recuérdame",
+                                    "url": "http://goovdme.967sd1f.homes/vod/DF372882380442ADAB44A4EA61D0BF7E_media.ts"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Selección natural",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E0E25855017949CABB517C9AAB0CCD6F_media.ts"
+                                },
+                                {
+                                    "numero": 11,
+                                    "titulo": "Golpe de gracia",
+                                    "url": "http://goovdme.967sd1f.homes/vod/816117169A4D45ADA21771BA304EF8F2_media.ts"
+                                },
+                                {
+                                    "numero": 12,
+                                    "titulo": "Cruzar el Rubicón",
+                                    "url": "http://goovdme.967sd1f.homes/vod/B5C8895AC5814861BEAA77341672C6CC_media.ts"
+                                },
+                                {
+                                    "numero": 13,
+                                    "titulo": "Resurrección",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/986A6755DB51448BB547FE7EF4CEDDCF_media.ts"
+                                },
+                                {
+                                    "numero": 14,
+                                    "titulo": "Guardaespaldas de la mentira",
+                                    "url": "http://goovdme.967sd1f.homes/vod/0AF873FD289B4599A6A9663C557732BF_media.ts"
+                                },
+                                {
+                                    "numero": 15,
+                                    "titulo": "La sangre pide sangre: 1.ª parte",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A200898E150D4162A0D9E280C2F035D0_media.ts"
+                                },
+                                {
+                                    "numero": 16,
+                                    "titulo": "La sangre pide sangre: 2.ª parte",
+                                    "url": "http://goovdme.967sd1f.homes/vod/BBE27034361646C7840906AB986C4B2E_media.ts"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 3",
+                            "numero_temporada": 3,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Wanheda (I)",
+                                    "url": "http://goovdme.967sd1f.homes/vod/706F625DCF65455A805C06AC482770E7_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Wanheda (II)",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/61DBC9A961E1461394B9E3A335FE39CD_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Vosotros que entráis aquí",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/6E27D7AE5816425ABD48AA27859742E3_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Vigilad los tronos",
+                                    "url": "http://goovdme.967sd1f.homes/vod/DA00290CD4934317AB493EC044B04857_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Hakeldama",
+                                    "url": "http://goovdme.967sd1f.homes/vod/B338561072874D929578057802EEA8B2_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Cosecha amarga",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/740A887E91984A789C122142FBCDC589_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Trece",
+                                    "url": "http://goovdme.967sd1f.homes/vod/D3F7CFD2D8354EA5BA128AF2613DE0B3_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Términos y condiciones",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0A13FF0CD234478E9B98C46AF8048DCB_media.ts"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Robar el fuego",
+                                    "url": "http://goovdme.967sd1f.homes/vod/2A673C6455BF41CDB829B7DBBBA34443_media.ts"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Arkadia ha caído",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/027813D674D94F858D7E9F5F703376A7_media.ts"
+                                },
+                                {
+                                    "numero": 11,
+                                    "titulo": "Nunca más",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/08563CF056CC475DB91D46F95613AB42_media.ts"
+                                },
+                                {
+                                    "numero": 12,
+                                    "titulo": "Demonios",
+                                    "url": "http://goovdme.967sd1f.homes/vod/6384B7D2CE4D436CB94621789A1ACEE7_media.ts"
+                                },
+                                {
+                                    "numero": 13,
+                                    "titulo": "Únete o muere",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/43CF427A137A4F18ABFE89C54D3207F8_media.ts"
+                                },
+                                {
+                                    "numero": 14,
+                                    "titulo": "Rojo amanecer",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/09BC082950734BFFB35A6A18FA9A561C_media.ts"
+                                },
+                                {
+                                    "numero": 15,
+                                    "titulo": "Ejemplificación perversa (I)",
+                                    "url": "http://goovdme.967sd1f.homes/vod/B3BAEF112075413588B185E4EA8F389C_media.ts"
+                                },
+                                {
+                                    "numero": 16,
+                                    "titulo": "Ejemplificación perversa (II)",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E56B56C7B00F4A15BF8AE652FF8EA1BB_media.ts"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 4",
+                            "numero_temporada": 4,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Ecos",
+                                    "url": "http://goovdme.967sd1f.homes/vod/08CCDCFA0E4444A39C497F3FF52D7B03_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "El peso de la corona",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D5026C31068F4FBAB7A8FC10E0F65297_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Los cuatro jinetes",
+                                    "url": "http://goovdme.967sd1f.homes/vod/1DCB476E4D1044A2BF3E2EEBC9755371_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Una mentira guardada",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/7EB6C98CCF064F948949A0F6B9BDF7A7_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "El polvorín",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0460FCC1BFD745C399E0CA677A07EEB9_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Nos levantaremos",
+                                    "url": "http://goovdme.967sd1f.homes/vod/2B409CFA072E4D46B32C4D41EE003C03_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Dadme refugio",
+                                    "url": "http://goovdme.967sd1f.homes/vod/43C9D329A49F4E65AFF729B07FCD167A_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Complejo de Dios",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/41E419FBAC5240C28E8BF2FB68DCB80B_media.ts"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "No RCP",
+                                    "url": "http://goovdme.967sd1f.homes/vod/9FAB98AC19C64B7495B329C5D986D659_media.ts"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Morid todos, morid felizmente",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/839C4FC53DDD4BB8B4C4BD9C3207AAB8_media.ts"
+                                },
+                                {
+                                    "numero": 11,
+                                    "titulo": "Al otro lado",
+                                    "url": "http://goovdme.967sd1f.homes/vod/276B76C7B93E46A29CE1186C57B06B43_media.ts"
+                                },
+                                {
+                                    "numero": 12,
+                                    "titulo": "Los elegidos",
+                                    "url": "http://goovdme.967sd1f.homes/vod/728B872E1D794F918799A35490D0205E_media.ts"
+                                },
+                                {
+                                    "numero": 13,
+                                    "titulo": "Praimfaya",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/7625341229474E6B9F6B475A300F149D_media.ts"
+                                }
+                            ]
                         }
                     ],
                     "tmdb_id": 48866,
@@ -9666,10 +10058,65 @@
                                     "url": "http://goovdme.967sd1f.homes/vod/C74F95C391854CD3A1FDDCC81D813473_media.ts"
                                 }
                             ]
+                        },
+                        {
+                            "nombre": "Temporada 2",
+                            "numero_temporada": 2,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "La vuelta a la tristeza",
+                                    "url": "http://goovdme.967sd1f.homes/vod/189447A2052543D7BCB91E2E2D9384CA_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Más vale diablo triste que conocido",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/38C8616A818045D89D0F4291EC76376A_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "La llamada de la tristeza",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/6F02028F645348CFB7170771DA5F06DB_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Si las tristezas hablaran",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/40B5636A98E04A80976E7C16E9A6A42A_media.ts"
+                                }
+                            ]
                         }
                     ],
                     "tmdb_id": 119051,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "Alien: Planeta Tierra",
+                    "genero": "Sci-Fi & Fantasy, Drama",
+                    "descripcion": "Cuando una misteriosa nave se estrella contra la Tierra, una joven y un variopinto grupo de soldados tácticos hacen un fatídico hallazgo que los pone cara a cara con la mayor amenaza del planeta. El equipo de rescate busca supervivientes entre los restos de la colisión y se topa con una forma de vida depredadora que levanta más misterios y miedos de los que cabría imaginarse. Debido a esta nueva amenaza, el equipo deberá luchar por sobrevivir. Lo que decidan hacer con este descubrimiento podría cambiar el planeta Tierra tal y como lo conocen.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/jtm7uQb6FXl152OJZjsYsAquhvk.png",
+                    "icono": "https://image.tmdb.org/t/p/original/8IIPZe4V2xNYFWY7lBY6GpN2L8O.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/25g7mthXoJFcNZhAKz0evk17Bsx.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Nunca Jamás",
+                                    "url": "http://goovdme.967sd1f.homes/vod/1B5F2FA055FC4A76AEFC1921E5990D81_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Míster Octubre",
+                                    "url": "http://goovdme.967sd1f.homes/vod/94935EC9DB9B4BAF8D3AB5F7468707FB_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 157239,
+                    "total_seasons": 1
                 }
             ]
         },
@@ -14766,6 +15213,55 @@
                     ],
                     "tmdb_id": 290276,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Marcada",
+                    "genero": "Drama",
+                    "descripcion": "Desesperada por pagar la cirugía que le salvó la vida a su hija, la devota ex policía Babalwa recurre a un salvador impío para que la ayude a organizar un atrevido atraco.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/eTmnUGaF6kS0s3nsucCIn0PzXrO.png",
+                    "icono": "https://image.tmdb.org/t/p/original/fNJarIm84EcMPISFtRXuT56rqVI.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/maxJ6oaC3tgO0lUiudLCLN4FPS8.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/171DD99AA8CB45D8B0BDDC504AF566F0_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/95744DABAE3A48858C7E8CD9F44E0910_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://goovdme.967sd1f.homes/vod/F464BF003548464280AEE2E34F3CBE57_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/BCD59446664F4D108768238AC96D3D33_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://goovdme.967sd1f.homes/vod/ADF53ADEE92D4FA48D28D09FA2F3871F_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/BED34B9337F749B083504EE43B09560E_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 293808,
+                    "total_seasons": 1
                 }
             ]
         },
@@ -16924,6 +17420,60 @@
                         }
                     ],
                     "tmdb_id": 120040,
+                    "total_seasons": 1
+                },
+                {
+                    "nombre": "Fútbol americano: un sábado cualquiera en la Conferencia del sureste",
+                    "genero": "Documental",
+                    "descripcion": "Decir que sus trabajos son exigentes es quedarse corto. En la SEC, entrenar a un equipo histórico es como una olla a presión y perder no es una opción.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/uYsprKI7WICU6vQueyiy42VH5yT.png",
+                    "icono": "https://image.tmdb.org/t/p/original/5ksKByoHmrqqNQaWf1uaxgfZLyA.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/jXLuyha3b3iJi8dzlbMIRmRKDks.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Saque inicial",
+                                    "url": "http://goovdme.967sd1f.homes/vod/9DEE8BDC36E049A78C589D945D6D1B88_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Quarterback",
+                                    "url": "http://goovdme.967sd1f.homes/vod/AE42A94F0B9A4FEE9C38298396A9A9B6_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Sorprender al mundo",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/79BBC196067949DE83A73DB07754AF3A_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Punto de inflexión",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4A0AB23FC8BC41068F0581D06FD418C8_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "La familia del fútbol",
+                                    "url": "http://goovdme.967sd1f.homes/vod/600522AF9A2C4AD5823A10C91E27F289_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Por el honor",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2A591967D1BD4CC8A27E697A2363AE31_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Solo hay que ganar",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/CCC7309E6E7E4E3AA92FBD56E0F8A64F_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 296069,
                     "total_seasons": 1
                 }
             ]
