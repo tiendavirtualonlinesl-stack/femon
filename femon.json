@@ -725,6 +725,18 @@
                     "Referer": "https://portal.app.flow.com.ar/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
+            },
+            {
+                "name": "El Ocho TV Tucuman",
+                "url": "https://edge-mix02-coe.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU1MjcyMDUyIiwic2lwIjoiNDUuMTc4LjIuMjQ5IiwicGF0aCI6Ii9saXZlL2MzZWRzL0FtZXJpY2FUVi9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYmYwM2RiOWMzZWU4M2E2NSIsInNlc3Npb25faWQiOiI4MTM5MzUyNC0xNzU1MDk5MjUyLTIxNyIsImNsaWVudF9pZCI6IjEzMTIxODg0IiwiZGV2aWNlX2lkIjoiODEzOTM1MjQiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIxMjAiLCJzb3VyY2VzIjpbNzMsODUsMTQ0LDg2LDg4XX0=.ESwGQ0XHQb0dhlnAE8PIq2qi8w81x4PckQBEvRy6QWRoYHP2C714HVYsgtoWJRG4jTE2dboOspjWqmhy61vbFA==/live/c7eds/Canal_8_Tucuman/SA_Live_dash_enc/Canal_8_Tucuman.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Elocho_TV_nuevo_logo.png/456px-Elocho_TV_nuevo_logo.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7760caa058b51b7cce151c0539fa4a8f&key=edd086c1011ed2c54cbe869d0e8d9289",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
             }
         ]
     },
