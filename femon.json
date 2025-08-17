@@ -13,18 +13,6 @@
                 "url": "http://serviciosvisuales.net:80/Mdprime/XWDJKHMQBG/804172",
                 "type": "HLS",
                 "icono": "https://github.com/luisoddone/femon/blob/main/MLS.png?raw=true"
-            },
-            {
-                "name": "MLS",
-                "url": "https://csi.gstatic.com/csi?v=2&s=ima&dmc=4&puid=c~mef0lg8p&c=2064767694636&slotId=1032383847318&met.4=ima_lvp_ncs.mef0lg8q~ima_lvp_yvs.mef0lg8q",
-                "type": "CLEARKEY",
-                "icono": "https://github.com/luisoddone/femon/blob/main/MLS.png?raw=true",
-                "drm_license_uri": "",
-                "headers": {
-                    "origin": "https://imasdk.googleapis.com",
-                    "referer": "https://imasdk.googleapis.com/",
-                    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
-                }
             }
         ]
     },
