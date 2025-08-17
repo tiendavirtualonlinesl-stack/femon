@@ -4968,6 +4968,13 @@
     },
     {
         "name": "⚽ EVENTOS PREMIUM EN VIVO (Activos cuando hay transmisiones exclusivas).",
-        "samples": []
+        "samples": [
+            {
+                "name": "Eventos Premium 1",
+                "url": "",
+                "type": "HLS",
+                "icono": "https://github.com/luisoddone/femon/blob/main/MLS.png?raw=true"
+            }
+        ]
     }
 ]
