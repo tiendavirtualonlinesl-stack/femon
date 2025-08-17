@@ -956,6 +956,12 @@
                 "url": "https://cdn.sensa.com.ar/output/NDS/tvcoopjpH/playlist.m3u8",
                 "type": "HLS",
                 "icono": "https://geo.edge.pontiscloud.com:9002/images/2517/CH_LOGO/160/160/0/0/2990054407460.png"
+            },
+            {
+                "name": "TV Ocho La Rioja",
+                "url": "https://srvchp.witel.ar:1936/live/teveocho/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://tvocho.ar/wp-content/uploads/2024/05/teveoh2.png"
             }
         ]
     },
