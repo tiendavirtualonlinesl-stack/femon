@@ -366,15 +366,15 @@
                 "type": "HLS"
             },
             {
-                "name": "Canal 4 San Juan",
-                "url": "https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8",
-                "icono": "https://iili.io/3L9yLdb.th.jpg",
-                "type": "HLS"
-            },
-            {
                 "name": "Canal 3 Las Heras",
                 "url": "https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8",
                 "icono": "https://iili.io/3L9yLdb.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "Canal 4 San Juan",
+                "url": "https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8",
+                "icono": "https://iili.io/3L9yLdb.th.jpg",
                 "type": "HLS"
             },
             {
