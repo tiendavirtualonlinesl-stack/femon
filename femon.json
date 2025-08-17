@@ -950,6 +950,12 @@
                 "url": "https://smt-usr-edge01.sensa.com.ar/output/ARR/TVCOh/track_0_3000/playlist.m3u8",
                 "type": "HLS",
                 "icono": "https://www.corpico.com.ar/static/img/tvco-vivo.png"
+            },
+            {
+                "name": "TV Coop Posse",
+                "url": "https://cdn.sensa.com.ar/output/NDS/tvcoopjpH/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://geo.edge.pontiscloud.com:9002/images/2517/CH_LOGO/160/160/0/0/2990054407460.png"
             }
         ]
     },
