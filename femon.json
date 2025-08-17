@@ -1409,6 +1409,13 @@
                     "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
+            },
+            {
+                "name": "Telefuturo",
+                "url": "https://cdn-py.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc_C/TELEFUTURO_C4.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/NjymhsW/FFFF.jpg",
+                "drm_license_uri": ""
             }
         ]
     },
