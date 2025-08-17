@@ -4687,22 +4687,22 @@
                 }
             },
             {
-                "name": "America TV",
-                "url": "https://cdn.trimi.com.ar/live/sm-live/AMERICA_BACKUP/sa_live_dash/AMERICA_BACKUP.mpd",
+                "name": "El Nueve",
+                "url": "https://cdn.trimi.com.ar/live/sm-live/C4N4L_NU3V3/sa_live_dash/C4N4L_NU3V3.mpd",
                 "type": "CLEARKEY",
-                "icono": "https://i.ibb.co/m5L7rSqf/Am-rica-TV-Nuevo-logo-Junio-2020.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=737a88876b64489ab46cf69f8c5dfe5a&key=bf0ae0a5210cb0604e465690c201eec4",
+                "icono": "https://i.ibb.co/6RrJVHmX/345-3453836-ar-canal-9-el-nueve-el-nueve-logo.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9f1527881baf4166865452f046d8f445&key=d192df40da8a2c752a8a921f827c325f",
                 "headers": {
                     "Origin": "https://www.trimi.com.ar",
                     "Referer": "https://www.trimi.com.ar/"
                 }
             },
             {
-                "name": "El Nueve",
-                "url": "https://cdn.trimi.com.ar/live/sm-live/C4N4L_NU3V3/sa_live_dash/C4N4L_NU3V3.mpd",
+                "name": "America TV",
+                "url": "https://cdn.trimi.com.ar/live/sm-live/AMERICA_BACKUP/sa_live_dash/AMERICA_BACKUP.mpd",
                 "type": "CLEARKEY",
-                "icono": "https://i.ibb.co/6RrJVHmX/345-3453836-ar-canal-9-el-nueve-el-nueve-logo.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9f1527881baf4166865452f046d8f445&key=d192df40da8a2c752a8a921f827c325f",
+                "icono": "https://i.ibb.co/m5L7rSqf/Am-rica-TV-Nuevo-logo-Junio-2020.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=737a88876b64489ab46cf69f8c5dfe5a&key=bf0ae0a5210cb0604e465690c201eec4",
                 "headers": {
                     "Origin": "https://www.trimi.com.ar",
                     "Referer": "https://www.trimi.com.ar/"
