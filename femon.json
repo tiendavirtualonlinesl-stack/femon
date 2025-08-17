@@ -4297,7 +4297,7 @@
                 "name": "Eventos Premium 3",
                 "url": "",
                 "type": "HLS",
-                "icono": ""
+                "icono": "https://github.com/luisoddone/femon/blob/main/MLS.png?raw=true"
             }
         ]
     }
