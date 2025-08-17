@@ -1,7 +1,17 @@
 [
     {
         "name": "Futbol Argentino EVENTOS",
-        "samples": []
+        "samples": [
+            {
+                "name": "River VS Godoy Cruz",
+                "url": "https://daiv18j8.s3.eu-west-1.amazonaws.com/hls/stream17/index.m3u8",
+                "type": "HLS",
+                "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitLpWDHKEwYWUffSPWRqdasXQTl-WPhNASL4nmfhFVTdAYDKY41lRJgpRtPQandxSx2I1p-on2u9vzBC1Hamm45-0mPrmw4W7sdBMtcl6NuptTfNLJqLI4qI3TQtpXjreyOsLnzyfcu6j06Tdod61ZBGXNUuu3EBQs4vVn0G-gIpCmFrcGFFEPagqLIqM/w438-h242-p-k-no-nu/River%20Plate%20X%20Godoy%20Cruz.png=w72-h72-p-k-no-nu",
+                "headers": {
+                    "https://elverruca.tech": ""
+                }
+            }
+        ]
     },
     {
         "name": "⚽ EVENTOS PREMIUM EN VIVOO (Activos cuando hay transmisiones exclusivas).",
