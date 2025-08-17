@@ -372,9 +372,10 @@
                 "type": "HLS"
             },
             {
-                "name": "SAN LUIS TV",
+                "name": "San Luis+",
                 "url": "https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8",
-                "icono": "https://i.postimg.cc/DZjVrYNc/IMG-20250520-WA0023.jpg"
+                "icono": "https://i.postimg.cc/DZjVrYNc/IMG-20250520-WA0023.jpg",
+                "type": "HLS"
             },
             {
                 "name": "CANAL PAMPA 3",
