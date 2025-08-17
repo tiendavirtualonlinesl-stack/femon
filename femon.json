@@ -795,6 +795,12 @@
                 "url": "https://cdn.sensa.com.ar/output/STAROSA/RIO1TVH/playlist.m3u8",
                 "type": "HLS",
                 "icono": "https://geo.edge.pontiscloud.com:9002/images/2512/CH_LOGO/160/160/0/0/30214768077125.png"
+            },
+            {
+                "name": "Rtv Neuquen",
+                "url": "http://media.neuquen.gov.ar/rtn/television/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/Fqf4R9T/descarga.jpg"
             }
         ]
     },
