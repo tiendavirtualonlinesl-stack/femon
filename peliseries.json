@@ -3,6 +3,18 @@
         "name": "RECOMENDADOS",
         "samples": [
             {
+                "name": "Happy gilmore 2",
+                "url": "http://goovdme.967sd1f.homes/vod/621E9D7172044BCFBA496A44E43D0C29_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/ynT06XivgBDkg7AtbDbX1dJeBGY.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/m7vBHmPQSokvN4hMQDxdJBdqAtJ.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/5DguNrKy6unRrCTiJ6Xjs8vzaaM.png",
+                "descripcion": "Happy, ya retirado del golf profesional, regresa al circuito no por gloria sino para financiar la escuela de danza de su hija, Viena.",
+                "anio": "2025",
+                "genero": "Comedia",
+                "duracion": "114 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Mis 84 m²",
                 "url": "http://goovdme.967sd1f.homes/vod/D8814A56A29649849ABCBA878A650E28_media.ts",
                 "icono": "https://image.tmdb.org/t/p/original/wUdyz4lYoyCR906SRJoL7GeN2rc.jpg",
@@ -25,18 +37,6 @@
                 "genero": "Romance, Comedia, Drama",
                 "duracion": "112 min",
                 "type": "PELICULA"
-            },
-            {
-                "name": "Lilo y Stitch",
-                "url": "http://goovdme.967sd1f.homes/vod/68C9A424CC26469B83B2065242669B9F_media.ts",
-                "icono": "https://image.tmdb.org/t/p/original/mKKqV23MQ0uakJS8OCE2TfV5jNS.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/7Zx3wDG5bBtcfk8lcnCWDOLM4Y4.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/toXaWRjF0DpaQ9yzdbyKoFpFLkU.png",
-                "type": "PELICULA",
-                "descripcion": "La conmovedora y divertidísima historia de una solitaria niña hawaiana y el extraterrestre fugitivo que la ayuda a reparar su desestructurada familia.",
-                "anio": "2025",
-                "genero": "Familia, Comedia, Ciencia ficción",
-                "duracion": "108 min"
             },
             {
                 "name": "El muro negro",
@@ -75,66 +75,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "Como entrenar a tu dragón",
-                "url": "http://goovdme.967sd1f.homes/vod/5F9F984F826B43389EB8543B59BE21D6_media.ts",
-                "icono": "https://image.tmdb.org/t/p/original/sGFO6VshDEQ9vX4tOSobLJpkNhq.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/7HqLLVjdjhXS0Qoz1SgZofhkIpE.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/sQiQw5CDqxBr7SRT53FMHELm9yp.png",
-                "descripcion": "En la escarpada isla de Mema, donde vikingos y dragones han sido enemigos acérrimos durante generaciones, Hipo se desmarca desafiando siglos de tradición cuando entabla amistad con Desdentao, un temido dragón Furia Nocturna. Su insólito vínculo revela la verdadera naturaleza de los dragones y desafía los cimientos de la sociedad vikinga.",
-                "anio": "2025",
-                "genero": "Fantasía, Familia, Acción",
-                "duracion": "125 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Karate Kid: Leyendas",
-                "url": "http://goovdme.967sd1f.homes/vod/DF6D5B80F5A742028C7DA7CD5B677BB0_media.ts",
-                "icono": "https://image.tmdb.org/t/p/original/efNhiZPk71FTYJ30dBkWMfc939D.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/lAnkMSDISzMYLWICS7m16rSTUHD.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/6BEBpypi6kT0HZchQIVR23l537p.png",
-                "descripcion": "Tras una tragedia familiar, el prodigio del kung fu Li Fong se ve obligado a abandonar su hogar en Pekín y trasladarse a Nueva York con su madre. Cuando un nuevo amigo necesita su ayuda, Li se presenta a una competición de kárate, pero sus habilidades no son suficientes. El profesor de kung fu de Li, el Sr. Han, pide ayuda al Karate Kid original, Daniel LaRusso, y Li aprende una nueva forma de luchar, fusionando sus dos estilos en uno solo para el enfrentamiento definitivo de artes marciales.",
-                "anio": "2025",
-                "genero": "Acción, Aventura, Drama",
-                "duracion": "94 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Destino final: Lazos de sangre",
-                "url": "http://ptccloud.lsdwedsfsc.site/vod/D9DA9BAC9E81447E8FEE9E915396D7F2_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/frNkbclQpexf3aUzZrnixF3t5Hw.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/j0NUh5irX7q2jIRtbLo8TZyRn6y.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/jzPP78HGkvSrirfl192xCzweFE6.png",
-                "type": "PELICULA",
-                "descripcion": "Acosada por una violenta pesadilla recurrente, la estudiante universitaria Stefanie se dirige a casa para localizar a la única persona que podría ser capaz de romper el ciclo y salvar a su familia de la espeluznante muerte que inevitablemente les espera a todos.",
-                "anio": "2025",
-                "genero": "Terror, Misterio",
-                "duracion": "110 min"
-            },
-            {
-                "name": "Thunderbolts*",
-                "url": "http://ptccloud.lsdwedsfsc.site/vod/F0C427E6AA8D4497B545CB82A40034BE_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/cGOBis1KNC8AkYMcOEw4lCycfD1.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/4sUkCkcG4MPBEJLC7OAhRwKir2.png",
-                "descripcion": "Un grupo de supervillanos poco convencional es reclutado para hacer misiones para el gobierno: Yelena Belova, Bucky Barnes, Red Guardian, Ghost, Taskmaster y John Walker. Después de verse atrapados en una trampa mortal urdida por Valentina Allegra de Fontaine, estos marginados deben embarcarse en una peligrosa misión que les obligará a enfrentarse a los recovecos más oscuros de su pasado.",
-                "anio": "2025",
-                "genero": "Acción, Ciencia ficción, Aventura",
-                "duracion": "127 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Ballerina",
-                "url": "http://goovdme.967sd1f.homes/vod/86376BE34DB246FB876B16137ECC83B1_media.ts",
-                "icono": "https://image.tmdb.org/t/p/original/eoV4MPGKl0MGLVT56MzrUXUaVxO.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/sItIskd5xpiE64bBWYwZintkGf3.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/2w9fUvJfFjCSm0E8rXa4QuRLU7B.png",
-                "descripcion": "Eve Macarro es una asesina entrenada por la Ruska Roma desde su infancia, la misma organización criminal encargada del adiestramiento de John Wick. En esta violenta historia de venganza, Eve intentará por todos los medios averiguar quién está detrás del asesinato de su padre. En su lucha por conocer la verdad, tendrá que atenerse a las normas de la Alta Mesa y, por supuesto, a las del Hotel Continental, donde descubrirá que existen secretos ocultos sobre su pasado.",
-                "anio": "2025",
-                "genero": "Acción, Suspense, Crimen",
-                "duracion": "125 min",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Exterminio: La evolucion (28 años despues)",
                 "url": "http://goovdme.967sd1f.homes/vod/D25E58E6A2384E7E8B31AD9B95B3BBA4_media.ts",
                 "icono": "https://image.tmdb.org/t/p/original/wnHUip9oKvDJEJUEk62L4rFSYGa.jpg",
@@ -168,6 +108,71 @@
                 "anio": "2025",
                 "genero": "Ciencia ficción, Aventura, Acción",
                 "duracion": "133 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Pitufos",
+                "url": "http://goovdme.967sd1f.homes/vod/0A0A38D3DE1D412BB45067DA016F5229_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/zBdQclxQnEDOhDOjkKgKPW6jEHh.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/9whEVuKte4Qi0LI4TzPf7glinJW.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/tPVrpSoD3asR8S4a9OW6ec3nOWQ.png",
+                "descripcion": "Película musical de animación centrada en las icónicas creaciones de Peyo. Cuando Papá Pitufo es secuestrado de forma misteriosa por los malvados brujos Razamel y Gargamel, Pitufina lleva a los Pitufos a una misión al mundo real para salvarle. Con la ayuda de nuevos amigos, los Pitufos deberán descubrir qué define su destino para salvar el universo.",
+                "anio": "2025",
+                "genero": "Animación, Familia, Fantasía",
+                "duracion": "89 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Superman",
+                "url": "http://goovdme.967sd1f.homes/vod/85B838A76EAB48C5B51D8129558E7275_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/lfMKNOaaS2jGT3QKUaiFA8cO7DC.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/eU7IfdWq8KQy0oNd4kKXS0QUR08.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/eIKEofxCydtDaMNlARWjUmlWus9.png",
+                "descripcion": "En un mundo que ha perdido la fe en la bondad, Superman lucha por reconciliar su herencia kryptoniana con los valores humanos que moldearon su carácter. Criado en la Tierra, representa la verdad, la justicia y el estilo americano, pero debe enfrentarse a un mundo cínico que cuestiona sus ideales. Entre el deber de proteger a la humanidad y la búsqueda de su identidad, Superman demuestra que la esperanza y la bondad nunca pasan de moda, incluso en los tiempos más oscuros, inspirando a otros a creer en un futuro mejor.",
+                "anio": "2025",
+                "genero": "Ciencia ficción, Aventura, Acción",
+                "duracion": "129 min",
+                "type": "PELICULA"
+            }
+        ]
+    },
+    {
+        "name": "TRAILERS (MUY PRONTO)",
+        "samples": [
+            {
+                "name": "F1 la película",
+                "url": "http://goovdme.967sd1f.homes/vod/3C809B1536FD4E7285163A7DCF426DFB_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/yKIG63pXN89EfbTA7yKpwxAU1rf.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/1Lz0CmgukN8KyzxIn8gGe4NLV3D.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/aRdiaF4QQWN2mDeDwZuLzszwSdv.png",
+                "descripcion": "El mítico piloto Sonny Hayes vuelve de su retiro, persuadido para liderar un equipo de Fórmula 1 en apuros y guiar a su joven promesa, en busca de una nueva oportunidad de éxito.",
+                "anio": "2025",
+                "genero": "Acción, Drama",
+                "duracion": "156 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Los tipos malos 2",
+                "url": "http://goovdme.967sd1f.homes/vod/179E0509ADD7488EB126E20EDECAEB90_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/j0moebdCWDjjwS6bz1ohrsRp1Vp.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/jvpkBenB6hv19WWYVlaiow8zklq.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/9RmIc7vV6o5J45ZU8gPB1MivDfb.png",
+                "descripcion": "",
+                "anio": "2025",
+                "genero": "Familia, Comedia, Crimen, Aventura, Animación",
+                "duracion": "104 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Los Cuatro Fantásticos: Primeros pasos",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/39C3E45D834A4D28B64BE35446740615_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/ckfiXWGEMWrUP53cc6QyHijLlhl.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/s94NjfKkcSczZ1FembwmQZwsuwY.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/aHh3sxR6UcJLtG7ne9A3voy6464.png",
+                "descripcion": "Con un mundo retrofuturista inspirado en los años 60 como telón de fondo, la Primera Familia de Marvel deberá hacer frente a su mayor desafío hasta la fecha. Obligados a buscar el equilibrio entre su papel de héroes y sus fuertes vínculos familiares, tendrán que defender la Tierra de un hambriento dios espacial llamado Galactus y su intrigante heraldo, Estela Plateada.",
+                "anio": "2025",
+                "genero": "Ciencia ficción, Aventura",
+                "duracion": "115 min",
                 "type": "PELICULA"
             }
         ]
@@ -1931,6 +1936,42 @@
                 "genero": "Animación, Familia, Aventura, Fantasía, Comedia",
                 "duracion": "99 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Pitufos",
+                "url": "http://goovdme.967sd1f.homes/vod/0A0A38D3DE1D412BB45067DA016F5229_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/zBdQclxQnEDOhDOjkKgKPW6jEHh.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/9whEVuKte4Qi0LI4TzPf7glinJW.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/tPVrpSoD3asR8S4a9OW6ec3nOWQ.png",
+                "descripcion": "Película musical de animación centrada en las icónicas creaciones de Peyo. Cuando Papá Pitufo es secuestrado de forma misteriosa por los malvados brujos Razamel y Gargamel, Pitufina lleva a los Pitufos a una misión al mundo real para salvarle. Con la ayuda de nuevos amigos, los Pitufos deberán descubrir qué define su destino para salvar el universo.",
+                "anio": "2025",
+                "genero": "Animación, Familia, Fantasía",
+                "duracion": "89 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Mononoke II: Las cenizas de la ira",
+                "url": "http://goovdme.967sd1f.homes/vod/26BFF3C55A9741CC956B9B2FA8C4CA02_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/bT2qcTXVNUbeIMjbggB14Wyymgi.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/blUWo4EpQEaHChEKNlxeOVwrAhA.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/original/8iuctoEi9eIhLu8gPVuOSmmd1Nz.png",
+                "descripcion": "Un mes después de los acontecimientos de \"The Phantom in the Rain\", el misterioso hombre conocido como \"vendedor de medicinas\" regresa al harén imperial. Aunque las cosas parecen haber mejorado notablemente gracias a la gestión de Asa de las concubinas de rango inferior, las luchas internas entre las de rango superior están a punto de alcanzar su clímax.",
+                "anio": "2025",
+                "genero": "Animación, Fantasía, Misterio",
+                "duracion": "75 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Despelote",
+                "url": "http://goovdme.967sd1f.homes/vod/27FC09B676AD445C9563E66635DA42F5_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/udtlwWSJ45S0uQm29BvFvjPJGW0.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/ntvpgTYOoMpAG5aKFZjm7gpwkYA.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/zqnJXNstxBAyr9NJWcZ1HjmHbJh.png",
+                "descripcion": "En esta comedia picante para adultos, al enterarse de que lo van a castrar, un perro tiene 24 horas para vivir un último despelote con sus colegas.",
+                "anio": "2025",
+                "genero": "Animación, Comedia",
+                "duracion": "87 min",
+                "type": "PELICULA"
             }
         ]
     },
@@ -2343,6 +2384,30 @@
                 "anio": "2025",
                 "genero": "Documental",
                 "duracion": "85 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Los diamantes de Amberes: El robo del siglo",
+                "url": "http://goovdme.967sd1f.homes/vod/238AEDDECCB340829C4A887C7E9333EC_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/aqZOJkBd3DR6ioacm136lP7BGvi.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/nplAWk6ur80ZeHaTWRTywbULHU3.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/u84oeX7Z7NZ37bzVVhxpBxnLtQT.png",
+                "descripcion": "En 2003, unos ladrones de élite perpetraron un robo histórico en una cámara acorazada supuestamente irrompible del impenetrable Diamond Center de Amberes, llevándose cientos de millones en gemas.",
+                "anio": "2025",
+                "genero": "Documental, Crimen",
+                "duracion": "96 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Canciones desde el encierro",
+                "url": "http://goovdme.967sd1f.homes/vod/8949554783694E6992CBFC9E66536B63_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/nwanTjeUvyHD1dBj1938Xhbgltq.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/tag4ELjJWx5b5kZ9ta80BFbekRv.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/27KK3PIIFdzKTslsHeqbYaf0SuG.png",
+                "descripcion": "Condenado a cadena perpetua a los 15 años, el artista musical JJ'88 encuentra esperanza escribiendo canciones durante su aislamiento en este galardonado documental.",
+                "anio": "2024",
+                "genero": "Documental, Drama, Música",
+                "duracion": "97 min",
                 "type": "PELICULA"
             }
         ]
@@ -2972,6 +3037,18 @@
                 "anio": "2025",
                 "genero": "Ciencia ficción, Aventura, Acción",
                 "duracion": "133 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Superman",
+                "url": "http://goovdme.967sd1f.homes/vod/85B838A76EAB48C5B51D8129558E7275_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/lfMKNOaaS2jGT3QKUaiFA8cO7DC.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/eU7IfdWq8KQy0oNd4kKXS0QUR08.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/eIKEofxCydtDaMNlARWjUmlWus9.png",
+                "descripcion": "En un mundo que ha perdido la fe en la bondad, Superman lucha por reconciliar su herencia kryptoniana con los valores humanos que moldearon su carácter. Criado en la Tierra, representa la verdad, la justicia y el estilo americano, pero debe enfrentarse a un mundo cínico que cuestiona sus ideales. Entre el deber de proteger a la humanidad y la búsqueda de su identidad, Superman demuestra que la esperanza y la bondad nunca pasan de moda, incluso en los tiempos más oscuros, inspirando a otros a creer en un futuro mejor.",
+                "anio": "2025",
+                "genero": "Ciencia ficción, Aventura, Acción",
+                "duracion": "129 min",
                 "type": "PELICULA"
             }
         ]
@@ -3935,6 +4012,18 @@
                 "anio": "2025",
                 "genero": "Crimen, Suspense, Drama",
                 "duracion": "116 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "La noche siempre llega",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/82C61978B57E4E1FA9CCF6D6393A3668_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/wlzOYuQ8uurwAeb0N64mcoMX0eE.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/nGrUZvMxVqJvW1VsJ3QZStxnsZN.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/mwdatAujtc2whgc38fAxvLEJrwo.png",
+                "descripcion": "Una mujer que se enfrenta al desahucio en una ciudad que su familia ya no puede permitirse inicia una desesperada búsqueda durante toda la noche para reunir 25 000 dólares.",
+                "anio": "2025",
+                "genero": "Suspense, Drama, Crimen",
+                "duracion": "108 min",
                 "type": "PELICULA"
             }
         ]
@@ -5585,6 +5674,30 @@
                 "genero": "Comedia, Drama, Romance",
                 "duracion": "102 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Reverse the Curse",
+                "url": "http://goovdme.967sd1f.homes/vod/F1C9024105014B9982B081D82B0BFF3A_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/yvKMYcUKcN9U6XE9SUYJtDoGgl4.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/uyOJv1xmC4zN3arAPhU4EXPWpU4.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/atQd3UVVNDlDfatFu9xOvwHyNKJ.png",
+                "descripcion": "Sigue a Ted, un treintañero sin rumbo que se muda con su padre Marty cuando este contrae una enfermedad mortal. La salud de Marty se resiente cada vez que los Medias Rojas de Boston pierden, así que, para mantenerlo feliz y con vida, Ted recurre a Mariana, su consejera de duelo, y a sus amigos para fingir una racha ganadora de los Medias Rojas.",
+                "anio": "2024",
+                "genero": "Comedia, Drama",
+                "duracion": "105 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Screamboat",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/BC83A00E277E4FB78F394B9400F9D6BA_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/jWgeW8ZW5gDQIPgFYZ24bt4pW6W.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/r2u7GCYhxtpZbprKJIgdAkGQow3.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/5o0UPWnv6p4QTTSEri9zhKDsVWi.png",
+                "descripcion": "Un viaje en barco a altas horas de la noche se convierte en una lucha desesperada por la supervivencia en la ciudad de Nueva York cuando un ratón travieso se convierte en una monstruosa realidad.",
+                "anio": "2025",
+                "genero": "Terror, Comedia",
+                "duracion": "102 min",
+                "type": "PELICULA"
             }
         ]
     },
@@ -6854,6 +6967,18 @@
                 "anio": "2005",
                 "genero": "Suspense, Drama, Misterio",
                 "duracion": "98 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Opus",
+                "url": "http://goovdme.967sd1f.homes/vod/D5D24EB6B0DE4E0587213A962BA2A68E_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/eAslhx6gKKD6c1vVY6YV9DSG5lb.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/3nPkux81OfEW8knkuPoTTrqn7PY.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/8A5kXfxBBaVbF4pkaZubGSzDRsJ.png",
+                "descripcion": "Una joven escritora es invitada a la remota residencia de una legendaria estrella del pop que desapareció misteriosamente hace treinta años. Rodeada por el culto de aduladores y periodistas ebrios de la estrella, se ve envuelta en su perverso plan.",
+                "anio": "2025",
+                "genero": "Terror, Misterio, Suspense",
+                "duracion": "104 min",
                 "type": "PELICULA"
             }
         ]
@@ -8854,7 +8979,7 @@
                 "type": "PELICULA"
             },
             {
-                "name": "El último encargo",
+                "name": "El ultimo encargo",
                 "url": "http://goovdme.967sd1f.homes/vod/47B13021CB5441CA809F68DF7B5482A8_media.ts",
                 "icono": "https://image.tmdb.org/t/p/original/lbpyI9nwzSVDjS7OnE0uC41UciP.jpg",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/xvP4WFn7TZvkCeZA4IhD6H9XjRa.jpg",
@@ -8863,6 +8988,42 @@
                 "anio": "2025",
                 "genero": "Comedia, Acción, Crimen",
                 "duracion": "94 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "William Tell",
+                "url": "http://goovdme.967sd1f.homes/vod/C69B599E06124ABFB47FBC3B298BBF65_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/j38kvKoFLfl7MhuIbjqg60o6bbo.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/bP6BqIljp4a3BqhxN7YPckcpKI.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/hmwRnMg2IfkBl4NRm8euoxaYmNn.png",
+                "descripcion": "En el siglo XIV, las potencias europeas luchan por el dominio del Sacro Imperio Romano. El ambicioso Imperio Austríaco invade la pacífica Suiza, arrasando con todo a su paso. Guillermo Tell, un humilde cazador, se ve obligado a empuñar las armas cuando su familia y su tierra sufren la tiranía del rey austríaco y sus despiadados señores de la guerra.",
+                "anio": "2025",
+                "genero": "Acción, Drama, Historia",
+                "duracion": "133 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Leyenda de los heroes Condor: Los valientes",
+                "url": "http://goovdme.967sd1f.homes/vod/A1F639BE8415450B857522314CFB1A8B_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/fAfbtF0OuHU5TnAU7w8qeO0cnr7.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/7A3ru3bxmWtyF0ep0CJcLLzWT35.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/xgoQL53M1FNCsNsbjsSL8QkYSpt.png",
+                "descripcion": "Bajo el mando de Gengis Kan, el ejército mongol avanza hacia el oeste para destruir la dinastía Jin, con la mira puesta en la dinastía Song. En medio de conflictos internos entre las escuelas de artes marciales, Guo Jing une a los guerreros de las Llanuras Centrales para defender Xiangyang, personificando el coraje y la lealtad en la lucha por la nación.",
+                "anio": "2025",
+                "genero": "Acción, Drama, Historia",
+                "duracion": "147 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Tin soldier",
+                "url": "http://goovdme.967sd1f.homes/vod/60F72C28690C479E8E1874BEBB85CF9B_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/kV1j0KzbNGPz5EUqzUOrVTtDx2u.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5VY1i8ET5xUeg0zEEwNjFfWYJJF.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/iN1tD2cAmuaFyQHAFZhwPgaKvJi.png",
+                "descripcion": "Emmanuel intenta infiltrarse en una secta liderada por The Bokushi, que recluta veteranos de guerra con trastorno por estrés postraumático para crear un ejército de Shinjas devotos que empiezan a preocupar al gobierno. Sin éxito, recluta a un exdiscípulo y exmilitar, que acepta usar su conocimiento sobre el enigmático líder mientras intenta vengarse de él por haberle quitado todo lo que tenía.",
+                "anio": "2025",
+                "genero": "Acción, Suspense",
+                "duracion": "87 min",
                 "type": "PELICULA"
             }
         ]
@@ -10152,6 +10313,30 @@
                 "anio": "2002",
                 "genero": "Ciencia ficción, Acción, Suspense",
                 "duracion": "145 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Osiris",
+                "url": "http://goovdme.967sd1f.homes/vod/6AB86750DF8E4195A2861B636265A7F8_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/3YtZHtXPNG5AleisgEatEfZOT2w.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/ySHUoK4utUOiSfCinw81H1TsV0E.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/az6zdx9Ayepymh3wsZ3etN2RHt4.png",
+                "descripcion": "Un equipo de comandos de las Fuerzas Especiales despierta en una nave sin recordar cómo llegaron. Allí descubren que están siendo perseguidos por una implacable raza alienígena.",
+                "anio": "2025",
+                "genero": "Ciencia ficción, Acción, Terror",
+                "duracion": "105 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Renner",
+                "url": "http://goovdme.967sd1f.homes/vod/D343B32B0963448B83A459D6DD3A350B_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/vCjaL0KXxcHYq2tMLncceE8m6S1.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/oE5czy0nsAI8G89okzrH3Vfy7lo.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/alL1J6famur1ztQsMp1xJeILyf5.png",
+                "descripcion": "Un genio de la informática inventa un entrenador de vida con inteligencia artificial para ayudarlo a encontrar el amor, pero se da cuenta demasiado tarde de que programó accidentalmente a su madre manipuladora en el código.",
+                "anio": "2025",
+                "genero": "Ciencia ficción, Suspense",
+                "duracion": "90 min",
                 "type": "PELICULA"
             }
         ]
@@ -12570,6 +12755,54 @@
                 "genero": "Drama",
                 "duracion": "118 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "La chica de la aguja",
+                "url": "http://goovdme.967sd1f.homes/vod/99753072D6994BC2A3E2E0FDD8C6EE5F_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/aU3p3NC3btVtLnA8LVI48asdlfI.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/xPPBElHCcNQ7H3aXdLptykKxyZ1.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/98kIOi2DQw7oRx8KseZ6x3tHeWD.png",
+                "descripcion": "Una joven embarazada que acaba de quedarse sin trabajo en Copenhague lucha por sobrevivir y es acogida por un anciano carismático para que la ayude a dirigir una agencia de adopción clandestina. Entre los dos se crea un vínculo inesperado, hasta que un descubrimiento repentino lo cambia todo.",
+                "anio": "2024",
+                "genero": "Drama, Historia",
+                "duracion": "123 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Los condenados",
+                "url": "http://goovdme.967sd1f.homes/vod/D31D84FEB98C4A17A7E55AB1DB693757_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/23VdXxxHf9bWnmBWVB4rIsqDWuz.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/zGT6zikFjC5wRROXbPIipKahZn8.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/original/zP9VkEMj9bfx55HieOB5O4Vu6rx.png",
+                "descripcion": "Una viuda del siglo XIX se enfrenta a una decisión imposible cuando, durante un invierno especialmente cruel, un barco se hunde frente a la costa de su empobrecido pueblo pesquero islandés. Cualquier intento de rescatar a los supervivientes corre el riesgo de agotar aún más los suministros de los hambrientos aldeanos",
+                "anio": "2025",
+                "genero": "Terror, Drama, Misterio",
+                "duracion": "89 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Prodigiosas",
+                "url": "http://goovdme.967sd1f.homes/vod/B66687DC0D244BBC96C4F90141B2A31D_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/uBPpopR9k3QTjQlZkZ7MiHBHreI.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/wTbpXWyGut0WG3tHG0X1xVr8pnH.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/hMCzSHIadvbd8lX0idIMeo1z9jX.png",
+                "descripcion": "Basada en la historia de las gemelas Pleynet. A los 18 años, las hermanas Vallois ingresan en la Escuela Superior de Música de Karlsruhe, bajo la dirección del eminente Klaus Lenhardt. Era el sueño de su padre, que había renunciado a todo para que fueran las mejores. Pero una enfermedad rara afecta a las manos de una de ellas y frena en seco su progresión. Mientras su hermana brilla, la otra no tarda en correr la misma suerte. Incapaces de imaginar sus vidas sin el piano, las gemelas trabajan juntas para desarrollar una técnica única en el mundo, que las hace más «prodigiosas» que nunca...",
+                "anio": "2024",
+                "genero": "Drama, Música",
+                "duracion": "101 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Ven y mira",
+                "url": "http://goovdme.967sd1f.homes/vod/55D2C756AEF240C2A516AEDCF63B6F5B_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/3trCyueh2CBTlRrpq7xElqSWHTh.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/oIQMt3Q6Qa37YD0JOdYkrIAPYDk.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/kDoXlPyZsfuFjZ2JSPjdbgz4dBE.png",
+                "descripcion": "Tras encontrar un viejo rifle, un joven se une a las fuerzas de la resistencia soviética, que lucha por expulsar a las fuerzas nazis del frente oriental. Allí, será testigo de algunos los mayores horrores cometidos en la Segunda Guerra Mundial.",
+                "anio": "1985",
+                "genero": "Drama, Bélica",
+                "duracion": "142 min",
+                "type": "PELICULA"
             }
         ]
     },
@@ -14564,6 +14797,42 @@
                 "anio": "2025",
                 "genero": "Terror",
                 "duracion": "103 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Shadow of God",
+                "url": "http://goovdme.967sd1f.homes/vod/A0C78543FF8B4D199A499DBEA0EB4E19_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/vi6LF8rTdU4DeYrXTtUBqG9gFnX.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/nViQZruGVd8M2RkFD5MCPjyjqgA.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/7QGbNZxt824GzN60aEFAcCiNA7R.png",
+                "descripcion": "Mientras realiza un exorcismo no autorizado a su padre, un exorcista de élite sospecha que la entidad con la que está luchando podría ser un ser sagrado, quizá incluso Dios.",
+                "anio": "2025",
+                "genero": "Terror",
+                "duracion": "87 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Shaman",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/6D9E857D5B2A45B18F1D78E65762EAF8_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/ltLqm9f9Ma3iCFmfXNHenzPEqda.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/kWm4HxanOhRWfW9PzigkUXulwdG.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/v4THBHpPjp75EIIRUkISZfGrQ2O.png",
+                "descripcion": "Una misionera que convierte a una comunidad indígena en un remoto volcán ecuatoriano debe enfrentarse a su propia fe cuando su hijo está poseído por fuerzas oscuras más antiguas que su propia religión.",
+                "anio": "2025",
+                "genero": "Terror",
+                "duracion": "93 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Rob1n",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A5D44FEC8083476BB2752FE91EF04686_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/xhmtOEWNkW1EC7u1N7sPEc8Rxxw.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/2VGfjnT3RpjOKADbwgbmXCFSbH.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/ozE0IGfVV0tOkda6qPen7EIkvqa.png",
+                "descripcion": "Cuando un experto en robótica canaliza el dolor de perder a su hijo de 11 años en la construcción de 'Robin', un muñeco robótico completamente funcional, una serie de eventos horribles deja en claro que Robin hará lo que sea necesario para tener a su creador solo para él.",
+                "anio": "2025",
+                "genero": "Terror, Suspense",
+                "duracion": "91 min",
                 "type": "PELICULA"
             }
         ]
