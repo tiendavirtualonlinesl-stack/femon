@@ -1,22 +1,5 @@
 [
     {
-        "name": "⚽ EVENTO EN VIVO (Solo Exclusividad)",
-        "samples": [
-            {
-                "name": "MLS",
-                "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/83770",
-                "type": "HLS",
-                "icono": "https://github.com/luisoddone/femon/blob/main/MLS.png?raw=true"
-            },
-            {
-                "name": "MLS",
-                "url": "http://serviciosvisuales.net:80/Mdprime/XWDJKHMQBG/804172",
-                "type": "HLS",
-                "icono": "https://github.com/luisoddone/femon/blob/main/MLS.png?raw=true"
-            }
-        ]
-    },
-    {
         "name": "⚽JUEGOS PANAMERICANOS ASUNCION",
         "samples": [
             {
