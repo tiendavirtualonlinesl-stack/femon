@@ -1,5 +1,28 @@
 [
     {
+        "name": "⚽ EVENTOS PREMIUM EN VIVO (Activos cuando hay transmisiones exclusivas).",
+        "samples": [
+            {
+                "name": "Eventos Premium 1",
+                "url": "https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevolatinoes-rakutenes/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://github.com/luisoddone/femon/blob/main/MLS.png?raw=true"
+            },
+            {
+                "name": "Eventos Premium 2",
+                "url": "https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8",
+                "type": "HLS",
+                "icono": "https://github.com/luisoddone/femon/blob/main/MLS.png?raw=true"
+            },
+            {
+                "name": "Eventos Premium 3",
+                "url": "https://d1n314cytqn9r3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bklagqy82v0pr/XITE_80s_Flashback.m3u8",
+                "type": "HLS",
+                "icono": "https://github.com/luisoddone/femon/blob/main/MLS.png?raw=true"
+            }
+        ]
+    },
+    {
         "name": "🇦🇷CANALES INTERIOR ARGENTINA",
         "samples": [
             {
@@ -4516,29 +4539,6 @@
                     "Origin": "https://www.panamsportschannel.org",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
                 }
-            }
-        ]
-    },
-    {
-        "name": "⚽ EVENTOS PREMIUM EN VIVO (Activos cuando hay transmisiones exclusivas).",
-        "samples": [
-            {
-                "name": "Eventos Premium 1",
-                "url": "https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevolatinoes-rakutenes/playlist.m3u8",
-                "type": "HLS",
-                "icono": "https://github.com/luisoddone/femon/blob/main/MLS.png?raw=true"
-            },
-            {
-                "name": "Eventos Premium 2",
-                "url": "https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8",
-                "type": "HLS",
-                "icono": "https://github.com/luisoddone/femon/blob/main/MLS.png?raw=true"
-            },
-            {
-                "name": "Eventos Premium 3",
-                "url": "https://d1n314cytqn9r3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bklagqy82v0pr/XITE_80s_Flashback.m3u8",
-                "type": "HLS",
-                "icono": "https://github.com/luisoddone/femon/blob/main/MLS.png?raw=true"
             }
         ]
     },
