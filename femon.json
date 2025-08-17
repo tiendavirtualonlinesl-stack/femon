@@ -354,9 +354,10 @@
         "name": "🇦🇷CANALES INTERIOR ARGENTINA",
         "samples": [
             {
-                "name": "CANAL 2 MISIONES",
+                "name": "Canal 2 Misiones",
                 "url": "https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8",
-                "icono": "https://i.postimg.cc/MZfVwZ45/descarga-25.jpg"
+                "icono": "https://i.postimg.cc/MZfVwZ45/descarga-25.jpg",
+                "type": "HLS"
             },
             {
                 "name": "CANAL AÍRE SANTA FÉ",
