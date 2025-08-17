@@ -4285,6 +4285,12 @@
                 "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/83770",
                 "type": "HLS",
                 "icono": ""
+            },
+            {
+                "name": "MLS",
+                "url": "http://serviciosvisuales.net:80/Mdprime/XWDJKHMQBG/804172",
+                "type": "HLS",
+                "icono": ""
             }
         ]
     }
