@@ -4873,6 +4873,12 @@
                     "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
+            },
+            {
+                "name": "IP Noticias",
+                "url": "http://181.78.27.128:8000/play/a055/index.m3u8",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/m5G70dXc/OIP.jpg"
             }
         ]
     }
