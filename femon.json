@@ -4286,6 +4286,12 @@
                 "url": "",
                 "type": "HLS",
                 "icono": ""
+            },
+            {
+                "name": "Evento Premium 2",
+                "url": "",
+                "type": "HLS",
+                "icono": ""
             }
         ]
     }
