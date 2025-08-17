@@ -372,12 +372,6 @@
                 "type": "HLS"
             },
             {
-                "name": "Chaco TV",
-                "url": "https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8",
-                "icono": "https://i.postimg.cc/6qFYj18N/IMG-20250520-WA0020.jpg",
-                "type": "HLS"
-            },
-            {
                 "name": "Canal 4 San Juan",
                 "url": "https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8",
                 "icono": "https://iili.io/3L9yLdb.th.jpg",
@@ -604,6 +598,12 @@
                 "url": "https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8",
                 "type": "HLS",
                 "icono": "https://i.ibb.co/WKCytzW/CEu-Poq-G-removebg-preview.png"
+            },
+            {
+                "name": "Chaco TV",
+                "url": "https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8",
+                "icono": "https://i.postimg.cc/6qFYj18N/IMG-20250520-WA0020.jpg",
+                "type": "HLS"
             },
             {
                 "name": "Cba24n",
