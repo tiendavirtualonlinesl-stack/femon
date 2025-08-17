@@ -528,12 +528,6 @@
                 "icono": "https://i.ibb.co/1ZC4K4q/Canal-13-La-Rioja.png"
             },
             {
-                "name": "Canal 13 La Rioja O",
-                "url": "https://stream.arcast.host:8443/mp/mp/playlist.m3u8",
-                "type": "HLS",
-                "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4Z9idWrF2Zx8EbLD_pb3yTYPVZcjj3S3CHXFZeqnrPff7Lf0mC2atDCe8Tzecq6biNyIpZ735k05tEgKPuJ4menvOBplKhwsqmOWCdljr2oHLDGd4WgzZynvjHdH5kNilDfLfCDUz_iri5DrR53UKe_pfz9LpGILsVueMOeSqnwUqlopFlC_MVjlP/s135/c13-larioja.png"
-            },
-            {
                 "name": "Canal 13 Max TV",
                 "url": "http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/chunklist_w247540946.m3u8",
                 "type": "HLS",
