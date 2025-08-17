@@ -472,6 +472,18 @@
                 "url": "https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8",
                 "type": "HLS",
                 "icono": "https://i.ibb.co/ZGSTNsG/canal7jujuy.png"
+            },
+            {
+                "name": "Canal 7 Neuquen",
+                "url": "https://edge-mix02-coe.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU1MjcyMDUyIiwic2lwIjoiNDUuMTc4LjIuMjQ5IiwicGF0aCI6Ii9saXZlL2MzZWRzL0FtZXJpY2FUVi9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYmYwM2RiOWMzZWU4M2E2NSIsInNlc3Npb25faWQiOiI4MTM5MzUyNC0xNzU1MDk5MjUyLTIxNyIsImNsaWVudF9pZCI6IjEzMTIxODg0IiwiZGV2aWNlX2lkIjoiODEzOTM1MjQiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIxMjAiLCJzb3VyY2VzIjpbNzMsODUsMTQ0LDg2LDg4XX0=.ESwGQ0XHQb0dhlnAE8PIq2qi8w81x4PckQBEvRy6QWRoYHP2C714HVYsgtoWJRG4jTE2dboOspjWqmhy61vbFA==/live/c4eds/Telefe_Neuquen/SA_Live_dash_enc/Telefe_Neuquen.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Canalsiete-nqn-logo.png",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/q8llw64f79ma1snak176h/KEY.telefe.neuquen.json?rlkey=x44os1tsl3ews1potwi2infoe&dl=0",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+                }
             }
         ]
     },
