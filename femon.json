@@ -420,12 +420,6 @@
                 }
             },
             {
-                "name": "Bragado TV",
-                "url": "https://inliveserver.com:1936/12000/12000/chunklist_w100079146.m3u8",
-                "type": "HLS",
-                "icono": "https://www.bragadotv.com.ar/images/custom/logo.png"
-            },
-            {
                 "name": "Canal C córdoba",
                 "url": "https://edge-live32-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU1NDY1MTExIiwic2lwIjoiMTg2LjE5LjEyMy45NCIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9DYW5hbDkvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImRmOTljY2M3MDA3ZjBiMmYiLCJzZXNzaW9uX2lkIjoiODEzMzA1NzQtMTc1NTI5MjMxMS04NjkiLCJjbGllbnRfaWQiOiIxMjQzODIyMiIsImRldmljZV9pZCI6IjgxMzMwNTc0IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiNTkiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.7R08xqcETZAYJ061fD3bo8O1ubnwJfYFUi-K9Ev5Mtn9IhzLIcGVyZVsEEbRj2J62Cksdc9VLtpB9y3WgkH8_A==/live/c5eds/Canal_C/SA_Live_dash_enc_C/Canal_C.mpd",
                 "type": "CLEARKEY",
