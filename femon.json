@@ -582,6 +582,12 @@
                 }
             },
             {
+                "name": "Canal Sanata Fe",
+                "url": "https://redirector.dps.live/hls/airedesantafetv/playlist.m3u8",
+                "icono": "https://i.postimg.cc/BbNXgybh/descarga-10.png",
+                "type": "HLS"
+            },
+            {
                 "name": "Chaco TV",
                 "url": "https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8",
                 "icono": "https://i.postimg.cc/6qFYj18N/IMG-20250520-WA0020.jpg",
@@ -598,12 +604,6 @@
                     "Referer": "https://portal.app.flow.com.ar/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
-            },
-            {
-                "name": "Canal Sanata Fe",
-                "url": "https://redirector.dps.live/hls/airedesantafetv/playlist.m3u8",
-                "icono": "https://i.postimg.cc/BbNXgybh/descarga-10.png",
-                "type": "HLS"
             },
             {
                 "name": "Catamarca TV",
