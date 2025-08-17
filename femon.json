@@ -4279,6 +4279,13 @@
     },
     {
         "name": "⚽ EVENTO EN VIVO (Solo Exclusividad)",
-        "samples": []
+        "samples": [
+            {
+                "name": "MLS",
+                "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/83770",
+                "type": "HLS",
+                "icono": ""
+            }
+        ]
     }
 ]
